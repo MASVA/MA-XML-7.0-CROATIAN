@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">Odabrano: %1$d</item>
+        <item quantity="zero">Odabrano: %1$d</item>
+        <item quantity="one">Odabrano: %1$d</item>
+    </plurals>
+    <plurals name="numberOfPullUpdateReport">
+        <item quantity="other">Ažurirano stavaka: %d.</item>
+        <item quantity="one">Ažurirano stavaka: %d.</item>
+    </plurals>
+    <plurals name="numberFoot">
+        <item quantity="other">%s stopa</item>
+        <item quantity="one">%s stopa</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%s inča</item>
+        <item quantity="one">%s inč</item>
+    </plurals>
+	<plurals name="weight_match_user">
+        <item quantity="other">%1$d podudaranja.</item>
+        <item quantity="one">%1$d podudaranje.</item>
+    </plurals>
+</resources>

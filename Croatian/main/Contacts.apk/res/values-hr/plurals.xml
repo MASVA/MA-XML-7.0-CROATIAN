@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Kontakata s tel. brojevima (%d)</item>
+        <item quantity="one">1 kontakt s tel. brojem</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Broj kontakata (%d)</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">"Pronađeno (%d) kontakata"</item>
+        <item quantity="one">"1 pronađen"</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">"Pronađeno (%d) kontakata"</item>
+        <item quantity="one">"1 pronađen"</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Pridruženo s %0$d izvora</item>
+        <item quantity="one">nije pridruženo</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Br. grupa: %0$d</item>
+        <item quantity="one">1 grupa</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">Broj ljudi: %1$d iz grupe %2$s</item>
+        <item quantity="one">%1$d osoba iz grupe %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Broj osoba  (%1$d)</item>
+        <item quantity="one">Broj osoba (%1$d)</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">Ukupno (%1$d) brojeva</item>
+        <item quantity="one">%1$d broj</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">"Br. govornih pošta (%1$d)"</item>
+        <item quantity="one">"Govorna pošta"</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM kartica može pohraniti (%d) kontakata.</item>
+        <item quantity="one">SIM kartica može pohraniti(%d) kontakt.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Izbrisati kontakte (%d) sa SIM kartice?</item>
+        <item quantity="one">Izbrisati kontakt (%d) sa SIM kartice?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Odabrano (%1$d)</item>
+        <item quantity="one">%1$d odabran</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">Favorita (%1$d)</item>
+        <item quantity="one">%1$d favorit</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">Nedavnih kontakata (%1$d)</item>
+        <item quantity="one">1 nedavni kontakt</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">Kontakata (%1$d)</item>
+        <item quantity="one">%1$d kontakt</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">Brojeva (%1$d)</item>
+        <item quantity="one">%1$d broj</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">Kontakata s e-poštom (%1$d)</item>
+        <item quantity="one">1 kontakt s e-poštom</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Favorita (%1$d)</item>
+        <item quantity="one">%1$d favorit</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Nedavnih kontakata (%1$d)</item>
+        <item quantity="one">1 nedavni kontakt</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Dodano (%1$d) kontakata</item>
+        <item quantity="one">%1$d kontakt dodan</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Kopirano (%d) kontakata</item>
+        <item quantity="one">Kopiran %d kontakt</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Izbrisati (%d) kontakte</item>
+        <item quantity="one">Izbriši kontakt</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d ljudi</item>
+        <item quantity="one">1 osoba</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">Uvezeno (%1$d) kontakata</item>
+        <item quantity="one">%1$d kontak uvezen</item>
+    </plurals>
+	<plurals name="batch_delete_msg">
+        <item quantity="other">Izbrisati (%d) kontakata?</item>
+        <item quantity="one">Izbrisati %d kontakt?</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Odabrano (%1$d)</item>
+        <item quantity="zero">Odabrano (%1$d)</item>
+        <item quantity="one">%1$d odabran</item>
+    </plurals>
+	<plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Zvoni (%d) puta</item>
+        <item quantity="one">Zvoni (%d) puta</item>
+    </plurals>
+	<plurals name="contacts_count">
+        <item quantity="other">Kontakata %1$d</item>
+        <item quantity="one">%1$d kontakt</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"Ovoliko kontakata (%d) nije sinkr."</item>
+        <item quantity="one">"1 kontakt nije sinkroniziran"</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blokirati ove brojeve telefona (%1$d)?</item>
+        <item quantity="one">Blokirati ovaj broj telefona?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Odblokirati ove brojeve telefona (%1$d)?</item>
+        <item quantity="one">Odblokirati ovaj broj telefona?</item>
+    </plurals>
+</resources> 

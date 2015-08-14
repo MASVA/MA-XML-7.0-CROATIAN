@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Alat za instaliranje certifikata</string>
+  <string name="cert_is_added">%s je instaliran.</string>
+  <string name="cert_missing_error">Nije moguće instalirati jer nije bilo moguće locirati datoteku certifikata.</string>
+  <string name="cert_not_saved">"Certifikat nije instaliran."</string>
+  <string name="cert_read_error">"Nije moguće instalirati jer nije bilo moguće pročitati datoteku certifikata."</string>
+  <string name="cert_too_large_error">"Nije moguće instalirati jer je certifikat prevelik."</string>
+  <string name="credential_info">"Paket sadrži:"</string>
+  <string name="credential_name">"Naziv certifikata:"</string>
+  <string name="credential_password">"Unesite zaporku za izdvajanje certifikata."</string>
+  <string name="credential_usage_label">"Upotreba vjerodajnice:"</string>
+  <string name="extracting_pkcs12">Izdvajanje…</string>
+  <string name="invalid_cert">"Certifikat je nevažeći."</string>
+  <string name="n_cacrts">"CA certifikati: %d"</string>
+  <string name="name_char_error">"Upišite naziv koji sadrži samo slova i brojeve."</string>
+  <string name="name_credential_dialog_title">"Naziv certifikata"</string>
+  <string name="name_empty_error">"Upišite ime."</string>
+  <string name="no_cert_file_found">"Na USB pohrani nije pronađena datoteka certifikata."</string>
+  <string name="no_cert_to_saved">"Nema certifikata za instalaciju."</string>
+  <string name="one_cacrt">"jedan CA certifikat"</string>
+  <string name="one_usercrt">"jedan korisnički certifikat"</string>
+  <string name="one_userkey">"jedan korisnički ključ"</string>
+  <string name="only_primary_user_allowed">"Samo vlasnik ovog uređaja može instalirati certifikate."</string>
+  <string name="p12_description">"Certifikati u bazi ključeva PKCS12."</string>
+  <string name="password_empty_error">"Unesite zaporku."</string>
+  <string name="password_error">"Unesite ispravnu zaporku."</string>
+  <string name="pick_file_title">"Odaberite certifikat"</string>
+  <string name="pkcs12_file_password_dialog_title">"Izdvojeno iz značajke %s"</string>
+  <string name="pkcs12_password_dialog_title">"Izdvajanje certifikata"</string>
+  <string name="sdcard_not_present">"USB pohrana nije dostupna."</string>
+  <string name="storage_error">"Nije bilo moguće spremiti certifikat. Dodirnite U redu za ponovni pokušaj."</string>
+  <string name="unable_to_save_cert">"Nije bilo moguće spremiti certifikat. Pohranjivanje vjerodajnica nije omogućeno ili nije ispravno pokrenuto."</string>
+</resources>

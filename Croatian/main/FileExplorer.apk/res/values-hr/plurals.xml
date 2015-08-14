@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+         <item quantity="other">Izbrisati(%1$d) datoteka</item>
+         <item quantity="zero">Izbrisati(%1$d) datoteka</item>
+         <item quantity="one">Izbrisati(%1$d) datoteku</item>
+         <item quantity="two">Izbrisati(%1$d) datoteke</item>
+         <item quantity="few">Izbrisati(%1$d) datoteka</item>
+         <item quantity="many">Izbrisati(%1$d) datoteka</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+         <item quantity="other">" i (%1$d) mapa ?"</item>
+         <item quantity="zero">" i (%1$d) mapa ?"</item>
+         <item quantity="one">" i (%1$d) mapu ?"</item>
+         <item quantity="two">" i (%1$d) mape ?"</item>
+         <item quantity="few">" i (%1$d) mapa ?"</item>
+         <item quantity="many">" i (%1$d) mapa ?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+         <item quantity="other">Stavaka: %d</item>
+         <item quantity="zero">Stavaka: %d</item>
+         <item quantity="one">Stavaka: %d</item>
+         <item quantity="two">Stavaka: %d</item>
+         <item quantity="few">Stavaka: %d</item>
+         <item quantity="many">Stavaka: %d</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+         <item quantity="other">Preostalo (%1$d) datoteka za preuzimanje</item>
+         <item quantity="zero">Preostalo (%1$d) datoteka za preuzimanje</item>
+         <item quantity="one">Preostala (%1$d) datoteka za preuzimanje</item>
+         <item quantity="two">Preostale (%1$d) datoteke za preuzimanje</item>
+         <item quantity="few">Preostalo (%1$d) datoteka za preuzimanje</item>
+         <item quantity="many">Preostalo (%1$d) datoteka za preuzimanje</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+         <item quantity="other">Preostalo (%1$d) datoteka za učitavanje</item>
+         <item quantity="zero">Preostalo (%1$d) datoteka za učitavanje</item>
+         <item quantity="one">Preostala (%1$d) datoteka za učitavanje</item>
+         <item quantity="two">Preostale (%1$d) datoteke za učitavanje</item>
+         <item quantity="few">Preostalo (%1$d) datoteka za učitavanje</item>
+         <item quantity="many">Preostalo (%1$d) datoteka za učitavanje</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Odabrano (%1$d)</item>
+        <item quantity="zero">Odabrano (%1$d)</item>
+        <item quantity="one">Odabrano (%1$d)</item>
+        <item quantity="two">Odabrano (%1$d)</item>
+        <item quantity="few">Odabrano (%1$d)</item>
+        <item quantity="many">Odabrano (%1$d)</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other">" (%1$d)"</item>
+        <item quantity="zero">" (%1$d)"</item>
+        <item quantity="one">" (%1$d)"</item>
+        <item quantity="two">" (%1$d)"</item>
+        <item quantity="few">" (%1$d)"</item>
+        <item quantity="many">" (%1$d)"</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other">" (%1$d)"</item>
+        <item quantity="zero">" (%1$d)"</item>
+        <item quantity="one">" (%1$d)"</item>
+        <item quantity="two">" (%1$d)"</item>
+        <item quantity="few">" (%1$d)"</item>
+        <item quantity="many">" (%1$d)"</item>
+    </plurals>
+	<plurals name="search_head_hint_app">
+        <item quantity="other">Datoteka (%2$d) apl. %1$s</item>
+        <item quantity="zero">Datoteka (%2$d) apl. %1$s</item>
+        <item quantity="one">Datoteka (%2$d) apl. %1$s</item>
+        <item quantity="two">Datoteke (%2$d) apl. %1$s</item>
+        <item quantity="few">Datoteka (%2$d) apl. %1$s</item>
+        <item quantity="many">Datoteka(%2$d) apl. %1$s</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">Datoteka %1$s (%2$d)</item>
+        <item quantity="zero">Datoteka %1$s (%2$d)</item>
+        <item quantity="one">Datoteka %1$s (%2$d)</item>
+        <item quantity="two">Datoteke %1$s (%2$d)</item>
+        <item quantity="few">Datoteka %1$s (%2$d)</item>
+        <item quantity="many">Datoteka %1$s (%2$d)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Datoteka %1$s (%2$d)</item>
+        <item quantity="zero">Datoteka %1$s (%2$d)</item>
+        <item quantity="one">Datoteka %1$s (%2$d)</item>
+        <item quantity="two">Datoteke %1$s (%2$d)</item>
+        <item quantity="few">Datoteka %1$s (%2$d)</item>
+        <item quantity="many">Datoteka %1$s (%2$d)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Prije %1$d min.</item>
+        <item quantity="zero">Prije %1$d min.</item>
+        <item quantity="one">Prije %1$d min.</item>
+        <item quantity="two">Prije %1$d min.</item>
+        <item quantity="few">Prije %1$d min.</item>
+        <item quantity="many">Prije %1$d min.</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Prije %1$d sati</item>
+        <item quantity="zero">Prije %1$d sati</item>
+        <item quantity="one">Prije %1$d sat</item>
+        <item quantity="two">Prije %1$d sata</item>
+        <item quantity="few">Prije %1$d sati</item>
+        <item quantity="many">Prije %1$d sati</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Prije %1$d dana</item>
+        <item quantity="zero">Prije %1$d dana</item>
+        <item quantity="one">Prije %1$d dan</item>
+        <item quantity="two">Prije %1$d dana</item>
+        <item quantity="few">Prije %1$d dana</item>
+        <item quantity="many">Prije %1$d dana</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Pronađeno (%1$d) novih datoteka</item>
+        <item quantity="zero">Pronađeno(%1$d) novih datoteka</item>
+        <item quantity="one">Pronađena (%1$d) nova datoteka</item>
+        <item quantity="two">Pronađene (%1$d) nove datoteke</item>
+        <item quantity="few">Pronađeno (%1$d)novih datoteka</item>
+        <item quantity="many">Pronađeno (%1$d) novih datoteka</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Primljeno datoteka (%1$d) apl. %2$s</item>
+        <item quantity="zero">Primljeno datoteka (%1$d) apl.%2$s</item>
+        <item quantity="one">Primljena datoteka (%1$d) apl. %2$s</item>
+        <item quantity="two">Primljene datoteke (%1$d) apl. %2$s</item>
+        <item quantity="few">Primljeno datoteka (%1$d) apl. %2$s</item>
+        <item quantity="many">Primljeno datoteka (%1$d) apl. %2$s</item>
+    </plurals>
+</resources> 

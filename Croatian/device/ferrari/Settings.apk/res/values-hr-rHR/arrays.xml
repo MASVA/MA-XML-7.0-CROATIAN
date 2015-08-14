@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_proxy_settings">
+        <item>Ništa</item>
+        <item>Ručno</item>
+	    <item>Autom. postavke</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Lokacija</item>
+        <item>Osobno</item>
+        <item>Slanje poruka</item>
+        <item>Mediji</item>
+        <item>Uređaj</item>
+        <item>Pokretanje</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>približna lokacija</item>
+        <item>precizna lokacija</item>
+        <item>GPS</item>
+        <item>vibriranje</item>
+        <item>čitanje kontakata</item>
+        <item>pisanje kontakata</item>
+        <item>čitanje zapisnika poziva</item>
+        <item>pisanje zapisnika poziva</item>
+        <item>čitanje kalendara</item>
+        <item>izmjena kalendara</item>
+        <item>skeniranje Wi-Fi-ja</item>
+        <item>obavijest</item>
+        <item>skeniranje ćelije</item>
+        <item>poziv na telefon</item>
+        <item>čitanje SMS-a</item>
+        <item>pisanje SMS-a</item>
+        <item>primanje SMS-a</item>
+        <item>primanje SMS-a u nuždi</item>
+        <item>primanje MMS-a</item>
+        <item>primanje WAP obavijesti</item>
+        <item>slanje SMS-a</item>
+        <item>čitanje ICC SMS-a</item>
+        <item>pisanje ICC SMS-a</item>
+        <item>izmjena postavki</item>
+        <item>povlačenje na vrh</item>
+        <item>pristup obavijestima</item>
+        <item>kamera</item>
+        <item>snimanje zvuka</item>
+        <item>reprodukcija audiozapisa</item>
+        <item>čitaj međuspremnik</item>
+        <item>izmijeni međuspremnik</item>
+        <item>medijski gumbi</item>
+        <item>audiofokus</item>
+        <item>glavna glasnoća</item>
+        <item>glasnoća glasa</item>
+        <item>glasnoća zvona</item>
+        <item>glasnoća medija</item>
+        <item>glasnoća alarma</item>
+        <item>glasnoća obavijesti</item>
+        <item>glasnoća Bluetootha</item>
+        <item>zadrži u aktivnom stanju</item>
+        <item>praćenje lokacije</item>
+        <item>praćenje lokacije s visokom potrošnjom energije</item>
+        <item>dohvaćanje statistike o upotrebi</item>
+        <item>isključivanje/uključivanje mikrofona</item>
+        <item>toast prozora</item>
+        <item>projiciranje medija</item>
+        <item>aktiviraj VPN</item>
+        <item>izmjena wlana</item>
+        <item>izmjena bluetooth</item>
+        <item>slanje MMS-a</item>
+        <item>čitanje MMS-a</item>
+        <item>pisanje MMS-a</item>
+        <item>autom. pokretanje</item>
+        <item>izmjena nfc-a</item>
+        <item>brisanje SMS-a</item>
+        <item>brisanje MMS-a</item>
+        <item>brisanje kontakata</item>
+        <item>brisanje zapisnika poziva</item>
+        <item>izmjena podataka</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibriranje</item>
+        <item>Čitanje kontakata</item>
+        <item>Izmjena kontakata</item>
+        <item>Čitanje zapisnika poziva</item>
+        <item>Izmjena zapisnika poziva</item>
+        <item>Čitanje kalendara</item>
+        <item>Izmjena kalendara</item>
+        <item>Lokacija</item>
+        <item>Objavljivanje obavijesti</item>
+        <item>Lokacija</item>
+        <item>Poziv na telefon</item>
+        <item>Čitanje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Slanje SMS-a/MMS-a</item>
+        <item>Čitanje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Izmjena postavki</item>
+        <item>Povlačenje na vrh</item>
+        <item>Pristup obavijestima</item>
+        <item>Kamera</item>
+        <item>Snimanje zvuka</item>
+        <item>Reprodukcija audiozapisa</item>
+        <item>Čitaj međuspremnik</item>
+        <item>Izmijeni međuspremnik</item>
+        <item>Medijski gumbi</item>
+        <item>Audiofokus</item>
+        <item>Glavna glasnoća</item>
+        <item>Glasnoća glasa</item>
+        <item>Glasnoća zvona</item>
+        <item>Glasnoća medija</item>
+        <item>Glasnoća alarma</item>
+        <item>Glasnoća obavijesti</item>
+        <item>Glasnoća Bluetootha</item>
+        <item>Zadrži u aktivnom stanju</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Dohvati statistike o upotrebi</item>
+        <item>Isključi/uključi mikrofon</item>
+        <item>Toast prozor</item>
+        <item>Projiciraj medij</item>
+        <item>Aktiviraj VPN</item>
+        <item>Izmjeni WLAN</item>
+        <item>Izmjeni Bluetooth</item>
+        <item>Pošalji MMS</item>
+        <item>Čitaj MMS</item>
+        <item>Piši MMS</item>
+        <item>Autom. pokretanje</item>
+        <item>Izmjeni Nfc</item>
+        <item>Izbriši SMS</item>
+        <item>Izbriši MMS</item>
+        <item>Izbriši kontakte</item>
+        <item>Izbriši zapisnik poziva</item>
+        <item>Izmjeni podatke</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Zadano</item>
+        <item>Ništa</item>
+        <item>Obris</item>
+        <item>Sjena</item>
+        <item>Izdignuto</item>
+        <item>Utisnuto</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Uporaba zadanih postavki aplikacije</item>
+        <item>Bijelo na crnom</item>
+        <item>Crno na bijelom</item>
+        <item>Žuto na crnom</item>
+        <item>Žuto na plavom</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Zadnje 4 znamenke</item>
+        <item>Prve 4 znamenke</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Uobičajena</item>
+        <item>Umjerena</item>
+        <item>Niska</item>
+        <item>Kritična</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Postojana</item>
+        <item>Glavna aktivnost</item>
+        <item>Važna (u prvom planu)</item>
+        <item>Važna (u pozadini)</item>
+        <item>Pričuvna</item>
+        <item>Teška</item>
+        <item>Usluga (izvodi se)</item>
+        <item>Usluga (ponovno pokretanje)</item>
+        <item>Prijamnik</item>
+        <item>Kuća</item>
+        <item>Posljednja aktivnost</item>
+        <item>Predmemorija (aktivnost)</item>
+        <item>Predmemorija (klijent aktivnosti)</item>
+        <item>Predmemorija (prazna)</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Posljednjih 30 dana</item>
+        <item>Postavi ciklus uporabe...</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Isključeno</item>
+        <item>Ograničeni prekidi</item>
+        <item>Bez prekida</item>
+    </string-array>
+	 <string-array name="app_ops_permissions">
+        <item>Dopusti</item>
+        <item>Ignoriraj</item>
+        <item>Uvijek pitaj</item>
+     </string-array>
+	<string-array name="usage_stats_display_order_types">
+        <item>Vrijeme upotrebe</item>
+        <item>Posljednja upotreba</item>
+        <item>Naziv aplikacije</item>
+    </string-array>
+	<string-array name="select_logd_size_summaries">
+        <item>64 KB po međusprem.</item>
+        <item>256 KB po međuspr.</item>
+        <item>1 MB po međusprem.</item>
+        <item>4 MB po međusprem.</item>
+        <item>16 MB po međusprem.</item>
+    </string-array>
+	<string-array name="track_frame_time_entries">
+        <item>Isključeno</item>
+        <item>Na zaslonu u obliku traka</item>
+        <item>U naredbi adb shell dumpsys gfxinfo</item>
+    </string-array>
+	<string-array name="debug_hw_overdraw_entries">
+        <item>Isključeno</item>
+        <item>Pokaži područja slojnih iscrtavanja</item>
+        <item>Prikaži područja za deuteranomaliju</item>
+    </string-array>
+</resources>

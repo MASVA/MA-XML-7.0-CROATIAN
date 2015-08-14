@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">"Okolina"</string>
+  <string name="bugreport_confirm">Izvješće o pogrešci sadrži podatke iz različitih zapisa datoteka sustava, uključujući osobne i privatne informacije. Podijelite ih samo sa sigurnim aplikacijama i osobama.</string>
+  <string name="bugreport_confirm_repeat">Prikaži ponovo izvješće o pogrešci</string>
+  <string name="bugreport_finished_text">Dodirnite za djeljenje izvješća o pogrešci</string>
+  <string name="bugreport_finished_title">Izvješće o pogrešci zabilježeno</string>
+</resources>

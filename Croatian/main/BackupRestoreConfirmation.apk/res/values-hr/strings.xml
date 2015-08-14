@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="allow_backup_button_label">Stvori sigurnosnu kopiju mojih podataka</string>
+  <string name="allow_restore_button_label">Obnovi moje podatke</string>
+  <string name="backup_confirm_text">"Zatražena je izrada potpune sigurnosne kopije svih podataka na stolno računalo. "Dopuštate li taj zahtjev?" 
+Ako niste osobno zatražili izradu sigurnosne kopije nemojte dozvoliti nastavak radnje.</string>
+  <string name="backup_confirm_title">Potpuna sigurnosna kopija</string>
+  <string name="backup_enc_password_optional">Ako želite kriptirati potpunu sigurnosnu kopiju, unesite zaporku:</string>
+  <string name="backup_enc_password_text">Molimo unesite zaporku za kriptiranje potpune sigurnosne kopije. Ako ovo polje ostavite prazno, biti će upotrijebljena vaša trenutna zaporka za sigurnosne kopije:</string>
+  <string name="current_password_text">Molimo unesite vašu trenutnu zaporku za sigurnosne kopije:</string>
+  <string name="deny_backup_button_label">Nemoj izraditi sigurnosnu kopiju</string>
+  <string name="deny_restore_button_label">Nemoj obnoviti podatke</string>
+  <string name="device_encryption_backup_text">Molimo unesite zaporku za kriptiranje vašeg uređaja. Ona će se također upotrijebiti za kriptiranje arhive sigurnosne kopije.</string>
+  <string name="device_encryption_restore_text">Molimo unesite zaporku za kriptiranje vašeg uređaja.</string>
+  <string name="restore_confirm_text">"Zatražena je potpuna obnova svih podataka sa stolnog računala. "Dopuštate li taj zahtjev?" 
+Ako niste osobno zatražili obnovu podataka, nemojte dozvoliti nastavak radnje. Ovo će zamijeniti sve podatke koji su trenutno na uređaju!</string>
+  <string name="restore_confirm_title">Potpuna obnova</string>
+  <string name="restore_enc_password_text">Ako su podaci za obnovu kriptirani, molimo unesite zaporku:</string>
+  <string name="toast_backup_ended">Izrada sigurnosne kopije završena</string>
+  <string name="toast_backup_started">Započinje izrada sigurnosne kopije…</string>
+  <string name="toast_restore_ended">Obnova podataka je završena</string>
+  <string name="toast_restore_started">Započinje obnova podataka…</string>
+  <string name="toast_timeout">Radnja je prekinuta zbog isteka vremena</string>
+</resources>

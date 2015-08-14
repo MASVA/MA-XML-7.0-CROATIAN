@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="editing_mode_title">
+        <item quantity="other">Odabrano: %1$d</item>
+        <item quantity="zero">Odabrano: %1$d</item>
+        <item quantity="one">Odabran: %1$d</item>
+        <item quantity="two">Odabrano: %1$d</item>
+        <item quantity="few">Odabrano: %1$d</item>
+        <item quantity="many">Odabrano: %1$d</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Deinstalirati \"%1$s\" i %2$d ostalih aplikacija?</item>
+        <item quantity="one">Deinstaliraj \"%s\"</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">Deinstalirano aplikacija: %1$</item>
+        <item quantity="zero">Deinstalirano aplikacija: %1$</item>
+        <item quantity="one">Aplikacija deinstalirana</item>
+        <item quantity="two">Deinstalirano aplikacija: %1$</item>
+        <item quantity="many">Deinstalirano aplikacija: %1$</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"Ne mogu deinstalirati \"%1$s\" i %2$d ostalih aplikacija."</item>
+        <item quantity="one">"Ne mogu deinstalirati \"%s\"</item>
+        <item quantity="two">"Ne mogu deinstalirati \"%s\" i još 1 aplikaciju"</item>
+    </plurals>
+</resources> 

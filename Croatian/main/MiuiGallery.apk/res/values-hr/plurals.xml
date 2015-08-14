@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="confirm_delete_album">
+        <item quantity="other">Izbrisati albume %1$s (%2$s ukupno)?</item>
+        <item quantity="one">Izbrisati %1$s album (%2$s ukupno)?</item>
+    </plurals>
+	<plurals name="confirm_delete_has_cloud_image">
+       <item quantity="other">"Izbrisati fotografije (%s) u Mi Cloudu ?"</item>
+        <item quantity="one">"Izbrisati fotografiju (%s) u Mi Cloudu ?"</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Izbrisati fotografije (%s)?</item>
+        <item quantity="one">Izbrisati fotografiju (%s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">"Izbrisati videozapise (%s) u Mi Cloudu?"</item>
+        <item quantity="one">"Izbrisati videozapis (%s) u Mi Cloudu?"</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Izbrisati videozapise (%s)?</item>
+        <item quantity="one">Izbrisati videozapis (%s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">"Izbrisati fotografije (%s) u Mi Cloudu?"</item>
+        <item quantity="one">"Izbrisati fotografiju (%s) u Mi Cloudu?"</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">"Izbrisati videozapise (%s) na ovom uređaju i u Mi Cloudu?"</item>
+        <item quantity="one">"Izbrisati videozapis (%s) na ovom uređaju i u Mi Cloudu?"</item>
+    </plurals>
+	 <plurals name="confirm_delete_video_from_many_albums">
+	    <item quantity="other">&lt;Data>Izbrisati &amp;lt;xliff:g id=ITEM>%1$d videozapise&amp;lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Izbrisati &amp;lt;xliff:g id=ITEM>%1$d videozapis&amp;lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
+    </plurals>
+	<plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&lt;Data>Izbrisati &lt;xliff:g id=ITEM>%1$d slika&lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Izbrisati &lt;xliff:g id=ITEM>%1$d sliku&lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">"Odabrano: %1$d"</item>
+        <item quantity="zero">"Odabrano: %1$d"</item>
+        <item quantity="one">"Odabrano: %1$d"</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">Br. slika: %1$d</item>
+        <item quantity="one">%d slika</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">Br. videzapisa: %d</item>
+        <item quantity="one">%d videzapis</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">Br. mapa: %d</item>
+        <item quantity="one">%d mapa</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">"Nemate dopuštenje za brisanje ovih datoteka: %d."</item>
+        <item quantity="one">"Nemate dopuštenje za brisanje ove %d datoteke."</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Možete odabrati ovoliko stavaka: %d</item>
+        <item quantity="one">Možete odabrati %d stavku</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">Br. stavaka: %1$d</item>
+        <item quantity="zero">Br. stavaka: %1$d</item>
+        <item quantity="one">%1$d stavka</item>
+    </plurals>
+	<plurals name="more_face">
+        <item quantity="other">%1$s fotografija od %2$s</item>
+        <item quantity="one">%1$s fotografija od %2$s</item>
+    </plurals>
+	<plurals name="seconds">
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">1 sek.</item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Nemoj prikazivati ova lica?"</item>
+        <item quantity="one">"Nemoj prikazivati ovo lice?"</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d fotografija od %2$s će biti dodano</item>
+        <item quantity="one">%1$d fotografija od %2$s će biti dodana</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d fotografija od %2$s će biti dodano</item>
+        <item quantity="one">%1$d fotografija od %2$s će biti dodana</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d godina "</item>
+        <item quantity="one">"%1$d godina "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">%1$d mjeseci</item>
+        <item quantity="one">%1$d mjesec</item>
+    </plurals>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Brisati odabrane razgovore: %1$s?</item>
+        <item quantity="one">Brisati ovaj razgovor?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sek</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s sek</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%s sek</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s sek</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultata za \"%2$s\"</item>
+        <item quantity="one">%1$s rezultat za \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Osoba: %1$s</item>
+        <item quantity="one">1 osoba</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">Poruka: %d</item>
+        <item quantity="zero">0 poruka</item>
+        <item quantity="one">1 poruka</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"Poruka (%d) nije sinkronizirano"</item>
+        <item quantity="one">"1 poruka nije sinkronizirana"</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">Poruka: %1$s</item>
+        <item quantity="one">%1$s poruka</item>
+    </plurals>
+</resources>

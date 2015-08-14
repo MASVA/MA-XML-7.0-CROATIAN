@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agree">Slažem se</string>
+  <string name="congratulation_label"/>
+  <string name="disagree">Odustani</string>
+  <string name="ime_privacy_policy">Pravila o privatnosti za odabrane tipkovnice</string>
+  <string name="ime_privacy_policy_no_network">Nema mrežne veze. Pogledajte Pravila o privatnosti za ovu tipkovnicu na %s.</string>
+  <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti prilikom pisanja poruka e-pošte, bilješki, i svugdje drugdje. Također možete instalirati druge tipkovnice kasnije."</string>
+  <string name="input_method_setting">Odaberite zadanu tipkovnicu</string>
+  <string name="install_preinstall_app">Učitavanje aplikacija…</string>
+  <string name="locale_picker_title">Odaberite Vaše mjesto</string>
+  <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o privatnosti na %s."</string>
+  <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>
+  <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>
+  <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
+  <string name="network_access_warning">Morate se povezati s internetom kako biste aktivirali Mi Usluge.</string>
+  <string name="next">Dalje</string>
+  <string name="other_settings">Dodatne postavke</string>
+  <string name="other_settings_location">Lokacije</string>
+  <string name="other_settings_location_summary">Dopustiti aplikacijama pristup vašoj lokaciji</string>
+  <string name="other_settings_user_experience">Program iskustva korisnika</string>
+  <string name="other_settings_user_experience_summary">Pomozite nam poboljšati MIUI slanjem anonimnih podataka korištenja (%s)</string>
+  <string name="other_settings_user_experience_summary1">prikaži Pravila o Privatnosti</string>
+  <string name="page_layout_label">Prilagodite veličinu teksta i raspored vašeg Početnog zaslona, panela obavijesti, tipkovnice, i još mnogo toga.</string>
+  <string name="page_layout_title">Raspored sustava</string>
+  <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
+  <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
+  <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="provision_finish">U redu</string>
+  <string name="provision_finish_restart">Ponovo pokretanje</string>
+  <string name="provision_inputmethod_policy_description">"
+Prikaži odabrane tipkovnice "</string>
+  <string name="provision_inputmethod_policy_description1">Pravila o Privatnosti</string>
+  <string name="setting_locale">Postavljanje mjesta…</string>
+  <string name="shut_down">Isključivanje</string>
+  <string name="sim_card_detecting">Provjeravam SIM karticu…</string>
+  <string name="sim_card_detecting_title">Provjera SIM kartice</string>
+  <string name="sim_card_detection">Umetnite SIM karticu</string>
+  <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem</string>
+  <string name="sim_dectection_next">Nastavi</string>
+  <string name="sim_redetection">Provjeri ponovo</string>
+  <string name="skip_underline">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
+  <string name="summary_not_set">Nije postavljeno</string>
+  <string name="summary_sim_card">Kartica %1$d</string>
+  <string name="summary_sim_card_with_operator">Kartica %1$d: %2$s</string>
+  <string name="terms_of_use">Uvjeti i Odredbe</string>
+  <string name="terms_of_use_label">"Vaša privatnost nama je vrlo važna. Pročitajte naše Uvjeti Korištenja i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.
+
+Morate se složiti s Uvjeti pružanja usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI."</string>
+  <string name="title_congratulation">"Spremni ste za MIUI!"</string>
+  <string name="user_agreement">Uvjeti pružanja usluge</string>
+  <string name="welcome">Dobrodošli</string>
+</resources>

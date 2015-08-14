@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Nedavnih aplikacija: %d</item>
+        <item quantity="one">1 nedavna aplikacija</item>
+    </plurals>
+	<plurals name="disable_notification_confirm_title">
+        <item quantity="other">Blokirati %d aplik.</item>
+        <item quantity="one">Blokirati %d aplik.</item>
+    </plurals>
+</resources> 

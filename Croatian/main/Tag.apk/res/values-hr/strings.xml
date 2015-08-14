@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_call">Nazvati kontakt %s</string>
+  <string name="action_text">Pošaljite poruku kontaktu %s</string>
+  <string name="app_name">Oznake</string>
+  <string name="button_done">Gotovo</string>
+  <string name="empty_tag_prompt">Ova oznaka je prazna.</string>
+  <string name="import_vcard">Uvoz kontakata ^1</string>
+  <string name="mime_display_name">Podaci o oznakama NFC</string>
+  <string name="tag_empty">Prazna oznaka</string>
+  <string name="tag_unknown">Nepoznata vrsta oznake</string>
+  <string name="title_existing_tag">Oznaka</string>
+  <string name="title_scanned_tag">Dodana je nova oznaka</string>
+  <string name="vcard_title">Kontakt informacije za ^1</string>
+</resources>

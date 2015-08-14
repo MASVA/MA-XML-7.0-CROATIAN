@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="bluetooth_enter_pin_msg">Uređaj</string>
+  <string name="bluetooth_enter_pin_msg_hs">Uređaj zahtijeva pristupni kôd od 16 znakova Visoke sigurnosti</string>
+  <string name="bluetooth_enter_passkey_msg">"Unesite kôd za uparivanje pa pritisnite Return ili Enter"</string>
+</resources>

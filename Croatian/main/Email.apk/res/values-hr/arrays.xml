@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Odgovor</item>
+        <item>Odgovori svima</item>
+        <item>Dalje</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sinkr. uspjela</item>
+        <item>Pogreška u mrežnoj vezi.</item>
+        <item>Neuspješna prijava.</item>
+        <item>Pogreška u sigurnosti veze.</item>
+        <item>Neuspješna sinkr.</item>
+        <item>Pogreška poslužitelja.</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sustav</item>
+        <item>Često upotreb.</item>
+        <item>Sve mape</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Novije poruke</item>
+        <item>Starije poruke</item>
+        <item>Dolazna pošta</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Prikaz novijeg razgovora nakon brisanja</item>
+        <item>Prikaz starijeg razgovora nakon brisanja</item>
+        <item>Prikaz dolazne pošte nakon brisanja</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Prikaži samo arhiviranje</item>
+        <item>Prikaži samo brisanje</item>
+        <item>Prikaži arhiviranje i brisanje</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Prikaži samo arhiviranje</item>
+        <item>Prikaži samo brisanje</item>
+        <item>Prikaži arhiviranje i brisanje</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Sićušan</item>
+        <item>Mali</item>
+        <item>Normalne veličine</item>
+        <item>Veliki</item>
+        <item>Ogroman</item>
+    </string-array>
+	<string-array name="menu_att_mgr_sort_string_array">
+        <item>Nedavno pregledano</item>
+        <item>Format</item>
+        <item>Ime</item>
+        <item>Pošiljatelj</item>
+        <item>Datum primitka</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Stranica:</item>
+        <item>E-pošta:</item>
+        <item>Mobitel:</item>
+        <item>telefon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-pošta:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>E-pošta:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresa:</item>
+        <item>Tel:</item>
+        <item>Ime:</item>
+        <item>E-pošta:</item>
+        <item>Mobitel:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Poštanski broj:</item>
+	</string-array>
+    <string-array name="signature_special_string_array">
+        <item>Odricanje:</item>
+        <item>E-pošta Odricanje</item>
+        <item>Pošalji via WPSMail</item>
+        <item>Poslano sa</item>
+        <item>Poslano s</item>
+        <item>Hvala,</item>
+        <item>Srdačan pozdrav</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Hvala,</item>
+		<item>Srdačan pozdrav</item>
+		<item>Poslano s mog</item>
+		<item>Originalna poruka</item>
+		<item>Poslano s mog</item>
+		<item>Poslano sa</item>
+		<item>Sa</item>
+		<item>Ova poruka</item>
+		<item>Odricanje</item>
+		<item>E-pošta Odricanje</item>
+     </string-array>
+	 <string-array name="alphabet_chars">
+        <item>☆</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+	    <item>Ć</item>
+	    <item>Č</item>
+        <item>D</item>
+		<item>Đ</item>
+		<item>E</item>
+		<item>F</item>
+		<item>G</item>
+		<item>H</item>
+		<item>I</item>
+		<item>J</item>
+		<item>K</item>
+		<item>L</item>
+		<item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+		<item>Š</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+		<item>Ž</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+</resources>

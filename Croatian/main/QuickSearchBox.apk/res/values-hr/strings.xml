@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Pretraži</string>
+  <string name="apps_search_activity"/>
+  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="clear_shortcuts">Obriši prečac</string>
+  <string name="clear_shortcuts_agree">Obriši prečace</string>
+  <string name="clear_shortcuts_disagree">"Ne brisati prečace"</string>
+  <string name="clear_shortcuts_prompt">"To će izbrisati sve prečace i nedavno izabrane prijedloge pretraživanja.(Za brisanje povijesti preglednika, upotrijebite postavke preglednika.)"</string>
+  <string name="clear_shortcuts_summary">Izbrišite prečace do nedavno odabranih prijedloga pretraživanja</string>
+  <string name="corpus_description_apps">Nazivi instaliranih aplikacija</string>
+  <string name="corpus_description_web">Pretraživanje weba,oznake i povijest preglednika</string>
+  <string name="corpus_hint_apps">Pretraži aplikacije</string>
+  <string name="corpus_label_apps">Aplikacije</string>
+  <string name="corpus_label_global">Sve</string>
+  <string name="corpus_label_web">Internet</string>
+  <string name="corpus_selection_heading">Pretraži</string>
+  <string name="cta_declaration">"Ova značajka treba povezivanje s internetom, pristup lokaciji vašeg uređaja, te pregled povijesti poziva i kontakata za normalan rad."</string>
+  <string name="cta_declaration_ignore">"Ne prikazuj ponovo"</string>
+  <string name="cta_declaration_negative_text">Izlaz</string>
+  <string name="cta_declaration_positive_text">Dopusti</string>
+  <string name="cta_declaration_title">Uvjeti Pružanja Usluge</string>
+  <string name="default_search_domain">.google.com</string>
+  <string name="device_settings_category_title">Izbriši prečace</string>
+  <string name="distance_unit_kilometer">km</string>
+  <string name="distance_unit_meter">m</string>
+  <string name="google_app_label">Google pretraživanje</string>
+  <string name="google_search_base">https://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+  <string name="google_search_description">Prijedlozi Google Pretraživanja</string>
+  <string name="google_search_hint">Google pretraživanje</string>
+  <string name="google_search_label">Google</string>
+  <string name="google_settings_category_title">Google pretraživanje</string>
+  <string name="google_suggest_base">https://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="menu_help">Pomoć</string>
+  <string name="menu_settings">Postavke pretraživanja</string>
+  <string name="recently_shortcut_label">Nedavni prečaci</string>
+  <string name="remove_from_history">Uklanjanje stavke iz povijesti</string>
+  <string name="remove_from_history_failed">"Uklanjanje stavke iz povijesti nije moguće"</string>
+  <string name="search_in_app_store">Pretraži na marketu</string>
+  <string name="search_in_web">Pretraži na Internetu</string>
+  <string name="search_settings">Postavke pretraživanja</string>
+  <string name="search_sources">Stavke pretraživanja</string>
+  <string name="search_sources_summary">Izaberite što tražiti na telefonu</string>
+  <string name="search_widget">Pretraži</string>
+  <string name="searchable_lable_app">Aplik.</string>
+  <string name="searchable_lable_browser">Internet</string>
+  <string name="searchable_lable_duokan">Duokan</string>
+  <string name="searchable_lable_music">Glazba</string>
+  <string name="searchable_lable_o2o">o2o</string>
+  <string name="searchable_lable_video">Video</string>
+  <string name="searchable_sources">Online</string>
+  <string name="send_secret_code">Pošalji kod</string>
+  <string name="system_search_category_title">Telefon</string>
+  <string name="voice_search_hint_quotation_end">”</string>
+  <string name="voice_search_hint_quotation_start">“</string>
+  <string name="voice_search_hint_title">Pokušajte reći:</string>
+  <string name="xiaomi_search_label">Rezultati</string>
+  <string name="xiaomi_suggest_base">http://global.search.xiaomi.net/global/v2/sug</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Popularno</item>
+        <item>Poredak</item>
+        <item>Najnovije</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Odabrano</item>
+        <item>Poredak</item>
+        <item>Najnovije</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Internet</item>
+        <item>Lokalno</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Epizoda</item>
+        <item>Sažetak</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Svi dodaci</item>
+        <item>Moji dodaci</item>
+   </string-array>
+   <string-array name="version_list_entries">
+        <item>Stabilna</item>
+        <item>Developer</item>
+        <item>Alpha</item>
+    </string-array>
+</resources>

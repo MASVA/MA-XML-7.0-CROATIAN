@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_license">Koristite aplikaciju na vlastitu odgovornost!</string>
+  <string name="about_name">MIUIv6 Toggles Arrange 1.1</string>
+  <string name="about_text1">Autor:</string>
+  <string name="about_text2">don11995</string>
+  <string name="about_text3">Koncept:</string>
+  <string name="about_text4">stas2z</string>
+  <string name="about_text5">Ikona:</string>
+  <string name="about_text6">DriffeX</string>
+  <string name="app_name">MIUI 6 Toggles arrange</string>
+  <string name="data_access">Pristup</string>
+  <string name="data_airplane">Zrakoplovni način</string>
+  <string name="data_autolight">Auto. svj.</string>
+  <string name="data_block">Zaklj.</string>
+  <string name="data_bluetooth">Bluetooth</string>
+  <string name="data_buttons">Onemogući</string>
+  <string name="data_gps">GPS</string>
+  <string name="data_guest">Gost</string>
+  <string name="data_light">Svjetiljka</string>
+  <string name="data_mobile">Podaci</string>
+  <string name="data_rotate">Rotacija</string>
+  <string name="data_screenshot">Snimka zaslona</string>
+  <string name="data_silent">Ne ometaj</string>
+  <string name="data_sound">Bešumno</string>
+  <string name="data_speed">Perfomanse</string>
+  <string name="data_sync">Sink.</string>
+  <string name="data_vibration">Vibracija</string>
+  <string name="data_wifi">WLAN</string>
+  <string name="data_wifispot">WLAN AP</string>
+  <string name="err_get_data">Pogreška čitanja baze podataka</string>
+  <string name="err_init_settings">Greška prilikom dobivanja trenutnih postavki</string>
+  <string name="err_reset">Greška prilikom resetiranja postavki.</string>
+  <string name="err_saving">Pogreška kod spremanja postavki.</string>
+  <string name="howtouse_text">"1. Koristite "Drag\'n\'Drop" način da posložite prečace po svojoj želji.
+2. Pritisnite tipku \"Spremi\".
+4. Gotovo!"</string>
+  <string name="howtouse_text1">Tipka \"Resetiraj\" će vratiti raspored prečaca na zadane postavke.</string>
+  <string name="main_header">Posložite prečace onako kako vi želite</string>
+  <string name="main_menu_about">O aplikaciji</string>
+  <string name="main_menu_howtouse">Brzi vodič</string>
+  <string name="main_reset_button">Resetiraj</string>
+  <string name="main_save_button">Spremi</string>
+  <string name="main_settings_question">Stvarno želite resetiranje postavki?</string>
+  <string name="main_settings_question_no">Ne</string>
+  <string name="main_settings_question_yes">Da</string>
+  <string name="main_settings_saved">Postavke su spremljene</string>
+</resources>

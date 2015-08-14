@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Ime</item>
+        <item>Nadimak</item>
+        <item>Telefon</item>
+        <item>E-pošta</item>
+        <item>Organizacija</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Rođendan</item>
+        <item>Web stranica</item>
+        <item>Adresa</item>
+        <item>Bilješka</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Primljeno</item>
+        <item>Poslano</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi Poruke</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi Poruke</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekunde</item>
+        <item>3 sekunde</item>
+        <item>4 sekunde</item>
+        <item>5 sekundi</item>
+        <item>6 sekundi</item>
+        <item>7 sekundi</item>
+        <item>8 sekundi</item>
+        <item>9 sekundi</item>
+        <item>10 sekundi</item>
+        <item>Ostalo…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Uvijek</item>
+        <item>Samo u bešumnom načinu</item>
+        <item>Nikad</item>
+    </string-array>
+	<string-array name="entries_sms_validity_period">
+        <item>Nije podešeno</item>
+        <item>1 sat</item>
+        <item>6 sati</item>
+        <item>12 sati</item>
+        <item>1 dan</item>
+        <item>Maksimalno</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maksimalno</item>
+        <item>2 dana</item>
+    </string-array>
+</resources>

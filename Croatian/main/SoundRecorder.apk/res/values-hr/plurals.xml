@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="record_downloading_complete_count">
+        <item quantity="other">Preuzeto(%d ) snimaka</item>
+        <item quantity="one">%d snimka preuzeta</item>
+    </plurals>
+</resources> 

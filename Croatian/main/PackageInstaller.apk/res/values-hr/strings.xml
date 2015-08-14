@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="Parse_error_dlg_text">Došlo je do problema pri analiziranju paketa.</string>
+  <string name="Parse_error_dlg_title">Pogreška analize</string>
+  <string name="activity_package_delete_confirm_title">Važno upozorenje</string>
+  <string name="allow_source_dlg_text">"Aplikacija %1$s želi instalirati druge aplikacije.
+
+Dozvoliti sada i ubuduće?"</string>
+  <string name="allow_source_dlg_title">Instalirati aplikacije iz nepoznatih izvora?</string>
+  <string name="app_name">Alat za instaliranje paketa</string>
+  <string name="app_not_found_dlg_text">Aplikacija nije pronađena na popisu instaliranih aplikacija.</string>
+  <string name="app_not_found_dlg_title">Aplikacija nije pronađena</string>
+  <string name="app_store_install_hint">Instaliraj sada</string>
+  <string name="app_store_installing_message">Instaliranje…</string>
+  <string name="app_store_missing_message">"Izgleda da niste instalirali našu službenu App Store. Instalirati je sada?"</string>
+  <string name="app_store_missing_title">"App Store nije instalirana"</string>
+  <string name="auto_startup_dialog_msg">Ova se aplikacija ne može pokrenuti bez vašeg dopuštenja.</string>
+  <string name="button_text_cancel">Odustani</string>
+  <string name="button_text_delete">Izbriši</string>
+  <string name="button_text_delete_timer">Izbriši (%d)</string>
+  <string name="button_text_next_step">Dalje</string>
+  <string name="button_text_next_step_timer">Dalje (%d)</string>
+  <string name="caller_app">Zahtjev dopuštenja od %1$s</string>
+  <string name="cancel">Odustani</string>
+  <string name="dlg_app_replacement_statement">"Aplikacija koju instalirate zamijeniti će drugu aplikaciju.
+
+Svi postojeći podaci aplikacije će biti spremljeni."</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) će zamijeniti trenutno instaliranu verziju (%3$s). Svi postojeći podaci aplikacije će biti spremljeni."</string>
+  <string name="dlg_app_replacement_title">Zamijeniti postojeću aplikaciju?</string>
+  <string name="dlg_appstore_notice">Nabavite ovu aplikaciju iz naše službene &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="dlg_ok">U redu</string>
+  <string name="dlg_sys_app_replacement_statement">"To je aplikacija sustava. Još je želite zamijeniti?
+
+Svi postojeći podaci aplikacije će biti spremljeni."</string>
+  <string name="done">Gotovo</string>
+  <string name="high_risk_perms">Dopuštenja visokog rizika</string>
+  <string name="install">Instaliraj</string>
+  <string name="install_confirm_question">Instalirati ovu aplikaciju?</string>
+  <string name="install_done">Aplikacija instalirana</string>
+  <string name="install_failed">Aplikacija nije instalirana</string>
+  <string name="install_failed_cpu_abi_incompatible">"Ova aplikacija nije kompatibilna s vašim uređajem."</string>
+  <string name="install_failed_file_not_found">Odabrani paket je izbrisan prije nego što je instaliranje moglo biti dovršeno.</string>
+  <string name="install_failed_inconsistent_certificates">Već je instaliran postojeći paket s istim imenom i konfliktnim potpisom.</string>
+  <string name="install_failed_invalid_apk">Čini se da je paket oštećen.</string>
+  <string name="install_failed_msg">Aplikaciju %1$s nije moguće instalirati na vaš uređaj.</string>
+  <string name="install_failed_older_sdk">Ovaj paket funkcionira samo na novijim verzijama Androida.</string>
+  <string name="install_failed_system_incompatible">"Ova aplikacija nije kompatibilna s MIUI"</string>
+  <string name="install_failed_verify_failed">Paket nije prošao provjeru i ne može se instalirati.</string>
+  <string name="install_failed_verify_timeout">Isteklo je vrijeme za pokušaj potvrde ovog paketa. Pokušajte ga kasnije ponovo instalirati.</string>
+  <string name="installing">Instaliranje…</string>
+  <string name="launch">Otvori</string>
+  <string name="lift_ban">Dopusti</string>
+  <string name="lift_ban_once">Dopusti jednom</string>
+  <string name="low_risk_perms">Dopuštenja niskog rizika</string>
+  <string name="manage_applications">Upravljanje aplikacijama</string>
+  <string name="manage_device_administrators">Upravljanje administratorima uređaja</string>
+  <string name="ok">U redu</string>
+  <string name="other_relative">Ostala dopuštenja</string>
+  <string name="out_of_space_dlg_text">"Nema dovoljno prostora za pohranu na uređaju za instaliranje %1$s."</string>
+  <string name="out_of_space_dlg_title">Nema dovoljno prostora</string>
+  <string name="package_delete_confirm_step_1">Izbrisati %s?</string>
+  <string name="package_delete_confirm_step_2">Brisanje ove aplikacije može dovesti do nestabilnosti sustava vašeg uređaja.</string>
+  <string name="package_delete_confirm_step_3">"Nećete moći otvoriti ovu aplikaciju nakon što je izbrišete."</string>
+  <string name="perm_action_accept">Dopusti</string>
+  <string name="perm_action_prompt">Pitaj</string>
+  <string name="perm_action_reject">Odbij</string>
+  <string name="perm_notice">Pažnja</string>
+  <string name="perm_privacy_app_finish">U redu</string>
+  <string name="perm_privacy_app_installed">Aplikacija je instalirana</string>
+  <string name="perm_privacy_app_launch">Pokreni</string>
+  <string name="perm_privacy_app_trust">Pitaj za dopuštenje</string>
+  <string name="perm_privacy_app_trust_summary">Pitaj me kada ova aplikacija pokušava pristupiti drugim dijelovima sustava</string>
+  <string name="perm_sysopt_boost_auto_start">Dopuštenja automatskog pokretanja</string>
+  <string name="perm_sysopt_boost_auto_start_summary">Ova se aplikacija može pokrenuti automatski</string>
+  <string name="permission_action_accept">Dopusti</string>
+  <string name="permission_action_prompt">Pitaj</string>
+  <string name="permission_action_reject">Odbij</string>
+  <string name="permission_group_title_charges_related">Telefon</string>
+  <string name="permission_group_title_media_related">Medij</string>
+  <string name="permission_group_title_others">Ostalo</string>
+  <string name="permission_group_title_privacy_related">Privatnost</string>
+  <string name="permission_group_title_settings_related">Postavke</string>
+  <string name="permission_send_sms_descx">Aplikacija može slati SMS i MMS</string>
+  <string name="privacy_relative">Privatnost</string>
+  <string name="reboot_time">Priprema za ponovno pokretanje…(%1$s)</string>
+  <string name="safe_guard_support">Tehničku podršku vam pruža %1$s</string>
+  <string name="safe_relative">Sigurnost</string>
+  <string name="security_settings_desc">Dopustiti ovoj aplikaciji da:</string>
+  <string name="settings">Postavke</string>
+  <string name="trust_switch_dialog_msg">"Neće vas se pitati kada ova aplikacija pristupa vašim kontaktima, porukama, zaporkama ili drugim dijelovima sustava."</string>
+  <string name="uninstall_activity_text">Aktivnost %1$s dio je sljedeće aplikacije:</string>
+  <string name="uninstall_application_text">Ova će aplikacija biti deinstalirana</string>
+  <string name="uninstall_application_title">Deinstalirati ovu aplikaciju?</string>
+  <string name="uninstall_confirm_question">Deinstalirati ovu aplikaciju?</string>
+  <string name="uninstall_done">Aplikacija je deinstalirana</string>
+  <string name="uninstall_failed">"Ne mogu deinstalirati ovu aplikaciju"</string>
+  <string name="uninstall_failed_device_policy_manager">"Ne mogu deinstalirati paket koji je aktivan administrator uređaja."</string>
+  <string name="uninstall_failed_msg">Aplikaciju %1$s nije moguće deinstalirati.</string>
+  <string name="uninstall_failed_retained_app_msg">"Ova je aplikacija izmijenjena i ne može se deinstalirati u svom sadašnjem obliku"</string>
+  <string name="uninstall_update_text">Ova će aplikacija biti zamijenjena s originalnom verzijom.</string>
+  <string name="uninstall_update_title">Deinstalirati ovo ažuriranje?</string>
+  <string name="uninstalling">Deinstaliranje…</string>
+  <string name="unknown">Nepoznato</string>
+  <string name="unknown_apps_dlg_text">Vaš telefon i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Suglasni ste da ste isključivo sami odgovorni za gubitak podataka ili bilo kakvu štetu nastalu na vašem uređaju koja može proizaći korištenjem ove aplikacije. Možete isključiti ovu obavijest u Postavkama.</string>
+  <string name="unknown_apps_dlg_title">Instaliranje je blokirano</string>
+  <string name="unknown_installer">Nepoznat PC alat</string>
+  <string name="virus_scan_caller_unknown">Nepoznato</string>
+  <string name="virus_scan_clear">Ukloni</string>
+  <string name="virus_scan_install">Instaliraj svejedno</string>
+  <string name="virus_scan_is_risk">"Ovaj aplikacija predstavlja rizik za sigurnost vašeg uređaja."</string>
+  <string name="virus_scan_is_virus">Ova aplikacija sadrži virus.</string>
+</resources>

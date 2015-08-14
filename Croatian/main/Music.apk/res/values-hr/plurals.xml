@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">Pjesama: %d</item>
+        <item quantity="one">1 pjesma</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">Preostalo (%d) dana</item>
+        <item quantity="one">Preostao 1 dan</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">Preuzeto će biti (%d) pjesama</item>
+        <item quantity="one">1 pjesma će biti preuzeta</item>
+    </plurals>
+	<plurals name="Nnew_tracks_count">
+        <item quantity="other">Novo: %d</item>
+		<item quantity="one">1 nova</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">Pjesama: %d</item>
+        <item quantity="one">%d pjesma</item>
+    </plurals>
+	<plurals name="Ntracks_similar_count">
+        <item quantity="other">Sličnih pjesama: %d</item>
+        <item quantity="one">%d slična pjesma</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">Dodano je (%d) pjesama na popis</item>
+        <item quantity="one">1 pjesma dodana na popis</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">Uklonjeno je (%d) pjesama s popisa.</item>
+         <item quantity="one">1 pjesma uklonjena s popisa.</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">Pjesama: %d</item>
+        <item quantity="one">1 pjesma</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">Poslano će biti (%d) pjesama</item>
+        <item quantity="one">1 pjesma će biti poslana</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">Pjesama: %d</item>
+        <item quantity="one">1 pjesma</item>
+    </plurals>
+	<plurals name="Nnew_local_audios">
+       <item quantity="other">Dodano (%d) pjesama</item>
+	   <item quantity="one">Dodana %d pjesma</item>
+    </plurals>
+</resources> 

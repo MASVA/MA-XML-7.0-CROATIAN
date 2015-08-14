@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_call_muted">Poziv utišan.</string>
+  <string name="accessibility_speakerphone_enabled">Zvučnik je uključen.</string>
+  <string name="add_vm_number_str">Dodaj broj</string>
+  <string name="headset_plugin_view_text">Hands-free je povezan.</string>
+  <string name="headset_plugin_view_title">Hands-free</string>
+  <string name="no_vm_number">Broj govorne pošte ne postoji</string>
+  <string name="no_vm_number_msg">Na SIM kartici nije spremljen broj govorne pošte.</string>
+  <string name="notification_missedCallTicker">Propušten poziv od %s</string>
+  <string name="notification_missedCallTitle">Propušten poziv</string>
+  <string name="notification_missedCall_call_back">Uzvrati poziv</string>
+  <string name="notification_missedCall_message">Poruka</string>
+  <string name="notification_missedCallsMsg">Propušteni pozivi: %s</string>
+  <string name="notification_missedCallsTitle">Propušteni pozivi</string>
+  <string name="outgoing_call_error_no_phone_number_supplied">Poziv se ne može ostvariti, broj koji ste unijeli nije ispravan.</string>
+  <string name="outgoing_call_not_allowed">Ovaj korisnik nema dopuštenje upućivati pozive osim na hitne brojeve</string>
+  <string name="respond_via_sms_canned_response_1">"Ne mogu trenutno razgovarati. Nazvat ću te poslije."</string>
+  <string name="respond_via_sms_canned_response_2">Nazvat ću te poslije.</string>
+  <string name="respond_via_sms_canned_response_3">Nazvat ću te uskoro.</string>
+  <string name="respond_via_sms_canned_response_4">Ne mogu razgovarati, nazovite kasnijer.</string>
+  <string name="respond_via_sms_confirmation_format">Poruka je poslana na broj %s.</string>
+  <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Vraćanje zadane aplikacije.</string>
+  <string name="respond_via_sms_setting_summary" />
+  <string name="respond_via_sms_setting_title">Brzi odgovori</string>
+  <string name="respond_via_sms_setting_title_2">Upravljaj Brzim odgovorima</string>
+  <string name="telecommAppLabel">Telefon</string>
+  <string name="unknown">Nepoznato</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Onemogućite TTY Način rada da omogućite videopozive.</string>
+  <string name="voice_report_incoming_call">Pozivanje</string>
+  <string name="voice_report_unknown_num">Nepoznat broj</string>
+</resources>
