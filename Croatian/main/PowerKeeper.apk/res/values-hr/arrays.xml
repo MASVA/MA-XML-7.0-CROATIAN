@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="group_name_translate">
-        <item>Zadani način</item>
+        <item>Zadano</item>
         <item>Skriveni način</item>
         <item>Način Čitanja</item>
         <item>Multimedija</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>Aplikacija se izvodi u pozadini</item>
+        <item>Aplikacija se izvodi u prvom planu</item>
         <item>Zaslon uključen</item>
         <item>Zaslon isključen</item>
         <item>Zaslon isključen preko 10 min.</item>
         <item>Cijeli zaslon</item>
         <item>Izlaz iz cijelog zaslona</item>
-        <item>Aplikacija u pozadini</item>
+        <item>Aplikacija se izvodi u pozadini</item>
         <item>Uređaj se puni</item>
-        <item>Uređaj se ne puni</item>
+        <item>"Uređaj se ne puni"</item>
         <item>Uređaj je u stanju mirovanja</item>
     </string-array>
     <string-array name="action_name_translate">
@@ -25,19 +25,24 @@
         <item>Korištenje CPU-a</item>
         <item>Podatkovna veza</item>
         <item>Lokacija</item>
-        <item>Obavijest prve poruke</item>
-        <item>Obavijest na zaključanom zaslonu</item>
+        <item>Prva obavijest</item>
+        <item>Obavijesti na zaključanom zaslonu</item>
+		<item>Ograniči pozadinske podatkovne veze</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>Nema radnji</item>
-        <item>Standardno</item>
+        <item>Ništa</item>
+        <item>Zadano</item>
         <item>Slike</item>
         <item>Film</item>
         <item>Štednja baterije</item>
         <item>Balansirano</item>
         <item>Performanse</item>
-        <item>Omogući</item>
-        <item>Onemogući</item>
+        <item>Uključi</item>
+        <item>Iskljui</item>
+        <item>Odmah</item>
+        <item>Nakon 10 min.</item>
+        <item>Nakon 30 min.</item>
+        <item>Kada je zaslon isključen</item>
     </string-array>
     <string-array name="app_groups">
         <item>Odabrano</item>
