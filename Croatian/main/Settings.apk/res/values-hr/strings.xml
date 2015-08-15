@@ -2365,9 +2365,9 @@ Da biste upotrebljavali prikvačivanje zaslona:
 
 4. Dodirnite ikonu pribadače."</string>
   <string name="screen_pinning_title">Prikvačivanje zaslona</string>
-  <string name="screen_resolution_confirm">U redu i ponovno pokreni</string>
-  <string name="screen_resolution_summary">Smanjivanje rezolucije će smanjiti fini stupanj zaslona, u određenoj mjeri poboljšati energiju i tečnost, i obrnuto. Promjene trebaju ponovno pokretanje sustava.</string>
-  <string name="screen_resolution_switch">Promjeni rezoluciju zaslona</string>
+  <string name="screen_resolution_confirm">Ponovno pokreni</string>
+  <string name="screen_resolution_summary">"Smanjivanje rezolucije zaslona može povećati trajanje baterije i brzinu sustava, međutim slike na zaslonu mogu biti manje jasne. Morate ponovo pokrenuti vaš uređaj za primjenu ove promjene.".</string>
+  <string name="screen_resolution_switch">Promjeni rezoluciju</string>
   <string name="screen_resolution_title">Rezolucija zaslona</string>
   <string name="screen_saturation">Zasićenje</string>
   <string name="screen_timeout">Mirovanje</string>
@@ -3638,7 +3638,8 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="xiaomi_router_notif_title">Mi Router obavijesti</string>
   <string name="yes">Da</string>
   <string name="yes_all_caps">DA</string>
-  <string name="zen_mode_alarm_info">Alarmi su uvijek prioritetni prekidi</string>
+  <string name="zen_mode_alarm_info">Alarmi su uvijek prioritet prekidima</string>
+  <string name="zen_mode_alarm_use">Zvukovi</string>
   <string name="zen_mode_automation_category">Automatizacija</string>
   <string name="zen_mode_default_option">Dok to ne isključite</string>
   <string name="zen_mode_downtime_category">Prekid rada (samo prioritetni prekidi)</string>
@@ -3655,10 +3656,10 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="zen_mode_from_starred">Samo kontakti sa zvjezdicom</string>
   <string name="zen_mode_important_category">Prioritetni prekidi</string>
   <string name="zen_mode_messages">Poruke</string>
-  <string name="zen_mode_miui_disturb_category">ne ometaj</string>
-  <string name="zen_mode_miui_silent_category">bešumno</string>
+  <string name="zen_mode_miui_disturb_category">Ne ometaj</string>
+  <string name="zen_mode_miui_silent_category">Dopusti</string>
   <string name="zen_mode_option_important_interruptions">Dopusti samo prioritetne prekide</string>
-  <string name="zen_mode_option_miui_silent">Dopusti da MIUI prekine vibraciju</string>
+  <string name="zen_mode_option_miui_silent">Bešumni način</string>
   <string name="zen_mode_option_miui_vibrate">Ne ometaj</string>
   <string name="zen_mode_option_no_interruptions">Ne prekidaj</string>
   <string name="zen_mode_option_off">Uvijek prekidaj</string>
