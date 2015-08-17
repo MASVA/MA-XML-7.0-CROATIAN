@@ -29,7 +29,7 @@
         <item quantity="one">"Izbrisati videozapis (%s) na ovom uređaju i u Mi Cloudu?"</item>
     </plurals>
 	 <plurals name="confirm_delete_video_from_many_albums">
-	    <item quantity="other">&lt;Data>Izbrisati &amp;lt;xliff:g id=ITEM>%1$d videozapise&amp;lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
+	    <item quantity="other">&lt;Data>Izbrisati &amp;lt;xliff:g id=ITEM>%1$d videozapisa&amp;lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
         <item quantity="one">&lt;Data>Izbrisati &amp;lt;xliff:g id=ITEM>%1$d videozapis&amp;lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
     </plurals>
 	<plurals name="confirm_delete_image_from_many_albums">
@@ -77,19 +77,19 @@
         <item quantity="one">%1$d stavka</item>
     </plurals>
 	<plurals name="more_face">
-        <item quantity="other">%1$s fotografija od %2$s</item>
-        <item quantity="one">%1$s fotografija od %2$s</item>
+        <item quantity="other">Fotog. (%1$s) od %2$s</item>
+        <item quantity="one">Fotog. (%1$s) od %2$s</item>
     </plurals>
 	<plurals name="seconds">
         <item quantity="other">%d sek.</item>
         <item quantity="one">1 sek.</item>
     </plurals>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Nemoj prikazivati ova lica?"</item>
+        <item quantity="other">"Ne prikazivati ova lica?"</item>
         <item quantity="one">"Nemoj prikazivati ovo lice?"</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d fotografija od %2$s će biti dodano</item>
+        <item quantity="other">Fotografija (%1$d) od %2$s će biti dodano</item>
         <item quantity="one">%1$d fotografija od %2$s će biti dodana</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">

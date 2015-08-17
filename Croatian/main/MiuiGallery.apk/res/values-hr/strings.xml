@@ -381,7 +381,7 @@
   <string name="invite_sharer_title">"Pozovite %1$s %2$s"</string>
   <string name="invite_tip">"Podijelite fotografije vašeg djeteta"</string>
   <string name="invited_tip">Pozvan</string>
-  <string name="is">Ovo</string>
+  <string name="is">Da</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">"Ne mogu preuzeti fotografije koje nisu sinkronizirane s Mi Cloudom."</string>
   <string name="item_not_sync_for_origin_video">"Ne mogu preuzeti videozapise koji nisu sinkronizirani s Mi Cloudom."</string>
@@ -470,7 +470,7 @@ uređaja"</string>
   <string name="no_thumbnail">Nema sličica</string>
   <string name="none_picture">Nema slika</string>
   <string name="not_auto_create_recent_album">Poništi pravljenje favorita</string>
-  <string name="not_is">Nije</string>
+  <string name="not_is">Ne</string>
   <string name="not_now">Ne sada</string>
   <string name="not_show_hidden_albums">"Ne prikazuj skrivene albume"</string>
   <string name="old">Staro</string>
@@ -612,7 +612,7 @@ uređaja"</string>
   <string name="select_auto_upload_albums">Odaberite albume za sinkr.</string>
   <string name="select_image">Odaberi fotog.</string>
   <string name="select_item">Odaberi stavku</string>
-  <string name="select_item_face">Fotografija od %s</string>
+  <string name="select_item_face">"Na fotog. je %s"</string>
   <string name="select_too_much_to_send_tips">"Maks. %d"</string>
   <string name="select_video">Odaberite videoz.</string>
   <string name="send">Pošalji</string>
