@@ -104,6 +104,7 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="advanced_security_title">Napredno</string>
   <string name="advanced_settings">Napredne postavke</string>
   <string name="advanced_settings_summary">Omogući više opcija postavki</string>
+  <string name="advanced_text_layout">Omogući naprednu funkciju izgleda teksta</string>
   <string name="agps_roaming">A-GPS u roamingu</string>
   <string name="agps_roaming_dia">"Korištenje A-GPS u roamingu može značajno povećati uporabu podataka. Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove."</string>
   <string name="agps_roaming_dia_title">Koristi A-GPS u roamingu</string>
@@ -589,7 +590,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="builtin_keyboard_settings_summary">Postavke fizičke tipkovnice</string>
   <string name="builtin_keyboard_settings_title">Fizička tipkovnica</string>
   <string name="button_disconnect_network">Isključi iz mreže</string>
-  <string name="button_light_timeout">Postavke osvjetljenja tipaka</string>
+  <string name="button_light_timeout">Trajanje osvjetljenja tipaka</string>
   <string name="button_text_login">Prijava</string>
   <string name="button_text_reboot_now">Ponovno pokretanje</string>
   <string name="cache_header_label">Predmemorija</string>
@@ -1178,6 +1179,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="error_name_empty">Polje naziva ne može biti prazno.</string>
   <string name="error_title"/>
   <string name="every_day">Svaki dan</string>
+  <string name="experience_optimization_category">Optimizacija iskustva</string>
   <string name="experimental_preference">(Eksperimentalno)</string>
   <string name="external_code_size_label">USB aplikacija za pohranjivanje</string>
   <string name="external_data_size_label">USB uređaj za pohranu podataka</string>
@@ -2043,9 +2045,9 @@ i pokrenite ga."</string>
   <string name="power_usage_summary">Što troši bateriju</string>
   <string name="power_usage_summary_title">Baterija &amp; performanse</string>
   <string name="power_wifi">WLAN</string>
-  <string name="pref_button_light">Svjetlo tipki</string>
-  <string name="pref_button_light_summary">Indikator tipki Izbornik, Početna i Natrag</string>
-  <string name="pref_operational_key">Tipka radnje</string>
+  <string name="pref_button_light">Osvjetljenje tipaka</string>
+  <string name="pref_button_light_summary">Osvjetljenje tipaka Izbornik, Početna i Natrag</string>
+  <string name="pref_operational_key">Navigacijske tipke</string>
   <string name="pref_volume_wake_summary">Klik na tipke za podešavanje glasnoće budi uređaj</string>
   <string name="pref_volume_wake_title">Probudi tipkama za glasnoću</string>
   <string name="preference_change_password_title">Promijeni zaporku</string>
@@ -2668,9 +2670,9 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_awaiting_tap">Dodirnite oznaku da zapišete podatke…</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
   <string name="status_bar_and_notification_bar">Panel obavijesti i statusna traka</string>
-  <string name="status_bar_app_disable_notification">Prazno</string>
+  <string name="status_bar_app_disable_notification">Sakrij obavijesti</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Zaklj. zaslon, Panel obavijesti</string>
-  <string name="status_bar_app_enable_on_notificationBar">Panel obavijesti</string>
+  <string name="status_bar_app_enable_on_notificationBar">Prikaži u Panelu obavijesti</string>
   <string name="status_bar_filter_item_description">Za postavljanje upozorenja, idite na Postavke &gt; Obavijesti &gt; Upravljaj obavijestima</string>
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Prilagođena pozicija tipki</string>
@@ -2681,7 +2683,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_screen_key_recent_apps">Nedavne aplikacije</string>
   <string name="status_bar_settings">Obavijesti</string>
   <string name="status_bar_settings_advanced">"Dodatne postavke"</string>
-  <string name="status_bar_settings_all_app_display_loading">Učitavanje…</string>
+  <string name="status_bar_settings_all_app_display_loading">Samo tren…</string>
   <string name="status_bar_settings_basic_settings">Osnovne postavke</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Uredi naziv operatera</string>
@@ -2698,7 +2700,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_notification_priority_summary">Prikaži obavijesti na vrhu popisa</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk &amp; vibracija</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>
-  <string name="status_bar_settings_show_carrier_summary">Prikaži samo na zaključanom zaslonu</string>
+  <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
   <string name="status_bar_settings_show_flow_info">Prikaži detalje plutanja</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
   <string name="status_bar_settings_show_keyguard_notification">Prikaži plutajuće obavijesti</string>

@@ -36,6 +36,8 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="camera_error_title">Pogreška Kamere</string>
   <string name="camera_label">Kamera</string>
   <string name="camera_settings_label">Kamera</string>
+  <string name="camera_snap_mode_title">Quick snap način</string>
+  <string name="camera_snap_mode_title_detail">Dodirnite za prikaz detalja</string>
   <string name="can_not_play_video">Otključaj zaslon za prikaz reprodukcije</string>
   <string name="cancel">Odustani</string>
   <string name="cannot_connect_camera_once">"Ne mogu se spojiti s kamerom."</string>
@@ -416,6 +418,8 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_skinToneEnhancement_title">Poboljšanje boje kože</string>
   <string name="pref_camera_sound_entry_off">Isključeno</string>
   <string name="pref_camera_sound_entry_on">Uključeno</string>
+  <string name="pref_camera_snap_enable_summary">Kada je zaslon isključen, pritisnite &amp; držite tipku Glasnoća dolje za ulazak u Quick snap način. Pritisnite ponovno za snimanje fotografije.</string>
+  <string name="pref_camera_snap_enable_title">Quick snap način</string>
   <string name="pref_camera_sound_title">Zvukovi kamere</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Uključeno</string>

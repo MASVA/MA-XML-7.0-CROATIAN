@@ -193,6 +193,9 @@
   <string name="mycamera">Moji videozapisi</string>
   <string name="myfavorite">Favoriti</string>
   <string name="myfavorite_onlylocal">Favoriti</string>
+  <string name="need_upgrade_button">Provjeri</string>
+  <string name="need_upgrade_summary">Ova je funkcija dostupna u novoj verziji, molimo pritisnite ažuriranje za instaliranje nove verzije.</string>
+  <string name="need_upgrade_title">Dostupno u novoj verziji</string>
   <string name="negative_comment">Negativno</string>
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Prijavite se na vaš Mi Račun radi slanja komentara.</string>

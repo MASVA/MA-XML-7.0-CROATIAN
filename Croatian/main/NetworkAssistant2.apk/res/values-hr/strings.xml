@@ -55,7 +55,7 @@ Korištenje više od planiranog ograničenja podataka vašeg operatera može dov
   <string name="data_usage_no_total_package_body">Dodirnite za postavljanje ograničenja uporabe podataka</string>
   <string name="data_usage_no_total_package_body_dual">Ograničenje uporabe podataka za %s nije postavljeno</string>
   <string name="data_usage_no_total_package_title">Podesi ograničenje Uporabe podataka</string>
-  <string name="data_usage_restricted_body">Dodirnite da uključite pozadinske podatke</string>
+  <string name="data_usage_restricted_body">Dodirnite da uključite podatke u pozadini</string>
   <string name="data_usage_restricted_title">Pozadinski podaci ograničeni</string>
   <string name="data_usage_warning_body">Dodirnite da biste vidjeli pojedinosti uporabe podataka.</string>
   <string name="data_usage_warning_title">Upozorenje uporabe podataka</string>
@@ -100,6 +100,7 @@ Za više informacija provjerite poruku koju ste dobili od svog operatera"</strin
   <string name="dns_exception_summary">"Provjerite DNS postavke routera."</string>
   <string name="dns_exception_title">Provjera postavki DNS-a</string>
   <string name="dialog_roaming_title">Međunarodni roaming</string>
+  <string name="dialog_title_attention">Pažnja</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="enable_network">Uključite najprije mrežu</string>
@@ -116,8 +117,8 @@ Za više informacija provjerite poruku koju ste dobili od svog operatera"</strin
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s je ograničeno od korištenja %2$s mreža</string>
   <string name="five_percent_total_pkg">%s (5%% od mjes. podataka)</string>
-  <string name="force_stop_dlg_text">"Ako ograničite pozadinske mobilne podatke, neke aplikacije i usluge neće raditi ako niste povezani na WLAN mrežu."</string>
-  <string name="force_stop_dlg_title">Ograniči pozadinske podatke</string>
+  <string name="force_stop_dlg_text">"Ako ograničite podatke u pozadini, neke aplikacije i usluge neće raditi ako niste povezani na WLAN mrežu."</string>
+  <string name="force_stop_dlg_title">Ograniči podatke u pozadini</string>
   <string name="foreground_traffic">Prednja strana %s</string>
   <string name="free_time_traffic">Isklj. maks. ograničenja podataka</string>
   <string name="free_time_traffic_hint">Unesite Isklj. maks. ograničenje podataka</string>
@@ -306,10 +307,10 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_avaible_traffic">Mobilni podaci</string>
   <string name="pref_category_title_other">Dodatne postavke</string>
   <string name="pref_check_network_diagnostics">"Test internetske veze uređaja"</string>
-  <string name="pref_connect_settings_enable_background">Dopusti pozadinske podatke</string>
+  <string name="pref_connect_settings_enable_background">Dopusti podatke u pozadini</string>
   <string name="pref_connect_settings_enable_background_hint">"Dopustiti Aplikacijama korištenje mobilnih podataka kada ih ne koristite"</string>
   <string name="pref_connect_settings_exceed_limit">Ograniči uporabu podataka</string>
-  <string name="pref_connect_settings_exceed_limit_hint">Isključi podatkovnu vezu kada uporaba podataka dosegne ograničenje</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Isključi podatkovnu vezu kada uporaba podataka dostigne ograničenje</string>
   <string name="pref_daily_adjust">Postavi ograničenje uporabe podataka</string>
   <string name="pref_daily_traffic">Ograničenje uporabe podataka</string>
   <string name="pref_data_usage_ignore_settings">Ignoriraj uporabu podataka</string>
@@ -374,9 +375,9 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg operatera za slanj
   <string name="pref_whitelist_setting">Upravljanje iznimkama</string>
   <string name="privacy_declare_dialog_message">"Korištenjem ove usluge, slažete se s Opera &lt;a href=%s&gt; Uvjeti Pružanja Usluge&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Uvjeti Pružanja Usluge</string>
-  <string name="privacy_prompt_tc_sms_report_message">"Vaš telefonski broj i detalji operatera će biti učitani na MI poslužitelje kako bi se ažurirale informacije uporabe podataka."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Ova značajka treba poslati IMEI vašeg uređaja, broj telefona i podatke vašeg operatera na MI poslužitelje kako bi dobili statistiku o uporabi podataka vašeg operatera.</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i detalji operatera će biti učitani na MI poslužitelje kako bi dobili više informacija o mogućnosti kupnje podataka."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Vaš telefonski broj i detalji operatera će biti šifrirani i učitani na Mi poslužitelje kako bi se ažurirale informacije uporabe podataka."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Ova značajka treba poslati IMEI vašeg uređaja, broj telefona i podatke vašeg operatera na Mi poslužitelje kako bi dobili statistiku o uporabi podataka vašeg operatera.</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i detalji operatera će biti šifrirani i učitani na Mi poslužitelje kako bi dobili više informacija o mogućnosti kupnje podataka."</string>
   <string name="privacy_prompt_upload">Pošalji</string>
   <string name="protocol_exception_title">Dijagnostika protokola mreže</string>
   <string name="protocol_loop_back_exception_summary">Test Lokalne povratne petlje nije uspio. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja..</string>
@@ -389,6 +390,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg operatera za slanj
   <string name="repair">Obnovi</string>
   <string name="repair_loading_text">Učitavanje…</string>
   <string name="replace_dns">Zamjeni DNS automatski</string>
+  <string name="restrictbackground_conflict_saving_msg">"Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Isključiti Uštedu podataka i ograničiti podatke u pozadini?"</string>
   <string name="right_precent">100%</string>
   <string name="roaming_limit_dialog_message">Postignuto dnevno ograničenje pod. u roamingu.</string>
   <string name="roaming_limit_network_notification_body">Dodirni za prikaz dostupnih podatkovnih mreža</string>
@@ -398,7 +400,11 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg operatera za slanj
   <string name="roaming_not_start_title">Međunarodni roaming</string>
   <string name="roaming_start_body">Dodirnite za prikaz uporabe podataka iznimaka u roamingu.</string>
   <string name="roaming_start_title">Međunarodni roaming</string>
-  <string name="root">Root pristup</string>
+  <string name="root">ROOT pristup</string>
+  <string name="saving_conflict_dialog_cancel">Odustani</string>
+  <string name="saving_conflict_dialog_ok">U redu</string>
+  <string name="saving_conflict_dialog_title">Pažnja</string>
+  <string name="saving_conflict_restrictbackground_msg">""Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Dopustiti podatke u pozadini i uključiti Uštedu podataka?"</string>
   <string name="sc_allow_network_dialog_message">Ova aplikacija treba povezivanje na internet da funkcionira normalno.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti ovu značajku"</string>
   <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
