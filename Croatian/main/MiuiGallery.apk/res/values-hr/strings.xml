@@ -50,7 +50,7 @@
   <string name="alert_init_merged_title">Sve vaše fotografije. Zajedno napokon.</string>
   <string name="alert_message_open_sync">Morate prvo uključiti sinkronizaciju</string>
   <string name="alert_secret_album_message">Prijeđite prstom prema dolje pri dnu vaših albuma u Mi Cloudu za prikaz sakrivenih albuma.</string>
-  <string name="alert_secret_album_set_pattern">Podesite uzorak otključavanja</string>
+  <string name="alert_secret_album_set_pattern">Postavite uzorak otključavanja</string>
   <string name="alert_secret_album_title">Dodano u sakriveni album</string>
   <string name="all_video_album_display_name">Svi videozapisi</string>
   <string name="already_apply_album">Otvoriti %1$s?</string>
@@ -81,7 +81,7 @@
   <string name="autofix">Auto-fix</string>
   <string name="autohomemain">Autohomemain</string>
   <string name="baby_album">Dječji album</string>
-  <string name="baby_album_new_photo_page_title">"%1$s album"</string>
+  <string name="baby_album_new_photo_page_title">"Album od %1$s"</string>
   <string name="baby_album_picker_default_title">"Odaberi lice %1$s"</string>
   <string name="baby_album_setting_title">Informacije o djetetu</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
@@ -130,12 +130,11 @@
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_cloud_album">Odaberi album</string>
   <string name="choose_owner_relation">Odnos</string>
-  <string name="cleaning_cache">Čišćenje memorije…</string>
-  <string name="clear_thumbnail_cache">Očisti memoriju minijatura</string>
+
+  <string name="clear_thumbnail_cache">Izbriši memoriju sličica</string>
   <string name="clear_thumbnail_cache_confirm">Sva memorija minijatura u Galeriji će biti izbrisana.</string>
   <string name="clear_thumbnail_cache_summary">Brisanje minijatura predmemorije u Galeriji</string>
   <string name="click_to_add_picture">Dodirnite za dodavanje slika</string>
-  <string name="click_to_enter_camera">Pokreni kameru</string>
   <string name="click_top_right">Dodirnite ovu ikonu</string>
   <string name="close">Zatvori</string>
   <string name="cloud_album_more_settings">Sinkronizraj s MiCloud</string>
@@ -259,7 +258,7 @@
   <string name="error_title">"Ne mogu sinkr."</string>
   <string name="error_unauthorized">Sinkr. onemogućena zbog previše pokušaje prijave</string>
   <string name="error_unknown_host">"Ne mogu se povezati na mrežu. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
-  <string name="event_create_long_photo">Pravljenje fotografije…</string>
+  <string name="event_create_long_photo">Izrada fotografije…</string>
   <string name="event_manage_photos">Upravljanje fotografijama</string>
   <string name="exit">Izlaz</string>
   <string name="exit_share">Napusti album</string>
@@ -276,7 +275,7 @@
   <string name="face_album_not_named">Bez naziva</string>
   <string name="face_album_new_name_hint">Novi naziv</string>
   <string name="face_album_rename_hint">Unesite naziv</string>
-  <string name="face_albumset_detecting_tip">Trenutak…</string>
+  <string name="face_albumset_detecting_tip">Samo tren…</string>
   <string name="face_albumset_empty">Prazno.</string>
   <string name="face_albumset_loading_data">Učitavanje podataka…</string>
   <string name="face_albumset_pending_enable_tip">Poredaj fotografije kada je uređaj spojen na WLAN</string>
@@ -303,8 +302,7 @@
   <string name="flip">Okreni</string>
   <string name="flip_tooltip">Povucite sliku da je preokrenete</string>
   <string name="focal_length">Žariš. duljina</string>
-  <string name="folder_holder_file">Rezevirane datoteke</string>
-  <string name="frame_black">Crno</string>
+  <string name="frame_black">Crna</string>
   <string name="frame_button">Okvir</string>
   <string name="frame_classic">Klasično</string>
   <string name="frame_movie">Film</string>
@@ -343,8 +341,7 @@
   <string name="hybrid_pull_to_refresh_release_label">Pusti za osvježiti…</string>
   <string name="hybrid_service_unavailiable">Usluga nedostupna</string>
   <string name="hybrid_try_again">Pokušaj ponovo</string>
-  <string name="how_many_pics">Snimaka %d</string>
-  <string name="ignore_album">"Ne prikazuj ponovo"</string>
+  <string name="ignore_album">"Ne prikazuj"</string>
   <string name="ignore_alert_title">"Ne prikazati ovaj album?"</string>
   <string name="ignore_face">Ignoriraj ovu osobu</string>
   <string name="image_download_item_title">Preuzmimanje datoteke (%s)</string>
@@ -424,7 +421,6 @@
   <string name="menu_item_sort_size_desc">Veličini (silazno)</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="merge_album">Spoji</string>
-  <string name="merge_album_positive_button_text">Spoji</string>
   <string name="merge_album_title">Spoji Albume</string>
   <string name="message_no_delete_access">"Nemate dopuštenje za brisanje %s"</string>
   <string name="messagelist_sender_self">Ja</string>
@@ -520,7 +516,6 @@ uređaja"</string>
   <string name="photo_page_save_image">Spremi</string>
   <string name="photo_page_save_uri_image_fail">"Ne mogu spremiti u fotografije Kamere"</string>
   <string name="photo_page_save_uri_image_ok">Fotografija spremljena u fotografije Kamere.</string>
-  <string name="photo_paint_rotate">Rotiraj</string>
   <string name="photo_save_succeed">Uspješno spremljeno</string>
   <string name="photo_size">Veličina</string>
   <string name="photoeditor_name">Foto Studio</string>
@@ -531,7 +526,6 @@ uređaja"</string>
   <string name="picker_no_album_selected">Nema odabranih albuma</string>
   <string name="picker_no_items_selected">Nema odabranih stavki</string>
   <string name="picker_select_album_title_empty">Odaberite album</string>
-  <string name="picker_tab_camera">Kamera</string>
   <string name="picker_tab_photo">Fotografija</string>
   <string name="pocket_camera_picture">Slike džepne kamere</string>
   <string name="pocket_camera_video">Videozapisi džepne kamere</string>

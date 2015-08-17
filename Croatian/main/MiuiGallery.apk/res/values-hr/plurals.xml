@@ -63,7 +63,7 @@
         <item quantity="one">"Nemate dopuštenje za brisanje ove %d datoteke."</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">Možete odabrati ovoliko stavaka: %d</item>
+        <item quantity="other">Možete odabrati ovoliko( %d) stavaka</item>
         <item quantity="one">Možete odabrati %d stavku</item>
     </plurals>
     <plurals name="number_of_images">
@@ -77,8 +77,8 @@
         <item quantity="one">%1$d stavka</item>
     </plurals>
 	<plurals name="more_face">
-        <item quantity="other">Fotog. (%1$s) od %2$s</item>
-        <item quantity="one">Fotog. (%1$s) od %2$s</item>
+        <item quantity="other">Fotografija (%1$s) od %2$s</item>
+        <item quantity="one">%1$s fotografija od %2$s</item>
     </plurals>
 	<plurals name="seconds">
         <item quantity="other">%d sek.</item>
@@ -86,7 +86,7 @@
     </plurals>
     <plurals name="ignore_faces_alert_msg">
         <item quantity="other">"Ne prikazivati ova lica?"</item>
-        <item quantity="one">"Nemoj prikazivati ovo lice?"</item>
+        <item quantity="one">"Ne prikazivati ovo lice?"</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">Fotografija (%1$d) od %2$s će biti dodano</item>
