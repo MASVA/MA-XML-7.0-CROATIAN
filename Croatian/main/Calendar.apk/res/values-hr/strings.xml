@@ -36,6 +36,8 @@
   <string name="agenda_view">Raspored</string>
   <string name="agenda_yesterday">JUČER, %1$s</string>
   <string name="alarm_label">U redu</string>
+  <string name="alert_reminder_divider">|</string>
+  <string name="alert_reminder_expired">Istekao</string>
   <string name="alert_title">Obavijesti kalendara</string>
   <string name="anniversary_metric"/>
   <string name="anniversary_term">godišnjicu</string>
@@ -46,9 +48,9 @@
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_metric"/>
+  <string name="birthday_notice_message">Pojedinosti o rođendanu je potrebno povezivanje na internet prije pregleda. Slažete li se?</string>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">Za 3 dana ima %3$s (%4$s)!</string>
-  <string name="birthday_notification_text_three_days_later_with_activity">Kupite cvijeće ili tortu za TA</string>
   <string name="birthday_notification_text_today">Ne zaboravite čestitati!</string>
   <string name="birthday_notification_title_three_days_later">"Približava se %2$s od %1$s."</string>
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>
@@ -196,8 +198,11 @@
   <string name="no_title_label">(bez naslova)</string>
   <string name="not_synced">Nije sinkronizirano</string>
   <string name="notice_button_ok">Slažem se</string>
+  <string name="notice_button_ok_and_go_on">Slažem se i nastavi</string>
+  <string name="notice_title_agreement">Uvjeti korištenja</string>
   <string name="notice_title_request">Zahtjev</string>
   <string name="online_calendar_activity_label">Upis kalendara</string>
+  <string name="online_notice_message">Pretplata na kalendar zahtijeva da se slažete s %1$s i %2$s prije uporabe. Za pretplatu na kalendar za upotrebu potrebno je povezivanje na mrežu. Slažete li se?</string>
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>
   <string name="pref_error_no_ringtone_select">Melodija zvona nije odabrana</string>
@@ -224,7 +229,7 @@
   <string name="preferences_home_tz_title">Domaća vremenska zona</string>
   <string name="preferences_reminder_title">Obavijesti &amp; podsjetnici</string>
   <string name="preferences_show_week_num_title">Pokaži broj tjedna</string>
-  <string name="preferences_title">Postavke</string>
+  <string name="preferences_title">Kalendar</string>
   <string name="preferences_use_home_tz_descrip">Prikaži kalendare i vremena događaja u vašoj početnoj vremenskoj zoni prilikom putovanja</string>
   <string name="preferences_use_home_tz_title">Upotrijebi dom. vrem. zonu</string>
   <string name="preferences_week_start_day_default"/>

@@ -30,10 +30,10 @@
   <string name="account_user_avatar">Slika profila</string>
   <string name="account_user_avatar_from_album">Odaberi sliku</string>
   <string name="account_user_avatar_from_camera">Snimi fotografiju</string>
-  <string name="account_user_base_info">Korisnički detalji</string>
+  <string name="account_user_base_info">Osobni podaci</string>
   <string name="account_user_birthday">Rođendan</string>
-  <string name="account_user_details">Detalji o korisniku</string>
-  <string name="account_user_email">Email</string>
+  <string name="account_user_details">Osobni podaci</string>
+  <string name="account_user_email">E-pošta</string>
   <string name="account_user_gender">Spol</string>
   <string name="account_user_gender_female">Žena</string>
   <string name="account_user_gender_male">Muškarac</string>
@@ -42,7 +42,7 @@
   <string name="account_user_name_dialog_title">Unesi korisničko ime</string>
   <string name="account_user_phone">Broj telefona</string>
   <string name="account_user_recovery_phone">Telefon za oporavak</string>
-  <string name="account_user_secure_info">Sigurnosni detalji</string>
+  <string name="account_user_secure_info">Telefon &amp; E-pošta</string>
   <string name="account_user_using_facebook_avatar">Upotrijebi Facebook sliku profila</string>
   <string name="account_user_using_qq_avatar">Upotrijebi QQ sliku profila</string>
   <string name="account_user_using_weibo_avatar">Upotrijebi Sina Weibo sliku profila</string>
@@ -240,6 +240,7 @@ Unesite kôd za provjeru u e-pošti"</string>
   <string name="other_devices">Ostali uređaji</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_hint_text">E-pošta ili broj telefona</string>
+  <string name="passport_account_identity_title">Potvrdite vaš identitet</string>
   <string name="passport_account_name">Račun: %1$s</string>
   <string name="passport_account_not_activated">"Račun nije aktiviran"</string>
   <string name="passport_account_not_actived">"Vaš račun nije aktiviran"</string>
@@ -348,6 +349,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_remove_confirm">Odjava</string>
   <string name="passport_remove_unactivated_account_notice">"Vaš račun još nije aktiviran."</string>
   <string name="passport_resend_active_email">Pošalji ponovo e-poštu aktivacije</string>
+  <string name="passport_send_too_many_code">Previše je kodova provjere poslano na ovaj broj. Pričekajte 24 sata i pokušajte ponovo.</string>
   <string name="passport_sim_index_info">SIM kartica %1$d - %2$s</string>
   <string name="passport_skip_login">Preskoči prijavu</string>
   <string name="passport_skip_register">Preskoči prijavu</string>

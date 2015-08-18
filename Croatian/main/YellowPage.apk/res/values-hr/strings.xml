@@ -137,6 +137,7 @@ Provjerite broj za praćenje."</string>
   <string name="express_inquiry_trace_user_notice_content">"Obavijestiti ćemo vas o promjeni statusa vaše narudžbe."</string>
   <string name="express_inquiry_untrace">"Nemoj pratiti"</string>
   <string name="express_inquiry_untrace_success">Praćenje zaustavljeno</string>
+  <string name="express_location_failed">Lociranje nije uspjelo, molimo unesite vašu adresu.</string>
   <string name="express_no_address">Prazno</string>
   <string name="express_no_order">Nema narudžbi</string>
   <string name="express_no_order_info">Nema informacija o narudžbi</string>

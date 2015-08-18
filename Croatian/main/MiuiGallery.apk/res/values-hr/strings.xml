@@ -241,7 +241,7 @@
   <string name="effect">Filteri</string>
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
   <string name="enable">Uključi</string>
-  <string name="enable_cloud_for_sharing">Omogućite MiCloud album za pregled zajedničkih slika.</string>
+  <string name="enable_cloud_for_sharing">Trebate uključiti MiCloud albume za prikaz dijeljenih fotografija.</string>
   <string name="enabling_face_feature">Samo tren…</string>
   <string name="enter_email_hint">"Unesite adresu E-pošte"</string>
   <string name="error_album_not_exist">"Album ne postoji."</string>
@@ -384,10 +384,10 @@
   <string name="item_not_sync_for_origin_video">"Ne mogu preuzeti videozapise koji nisu sinkronizirani s Mi Cloudom."</string>
   <string name="item_not_sync_for_refocus_data">"Ne mogu fokusirati podatke za fotografije koje nisu sinkronizirane s Mi Cloudom."</string>
   <string name="kick_owner_user_positive_button_text">Ukloni</string>
-  <string name="kick_owner_user_title">Ukloniti ovog člana?</string>
-  <string name="kick_sharer">Ukloni dijeljitelja</string>
-  <string name="kick_sharer_failed">"Ne mogu ukloniti korisnika"</string>
-  <string name="kick_sharer_successfully">Korisnik uklonjen</string>
+  <string name="kick_owner_user_title">Ukloniti ovu osobu?</string>
+  <string name="kick_sharer">Ukloni zajedničkog gledatelja</string>
+  <string name="kick_sharer_failed">"Ne mogu ukloniti ovu osobu"</string>
+  <string name="kick_sharer_successfully">Ova osoba je uklonjena</string>
   <string name="last_chinese_new_year">Zadnja Kineska Nova godina</string>
   <string name="last_new_year">Zadnja Nova godina</string>
   <string name="last_valentine_day">Zadnje Valentinovo</string>
@@ -497,7 +497,7 @@ uređaja"</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
   <string name="other_category">Dodatne postavke</string>
-  <string name="owner_album_subtitle">Podijeljeno s %1$s članova</string>
+  <string name="owner_album_subtitle">Podijeljeno s %1$s ljudi</string>
   <string name="paint_brush">Kist</string>
   <string name="paint_cancel_context">"Odbaciti promjene napravljene na ovoj slici?"</string>
   <string name="paint_cancel_title">Odbaci promjene</string>
@@ -638,7 +638,7 @@ uređaja"</string>
   <string name="share_current_album">Podijelite trenutni album</string>
   <string name="share_public_url_text">Podijelio sam %1$s album s tobom. Pregledaj ga na %2$s</string>
   <string name="share_title_more">Više</string>
-  <string name="sharer_quota_fulfiled">"Već ste podijelili ovaj album sa maksimalnim brojem korisnika."</string>
+  <string name="sharer_quota_fulfiled">"Već ste podijelili ovaj album sa maksimalnim brojem ljudi."</string>
   <string name="sharpen">Izoštri</string>
   <string name="show_all">Slike i videozapisi</string>
   <string name="show_hidden_album">Pokaži skrivene albume</string>

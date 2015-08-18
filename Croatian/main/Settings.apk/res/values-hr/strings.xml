@@ -1039,7 +1039,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="dndm_vip_list_custom">Iznimke</string>
   <string name="dndm_vip_list_custom_group">Iznimke</string>
   <string name="dndm_vip_list_group">Popis iznimaka</string>
-  <string name="dndm_wristband">Pametna narukvica</string>
+  <string name="dndm_wristband">Mi Band</string>
   <string name="dndm_wristband_detailed">"Uključite Ne ometaj me ako Mi Band otkrije da spavate u roku od sat vremena prije zakazanog vremena početka"</string>
   <string name="dndm_wristband_detailed2">"Isključite Ne ometaj me ako Mi Band otkrije da Mi Band otkrije da ste budni se u roku od sat vremena prije zakazanog vremena završetka"</string>
   <string name="dndm_vip_user_setting_title">Popis iznimaka</string>

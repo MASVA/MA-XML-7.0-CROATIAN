@@ -127,6 +127,7 @@
   <string name="account_setup_failed_security">Otvaranje veze s poslužiteljem nije bilo moguće zbog sigurnosne pogreške.</string>
   <string name="account_setup_failed_security_policies_unsupported">Ovaj poslužitelj zahtijeva sigurnosne značajke koje vaš Android uređaj ne podržava, uključujući: %s</string>
   <string name="account_setup_failed_tls_required">TLS je obavezan, ali ga poslužitelj ne podržava.</string>
+  <string name="account_setup_failed_too_many_partnerships">Prijava nije uspjela, postignut je maksimalni broj dopuštenih povezivanja na poslužitelj.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Kad izbrišem iz Smeća</string>
   <string name="account_setup_incoming_delete_policy_label">Izbriši e-poštu s poslužitelja</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nikad</string>
@@ -724,11 +725,13 @@ Kopija: %4$s
   <string name="outbox_alert_certificate_error">"Obratite se administratoru sustava e-pošte i ažurirajte svoj certifikat."</string>
   <string name="outbox_alert_description_auth_error">Pogreška provjere autentičnosti s poslužitelja tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_cannot_authenticate">"Ne mogu provjeriti autentičnost %s."</string>
+  <string name="outbox_alert_description_email_size_error">Postignut je maksimalan broj E-pošte.</string>
+  <string name="outbox_alert_description_fail_authentication">Pogrešno korisničko ime ili zaporka.</string>
   <string name="outbox_alert_description_http_error">HTTP Pogreška tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_insufficient_storage_error">Nedovoljno prostora pohrane na poslužitelju e-pošte</string>
   <string name="outbox_alert_description_provision_error">Pogreška Odredaba s poslužitelja tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_reject_by_server">Odbijeno od %s</string>
-  <string name="outbox_alert_description_sent_failed">"Veličina privitka prelazi ograničenje primatelja."</string>
+  <string name="outbox_alert_description_sent_failed">Veličina privitka prelazi ograničenje poslužitelja.</string>
   <string name="outbox_alert_duplicate_click">"Još sinkroniziram…"</string>
   <string name="outbox_alert_edit_resend">Uredi i ponovo pošalji</string>
   <string name="outbox_alert_failed_edit_resend">"Ne mogu poslati. Uredi i pokušaj ponovo."</string>
