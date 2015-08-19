@@ -171,6 +171,7 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Izbrisati svu povijest poziva?</string>
   <string name="confirm_delete_selected_all_call_logs">Izbrisati svu povijest poziva?</string>
+  <string name="confirm_delete_sim_entry_miui_title">Izbriši</string>
   <string name="confirm_export_message">"Vaš popis kontakata bit će izvezen u datoteku: %s."</string>
   <string name="confirm_export_title">"Izvesti kontakte?"</string>
   <string name="connections">Veze</string>
@@ -192,9 +193,9 @@
   <string name="contact_detail_miprofile_exchange_closed">"Nema broja telefona povezanog s ovim Mi Računom
 Kartice kontakata su isključene"</string>
   <string name="contact_detail_miprofile_privacy_settings">Potrebno je dopuštenje za pregled</string>
-  <string name="contact_detail_miprofile_request">Dodirnite za razmjenu kartica</string>
+  <string name="contact_detail_miprofile_request">Razmjeni Kartice kontakata</string>
   <string name="contact_detail_miprofile_request_fail_toast">"Ne mogu poslati zahtjev"</string>
-  <string name="contact_detail_miprofile_request_subtitle">Nakon što primatelj prihvati, fotografija profila i Informacije o kontaktu će se automatski ažurirati</string>
+  <string name="contact_detail_miprofile_request_subtitle">Ažuriraj fotografije profila i informacije o kontaktu automatski</string>
   <string name="contact_detail_miprofile_request_success_toast">Zahtjev je poslan</string>
   <string name="contact_detail_miprofile_save">Dodirnite za dobivanje kartice kontakta</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Ne mogu dobiti karticu kontakta"</string>
@@ -206,9 +207,9 @@ Kartice kontakata su isključene"</string>
   <string name="contact_detail_profile_switch_off">Kartice kontakta su isključene</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"Ne mogu isključiti kartice"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Kartice kontakta su isključene</string>
-  <string name="contact_detail_profile_switch_on">"View contacts' profile photo"</string>
+  <string name="contact_detail_profile_switch_on">"Prikaži fotografije profila kontakta"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">"Ne mogu isključiti kartice</string>
-  <string name="contact_detail_profile_switch_on_success_toast">Kartice kontakta su već uključene</string>
+  <string name="contact_detail_profile_switch_on_success_toast">Dodirnite da uključite kartice kontakata</string>
   <string name="contact_directory_description">Direktorij %1$s</string>
   <string name="contact_edit_title_edit">"Uredi kontakt"</string>
   <string name="contact_edit_title_insert">"Spremi u %s"</string>
@@ -499,12 +500,14 @@ Razlog: \"%s\""</string>
   <string name="in_call_show_delete_message">Izbrisati vaš videozapis?</string>
   <string name="in_call_show_delete_title">Izbrisati videozapis?</string>
   <string name="in_call_show_demo_present">Pregled</string>
+  <string name="in_call_show_guide_intro">"Snimite videozapis profila koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih nazovete"</string>
   <string name="in_call_show_guide_start_recording">Snimi sada</string>
+   <string name="in_call_show_guide_title">Videozapis profila</string>
   <string name="in_call_show_long_press_to_record">Pritisni &amp; drži za snimanje</string>
   <string name="in_call_show_pick_video">Odaberi videozapis</string>
   <string name="in_call_show_preview">Pregled</string>
   <string name="in_call_show_recording">Snimanje…</string>
-  <string name="in_call_show_reshoot">Pokušaj ponovo</string>
+  <string name="in_call_show_reshoot">Smimi ponovo</string>
   <string name="in_call_show_save_completed">Videozapis profila je spremljen</string>
   <string name="in_call_show_save_failed">"Ne mogu spremiti videozapis"</string>
   <string name="in_call_show_tap_to_show_demo">Dodirnite zaslon za pregled</string>
@@ -623,7 +626,7 @@ Razlog: \"%s\""</string>
   <string name="miprofile_edit_title">Uredi profil</string>
   <string name="miprofile_error_accept_self">"Vlastita kartica se ne može razmjenjivati"</string>
   <string name="miprofile_error_no_miaccount">Prijavite se u vaš Mi Račun</string>
-  <string name="miprofile_error_not_opened">Kartice kontakata su isključene</string>
+  <string name="miprofile_error_not_opened">Isključite Kartice kontakata</string>
   <string name="miprofile_error_not_set">"Vaša Kartica kontakta nije sinkronizirana s poslužiteljem"</string>
   <string name="miprofile_error_unknown">Nepoznata pogreška</string>
   <string name="miprofile_name">Moj profil</string>
@@ -1089,7 +1092,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="scan_duplicate_message">Broj kontakata s identičnim informacijama: %1$d</string>
   <string name="scan_merge">Pretraživanje dvostrukih kontakata…</string>
   <string name="scan_qrcode_card_hint1">Skeniraj QR kod</string>
-  <string name="scan_qrcode_card_hint2">Dodaj u kontakte</string>
+  <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Pohrana se ne može skenirati.</string>
   <string name="sdcard_not_mounted_dialog_message">"Umetnite SD karticu.

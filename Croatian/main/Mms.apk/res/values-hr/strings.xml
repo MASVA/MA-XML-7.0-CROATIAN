@@ -277,6 +277,9 @@
   <string name="mx_activate_int_hint_malformed_info">Vaš operater vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
   <string name="mx_activate_int_hint_server">Vaš operater vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
   <string name="mx_activate_int_hint_sim_change">Izgleda da ste promijenili SIM kartice. Vaš operater vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka."</string>
+  <string name="mx_and_voip_enable">Mi Poruka &amp; Voice</string>
+  <string name="mx_and_voip_enable_popup_msg">"Šaljite poruke i upućivajte pozive drugim MIUI korisnicima bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
+  <string name="mx_and_voip_enable_popup_msg2">Pravila o Privatnosti</string>
   <string name="mx_auto_resend_mms">Automatski ponovo pošalji MMS</string>
   <string name="mx_auto_resend_mms_summary">Pošalji multimedijalne poruke kao MMS poruke preko mobilne podatkovne veze kada niste povezani na WLAN. Snosite redovite troškove vašeg davatelja usluga.</string>
   <string name="mx_auto_resend_sms">Pošalji kao SMS poruku</string>
@@ -586,6 +589,9 @@ Provedeni pokušaj: %s."</string>
   <string name="view_hms_attachment_fail">"Ne mogu preuzeti sliku."</string>
   <string name="view_hms_details">Detalji</string>
   <string name="view_message_details">Prikaži pojedinosti</string>
+  <string name="voip_enable">Mi Poruka i Voice</string>
+  <string name="voip_enable_popup_msg">"Upućivajte pozive drugim MIUI korisnicima bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
+  <string name="voip_enable_popup_msg2">Pravila o Privatnosti</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Pošalji za %ds</string>
   <string name="xiaomi_service_number">Broj usluge</string>

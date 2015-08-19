@@ -252,7 +252,7 @@
   <string name="corporate_unlock_success">SIM Korporativno otključavanje uspješno.</string>
   <string name="cursorError">Pokazivač ne daje odgovarajuće podatke</string>
   <string name="data_enable_summary">Dopusti uporabu podataka</string>
-  <string name="data_enabled">Podaci su omogućeni</string>
+  <string name="data_enabled">Mob. Podaci</string>
   <string name="deactivate_all">Otkaži sve</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Zadani zvuk (%1$s)</string>

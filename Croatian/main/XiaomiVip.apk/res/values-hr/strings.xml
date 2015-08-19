@@ -7,6 +7,7 @@
   <string name="award_time">Prikupljeno %s</string>
   <string name="awarded_package_is_expired">Isteklo</string>
   <string name="awarded_package_was_redeemed">Otkupljeno</string>
+  <string name="buff_enable">[ omogući ]</string>
   <string name="cube_ptr_hours_ago"> sati ranije</string>
   <string name="cube_ptr_last_update">Zadnje ažuriranje: </string>
   <string name="cube_ptr_minutes_ago"> min. ranije</string>
@@ -16,11 +17,14 @@
   <string name="cube_ptr_refreshing">Ažuriram…</string>
   <string name="cube_ptr_release_to_refresh">Otpusti za osvježiti</string>
   <string name="cube_ptr_seconds_ago"> sek. ranije</string>
+  <string name="days">%d dana</string>
   <string name="exp_buff">+%s%% iskustvo</string>
   <string name="experience">Isk</string>
   <string name="expired">Isteklo</string>
   <string name="fail_reach_server">"Ne mogu se povezati na poslužitelj"</string>
   <string name="giveup">Odustani</string>
+  <string name="hello">Pozdrav</string>
+  <string name="hours">%d sati</string>
   <string name="in_progress">Slanje zahtjeva…</string>
   <string name="invalid_json">Nešto nije u redu</string>
   <string name="level">Razina</string>
@@ -28,6 +32,8 @@
   <string name="level_exp_value" formatted="false">%d/%d</string>
   <string name="level_info_format" formatted="false">"Razina %d %d/%d
 %s"</string>
+  <string name="millis">%d millis.</string>
+  <string name="minutes">%d min.</string>
   <string name="my_award">Moje nagrade</string>
   <string name="no_app">Instalirajte prvo Mi VIP aplikaciju</string>
   <string name="no_award">Nema nagrada</string>
@@ -39,6 +45,7 @@
   <string name="query_level_fail">"Ne mogu dobiti informacije"</string>
   <string name="query_user_tasks_fail">"Ne mogu dobiti detalje zadatka"</string>
   <string name="take_awarded_package">Otkupljen</string>
+  <string name="seconds">%d sek.</string>
   <string name="take_awarded_package_failed">"Ne mogu otkupiti dar. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="task">Zadaci</string>
   <string name="task_begin">U tijeku…</string>

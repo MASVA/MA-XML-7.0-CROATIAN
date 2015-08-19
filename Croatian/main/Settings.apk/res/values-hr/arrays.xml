@@ -40,11 +40,11 @@
         <item>30 minuta</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Normalan</item>
-        <item>Srednji</item>
-        <item>Veći</item>
-        <item>Veliki</item>
-		<item>Ogroman</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Jako sporo</item>
@@ -750,8 +750,8 @@
         <item>Prikaži animacije sustava</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"Da ubrzate performanse uređaja, sakrijte animacije sustava"</item>
-        <item>"Animacije sustava mogu usporiti performanse uređaja"</item>
+        <item>"Ubrzajte performanse uređaja"</item>
+        <item>"Mogu usporiti performanse uređaja"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>

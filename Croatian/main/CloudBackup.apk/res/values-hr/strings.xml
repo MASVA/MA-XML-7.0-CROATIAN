@@ -13,6 +13,7 @@
   <string name="button_delete">Izbriši</string>
   <string name="button_next">Dalje</string>
   <string name="cancel_recover_settings">&lt;u&gt;Odustani&lt;/u&gt;</string>
+  <string name="click_try_to_restore_again">Kliknite da pokušate ponovo</string>
   <string name="cloud_app_backup_success">Sig. kopija aplikacija završena</string>
   <string name="cloud_app_check_data">Razgovor sa Mi Cloudom…</string>
   <string name="cloud_app_current_device">Trenutan uređaj</string>

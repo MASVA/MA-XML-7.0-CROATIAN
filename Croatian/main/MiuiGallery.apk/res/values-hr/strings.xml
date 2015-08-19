@@ -87,6 +87,7 @@
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
 %3$s %4$s je podijelio %5$s album s tobom"</string>
   <string name="baby_album_sharer_recommand_face">Dodati postojeću fotografiju od %1$s?</string>
+  <string name="baby_album_sharers_page_title">Podijelite sa obitelji</string>
   <string name="baby_birthday">Rođendan</string>
   <string name="baby_lock_wallpaper">Slika zaklj. zaslona</string>
   <string name="baby_lock_wallpaper_at_least_one_selected">Odaberite album</string>
@@ -130,7 +131,6 @@
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_cloud_album">Odaberi album</string>
   <string name="choose_owner_relation">Odnos</string>
-
   <string name="clear_thumbnail_cache">Izbriši memoriju sličica</string>
   <string name="clear_thumbnail_cache_confirm">Sva memorija minijatura u Galeriji će biti izbrisana.</string>
   <string name="clear_thumbnail_cache_summary">Brisanje minijatura predmemorije u Galeriji</string>
@@ -167,9 +167,6 @@
   <string name="comma">, </string>
   <string name="confirm">U redu</string>
   <string name="confirm_delete">Izbrisati fotografije (%s)?</string>
-  <string name="confirm_delete_has_cloud_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
-  <string name="confirm_delete_has_cloud_local_image_video">"Izbrisati fotografije (%s) na ovom uređaju i u Mi Cloudu?"</string>
-  <string name="confirm_delete_has_local_image_video">Izbrisati stavku %s?</string>
   <string name="confirm_delete_init_message">Fotografije će biti izbrisane s ovog uređaja i s MiClouda. Ako ih želite izbrisati samo s uređaja, prijeđite na karticu \"Izvanmrežno\".</string>
   <string name="confirm_delete_init_title">Izbriši fotografiju</string>
   <string name="confirm_download">Morate preuzeti %s.</string>
@@ -717,6 +714,7 @@ uređaja"</string>
   <string name="video_err">"Ne mogu reproducirati videozapis."</string>
   <string name="video_not_exist">Videozapis ne postoji</string>
   <string name="videos">" Videozapisa"</string>
+  <string name="view_baby_album">Prikaži dječji album</string>
   <string name="view_face_album">Prikaži album</string>
   <string name="view_sharers">Prikaži sudionike</string>
   <string name="vignette">Vinjeta</string>

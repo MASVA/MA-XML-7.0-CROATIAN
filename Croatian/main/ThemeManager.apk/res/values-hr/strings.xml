@@ -78,10 +78,10 @@
   <string name="loading_resource_detail_fail">"Ne mogu učitati resurse!"</string>
   <string name="loading_resource_detail_info">Učitavam…</string>
   <string name="lockscreen_magazine_subscribe">%1$s sljedbenika</string>
-  <string name="lockscreen_magazine_summary">Dobijte nove pozadine dostavljene izravno na vaš zaključani zaslon</string>
-  <string name="lockscreen_magazine_system_subscribe">%1$s odabrano</string>
+  <string name="lockscreen_magazine_summary">Dobijte svakodnevno pozadine dostavljene izravno na vaš zaključani zaslon</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s pozadina</string>
   <string name="lockscreen_magazine_system_title">Zadano</string>
-  <string name="lockscreen_magazine_title">Kustosi zaklj. zasloni</string>
+  <string name="lockscreen_magazine_title">Dnevni zaklj. zaslon</string>
   <string name="lockscreen_wallpaper">Zaklj. zaslon</string>
   <string name="lockstyle_personal_settings">Uređivanje</string>
   <string name="long_ringtone_resource">Dugo</string>
@@ -369,7 +369,7 @@
   <string name="vip_level_value">LV%d</string>
   <string name="wallpaper_crop">Obreži</string>
   <string name="wallpaper_decoded_error">"Ne mogu učitati sliku pozadine"</string>
-  <string name="wallpaper_loading_text">Učitavanje…</string>
+  <string name="wallpaper_loading_text">Samo tren…</string>
   <string name="wallpaper_set_as_both">Podesi oboje</string>
   <string name="wallpaper_set_as_destop">Podesi za sliku pozadine</string>
   <string name="wallpaper_set_as_lockscreen">Podesi za sliku zaklj.zaslona</string>

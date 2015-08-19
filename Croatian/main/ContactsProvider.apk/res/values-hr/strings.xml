@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Prostor za pohranu kontakata</string>
-  <string name="call_log_provider_label">Zapis poziva</string>
+  <string name="call_log_provider_label">Povijest poziva</string>
   <string name="create_contact">Novi kontakt</string>
   <string name="debug_dump_database_message">Upravo ćete 1) napraviti kopiju svoje baze podataka koja uključuje sve podatke koji se odnose na kontakte i sve dnevnike poziva u internoj pohrani i 2) poslat ćete tu kopiju e-poštom. Ne zaboravite izbrisati kopiju čim ju uspješno kopirate s uređaja ili čim je e-poruka primljena.</string>
   <string name="debug_dump_delete_button">Izbriši sada</string>

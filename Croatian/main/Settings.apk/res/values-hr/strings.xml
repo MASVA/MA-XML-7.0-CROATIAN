@@ -657,11 +657,11 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="check_update">Provjeri ažuriranja</string>
   <string name="checkbox_notification_same_as_incoming_call">Koristi glasnoću dolaznog poziva za obavijesti</string>
   <string name="checking_for_updates">Provjera ažuriranja…</string>
-  <string name="children_mode_enable_title">Roditeljska kontrola</string>
+  <string name="children_mode_enable_title">Dječji način</string>
   <string name="children_mode_set_apps_title">Dostupne aplikacije</string>
-  <string name="children_mode_tips_off">Nakon uključivanja roditeljske kontrole na dodirnite tipku Početna za povratak na Početni zaslon</string>
-  <string name="children_mode_tips_on">Nakon isključivanja roditeljske kontrole na dodirnite tipku Početna za povratak na Početni zaslon</string>
-  <string name="children_mode_title">Roditeljska kontrola</string>
+  <string name="children_mode_tips_off">Nakon uključivanja Dječjeg načina na dodirnite tipku Početna za povratak na Početni zaslon</string>
+  <string name="children_mode_tips_on">Nakon isključivanja Dječjeg načina na dodirnite tipku Početna za povratak na Početni zaslon</string>
+  <string name="children_mode_title">Dječji način</string>
   <string name="choose_smartcover_type">Odaberite vrstu futrole</string>
   <string name="choose_timezone">Odabir vremenske zone</string>
   <string name="cleaner">Čistač</string>
@@ -1946,7 +1946,7 @@ i pokrenite ga."</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Informacije o vlasniku</string>
   <string name="packages_subtitle">Uključeni paketi</string>
-  <string name="page_layout_1">Ned 28/12</string>
+  <string name="page_layout_1">Nedjelja, 14 ožujak</string>
   <string name="page_layout_10">Postavke</string>
   <string name="page_layout_11">Vrijeme</string>
   <string name="page_layout_12">Sigurnost</string>
@@ -2350,11 +2350,11 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="screen_paper_mode_turn_off">Isključeno</string>
   <string name="screen_paper_mode_turn_on">Uključeno</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Ne prikazuj ponovo"</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Slažem se i Nastavi</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Da ažurirate popis aplikacija koje mogu koristiti način čitanja, potrebno je povezivanje s internetom.</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Uvjeti i Odredbe</string>
-  <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koje koriste načina čitanja preko mreže</string>
-  <string name="screen_paper_mode_update_white_pkg_list_title">Popis ažuriranja mreže</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Dopusti</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Da ažurirate popis aplikacija koje koriste način čitanja, potrebno je povezivanje s internetom.</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Povezivanje s internetom</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koja automatski koriste načina čitanja</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Ažuriraj automatski</string>
   <string name="screen_pinning_description">"Kad je prikvačivanje zaslona uključeno, možete zadržati trenutačan zaslon u prednjem planu dok ga ne otkvačite.
 
 Da biste upotrebljavali prikvačivanje zaslona:
@@ -2497,7 +2497,7 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="service_stop_description">Ovu je uslugu pokrenula njezina aplikacija. Zaustavljanje može uzrokovati pad aplikacije.</string>
   <string name="services_subtitle">Usluge</string>
   <string name="set_password_action">Postavi zaporku</string>
-  <string name="set_password_message">Postavite zaporku za isključivanje roditeljskog nadzora, kao i za otključavanje ovog uređaja.</string>
+  <string name="set_password_message">Postavite zaporku za isključivanje Dječjeg načina, kao i za otključavanje ovog uređaja.</string>
   <string name="set_password_title">Postavi zaporku</string>
   <string name="settings_backup">Sigurnosna pohrana postavki</string>
   <string name="settings_backup_summary">Stvori sigurnosnu pohranu mojih postavki</string>
@@ -2707,7 +2707,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_show_keyguard_notification_summary">Prikaži plutajuće obavijesti na zaključanom zaslonu i posvuda drugdje</string>
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži u panelu</string>
-  <string name="status_bar_settings_show_notification_icon">Prikaži ikonu obavijesti</string>
+  <string name="status_bar_settings_show_notification_icon">Prikaži ikone obavijesti</string>
   <string name="status_bar_settings_show_screenshot_notification">Prikaži obavijest o snimci zaslona</string>
   <string name="status_bar_settings_show_statusBar_notification">Prikaži kao popis</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Obavijest se na kratko pojavljuje na vrhu zaslona</string>
