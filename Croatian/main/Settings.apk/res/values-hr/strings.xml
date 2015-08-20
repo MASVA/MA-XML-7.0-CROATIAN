@@ -188,7 +188,7 @@ Jednostavno približite jedan uređaj drugom (obično se njihove stražnje stran
   <string name="app_not_found_dlg_text">"Aplikacija nije pronađena na popisu instaliranih aplikacija."</string>
   <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">Ova aplikacija nije podržana u ograničenim profilima</string>
-  <string name="app_notification_block_summary">Nikad ne prikazuj obavijesti s te aplikacije</string>
+  <string name="app_notification_block_summary">Nikad ne prikazuj obavijesti ove aplikacije</string>
   <string name="app_notification_block_title">Blokiraj</string>
   <string name="app_notification_priority_summary">Prikaži obavijesti pri vrhu popisa i nastavi ih prikazivati kada je uređaj postavljen samo na prioritetne prekide</string>
   <string name="app_notification_priority_title">Prioritet</string>

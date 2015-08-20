@@ -112,7 +112,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="gps_notification_found_text">Lokaciju postavio GPS</string>
   <string name="gps_notification_searching_text">Traženje GPS-a</string>
   <string name="headset_custom">Odbaci</string>
-  <string name="headset_info">Dodirnite za podešavanje vrste slušalica i funkcije tipaka</string>
+  <string name="headset_info">Dodirnite za podešavanje postavki</string>
   <string name="headset_settings">Slušalice su spojene</string>
   <string name="hint_for_long_press_app_switch_key">Pritisni &amp; drži za izbornik</string>
   <string name="invalid_charger">USB punjenje nije podržano.
@@ -159,7 +159,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="return_to_incall_screen">Povratak na poziv</string>
   <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke su isključene</string>
-  <string name="screenshot_failed_text">Nije moguće spremiti snimku zaslona. Pohrana je možda u upotrebi.</string>
+  <string name="screenshot_failed_text">"Ne mogu spremiti snimku zaslona. Pohrana je možda u upotrebi."</string>
   <string name="screenshot_saved_text">"Dodirnite za prikaz snimke zaslona."</string>
   <string name="screenshot_saved_title">"Zaslon je snimljen."</string>
   <string name="screenshot_saving_text">Snimka zaslona se sprema.</string>
@@ -220,7 +220,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="usb_notification_ptp_info">Pristup fotografijama pohranjenim na ovom uređaju</string>
   <string name="usb_notification_ptp_ticker_text">USB Povezan (Fotografije)</string>
   <string name="usb_ptp_text">Fotografije</string>
-  <string name="usb_share_net_info">Koristi internetsku vezu računala</string>
+  <string name="usb_share_net_info">"Koristi internetsku vezu računala"</string>
   <string name="usb_storage_error_message">Došlo je do pogreške pri pokušaju prikaza vašeg uređaja kao USB masovne pohrane.</string>
   <string name="usb_storage_message">"Povezali ste se s računalom putem USB-a. Dodirnite donju tipku ako želite kopirati datoteke između računala i USB pohrane svog uređaja Android."</string>
   <string name="usb_storage_notification_message">"Dodirnite za kopiranje datoteka na računalo ili s računala."</string>
