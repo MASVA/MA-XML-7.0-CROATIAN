@@ -2,18 +2,18 @@
 <resources>
   <string name="about_to_recover">Samo tren…</string>
   <string name="app_name">Sig. kopija Apk​</string>
-  <string name="back_up_task_in_process">Izrada u tijeku</string>
+  <string name="back_up_task_in_process">Izrada u tijeku…</string>
   <string name="back_up_task_unfinished">Sig. kopija nije završena</string>
   <string name="backing_up_to_micloud">Izrada u tijeku…</string>
-  <string name="backup_fail">Sig. kopija aplikacija Početnog zaslona nije uspjela</string>
+  <string name="backup_fail">"Ne mogu izraditi Sig. kopiju aplikacija Početnog zaslona"</string>
   <string name="backup_size">Veličina: %s</string>
-  <string name="backup_success">Sig. kopija aplikacija Početnog zaslona je uspjela</string>
+  <string name="backup_success">Sig. kopija aplikacija Početnog zaslona napravljena</string>
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_delete">Izbriši</string>
   <string name="button_next">Dalje</string>
   <string name="cancel_recover_settings">&lt;u&gt;Odustani&lt;/u&gt;</string>
-  <string name="click_try_to_restore_again">Kliknite da pokušate ponovo</string>
+  <string name="click_try_to_restore_again">Dodirnite da pokušate ponovo</string>
   <string name="cloud_app_backup_success">Sig. kopija aplikacija završena</string>
   <string name="cloud_app_check_data">Razgovor sa Mi Cloudom…</string>
   <string name="cloud_app_current_device">Trenutan uređaj</string>
@@ -26,9 +26,9 @@
   <string name="cloud_app_restore_error">"Ne mogu vratiti"</string>
   <string name="cloud_app_restore_success">Aplikacije vraćene</string>
   <string name="cloud_app_restore_wifi_prompt">Da vratite Sig. kopiju iz Mi Clouda, morate se povezati s WLAN mrežom.</string>
-  <string name="cloud_back_up_task">Izrada Sig. kopije</string>
+  <string name="cloud_back_up_task">Izrada Sig. kopije…</string>
   <string name="cloud_restore_from_other_device">"Zaustaviti vraćanje %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
-  <string name="cloud_restore_task">Vraćanje</string>
+  <string name="cloud_restore_task">Vraćanje…</string>
   <string name="cloud_task_in_process">"Zaustaviti %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
   <string name="customization">&lt;u&gt;Prilagodi&lt;/u&gt;</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -41,8 +41,8 @@
   <string name="device_delete_prompt">Izbrisati Sig. kopiju za %s?</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-  <string name="download_settings">Preuzimanje postavki Početnog zaslona: %s%%</string>
-  <string name="download_settings_fail">Preuzimanje postavki Početnog zaslona nije uspjelo</string>
+  <string name="download_settings">Preuzimanje postavki Početnog zaslona %s%%</string>
+  <string name="download_settings_fail">"Ne mogu preuzeti postavke Početnog zaslona"</string>
   <string name="error_unknown">Nešto je pošlo po krivu</string>
   <string name="latest_backup_time_loading">Učitavanje…</string>
   <string name="managespace_delete_backup">Izbriši Sig. kopiju</string>
@@ -59,10 +59,10 @@
   <string name="process_whole_recovery">Vraćanje \"%s\"</string>
   <string name="recover_from_micloud">Vrati Sig. kopiju iz Mi Clouda</string>
   <string name="recover_home_settings">Vrati postavke Poč. zaslona</string>
-  <string name="recover_miui_settings">Vrati postavke MIUI sustava</string>
+  <string name="recover_miui_settings">Vrati postavke sustava</string>
   <string name="recover_settings_description">Držite vaš uređaj uključenim</string>
   <string name="recovering">Vraćanje %s</string>
-  <string name="remove_task_in_process">Uklanjanje</string>
+  <string name="remove_task_in_process">Uklanjanje…</string>
   <string name="remove_task_unfinished">Uklanjanje nije završeno</string>
   <string name="restore_from_cloud">Vrati Sig. kopiju iz Mi Clouda</string>
   <string name="restoreing_file_tile">Vraćanje datoteka (%d)</string>
@@ -71,6 +71,6 @@
   <string name="settings_backup">Postavke sustava</string>
   <string name="start_backup_to_micloud">Napravi Sig. kopiju aplikacija na MiCloud</string>
   <string name="start_recover">Vraćanje %s</string>
-  <string name="wait_icon_download">Preuzimanje ikone aplikacije</string>
+  <string name="wait_icon_download">Preuzimanje ikone aplikacija</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -8,8 +8,8 @@
   <string name="account_bind_devices">Uređaji</string>
   <string name="account_bind_new_phone">Dodaj novi telefon</string>
   <string name="account_bind_phone_notice">Koristi ovaj broj telefona za prijavu na račun, poništavanje zaporke ili promjenu sigurnosnih postavki.</string>
-  <string name="account_bind_secure_email_title">Dodaj e-poštu za oporavak</string>
-  <string name="account_bind_secure_phone_title">Dodaj telefon za oporavak</string>
+  <string name="account_bind_secure_email_title">Dodaj e-poštu</string>
+  <string name="account_bind_secure_phone_title">Dodaj broj telefona</string>
   <string name="account_bind_settings">Računi</string>
   <string name="account_binded_phone">Telefon %d</string>
   <string name="account_crop_user_avatar">Obreži sliku</string>
@@ -24,11 +24,11 @@
   <string name="account_no_set">Ništa</string>
   <string name="account_none">Ništa</string>
   <string name="account_none_binded_info">Ništa</string>
-  <string name="account_none_binded_secure_phone">Nema telefona za oporavak</string>
+  <string name="account_none_binded_secure_phone">Nema broja telefona</string>
   <string name="account_none_user_name">Ništa</string>
   <string name="account_settings">Račun</string>
-  <string name="account_user_avatar">Slika profila</string>
-  <string name="account_user_avatar_from_album">Odaberi sliku</string>
+  <string name="account_user_avatar">Fotografija profila</string>
+  <string name="account_user_avatar_from_album">Odaberi fotografiju</string>
   <string name="account_user_avatar_from_camera">Snimi fotografiju</string>
   <string name="account_user_base_info">Osobni podaci</string>
   <string name="account_user_birthday">Rođendan</string>
@@ -43,9 +43,9 @@
   <string name="account_user_phone">Broj telefona</string>
   <string name="account_user_recovery_phone">Telefon za oporavak</string>
   <string name="account_user_secure_info">Telefon &amp; E-pošta</string>
-  <string name="account_user_using_facebook_avatar">Upotrijebi Facebook sliku profila</string>
-  <string name="account_user_using_qq_avatar">Upotrijebi QQ sliku profila</string>
-  <string name="account_user_using_weibo_avatar">Upotrijebi Sina Weibo sliku profila</string>
+  <string name="account_user_using_facebook_avatar">Upotrijebi Facebook fotografiju profila</string>
+  <string name="account_user_using_qq_avatar">Upotrijebi QQ fotografiju profila</string>
+  <string name="account_user_using_weibo_avatar">Upotrijebi Sina Weibo fotografiju profila</string>
   <string name="account_xiaomi_service">Usluge</string>
   <string name="account_vip_level">Račun</string>
   <string name="account_vip_task">Napredak</string>
@@ -396,7 +396,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="phone_send_verify_code_prompt">Pošalji kod za provjeru %s</string>
   <string name="phone_unactivated">Nije aktivirano</string>
   <string name="phone_unknown">Nepoznato</string>
-  <string name="photoPickerNotFoundText">Nema dostupnih slika.</string>
+  <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
   <string name="prev">Natrag</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="qq">QQ</string>

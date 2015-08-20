@@ -11,7 +11,7 @@
   <string name="account_unactivated">Račun nije aktiviran</string>
   <string name="account_updating_device">Ažuriranje…</string>
   <string name="account_updating_device_failed">"Ne mogu se prijaviti"</string>
-  <string name="account_verify_password">"Vi koristite ovu uslugu na drugom uređaju. Iz sigurnosnih razloga, morate potvrditi svoj Mi Račun na ovom uređaju."</string>
+  <string name="account_verify_password">"Već koristite ovu uslugu na drugom uređaju. Iz sigurnosnih razloga, morate potvrditi svoj Mi Račun na ovom uređaju."</string>
   <string name="account_yellowpage_favorite">Favoriti</string>
   <string name="account_yellowpage_followed">Provjereni Računi</string>
   <string name="account_yellowpage_recent">Prikaži povijest</string>
@@ -137,7 +137,7 @@ Provjerite broj za praćenje."</string>
   <string name="express_inquiry_trace_user_notice_content">"Obavijestiti ćemo vas o promjeni statusa vaše narudžbe."</string>
   <string name="express_inquiry_untrace">"Nemoj pratiti"</string>
   <string name="express_inquiry_untrace_success">Praćenje zaustavljeno</string>
-  <string name="express_location_failed">Lociranje nije uspjelo, molimo unesite vašu adresu.</string>
+  <string name="express_location_failed">"Ne mogu vas locirati. Unesite svoju adresu."</string>
   <string name="express_no_address">Prazno</string>
   <string name="express_no_order">Nema narudžbi</string>
   <string name="express_no_order_info">Nema informacija o narudžbi</string>
