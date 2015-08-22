@@ -1008,6 +1008,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">"USB pohrana ne može se isključiti. Pokušajte ponovo kasnije."</string>
   <string name="dlg_ok">"U redu"</string>
+  <string name="dndm_alarm_content_not_all">Sve dopušteno</string>
   <string name="dndm_auto_button_title">Ponovi \"Ne ometaj me“\ vrijeme</string>
   <string name="dndm_auto_setting_group">Zakazano</string>
   <string name="dndm_auto_time_setting">Postavke vremena</string>
