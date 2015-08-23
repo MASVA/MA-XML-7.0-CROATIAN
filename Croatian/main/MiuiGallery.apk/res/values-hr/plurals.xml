@@ -5,29 +5,29 @@
         <item quantity="one">Izbrisati %1$s album (%2$s ukupno)?</item>
     </plurals>
 	<plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Odabrane stavke, uključujući fotografije ili videozapise u Mi Cloudu, izbrisati ovoliko&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> stavaka s ovog uređaja i Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Odabrane stavke, uključujući fotografije ili videozapise u Mi Cloudu, izbrisati ovoliko %s  stavaka s ovog uređaja i Mi Clouda</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">&lt;Data>Odabrane stavke, uključujući fotografije u Mi Cloudu, izbrisati ovoliko&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> fotografija s ovog uređaja i Mi Clouda?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Odabrana stavka, uključujući fotografiju u Mi Cloudu, izbrisati &amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> fotografiju s ovog uređaja i Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Odabrane stavke, uključujući fotografije u Mi Cloudu, izbrisati ovoliko %s  fotografija s ovog uređaja i Mi Clouda</item>
+        <item quantity="one">Odabrana stavka, uključujući fotografiju u Mi Cloudu, izbrisati  %s  fotografiju s ovog uređaja i Mi Clouda</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">&lt;Data>Odabrane stavke, uključujući videozapise u Mi Cloudu, izbrisati ovoliko&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> videozapisa s ovog uređaja i Mi Clouda?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Odabrana stavka, uključujući videozapis u Mi Cloudu, izbrisati &amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> videozapis s ovog uređaja i Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Odabrane stavke, uključujući videozapise u Mi Cloudu, izbrisati ovoliko %s  videozapisa s ovog uređaja i Mi Clouda</item>
+        <item quantity="one">Odabrana stavka, uključujući videozapis u Mi Cloudu, izbrisati  %s  videozapis s ovog uređaja i Mi Clouda</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Odabrane stavke su fotografije ili videozapisi na Mi Cloudu, izbrisati ovoliko&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> stavaka s Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Odabrane stavke su fotografije ili videozapisi na Mi Cloudu, izbrisati ovoliko %s  stavaka s Mi Clouda</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">&lt;Data>Odabrane stavke su fotografije na Mi Cloudu, izbrisati ovoliko&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> fotografija s Mi Clouda?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Odabrana stavka je fotografija na Mi Cloudu, izbrisati &amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> fotografiju s Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Odabrane stavke su fotografije na Mi Cloudu, izbrisati ovoliko %s  fotografija s Mi Clouda</item>
+        <item quantity="one">Odabrana stavka je fotografija na Mi Cloudu, izbrisati  %s  fotografiju s Mi Clouda</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">&lt;Data>Odabrane stavke su videozapisi na Mi Cloudu, izbrisati ovoliko&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> videozapisa s Mi Clouda?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Odabrana stavka je videozapis na Mi Cloudu, izbrisati &amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> videozapis s Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Odabrane stavke su videozapisi na Mi Cloudu, izbrisati ovoliko %s  videozapisa s Mi Clouda</item>
+        <item quantity="one">Odabrana stavka je videozapis na Mi Cloudu, izbrisati  %s  videozapis s Mi Clouda</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">&lt;Data>Izbrisati &amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> stavaka iz ovog albuma?&lt;/Data></item>
+        <item quantity="other">Izbrisati  %s  stavaka iz ovog albuma</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">Izbrisati %s stavaka?</item>
@@ -49,12 +49,12 @@
         <item quantity="one">Izbrisati videozapis (%s)?</item>
     </plurals>
 	 <plurals name="confirm_delete_video_from_many_albums">
-	    <item quantity="other">&lt;Data>Izbrisati &amp;lt;xliff:g id=ITEM>%1$d videozapisa&amp;lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Izbrisati &amp;lt;xliff:g id=ITEM>%1$d videozapis&amp;lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
+	    <item quantity="other">Izbrisati  %1$d videozapisa iz %2$d albuma</item>
+        <item quantity="one">Izbrisati  %1$d videozapis iz %2$d albuma</item>
     </plurals>
 	<plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">&lt;Data>Izbrisati &amp;lt;xliff:g id=ITEM>%1$d slika&lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Izbrisati &amp;lt;xliff:g id=ITEM>%1$d sliku&lt;/xliff:g> iz %2$d albuma?&lt;/Data></item>
+        <item quantity="other">Izbrisati  %1$d slika iz %2$d albuma</item>
+        <item quantity="one">Izbrisati  %1$d sliku iz %2$d albuma</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">"Odabrano: %1$d"</item>
