@@ -694,6 +694,7 @@
         <item>Galerija</item>
         <item>Glazba</item>
         <item>E-pošta</item>
+		<item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Mreža je spora zbog previše prometa</item>

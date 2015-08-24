@@ -659,8 +659,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="checking_for_updates">Provjera ažuriranja…</string>
   <string name="children_mode_enable_title">Dječji način</string>
   <string name="children_mode_set_apps_title">Dostupne aplikacije</string>
-  <string name="children_mode_tips_off">Nakon uključivanja Dječjeg načina na dodirnite tipku Početna za povratak na Početni zaslon</string>
-  <string name="children_mode_tips_on">Nakon isključivanja Dječjeg načina na dodirnite tipku Početna za povratak na Početni zaslon</string>
+  <string name="children_mode_tips_off">Nakon uključivanja Dječjeg načina na dodirnite tipku Početna za povratak na Početni zaslon.</string>
+  <string name="children_mode_tips_on">Nakon isključivanja Dječjeg načina na dodirnite tipku Početna za povratak na Početni zaslon.</string>
   <string name="children_mode_title">Dječji način</string>
   <string name="choose_smartcover_type">Odaberite vrstu futrole</string>
   <string name="choose_timezone">Odabir vremenske zone</string>
@@ -675,7 +675,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="clear_failed_dlg_text">Brisanje podataka za aplikaciju nije uspjelo.</string>
   <string name="clear_failed_dlg_title">Izbriši podatke</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
-  <string name="close_dialog">u REDU</string>
+  <string name="close_dialog">U redu</string>
   <string name="cmcc_dm_settings_disable_summary">Onemogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_enable_summary">Omogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_title">Prijava uređaja</string>
@@ -2048,7 +2048,7 @@ i pokrenite ga."</string>
   <string name="power_wifi">WLAN</string>
   <string name="pref_button_light">Osvjetljenje tipaka</string>
   <string name="pref_button_light_summary">Osvjetljenje tipaka Izbornik, Početna i Natrag</string>
-  <string name="pref_edge_handgrip">Rub ručke</string>
+  <string name="pref_edge_handgrip">Kontrole ruba</string>
   <string name="pref_operational_key">Navigacijske tipke</string>
   <string name="pref_volume_wake_summary">Klik na tipke za podešavanje glasnoće budi uređaj</string>
   <string name="pref_volume_wake_title">Probudi tipkama za glasnoću</string>

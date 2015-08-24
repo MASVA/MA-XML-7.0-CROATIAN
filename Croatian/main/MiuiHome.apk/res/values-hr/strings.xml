@@ -23,9 +23,9 @@
   <string name="application_name">MIUI Pokretač</string>
   <string name="apply_action">Primjeni</string>
   <string name="apply_as_lock_screen">Zaklj. zaslon</string>
-  <string name="apply_as_lock_wallpaper_message">Primijeniti sliku pozadine i za zaklj. zaslon?</string>
+  <string name="apply_as_lock_wallpaper_message">Postaviti i za pozadinu zaklj. zaslona?</string>
   <string name="apply_as_wallpaper">Početni zaslon</string>
-  <string name="apply_both">Postaviti oboje</string>
+  <string name="apply_both">Postavi oboje</string>
   <string name="aqi_quality_index_dangerous">Opasno</string>
   <string name="aqi_quality_index_good">Dobro</string>
   <string name="aqi_quality_index_hazardous">Riskantno</string>
@@ -42,6 +42,7 @@
   <string name="choose_theme">Tema</string>
   <string name="children_folder_title">Djeca</string>
   <string name="children_mode_exit">Izlaz</string>
+  <string name="children_mode_tips">Natrag u Postavke i upravljaj pristup aplikacijama.</string>
   <string name="choose_wallpaper">Odaberi sliku pozadine</string>
   <string name="chooser_wallpaper">Odaberi sliku pozadine</string>
   <string name="cloud_app_restore_title">Na čekanju</string>
@@ -240,6 +241,7 @@
   <string name="wallpaper">Slika pozadine</string>
   <string name="wallpaper_auto_change_title">Zaklj. zaslon</string>
   <string name="wallpaper_failed_message">"Ne mogu postaviti sliku pozadine"</string>
+  <string name="wallpaper_scaling_message">Skaliranje na fiksnu veličinu</string>
   <string name="wallpaper_settings">Slika pozadine</string>
   <string name="wallpaper_settings_for_pad">Slika pozadine</string>
   <string name="wallpaper_success_message">Slika pozadine postavljena</string>

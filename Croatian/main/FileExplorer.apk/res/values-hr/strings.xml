@@ -69,9 +69,10 @@
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
-  <string name="delete_files">Izbrisati (%1$d) datoteka?</string>
+  <string name="delete_file_error">"Ne mogu izbrisati datoteku"</string>
+  <string name="delete_files">Izbrisati ovoliko(%1$d) datoteka?</string>
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
-  <string name="delete_folders">Izbrisati (%1$d) mapa?</string>
+  <string name="delete_folders">Izbrisati ovoliko(%1$d) mapa?</string>
   <string name="delete_selected_tasks">Izbrisati odabrano?</string>
   <string name="des_running_trans">Datoteka (%1$d) koje nisu premještene</string>
   <string name="dialog_select_type">Odaberite tip</string>
@@ -233,7 +234,8 @@
   <string name="notification_dialog_title">Obavijesti</string>
   <string name="notification_setting">Obavijesti</string>
   <string name="notification_summary">"%1$s još ne podržava ovu značajku"</string>
-  <string name="notification_title">Obavijesti kada su nove datoteke dodane %1$s</string>
+  <string name="notification_title">Obavijesti kada su nove datoteke dodane u %1$s</string>
+  <string name="online_not_support">"Ne mogu prikazati ovu datoteku online u ovom trenutku."</string>
   <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena, mogli bi:
 1. Preuzeti datoteku ponovno da je ažurirate.
 2. Učitati je na vaš KuaiPan račun."</string>
@@ -348,6 +350,7 @@
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoju mrežnu vezu."</string>
   <string name="signin_success">"Prijavljeni ste!
 Dodano %1$s slobodnog prostora"</string>
+  <string name="smb_loading">Samo tren…</string>
   <string name="space_info">KuaiPan: %1$s dostupno, %2$s ukupno</string>
   <string name="space_usage">Iskorišten prostor</string>
   <string name="start_server">Pokreni FTP poslužitelj</string>

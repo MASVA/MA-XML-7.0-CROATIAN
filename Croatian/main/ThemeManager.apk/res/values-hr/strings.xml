@@ -20,7 +20,7 @@
   <string name="backup_theme_progress_message">Pohranjujem temu…</string>
   <string name="backup_theme_success_message">Postavke vaše trenutne teme su spremljene</string>
   <string name="change_wallpaper">Slika pozadine</string>
-  <string name="choose_new_themes">Nove Teme</string>
+  <string name="choose_new_themes">Teme</string>
   <string name="close">Zatvori</string>
   <string name="component_category_finest_title">OPĆENITO</string>
   <string name="component_category_more_title">NAPREDNO</string>
@@ -364,7 +364,7 @@
   <string name="theme_yes">Da</string>
   <string name="third_party_pickers_activity_title">Podesi %1$s</string>
   <string name="title_component">Prilagodite temu</string>
-  <string name="title_system_resource">Izvanmrežno</string>
+  <string name="title_system_resource">Preuzeto</string>
   <string name="to_activate_the_account">Aktivirajte svoj Mi Račun</string>
   <string name="vip_level_value">LV%d</string>
   <string name="wallpaper_crop">Obreži</string>
