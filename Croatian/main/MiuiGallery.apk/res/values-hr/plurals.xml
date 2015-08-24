@@ -49,12 +49,12 @@
         <item quantity="one">Izbrisati videozapis (%s)?</item>
     </plurals>
 	 <plurals name="confirm_delete_video_from_many_albums">
-	    <item quantity="other">Izbrisati  %1$d videozapisa iz %2$d albuma</item>
-        <item quantity="one">Izbrisati  %1$d videozapis iz %2$d albuma</item>
+	    <item quantity="other">Izbrisati %1$d videozapisa iz %2$d albuma</item>
+        <item quantity="one">Izbrisati %1$d videozapis iz %2$d albuma</item>
     </plurals>
 	<plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">Izbrisati  %1$d slika iz %2$d albuma</item>
-        <item quantity="one">Izbrisati  %1$d sliku iz %2$d albuma</item>
+        <item quantity="other">Izbrisati %1$d slika iz %2$d albuma</item>
+        <item quantity="one">Izbrisati %1$d sliku iz %2$d albuma</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">"Odabrano: %1$d"</item>
