@@ -204,7 +204,7 @@ Kartice kontakata su isključene"</string>
   <string name="contact_detail_miprofile_subtitle">Već ste razmjenili kartice</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Ne mogu se povezati na mrežu"</string>
   <string name="contact_detail_profile_switch_fail_toast">Pogreška našeg poslužitelja</string>
-  <string name="contact_detail_profile_switch_off">Kartice kontakta su isključene</string>
+  <string name="contact_detail_profile_switch_off">Isključi Kartice kontakta</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"Ne mogu isključiti kartice"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Kartice kontakta su isključene</string>
   <string name="contact_detail_profile_switch_on">"Prikaži fotografije profila kontakta"</string>
@@ -496,7 +496,7 @@ Razlog: \"%s\""</string>
   <string name="importing_vcard_description">Uvoz %s</string>
   <string name="importing_vcard_finished_title">"Završetak uvoza datoteke %s kartice vCard"</string>
   <string name="in_call_show">Videozapis</string>
-  <string name="in_call_show_camera_open_error">Pogreška pri pokretanju kamere, pokušajte ponovo</string>
+  <string name="in_call_show_camera_open_error">"Ne mogu otvoriti kameru"</string>
   <string name="in_call_show_delete_message">Izbrisati vaš videozapis?</string>
   <string name="in_call_show_delete_title">Izbrisati videozapis?</string>
   <string name="in_call_show_demo_present">Pregled</string>
@@ -513,8 +513,8 @@ Razlog: \"%s\""</string>
   <string name="in_call_show_tap_to_show_demo">Dodirnite zaslon za pregled</string>
   <string name="in_call_show_too_short">Prekratko. Pokušajte snimiti duži videozapis.</string>
   <string name="in_call_show_video_pick">Odaberi</string>
-  <string name="in_call_show_video_pick_filter">"Videozapis mora biti manji od 3 MB i kraći od 20 sekundi. "</string>
-  <string name="in_call_show_view_play_error">Pogreška tijekom reprodukcije, pokušajte ponovo</string>
+  <string name="in_call_show_video_pick_filter">"Videozapis mora biti manji od 3 MB i kraći od 20 sekundi."</string>
+  <string name="in_call_show_view_play_error">"Ne mogu reproducirati videozapis"</string>
   <string name="insertContactDescription">Izradi kontakt</string>
   <string name="insertGroupDescription">Izradi skupinu</string>
   <string name="invalidContactMessage">Kontakt ne postoji</string>

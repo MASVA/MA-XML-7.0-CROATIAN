@@ -88,7 +88,7 @@
   <string name="confirm_restore_positive">Vrati</string>
   <string name="confirm_restore_title">Vraćanje Poruka</string>
   <string name="confirm_send_mms">Jedan od vaših primatelja uključuje i e-mail adresu. Ova poruka će biti poslana kao MMS, što može dovesti do dodatnih troškova.</string>
-  <string name="context_menu_add_calendar">Prikaži u Kalendaru</string>
+  <string name="context_menu_add_calendar">Dodaj u Kalendar</string>
   <string name="context_menu_add_contact">Dodaj u Kontakte</string>
   <string name="context_menu_add_to_browser_favorite">Dodaj u favorite preglednika</string>
   <string name="context_menu_browse_web">Pretraži</string>
@@ -202,8 +202,8 @@
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Izgled dijaprojekcije "</string>
   <string name="left_cancel">Pomaknite ulijevo da poništite</string>
-  <string name="loading_all_messages">Učitavanje svih poruka.</string>
-  <string name="loading_conversations">Učitavanje razgovora…</string>
+  <string name="loading_all_messages">Učitavanje…</string>
+  <string name="loading_conversations">Učitavanje…</string>
   <string name="loading_mms">Učitavanje MMS-a…</string>
   <string name="manage_permission_app_label">Dopuštenja uređaja</string>
   <string name="me">Ja</string>

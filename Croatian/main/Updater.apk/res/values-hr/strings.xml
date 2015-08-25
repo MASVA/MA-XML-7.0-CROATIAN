@@ -185,7 +185,7 @@ Ali možete sudjelovati sljedeći ponedjeljak."</string>
   <string name="update_sad">Razočaran</string>
   <string name="update_success">Uređaj je ažuriran</string>
   <string name="update_success_body">Verzija: %s</string>
-  <string name="update_success_reboot_immediately">Uređaj je ažuriran</string>
+  <string name="update_success_reboot_immediately">Ažuriranje je preuzeto</string>
   <string name="update_success_title">Uređaj je ažuriran</string>
   <string name="updater_nolog">Nema sažetka ažuriranja</string>
   <string name="updater_nonetwork">"Ne mogu se povezati na mrežu"</string>

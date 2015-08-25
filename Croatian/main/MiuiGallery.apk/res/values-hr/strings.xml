@@ -128,6 +128,8 @@
   <string name="cannot_send_message">"Ne mogu poslati poruku"</string>
   <string name="cannot_send_message_reason">Poruka nema valjanog primatelja.</string>
   <string name="cant_delete_system_album">Ne mogu izbrisati %s jer je to album sustava."</string>
+  <string name="change_to_face_mode">Promijeni na lica</string>
+  <string name="change_to_photo_mode">Promijeni na fotografije</string>
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_cloud_album">Odaberi album</string>
   <string name="choose_owner_relation">Odnos</string>
@@ -186,6 +188,7 @@
   <string name="cool_portrait">Portret</string>
   <string name="create_baby_album">Napravi dječji album</string>
   <string name="create_baby_album_dialog_msg">Napraviti album za \"%s\"?</string>
+  <string name="create_baby_album_later_toast">Kasnije također možete izraditi dječji album i u gornjem desnom izborniku</string>
   <string name="create_new_cloud_folder">Napravi novi Album</string>
   <string name="create_new_face">Nova osoba</string>
   <string name="create_quick_icon_on_desk">Napravi prečace</string>
@@ -465,6 +468,7 @@ uređaja"</string>
   <string name="not_auto_create_recent_album">Poništi pravljenje favorita</string>
   <string name="not_is">Ne</string>
   <string name="not_now">Ne sada</string>
+  <string name="not_remind_any_more">"Ne podsjećaj me kasnije"</string>
   <string name="not_show_hidden_albums">"Ne prikazuj skrivene albume"</string>
   <string name="old">Staro</string>
   <string name="only_show_camera_in_first_page">Fotografije iz albuma na prvoj stranici</string>
@@ -485,6 +489,7 @@ uređaja"</string>
   <string name="operation_remove_from_face_album">Ukloni iz albuma</string>
   <string name="operation_remove_secret">Ukloni iz sakrivenog albuma</string>
   <string name="operation_rename">Preimenuj</string>
+  <string name="operation_rename_baby">Unesite ime djeteta</string>
   <string name="operation_set_as_screensaver">Postavi za čuvara zaslona</string>
   <string name="operation_share">Podijeli</string>
   <string name="operation_successful">Podijeljeno</string>
