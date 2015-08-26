@@ -128,8 +128,8 @@
   <string name="cannot_send_message">"Ne mogu poslati poruku"</string>
   <string name="cannot_send_message_reason">Poruka nema valjanog primatelja.</string>
   <string name="cant_delete_system_album">Ne mogu izbrisati %s jer je to album sustava."</string>
-  <string name="change_to_face_mode">Promijeni na lica</string>
-  <string name="change_to_photo_mode">Promijeni na fotografije</string>
+  <string name="change_to_face_mode">Poredaj po osobama</string>
+  <string name="change_to_photo_mode">Poredaj po albumima</string>
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_cloud_album">Odaberi album</string>
   <string name="choose_owner_relation">Odnos</string>
@@ -188,7 +188,7 @@
   <string name="cool_portrait">Portret</string>
   <string name="create_baby_album">Napravi dječji album</string>
   <string name="create_baby_album_dialog_msg">Napraviti album za \"%s\"?</string>
-  <string name="create_baby_album_later_toast">Kasnije također možete izraditi dječji album i u gornjem desnom izborniku</string>
+  <string name="create_baby_album_later_toast">Izradite dječji album bilo kada u Postavkama</string>
   <string name="create_new_cloud_folder">Napravi novi Album</string>
   <string name="create_new_face">Nova osoba</string>
   <string name="create_quick_icon_on_desk">Napravi prečace</string>
@@ -271,9 +271,9 @@
   <string name="external_usb_device">USB pohrana</string>
   <string name="external_usb_device_hm">Vanjska USB pohrana</string>
   <string name="face_album">Osobe</string>
-  <string name="face_album_long_tap_tip">Za odabir više osoba ili promjenu postavki grupe, pritisnite &amp; zadržite sliku profila</string>
-  <string name="face_album_not_named">Bez naziva</string>
+  <string name="face_album_long_tap_tip">Za odabir više osoba ili promjenu postavki grupe, pritisnite &amp; zadržite fotografiju profila</string>
   <string name="face_album_new_name_hint">Novi naziv</string>
+  <string name="face_album_not_named">Bez naziva</string>
   <string name="face_album_rename_hint">Unesite naziv</string>
   <string name="face_albumset_detecting_tip">Samo tren…</string>
   <string name="face_albumset_empty">Prazno.</string>
@@ -345,7 +345,7 @@
   <string name="ignore_alert_title">"Ne prikazati ovaj album?"</string>
   <string name="ignore_face">Ignoriraj ovu osobu</string>
   <string name="image_download_item_title">Preuzmimanje datoteke (%s)</string>
-  <string name="image_quota_fulfiled">Previše slika. Izbrišite neke slike i pokušajte ponovno.</string>
+  <string name="image_quota_fulfiled">Previše slika. Izbrišite neke fotografije i pokušajte ponovno.</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Uvoz je dovršen</string>
   <string name="import_fail">Uvoz neuspješan</string>
@@ -357,7 +357,7 @@
   <string name="impunity_declaration_title">Povezivanje s internetom</string>
   <string name="in_home_page_long_press_photo_setting_secret_photo">Da je sakrijete, kliknite na fotografiju i zadržite, a zatim odaberite \"Dodaj u skriveni album \" iz izbornika u donjem lijevom kutu.</string>
   <string name="initial_cloud_button_text">Prijavite se</string>
-  <string name="initial_cloud_text">Pohranite i pregledajte vaše slike s bilo kojeg mjesta.</string>
+  <string name="initial_cloud_text">Pohranite i pregledajte vaše fotografije s bilo kojeg mjesta.</string>
   <string name="initializing_cloud">Pokretanje…</string>
   <string name="input_baby_name">Unesite ime</string>
   <string name="input_baby_nick_name">Unesite nadimak</string>
@@ -434,12 +434,12 @@
   <string name="miui_capture_screen_folder_display_name">Snimak zaslona</string>
   <string name="miui_wallpaper">Slika pozadine</string>
   <string name="modified_time">Izmjenjeno</string>
-  <string name="moman">Moman Camera</string>
-  <string name="moman_camera_drawing">Moman Camera crtanje</string>
-  <string name="moman_camera_icon">Moman Camera emotikon</string>
-  <string name="moman_camera_picture">Moman Camera slike</string>
+  <string name="moman">Moman Kamera</string>
+  <string name="moman_camera_drawing">Moman Kamera crtanje</string>
+  <string name="moman_camera_icon">Moman Kamera emotikoni</string>
+  <string name="moman_camera_picture">Fotografije Moman Kamere</string>
   <string name="more">Više</string>
-  <string name="more_face_album_name">Više lica</string>
+  <string name="more_face_album_name">Više osoba</string>
   <string name="mosaic">Mozaik</string>
   <string name="move">Premjesti</string>
   <string name="move_to_cloud_album">Premjesti u</string>
@@ -468,7 +468,7 @@ uređaja"</string>
   <string name="not_auto_create_recent_album">Poništi pravljenje favorita</string>
   <string name="not_is">Ne</string>
   <string name="not_now">Ne sada</string>
-  <string name="not_remind_any_more">"Ne podsjećaj me kasnije"</string>
+  <string name="not_remind_any_more">"Ne prikazuj ponovo"</string>
   <string name="not_show_hidden_albums">"Ne prikazuj skrivene albume"</string>
   <string name="old">Staro</string>
   <string name="only_show_camera_in_first_page">Fotografije iz albuma na prvoj stranici</string>
@@ -529,7 +529,7 @@ uređaja"</string>
   <string name="picker_no_items_selected">Nema odabranih stavki</string>
   <string name="picker_select_album_title_empty">Odaberite album</string>
   <string name="picker_tab_photo">Fotografija</string>
-  <string name="pocket_camera_picture">Slike džepne kamere</string>
+  <string name="pocket_camera_picture">Fotografije džepne kamere</string>
   <string name="pocket_camera_video">Videozapisi džepne kamere</string>
   <string name="pocketcamera">Džepnakamera</string>
   <string name="posterize">Posterizacija</string>
@@ -625,8 +625,8 @@ uređaja"</string>
   <string name="set_lock_or_wallpaper">Postavljanje slike pozadine</string>
   <string name="set_lockscreen">Postavljanje zaključanog zaslona</string>
   <string name="set_recent_album">Postavi kao nedavni album</string>
-  <string name="set_screensaver_path_message">Ovaj album će biti prikazan 5 sekundi nakon što se zaslon isključi.</string>
-  <string name="set_screensaver_path_message_if_only_charging">Slike u ovom albumu će biti prikazane u čuvaru zaslona samo tijekom punjenja.</string>
+  <string name="set_screensaver_path_message">Fotografije u ovom albumu biti će prikazane kao čuvar zaslona.</string>
+  <string name="set_screensaver_path_message_if_only_charging">Fotografije u ovom albumu biti će prikazane kao čuvar zaslona, tijekom punjenja vašeg telefona.</string>
   <string name="set_screensaver_path_title">Dijaprojekcija čuvara zaslona</string>
   <string name="set_wallpaper">Postavljanje slike pozadine…</string>
   <string name="settings">Postavke</string>

@@ -153,7 +153,7 @@ Za više informacija provjerite poruku koju ste dobili od svog operatera"</strin
   <string name="lock_screen_warning_value">Upozorenje uporabe podataka</string>
   <string name="main_alert_message_month_limit_error">Ograničenje podataka nije točno</string>
   <string name="main_alert_message_no_imsi">Nema SIM kartice</string>
-  <string name="main_alert_message_no_mobile_package">"Ograničenje podataka nije postavljeno"</string>
+  <string name="main_alert_message_no_mobile_package">"Postavite Ograničenje podataka"</string>
   <string name="main_alert_message_slot_no_data_connection">"Utor SIM kartice ne podržava
 podatkovnu vezu"</string>
   <string name="main_button_idel_traffic">Ograničenje</string>
@@ -162,6 +162,7 @@ podatkovnu vezu"</string>
   <string name="main_button_usage_adjust_manual">Postavite ograničenje uporabe podataka</string>
   <string name="main_button_usage_adjusting">Promjena…</string>
   <string name="main_button_usage_package_setting">Postavite ograničenje uporabe podataka</string>
+  <string name="main_message_no_package_by_dual">Postavite ograničenje podataka za %s</string>
   <string name="main_primary_message_traffic_cur_leisure">Isključivanje maks. uporabe podataka</string>
   <string name="main_primary_message_traffic_cur_normal">Ispod vrha ograničenja podataka</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Ograničenja podataka prekoračeno</string>

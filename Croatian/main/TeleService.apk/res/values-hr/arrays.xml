@@ -21,13 +21,20 @@
         <item>Samo matično</item>
         <item>Automatski</item>
     </string-array>
-	 <string-array name="clir_display_values">
+	<string-array name="clir_display_values">
         <item>Zadana postavka mreže</item>
         <item>Sakrij broj</item>
         <item>Prikaži broj</item>
-     </string-array>
-     <string-array name="dtmf_tone_entries">
+    </string-array>
+    <string-array name="dtmf_tone_entries">
         <item>Normalno</item>
         <item>Dugo</item>
-     </string-array>
+    </string-array>
+	<string-array name="livetalk_about_info_array">
+        <item>- Podržava domaće i međunarodne brojeve telefona.</item>
+        <item>- Svaki poziv koristi 1Kb mobilnih podataka.</item>
+        <item>- Vaš operater može vam naplatiti roaming tijekom korištenja ove usluge.</item>
+        <item>- Trebate uključiti Besplatno slušanje za korištenje ove usluge, inače vam vaš operater može naplatiti troškove dok ste u roamingu.</item>
+        <item>- Služba za podršku: YunZhiXun, RonLianYunTongXun, LTSC</item>
+    </string-array>
 </resources>

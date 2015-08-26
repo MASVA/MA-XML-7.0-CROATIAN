@@ -341,8 +341,10 @@
   <string name="theme_multiple_button_title_customize">Prilagodi</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Ne</string>
-  <string name="theme_precast_update_notification_content">Dodirnite za prikaz novih tema.</string>
-  <string name="theme_precast_update_notification_title">Ažurirano na MIUI 7</string>
+  <string name="theme_precast_create_notification_content">Dodirnite za prikaz novih tema.</string>
+  <string name="theme_precast_create_notification_title">Ažurirano na MIUI 7</string>
+  <string name="theme_precast_update_notification_content">Dodirnite za istraživanje ažuriranja.</string>
+  <string name="theme_precast_update_notification_title">MIUI 7 teme ažurirane</string>
   <string name="theme_provision_default_theme_title">Zadano</string>
   <string name="theme_provision_loading_tips">Samo tren…</string>
   <string name="theme_provision_title">Odaberite temu</string>

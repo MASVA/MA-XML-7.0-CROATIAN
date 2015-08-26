@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="all_call_livetalk_enable">Koristite nadoplatu paketa za domaće i međunarodne pozive</string>
+  <string name="all_call_livetalk_remain_mins">Preostalo minuta: (%1$s domaće) | %2$s (%3$s)</string>
   <string name="alwaysUsePrompt">"Zapamti moj izbor"</string>
   <string name="auto_start_warning_allow">Dopusti</string>
   <string name="auto_start_warning_deny">Odbij</string>
@@ -9,7 +11,7 @@
   <string name="caller_info_name_delimiter">" ili "</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
-  <string name="fc_dialog_body">Poslati izvještaj o pogrešcina Mi za analizu? Ovo izvješće može sadržavati osobne podatke. Vaše će se izvješće koristiti za pomoć riješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>
+  <string name="fc_dialog_body">Poslati izvještaj o pogreškama Mi za analizu? Ovo izvješće može sadržavati osobne podatke. Vaše će se izvješće koristiti za pomoć riješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>
   <string name="fc_dialog_jump_to_preview">Pregled sažetka</string>
   <string name="first_back_long_press_message">"Dugi pritisak na tipku "Natrag" će zaustaviti trenutni proces i njegove pozadinske usluge. Za omogućavanje ove funkcije, idite na Postavke &gt; Sustav &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
@@ -20,9 +22,13 @@
   <string name="global_actions_shutdown">"Isključi"</string>
   <string name="global_actions_silent_mode">"Bešumno"</string>
   <string name="handy_mode_enter_dlg_msg">Ući u Upravljanje jednom rukom?</string>
-  <string name="handy_mode_enter_dlg_title">Uđi u Upravljanje jednom rukom</string>
+  <string name="handy_mode_enter_dlg_title">Upravljanje jednom rukom</string>
   <string name="handy_mode_summary">Da zatvorite, dodirnite tamno područje zaslona</string>
   <string name="handy_mode_title">Upravljanje jednom rukom</string>
+  <string name="internal_livetalk_enable">Koristite nadoplatu paketa za domaće pozive</string>
+  <string name="internal_remain_mins">%1$s min. preostalo (domaći pozivi)</string>
+  <string name="international_livetalk_enable">Koristite nadoplatu paketa za međunarodne pozive</string>
+  <string name="international_remain_mins">%1$s min. preostalo (%2$s poziva)</string>
   <string name="key_btn_ok">U redu</string>
   <string name="key_btn_space">Razmak</string>
   <string name="location_usage_restricted_body">Dodirnite za uklanjanje ograničenja.</string>

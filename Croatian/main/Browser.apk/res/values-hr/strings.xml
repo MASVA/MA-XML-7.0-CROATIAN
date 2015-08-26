@@ -74,7 +74,7 @@
   <string name="bookmark_folder_needs_title">Unesite naziv grupe</string>
   <string name="bookmark_group_lable">Grupa</string>
   <string name="bookmark_needs_title">Oznaka mora imati ime.</string>
-  <string name="bookmark_needs_url">Oznaka mora imati lokaciju.</string>
+  <string name="bookmark_needs_url">Oznaka mora sadržavati poveznicu.</string>
   <string name="bookmark_not_saved">"Ne mogu spremiti oznaku."</string>
   <string name="bookmark_rename_group">Preimenuj grupu</string>
   <string name="bookmark_saved">Spremljeno u oznake</string>
@@ -425,7 +425,7 @@ Napustiti ovu stranicu?"</string>
   <string name="profiler_stopped_toast">Profiler je završio. Rezultati spremljeni u %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Podešavanje slike pozadine…</string>
   <string name="qr_code_title">QR Kod</string>
-  <string name="quicklink_bookmark_save">Spremi ovu stranicu u</string>
+  <string name="quicklink_bookmark_save">LOKACIJA OZNAKA</string>
   <string name="quicklink_not_saved">"Ne mogu dodati na početnu stranicu"</string>
   <string name="quicklink_saved">Spremljeno na početnu stranicu</string>
   <string name="quicklink_saved_before">Stranica dodana na početnu stranicu</string>
@@ -608,7 +608,7 @@ Napustiti ovu stranicu?"</string>
   <string name="voice_title_listening">Slušanje…</string>
   <string name="voice_title_please">Počnite govoriti…</string>
   <string name="voice_title_speech_again">"Ne razumijem vas"</string>
-  <string name="webpage_bookmark_title">Oznaka</string>
+  <string name="webpage_bookmark_title">Oznake</string>
   <string name="webpage_history_title">Povijest</string>
   <string name="webpage_title">Oznake &amp; Povijest</string>
   <string name="webview_find_on_page">Pronađi na stranici</string>

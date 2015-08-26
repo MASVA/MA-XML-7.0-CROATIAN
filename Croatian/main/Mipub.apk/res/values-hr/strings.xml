@@ -69,7 +69,7 @@
   <string name="failed_to_resize_image">Nije promijenjena veličina slike.</string>
   <string name="feedback_description_hint">Unesite povratnu informaciju ovdje</string>
   <string name="feedback_submit">Pošalji</string>
-  <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom da funkcionira normalno.</string>
+  <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom za normalan rad.</string>
   <string name="festival_never_remind">"Ne prikazuj ponovo."</string>
   <string name="festival_sms_loading">Učitavanje…</string>
   <string name="file_create_time">Napisano:</string>

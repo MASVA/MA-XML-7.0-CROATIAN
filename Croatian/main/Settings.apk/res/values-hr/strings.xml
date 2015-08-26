@@ -2019,7 +2019,7 @@ i pokrenite ga."</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Način čekanja</string>
   <string name="power_center">Performanse</string>
-  <string name="power_hide_mode_summary">"Štedite bateriju ograničavanjem pojedinačnih pozadinskih procesa aplikacija, WLAN-a, mobilne podatkovne veze i GPS-a"</string>
+  <string name="power_hide_mode_summary">"Uštedite bateriju ograničavanjem pojedinačnih procesa aplikacija u pozadini, WLAN-a, mobilne podatkovne veze i GPS-a"</string>
   <string name="power_hide_mode_title">Upravljanje korištenjem baterije aplikacija</string>
   <string name="power_charge_remaining">%1$s do dovršetka punjenja</string>
   <string name="power_charging">%1$d%% – %2$s</string>

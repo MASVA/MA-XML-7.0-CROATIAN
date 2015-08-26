@@ -87,9 +87,9 @@
         <item quantity="one">Možete odabrati %d stavku</item>
     </plurals>
     <plurals name="number_of_images">
-        <item quantity="other">%1$d</item>
-        <item quantity="zero">%1$d</item>
-        <item quantity="one">%1$d</item>
+        <item quantity="other">%1$d fotografija</item>
+        <item quantity="zero">%1$d fotografija</item>
+        <item quantity="one">%1$d fotografija</item>
     </plurals>
     <plurals name="number_of_items">
         <item quantity="other">Br. stavaka: %1$d</item>
