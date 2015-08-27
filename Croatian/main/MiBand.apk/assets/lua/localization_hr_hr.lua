@@ -194,13 +194,13 @@ localization_hr_rHR_table = {
     no_data_hint_0="Nastavite se kretati, neka sport postane dijelom vašeg života.",
     no_data_hint_1="Ponavljanje je otac uspjeha.",
     no_data_hint_2="Težite napretku, a ne savršenstvu.",
-    no_data_hint_3="Bez obzira na to koliko stee sporo, još uvijek ste brži od onih koji se izležavaju na kauču.",
+    no_data_hint_3="Bez obzira na to koliko ste spori, još uvijek ste brži od onih koji se izležavaju na kauču.",
     not_binded_hint="Nijedan Mi Band nije uparen s ovim računom. ",
     not_binded_hint_info="Također možete kliknuti na Vaga u izborniku.",
     new_record_info="Postigli ste novi rekord.",
     new_record_format="%d koraka, %s %d",
     today_goal_reached="Postigli ste svoj cilj za danas!",
-    today_goal_reached_click_info="Kliknite za prikaz detalja.",
+    today_goal_reached_click_info="Doditnite za prikaz detalja.",
     week_continue_reach_goal="Vi",
 
     challenge_format="Postigli ste svoj cilj %d dana za redom!",
@@ -263,7 +263,7 @@ localization_hr_rHR_table = {
     welcome_use_mi_health="Dobrodošli u korištenje Mi Banda",
 
     select_devices="Odaberite uređaje za uparivanje",
-    daily_steps_not_comlete = "%s preostalo koraka",
+    daily_steps_not_comlete = "Preostalo %s koraka",
 
     am_format="%sAM",
     pm_format="%sPM",

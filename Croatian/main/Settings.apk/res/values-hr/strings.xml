@@ -1008,7 +1008,15 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">"USB pohrana ne može se isključiti. Pokušajte ponovo kasnije."</string>
   <string name="dlg_ok">"U redu"</string>
+  <string name="dndm_alarm_content">Zvuk</string>
+  <string name="dndm_alarm_content_all">Dopusti sve</string>
+  <string name="dndm_alarm_content_call">Pozivi</string>
+  <string name="dndm_alarm_content_call_sms">Pozivi i poruke</string>
+  <string name="dndm_alarm_content_event">Upozorenja</string>
+  <string name="dndm_alarm_content_event_and_call">Upozorenja i pozivi</string>
+  <string name="dndm_alarm_content_event_and_sms">Upozorenja i poruke</string>
   <string name="dndm_alarm_content_not_all">Sve dopušteno</string>
+  <string name="dndm_alarm_content_sms">Poruke</string>
   <string name="dndm_auto_button_title">Ponovi \"Ne ometaj me“\ vrijeme</string>
   <string name="dndm_auto_setting_group">Zakazano</string>
   <string name="dndm_auto_time_setting">Postavke vremena</string>
@@ -3318,6 +3326,7 @@ WLAN Asistent"</string>
   <string name="wifi_context_menu_connect">Poveži</string>
   <string name="wifi_context_menu_forget">Zaboravi</string>
   <string name="wifi_datanetwork_switch_not_remind">"Ne prikazuj ponovo"</string>
+  <string name="wifi_dialog_remind_type_title">Mobilni podaci</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
   <string name="wifi_disabled_help">WLAN veza je prekinuta zbog slabog signala</string>
   <string name="wifi_disabled_network_failure">Izbjegavanje slabe internetske veze</string>
@@ -3565,6 +3574,8 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="wifi_suspend_efficiency_title">Poboljšaj učinkovitost</string>
   <string name="wifi_suspend_optimizations">Optimizacija WLAN-a</string>
   <string name="wifi_suspend_optimizations_summary">Minimiziraj potrošnju baterije kad je WLAN uključen</string>
+  <string name="wifi_switch_to_gsm_message">Povezivanje s WLAN-om je odgođeno. Koristiti mobilnu podatkovnu vezu?</string>
+  <string name="wifi_switch_to_gsm_title">Koristiti GSM?</string>
   <string name="wifi_tether_checkbox_text">Prijenosni hotspot</string>
   <string name="wifi_tether_configure_ap_text">Postavljanje hotspota</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
