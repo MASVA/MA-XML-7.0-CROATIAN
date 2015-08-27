@@ -1041,6 +1041,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="dndm_vip_call_button_title">Dopusti pozive od iznimaka</string>
   <string name="dndm_vip_call_setting_detal">Uvijek prihvati pozive od iznimaka</string>
   <string name="dndm_vip_call_setting_title">Iznimke</string>
+  <string name="dndm_vip_call_summary_contact">Sve</string>
   <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_contact">"Svi"</string>
   <string name="dndm_vip_call_summary_none">Dodirni za konfiguriranje</string>
@@ -1214,6 +1215,12 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="floating_window_switch_label_disable">Sakrij skočne prozore</string>
   <string name="fluency_mode">Optimiziranje performansi sustava</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
+  <string name="fluency_mode_confirm_title">Ponovno pokrenuti?</string>
+  <string name="fluency_mode_confirm_will_fluency_mode_text">Morate ponovno pokrenuti uređaj za primjenu ovih postavki.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">Omogućene animacije i povećana potrošnja RAM može uzrokovati usporavanje sustava na nekim uređajima s 1GB RAM.</string>
+  <string name="fluency_mode_enabled_name">Optimizirajte performanse</string>
+  <string name="fluency_mode_summary">Onemogući animaciju sustava i time smanjiti korištenje RAM</string>
+  <string name="font_size_exhuge">Extra velik</string>
   <string name="font_size_huge">Ogroman</string>
   <string name="font_size_large">Veliki</string>
   <string name="font_size_medium">Veći</string>
@@ -1225,7 +1232,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="font_size_summary">"Promjenite veličinu fonta teksta početnog zaslona, panela obavijesti, tipkovnice i izbornicima sustava.
   
   "</string>
-  <string name="font_size_summary1">"Ako je tekst vašeg sustava još uvijek premalen, pokušajte koristiti "</string>
+  <string name="font_size_summary1"/>
   <string name="font_size_summary2">Lite mode</string>
   <string name="force_hw_ui">Prisilno GPU renderiranje</string>
   <string name="force_hw_ui_summary">Prisilna upotreba GPU-a za 2D iscrtavanje</string>
@@ -1291,6 +1298,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="google_wallet">Google novčanik</string>
   <string name="gsm_to_wifi_connect_type_title">GSM -&gt; WLAN</string>
   <string name="handy_mode">Upravljanje jednom rukom</string>
+  <string name="handy_mode_enable">Upravljanje jednom rukom</string>
   <string name="handy_mode_enter_ask">Pitaj prije ulaska u način upravljanja jednom rukom</string>
   <string name="handy_mode_size">Veličina zaslona</string>
   <string name="handy_mode_tips">Prijeđite prstom lijevo ili desno od tipke Početna da pomaknete zaslon bliže jednoj strani.</string>
@@ -2356,6 +2364,7 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="screen_paper_mode_local_title">Odabrane aplikacije</string>
   <string name="screen_paper_mode_off_apps_title">"Nemoj koristi Način čitanja"</string>
   <string name="screen_paper_mode_range_title">Postavke</string>
+  <string name="screen_paper_mode_set_apps_title">Vlastiti Način čitanja</string>
   <string name="screen_paper_mode_summary">"Smanji odsjaj pozadine"</string>
   <string name="screen_paper_mode_title">Način čitanja</string>
   <string name="screen_paper_mode_turn_off">Isključeno</string>
