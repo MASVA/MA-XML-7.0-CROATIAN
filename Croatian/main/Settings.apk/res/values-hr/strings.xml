@@ -1041,7 +1041,6 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="dndm_vip_call_button_title">Dopusti pozive od iznimaka</string>
   <string name="dndm_vip_call_setting_detal">Uvijek prihvati pozive od iznimaka</string>
   <string name="dndm_vip_call_setting_title">Iznimke</string>
-  <string name="dndm_vip_call_summary_contact">Sve</string>
   <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_contact">"Svi"</string>
   <string name="dndm_vip_call_summary_none">Dodirni za konfiguriranje</string>
