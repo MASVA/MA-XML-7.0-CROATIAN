@@ -573,7 +573,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="list_language_summary">Odaberite jezik vijesti</string>
   <string name="list_language_title">Jezik</string>
   <string name="livetalk_about_info">About</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Short codes for service numbers aren't supported at the moment. You need to connect to the internet to use this feature. Each call uses 1Kb of mobile data. You need to turn on Free Listening to use this service, otherwise your carrier may charge you while roaming.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (KratkI kodovi broja usluga nisu podržani u ovom trenutku. Trebate se povezati na internet kako bi koristili ovu značajku. Svaki poziv koristi 1KB mobilnih podataka. Trebate uključiti Besplatno slušanje za korištenje ove usluge, inače vam vaš operater može naplatiti dok ste u roamingu.)"</string>
   <string name="livetalk_activate">Activate top-up package</string>
   <string name="livetalk_activate_number">Activate SIM card</string>
   <string name="livetalk_activate_number_1">Activate SIM 1</string>
