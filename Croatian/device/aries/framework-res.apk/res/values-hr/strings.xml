@@ -58,8 +58,8 @@
   <string name="addToDictionary">Dodaj u rječnik</string>
   <string name="add_account_button_label">Dodaj račun</string>
   <string name="add_account_label">Dodajte račun</string>
-  <string name="aerr_application">Nažalost, aplikacija %1$s prekinula je s radom.</string>
-  <string name="aerr_process">Nažalost, zaustavljen je proces %1$s.</string>
+  <string name="aerr_application">Aplikacija %1$s prekinula je s radom.</string>
+  <string name="aerr_process">Zaustavljen je proces %1$s.</string>
   <string name="aerr_title"/>
   <string name="allow">Dopusti</string>
   <string name="alwaysUse">Koristi se kao zadana postavka za ovu lokaciju.</string>

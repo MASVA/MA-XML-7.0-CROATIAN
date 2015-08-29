@@ -12,7 +12,7 @@
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
   <string name="fc_dialog_body">Poslati izvještaj o pogreškama Mi za analizu? Ovo izvješće može sadržavati osobne podatke. Vaše će se izvješće koristiti za pomoć riješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>
-  <string name="fc_dialog_jump_to_preview">Pregled sažetka</string>
+  <string name="fc_dialog_jump_to_preview">Prikaži izvještaj</string>
   <string name="first_back_long_press_message">"Dugi pritisak na tipku "Natrag" će zaustaviti trenutni proces i njegove pozadinske usluge. Za omogućavanje ove funkcije, idite na Postavke &gt; Sustav &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="force_exit_message">Uspješno zatvorena aplikacija: \"%1$s\"</string>

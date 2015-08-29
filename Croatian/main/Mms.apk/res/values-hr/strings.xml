@@ -451,8 +451,7 @@
   <string name="search_setting_description">Tekst u vašim porukama</string>
   <string name="search_show_more_results">Pikaži više</string>
   <string name="secs">sek</string>
-  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Pošiljatelj nije u vašim kontaktima.
- "&lt;/font&gt;</string>
+  <string name="security_alert_desc">Pošiljatelj nije u vašim kontaktima.</string>
   <string name="security_alert_desc_highlight">Prijavi ovaj broj</string>
   <string name="security_alert_dialog_desc">Pošalji ovaj broj (%s) i poruke Xiaomi-u na pregled.</string>
   <string name="security_alert_dialog_title">Prijavi</string>
