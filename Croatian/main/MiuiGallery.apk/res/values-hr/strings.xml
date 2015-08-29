@@ -63,7 +63,7 @@
   <string name="aperture">Otvor blende</string>
   <string name="app_name">Galerija</string>
   <string name="app_name_view_picture">Prikaži sliku</string>
-  <string name="apply">Primjeni</string>
+  <string name="apply">Postavi</string>
   <string name="appwidget_empty_text">Nema fotografija.</string>
   <string name="appwidget_title">Galerija</string>
   <string name="auto">Autom.</string>
@@ -539,7 +539,7 @@ uređaja"</string>
   <string name="priority_storage">Spremi na SD karticu</string>
   <string name="priority_storage_summary">Kad je umetnuta SD kartica, automatski preuzimaj datoteke na SD karticu</string>
   <string name="project_available_tip">Otkriven zaslon</string>
-  <string name="projection">Uloge</string>
+  <string name="projection">Emitiraj</string>
   <string name="public_url_descript">Svatko može pristupiti albumu koristeći ovu Poveznicu</string>
   <string name="publish_failed">"Ne mogu objaviti"</string>
   <string name="publish_succeeded">Album je objavljen</string>
@@ -616,7 +616,7 @@ uređaja"</string>
   <string name="send_multiple_files_hint_format">Pošalji (%s)</string>
   <string name="send_public_url">Pošalji poveznicu albuma</string>
   <string name="sepia">Sepija</string>
-  <string name="set_as_baby_lock_wallpaper">Postavljeno za pozadinu zaklj. zaslona</string>
+  <string name="set_as_baby_lock_wallpaper">Postavi za pozadinu zaklj. zaslona</string>
   <string name="set_hidden_album">Sakrij</string>
   <string name="set_label_all_albums">Sve</string>
   <string name="set_label_local_albums">Izvanmrežno</string>

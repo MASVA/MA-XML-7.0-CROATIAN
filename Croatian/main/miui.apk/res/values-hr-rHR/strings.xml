@@ -11,8 +11,8 @@
   <string name="address">Adresa</string>
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
-  <string name="app_name_which_call">Aplikacija:%s</string>
-  <string name="app_version_which_call">Verzija aplikacije:%s</string>
+  <string name="app_name_which_call">Aplikacija: %s</string>
+  <string name="app_version_which_call">Verzija aplikacije: %s</string>
   <string name="birthday">Rođendan</string>
   <string name="check_phone_error_title">Sinkronizacija je isključena</string>
   <string name="check_phone_io_error">"Ne mogu se spojiti na mrežu".</string>

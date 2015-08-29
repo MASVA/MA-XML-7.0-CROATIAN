@@ -640,7 +640,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="number_picker_increment_button">Povećavanje</string>
   <string name="number_picker_increment_scroll_action">Kliznite prema gore za povećavanje i prema dolje za smanjivanje.</string>
   <string name="number_picker_increment_scroll_mode">%s pritisnite i držite.</string>
-  <string name="numeric_date_template" formatted="false">%s.%s.%s.</string>
+  <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
   <string name="ok">U redu</string>
   <string name="old_app_action">Natrag na %1$s</string>
   <string name="old_app_description">Ne pokreći novu aplikaciju.</string>
