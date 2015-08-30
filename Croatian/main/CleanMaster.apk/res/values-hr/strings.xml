@@ -145,7 +145,7 @@
   <string name="hints_title_garbage">smeća</string>
   <string name="item_title_process_mode">Odaberite radnju</string>
   <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
-  <string name="mainbtn_text_quick_cleanup">Očistip %s</string>
+  <string name="mainbtn_text_quick_cleanup">Očisti %s</string>
   <string name="memeory_check_content">%1$d aplik., memorija %2$s</string>
   <string name="msg_cleanup_db_update_time_unknown">Zadnje ažuriranje nepoznato</string>
   <string name="msg_update_error_code_already_running">Ažuriranje</string>

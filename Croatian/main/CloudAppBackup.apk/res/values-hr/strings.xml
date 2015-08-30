@@ -68,7 +68,7 @@ svejedno zaustaviti?"</string>
   <string name="confirm_disable_backup">"Ne raditi Sig. kopiju %s?"</string>
   <string name="customization">Uređivanje</string>
   <string name="datasize_unknown">Veličina nepoznata</string>
-  <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+  <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="desktop_downloading">Preuzimanje</string>
   <string name="desktop_installing">Instaliranje</string>
   <string name="desktop_recovering">Obnova</string>
@@ -77,7 +77,7 @@ svejedno zaustaviti?"</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dialog_disable_backup">"Ne raditi Sig. kopiju ove aplikacije?"</string>
   <string name="dialog_prompt_stop_backup">Zaustaviti izradu Sig. kopije?</string>
-  <string name="dir_date_format">HHmmss_ddMMyyyy</string>
+  <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_backup">Isključi</string>
   <string name="download_settings">Preuzimanje postavki Početnog zaslona</string>
   <string name="enable_backup">Uključi</string>
