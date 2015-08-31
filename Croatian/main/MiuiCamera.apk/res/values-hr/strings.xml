@@ -2,7 +2,7 @@
 <resources>
   <string name="Import">Uvoz</string>
   <string name="access_sd_fail">"Ne mogu pristupiti USB pohrani."</string>
-  <string name="accessibilit_camera_video_switch_picker_and_state">Prebaci fotoaparat i video (trenutno koristite %s)</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Promjeni fotoaparat i video (trenutno koristite %s)</string>
   <string name="accessibility_camera_auto_flashmode">Autom. bljeskalica</string>
   <string name="accessibility_camera_flash_closemode">Bez bljeskalice</string>
   <string name="accessibility_camera_flashmode">Uvijek</string>
@@ -163,8 +163,8 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="launch_market">Pokreni Trg. Play</string>
   <string name="launch_qq">Pokreni QQ</string>
   <string name="launch_wechat">Pokreni WeChat</string>
-  <string name="loading">Učitavanje...</string>
-  <string name="loading_video">Učitavanje videozapisa...</string>
+  <string name="loading">Učitavanje…</string>
+  <string name="loading_video">Učitavanje videozapisa…</string>
   <string name="location">Lokacija</string>
   <string name="locations">Lokacije</string>
   <string name="maker">Autor</string>
@@ -174,7 +174,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="mimetype">MIME vrsta</string>
   <string name="model">Model</string>
   <string name="no_save">"Ne spremaj"</string>
-  <string name="no_storage">Umetnite SD karticu prije upotrebe kamere.</string>
+  <string name="no_storage">Umetnite SD karticu prije korištenja kamere.</string>
   <string name="no_thumbnail">Bez minijatura</string>
   <string name="not_enough_space">Unutarnja pohrana je puna.</string>
   <string name="not_selectable_in_scene_mode">Nije moguće odabrati u načinu scene.</string>
@@ -592,7 +592,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="video_snapshot_hint">Snimite fotografiju tijekom snimanja videozapisa dodirom pregleda zaslona.</string>
   <string name="videocamera_settings_label">Postavke videozapisa</string>
   <string name="visit_cloud_album">Posjetite cloud album</string>
-  <string name="wait">Pričekajte...</string>
+  <string name="wait">Pričekajte…</string>
   <string name="web_url_apk_warning">Odabrani QR kod sadrži aplikaciju koja može izazvati opasnost,umjesto toga potražite aplikaciju na Trgovini Play</string>
   <string name="web_url_warning">QR web stranice predstavlja opasnost, MIUI preglednik će sigurno skenirati QR kod za vas.</string>
   <string name="website_details">"Detalji web stranice: "</string>
@@ -603,7 +603,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="wifi_connect_fail">Istek vremena veze ili neuspjeh s WLAN mrežom</string>
   <string name="wifi_connect_not_found">"Ne mogu naći WLAN mrežu"</string>
   <string name="wifi_connect_success">Uspješno povezano na WLAN mrežu</string>
-  <string name="wifi_connecting">Povezivanje na WLAN...</string>
+  <string name="wifi_connecting">Povezivanje na WLAN…</string>
   <string name="wifi_details">Detalji WLAN mreže:</string>
   <string name="wifi_open_fail">Nije moguće otvoriti WLAN mrežu</string>
   <string name="wifi_pwd">Zaporka:</string>
