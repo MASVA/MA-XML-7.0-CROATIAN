@@ -86,7 +86,7 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_charger_plugout_check_title">Punjač (nije priključen)</string>
   <string name="cit_charger_waiting_in">Priključite punjač</string>
   <string name="cit_charger_waiting_out">Isključite punjač</string>
-  <string name="cit_display_check_summary">Provjerite je li potrebna BMP datoteka na SD kartici. Potvrdite da se boje dosljedno prikazuju preko cijelog zaslona. Uvjerite se da nema nepravilniH svijetlih točaka i tamnih mrlja.</string>
+  <string name="cit_display_check_summary">Provjerite je li potrebna BMP datoteka na SD kartici. Potvrdite da se boje dosljedno prikazuju preko cijelog zaslona. Uvjerite se da nema nepravilnih svijetlih točaka i tamnih mrlja.</string>
   <string name="cit_display_check_title">Zaslon</string>
   <string name="cit_display_continue">Dodirnite zaslon za početak testiranja</string>
   <string name="cit_exit_test_summary">Kada izađete, svi povezani tekstualni podaci će biti izbrisani.</string>
@@ -182,7 +182,7 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_play_sd_mp3_summary">"Potvrdite da postoji datoteka s nazivom  \"music.mp3\" pohranjena na SD kartici. Datoteka \"music.mp3\" treba biti reproducirana preko vanjskih zvučnika uređaja prilikom pokretanja ovog testiranja."</string>
   <string name="cit_play_sd_mp3_title">Reproduciraj MP3(HIFI) pohranjen na SD kartici</string>
   <string name="cit_playing_sd_mp3">music.mp3 se reproducira…</string>
-  <string name="cit_pointer_location_title">Zaslona osjetljiva na dodir</string>
+  <string name="cit_pointer_location_title">Zaslon osjetljiv na dodir</string>
   <string name="cit_power_check_summary">Količina punjenja baterije trebala bi biti izražena kao postotak u nastavku.</string>
   <string name="cit_power_check_title">Indikator baterije</string>
   <string name="cit_pressure_sensor_check_summary">Vrijednost za tlak bi se trebala pojaviti u nastavku</string>

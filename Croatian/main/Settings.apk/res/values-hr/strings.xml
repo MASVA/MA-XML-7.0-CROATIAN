@@ -659,8 +659,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="checking_for_updates">Provjera ažuriranja…</string>
   <string name="children_mode_enable_title">Dječji način</string>
   <string name="children_mode_set_apps_title">Dostupne aplikacije</string>
-  <string name="children_mode_tips_off">Nakon uključivanja Dječjeg načina na dodirnite tipku Početna za povratak na Početni zaslon.</string>
-  <string name="children_mode_tips_on">Nakon isključivanja Dječjeg načina na dodirnite tipku Početna za povratak na Početni zaslon.</string>
+  <string name="children_mode_tips_off">Nakon uključivanja Dječjeg načina dodirnite tipku Početna za povratak na Početni zaslon.</string>
+  <string name="children_mode_tips_on">Nakon isključivanja Dječjeg načina dodirnite tipku Početna za povratak na Početni zaslon.</string>
   <string name="children_mode_title">Dječji način</string>
   <string name="choose_smartcover_type">Odaberite vrstu futrole</string>
   <string name="choose_timezone">Odabir vremenske zone</string>
@@ -851,12 +851,12 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="data_usage_metered_wifi_disabled">Za odabir prijenosnih hotspota uključite WLAN.</string>
   <string name="data_usage_pick_cycle_day">Dan u mjesecu za poništavanje ciklusa upotrebe podataka:</string>
   <string name="data_usage_received_sent">Primljeno: %1$s, poslano: %2$s</string>
-  <string name="data_usage_restrict_background">Ako ograničite pozadinske mobilne podatke, neke aplikacije i usluge neće raditi ako niste povezani s WLAN mrežom.</string>
-  <string name="data_usage_restrict_background_multiuser">"Ako ograničite pozadinske mobilne podatke, neke aplikacije i usluge funkcionirat će samo ako se povežete s Wi‑Fi mrežom.
+  <string name="data_usage_restrict_background">Ako ograničite podatke u pozadini, neke aplikacije i usluge neće raditi ako niste povezani s WLAN mrežom.</string>
+  <string name="data_usage_restrict_background_multiuser">"Ako ograničite podatke u pozadini, neke aplikacije i usluge funkcionirat će samo ako se povežete s Wi‑Fi mrežom.
 
 Ta postavka utječe na sve korisnike telefona."</string>
-  <string name="data_usage_restrict_background_title">Ograničenje pozadinskih podataka?</string>
-  <string name="data_usage_restrict_denied_dialog">Ograničavanje pozadinskih podataka moguće je samo ako ste postavili ograničenje mobilnih podataka.</string>
+  <string name="data_usage_restrict_background_title">Ograničiti podatke u pozadini?</string>
+  <string name="data_usage_restrict_denied_dialog">Ograničavanje podataka u pozadini moguće je samo ako ste postavili ograničenje mobilnih podataka.</string>
   <string name="data_usage_summary_title">Uporaba podataka</string>
   <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
 "&lt;font size="12"&gt;ograni&amp;#269;enje&lt;/font&gt;</string>
@@ -913,7 +913,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="default_usb_mode">USB veza</string>
   <string name="delete">"Izbriši"</string>
   <string name="deny">Odbij</string>
-  <string name="deny_sms_message">"Ne dopustiti instaliranim aplikacijama slanje SMS-a"</string>
+  <string name="deny_sms_message">"Zabrani slanje SMS poruka"</string>
   <string name="deny_sms_title">Zaključaj SMS</string>
   <string name="details_subtitle">Pojedinosti korištenja</string>
   <string name="details_title">Pojedinosti korištenja</string>

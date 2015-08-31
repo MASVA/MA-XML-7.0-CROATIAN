@@ -21,7 +21,7 @@
   <string name="action_menu_text_bandwidth">Ušteda podataka</string>
   <string name="action_menu_text_bandwidth_off">Ušteda podataka/Isklj.</string>
   <string name="action_menu_text_bandwidth_on">Ušteda podataka/Uklj.</string>
-  <string name="action_menu_text_bookmark">Dodaj oznaku</string>
+  <string name="action_menu_text_bookmark_added">Oznaka dodana</string>
   <string name="action_menu_text_copy_url">Kopiraj poveznicu</string>
   <string name="action_menu_text_create_qr_code">QR kod</string>
   <string name="action_menu_text_exit">Izlaz</string>
