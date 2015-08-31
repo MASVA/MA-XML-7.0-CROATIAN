@@ -209,7 +209,7 @@ Kartice kontakata su isključene"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Kartice kontakta su isključene</string>
   <string name="contact_detail_profile_switch_on">"Prikaži fotografije profila kontakta"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">"Ne mogu isključiti kartice</string>
-  <string name="contact_detail_profile_switch_on_success_toast">Dodirnite da uključite kartice kontakata</string>
+  <string name="contact_detail_profile_switch_on_success_toast">Kartice kontakata su uključene</string>
   <string name="contact_directory_description">Direktorij %1$s</string>
   <string name="contact_edit_title_edit">"Uredi kontakt"</string>
   <string name="contact_edit_title_insert">"Spremi u %s"</string>

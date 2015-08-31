@@ -105,7 +105,7 @@
   <string name="button_text_cancel_optimize">Odustani</string>
   <string name="button_text_cleanup">Očistiti</string>
   <string name="button_text_clear">Očistiti</string>
-  <string name="button_text_create_shortcut">Napravi</string>
+  <string name="button_text_create_shortcut">Napravi prečac</string>
   <string name="button_text_fix">Popravi</string>
   <string name="button_text_ignore">Zanemari</string>
   <string name="button_text_ignore_alert_title">Zanemariti ovo upozorenje?</string>
