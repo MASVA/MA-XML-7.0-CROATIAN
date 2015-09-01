@@ -32,7 +32,7 @@
     </string-array>
 	<string-array name="livetalk_about_info_array">
         <item>- Podržava domaće i međunarodne brojeve telefona.</item>
-        <item>- Svaki poziv koristi 1Kb mobilnih podataka.</item>
+        <item>"- Svaki poziv koristi 1Kb mobilnih podataka (koristi redovitu mobilnu mrežu kada nemate mobilne podatkovne veze)."</item>
         <item>- Vaš operater može vam naplatiti roaming tijekom korištenja ove usluge.</item>
         <item>- Trebate uključiti Besplatno slušanje za korištenje ove usluge, inače vam vaš operater može naplatiti troškove dok ste u roamingu.</item>
         <item>- Služba za podršku: YunZhiXun, RonLianYunTongXun, LTSC</item>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="active_phone_fail_nochoice">"Ne mogu aktivirati SIM karticu"</string>
-  <string name="active_phone_fail_toast">"Ne mogu aktivirati SIM karticu %1$s"</string>
+  <string name="active_phone_fail_nochoice">"Ne mogu provjeriti SIM karticu"</string>
+  <string name="active_phone_fail_toast">"Ne mogu provjeriti SIM karticu %1$s"</string>
   <string name="active_phone_sim_absent">Umetnite SIM karticu sada</string>
-  <string name="active_phone_success_nochoice">SIM kartica aktivirana</string>
-  <string name="active_phone_success_toast">SIM kartica %1$s aktivirana</string>
-  <string name="activing_simcard">Aktiviranje SIM %1$d</string>
-  <string name="activing_simcard_alone">Aktiviranje SIM-a…</string>
+  <string name="active_phone_success_nochoice">SIM kartica provjerena</string>
+  <string name="active_phone_success_toast">SIM kartica %1$s provjerena</string>
+  <string name="activing_simcard">Provjera SIM %1$d</string>
+  <string name="activing_simcard_alone">Provjera SIM-a…</string>
   <string name="add">Dodaj</string>
   <string name="addSimEntries">Dodaj SIM kontakt</string>
   <string name="add_fdn_contact">Dodaj broj za fiksno biranje</string>
@@ -575,9 +575,9 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="livetalk_about_info">About</string>
   <string name="livetalk_about_info_content">"V0.9 beta (KratkI kodovi broja usluga nisu podržani u ovom trenutku. Trebate se povezati na internet kako bi koristili ovu značajku. Svaki poziv koristi 1KB mobilnih podataka. Trebate uključiti Besplatno slušanje za korištenje ove usluge, inače vam vaš operater može naplatiti dok ste u roamingu.)"</string>
   <string name="livetalk_activate">Activate top-up package</string>
-  <string name="livetalk_activate_number">Activate SIM card</string>
-  <string name="livetalk_activate_number_1">Activate SIM 1</string>
-  <string name="livetalk_activate_number_2">Activate SIM 2</string>
+  <string name="livetalk_activate_number">Provjera SIM kartice</string>
+  <string name="livetalk_activate_number_1">Provjera SIM 1</string>
+  <string name="livetalk_activate_number_2">Provjera SIM 2</string>
   <string name="livetalk_activate_sim_card">Activate</string>
   <string name="livetalk_activate_summary">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="livetalk_add_white_list_info">Add phone number to dial directly.</string>
@@ -1112,14 +1112,14 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="setting_duration_title">Preostalo vrijeme</string>
   <string name="settings_label">Postavke mreže</string>
   <string name="sim1_activated">SIM kartica 1</string>
-  <string name="sim1_no_activated">SIM kartica 1 nije aktivirana</string>
+  <string name="sim1_no_activated">SIM kartica 1 provjerena</string>
   <string name="sim2_activated">, SIM kartica 2</string>
-  <string name="sim2_no_activated">, SIM kartica 2 nije aktivirana</string>
-  <string name="simContacts_airplaneMode">Za uvoz kontakata sa SIM kartice prvo isključite način rada u zrakoplovu.</string>
+  <string name="sim2_no_activated">, SIM kartica 2 provjerena</string>
+  <string name="simContacts_airplaneMode">Za uvoz kontakata sa SIM kartice prvo isključite zrakoplovni način.</string>
   <string name="simContacts_empty">Nema kontakata na vašoj SIM kartici.</string>
   <string name="simContacts_emptyLoading">Čitanje sa SIM kartice…</string>
   <string name="simContacts_title">Upravljanje kontaktima SIM kartice</string>
-  <string name="sim_activated">Aktivirano</string>
+  <string name="sim_activated">Provjereno</string>
   <string name="sim_card_activate">Trenutna SIM kartica</string>
   <string name="sim_absent">Nema</string>
   <string name="sim_cards_network_mode_changed_summary">Dodirnite za prikaz postavki SMS-a i poziva.</string>
@@ -1132,7 +1132,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sim_label_emergency_calls">Hitni pozivi</string>
   <string name="sim_ndp_dismiss_text">Odbaci</string>
   <string name="sim_ndp_unlock_text">Otključaj</string>
-  <string name="sim_no_activated">Nije aktivirano</string>
+  <string name="sim_no_activated">Nije provjereno</string>
   <string name="sim_unknown">Nepoznato</string>
   <string name="sim_unlock_failed">SIM zahtjev otključavanja neuspješan.</string>
   <string name="sim_unlock_success">SIM otključavanje uspješno.</string>

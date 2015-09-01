@@ -355,10 +355,10 @@
   <string name="video_info_resolution_label">Rezolucija:</string>
   <string name="video_info_video_coding_label">Video kodiranje:</string>
   <string name="video_plugin">Video Plugin</string>
-  <string name="video_plugin_downloading">Preuzimanje…</string>
-  <string name="video_plugin_prepare">Priprema video plug-in, pričekajte.</string>
+  <string name="video_plugin_downloading">Preuzimanje (%1$s), pričekajte.</string>
+  <string name="video_plugin_prepare">Priprema video plugina, pričekajte.</string>
   <string name="vp_VideoView_error_button">U redu</string>
-  <string name="vp_VideoView_error_network_not_available">"Ne mogu se spojiti na mrežu"</string>
+  <string name="vp_VideoView_error_network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Ova vrsta datoteke nije podržana."</string>
   <string name="vp_VideoView_error_text_unknown">Došlo je do nepoznate pogreške.</string>
   <string name="vp_VideoView_error_title">Nepoznata pogreška</string>
@@ -380,14 +380,14 @@
   <string name="vp_datastream_alert_positive_button">Nastavi</string>
   <string name="vp_datastream_alert_title">Upozorenje uporabe podataka</string>
   <string name="vp_device_list">Uređaji</string>
-  <string name="vp_download_connect_fail">"Ne mogu pronaći URL.Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="vp_download_connect_fail">"Ne mogu pronaći poveznicu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="vp_download_file_fail">"Ne mogu preuzeti datoteku. Pobrinite se da ima dovoljno prostora na unutarnjoj 
   pohrani vašeg uređaja ili SD kartici."</string>
   <string name="vp_exit">Izlaz</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Reproduciraj u punom zaslonu</string>
   <string name="vp_function">Postavke</string>
-  <string name="vp_get_url_error">"Ne mogu pronaći URL za ovaj videozapis."</string>
+  <string name="vp_get_url_error">"Ne mogu pronaći poveznicu za ovaj videozapis."</string>
   <string name="vp_hide_media_info">Sakrij detalje videozapisa</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_hint">Savjet</string>
@@ -399,6 +399,7 @@
   <string name="vp_low_definition">NISKO</string>
   <string name="vp_maintitlearea">Preuzmite i uživajte u HD videozapisima</string>
   <string name="vp_media_info">Prikaži detalje videozapisa</string>
+  <string name="vp_media_type_banned">Ova vrsta medija nije podržana</string>
   <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Uloge za prikaz</string>
   <string name="vp_mobile_network_using_negative">Odustani</string>

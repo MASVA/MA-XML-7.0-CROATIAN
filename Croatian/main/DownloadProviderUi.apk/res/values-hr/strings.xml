@@ -87,7 +87,9 @@
   <string name="download_title_sorted_by_size">Preuzimanja - Poredano po veličini</string>
   <string name="download_wait_connect">Čekanje na povezivanje</string>
   <string name="download_when_network_connected">Preuzmi koristeći mobilnu mrežu</string>
+  <string name="downloaded">Preuzimanje dovršeno</string>
   <string name="downloaded_empty">Prazno</string>
+  <string name="downloading">Preuzimanje…</string>
   <string name="downloading_empty">Prazno</string>
   <string name="downloads_operating">Radim…</string>
   <string name="dredge_xunlei_account">Izradite Xunlei Račun</string>
@@ -105,6 +107,8 @@
   <string name="get_order_fail_msg">"Ne mogu dobiti detalje narudžbe"</string>
   <string name="high_speed_channel">Xunlei ubrzanje preuzimanja (uz plaćanje):</string>
   <string name="input_valid_address">Unesite putanju datoteke</string>
+  <string name="install">Instaliraj</string>
+  <string name="installing">Instaliranje…</string>
   <string name="invalid_address">Putanja datoteke koje ste unijeli nije važeća</string>
   <string name="immediately_a_renewal">Obnovi sada</string>
   <string name="keep_queued_download">Zadrži</string>
@@ -126,12 +130,14 @@
   <string name="no_vip_info">Nabavite Xunlei članstvo za ubrzanje preuzimanja</string>
   <string name="no_vip_show_info">"Ubrzajte preuzimanja na svim vašim uređajima sa Xunlei"</string>
   <string name="one_month">1 mjesec</string>
+  <string name="open">Otvori</string>
   <string name="open_download">Otvori</string>
   <string name="open_xunlei_speed_service">Pokreni Xunlei ubrzanje preuzimanja</string>
   <string name="original_price">Cijena</string>
   <string name="other_filter">Ostalo</string>
   <string name="package_filter">Paketi</string>
   <string name="pause_download">Pauza</string>
+  <string name="paused">Pauzirano</string>
   <string name="paused_by_app">Pauzirano</string>
   <string name="paused_insufficient_space">Čekanje na prostor za pohranu</string>
   <string name="paused_queued_for_wifi">Pauzirano, čeka se WLAN</string>
@@ -139,7 +145,7 @@
   <string name="paused_waiting_for_network">Čekanje na mobilnu mrežu</string>
   <string name="paused_waiting_to_retry">Čekam ponovni pokušaj</string>
   <string name="period_of_validity">"Valjanost: "</string>
-  <string name="pref_download_revert_default">Koristi zadanu lokaciju za preuzimanja</string>
+  <string name="pref_download_revert_default">Zadano</string>
   <string name="pref_download_settings_title">Ograničenje veličine preuzimanja</string>
   <string name="pref_download_storage_path">Izradi novu mapu za preuzimanja</string>
   <string name="pref_summary_any_bytes_popup">Uvijek čekaj WLAN vezu za preuzimanje datoteka</string>

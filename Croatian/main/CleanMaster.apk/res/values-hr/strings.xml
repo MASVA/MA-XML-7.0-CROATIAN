@@ -98,8 +98,8 @@
   <string name="header_optimizer">Korištenjem ove značajke, pristajete na %s.</string>
   <string name="hint_bar_select_image">Odabrano: %d</string>
   <string name="hint_clean_select_similar_image">Brisanje duplikata…</string>
-  <string name="hints_ad_header_left">Reklama</string>
-  <string name="hints_apk_header_left">Instal. aplik.</string>
+  <string name="hints_ad_header_left">Reklame</string>
+  <string name="hints_apk_header_left">Paketi</string>
   <string name="hints_apk_version">Verzija %s</string>
   <string name="hints_app_uninstall_residual">Očistiti ostatke deinstaliranih datoteka?</string>
   <string name="hints_cache_header_left">Predmemorija</string>
