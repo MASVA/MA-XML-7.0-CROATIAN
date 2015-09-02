@@ -508,7 +508,7 @@ Razlog: \"%s\""</string>
   <string name="in_call_show_pick_video">Odaberi videozapis</string>
   <string name="in_call_show_preview">Pregled</string>
   <string name="in_call_show_recording">Snimanje…</string>
-  <string name="in_call_show_reshoot">Smimi ponovo</string>
+  <string name="in_call_show_reshoot">Snimi ponovo</string>
   <string name="in_call_show_save_completed">Videozapis profila je spremljen</string>
   <string name="in_call_show_save_failed">"Ne mogu spremiti videozapis"</string>
   <string name="in_call_show_tap_to_show_demo">Dodirnite zaslon za pregled</string>
@@ -654,7 +654,7 @@ Razlog: \"%s\""</string>
   <string name="miprofile_save_alertdialog_message">Vaša kartica će biti poslana ovom kontaktu automatski.</string>
   <string name="miprofile_save_alertdialog_title">Kartica kontakta je primiljena</string>
   <string name="miprofile_switch_off_alertdialog_message">"Nećete biti u mogućnosti razmijeniti Kartice kontakata s drugim osobama. Vaši kontakti neće biti u mogućnosti vidjeti vaš videozapis profila."</string>
-  <string name="miprofile_switch_on_alertdialog_message">Razmjenite Kartice kontakata da biste vidjeli ažurirane sliku profila.</string>
+  <string name="miprofile_switch_on_alertdialog_message">Razmjenite Kartice kontakata da biste vidjeli ažurirane slike profila.</string>
   <string name="miprofile_switch_on_alertdialog_positive">Uključi</string>
   <string name="miprofile_switch_on_alertdialog_title">Ažuriranje slike profila</string>
   <string name="missing_name">"(Bez imena)"</string>
