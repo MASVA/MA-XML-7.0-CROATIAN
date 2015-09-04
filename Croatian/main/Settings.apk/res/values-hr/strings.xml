@@ -48,10 +48,10 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="accessibility_screen_magnification_summary">"Ako je ova značajka uključena, možete povećati ili smanjiti prikaz ako triput dodirnete zaslon. 
   
 Nakon povećanja prikaza možete sljedeće:
-"&lt;li&gt;&lt;ul&gt;"Pomicati: pomoću dva prsta ili više prstiju povlačite prikaz na zaslonu.
-"&lt;li&gt;Podesiti razinu zumiranja: stisnite dva prsta ili više prstiju ili ih raširite.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"Pomicati: pomoću dva prsta ili više prstiju povlačite prikaz na zaslonu.
+"Podesiti razinu zumiranja: stisnite dva prsta ili više prstiju ili ih raširite."
 
-Takđer možete privremeno povećati stavku ispod prsta ako je triput dodirnete i držite. U tom slučaju možete povlačiti prst kako biste istražili različite dijelove zaslona. Podignite prst da se vratite na prijašnje stanje.
+Također možete privremeno povećati stavku ispod prsta ako je triput dodirnete i držite. U tom slučaju možete povlačiti prst kako biste istražili različite dijelove zaslona. Podignite prst da se vratite na prijašnje stanje.
 
 Napomena: povećanje trostrukim dodirom moguće je svuda osim na tipkovnici i traci za navigaciju."</string>
   <string name="accessibility_screen_magnification_title">Pokreti povećavanja</string>
@@ -1196,7 +1196,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="external_storage_turn_on">Vanjska pohrana je uključena</string>
   <string name="extreme_threats_summary">Primanje obavijesti za ekstremne ugroženosti života i imovi</string>
   <string name="extreme_threats_title">Ekstremne prijetnje</string>
-  <string name="factory_reset_summary">"Izbriši sve podatke iz interne memorije telefona"</string>
+  <string name="factory_reset_summary">"Izbriši sve podatke iz unutarnje memorije telefona"</string>
   <string name="failed_to_open_app_settings_toast">Otvaranje postavki za aplikaciju %1$s nije uspjelo</string>
   <string name="fcc_equipment_id">ID opreme</string>
   <string name="filter">Filtar</string>
@@ -1210,15 +1210,15 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="finish_application">Prisilno zaustavi</string>
   <string name="finish_button_label">Završi</string>
   <string name="firmware_version">Verzija sustava Android</string>
-  <string name="floating_window_switch_label">Prikaži skočne prozore </string>
+  <string name="floating_window_switch_label">Prikaži skočne prozore</string>
   <string name="floating_window_switch_label_disable">Sakrij skočne prozore</string>
   <string name="fluency_mode">Optimiziranje performansi sustava</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
   <string name="fluency_mode_confirm_title">Ponovno pokrenuti?</string>
   <string name="fluency_mode_confirm_will_fluency_mode_text">Morate ponovno pokrenuti uređaj za primjenu ovih postavki.</string>
-  <string name="fluency_mode_confirm_will_normal_mode_text">Omogućene animacije i povećana potrošnja RAM može uzrokovati usporavanje sustava na nekim uređajima s 1GB RAM.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">Omogućene animacije i povećana potrošnja RAM može uzrokovati usporavanje sustava na nekim uređajima s 1GB RAM-a.</string>
   <string name="fluency_mode_enabled_name">Optimizirajte performanse</string>
-  <string name="fluency_mode_summary">Onemogući animaciju sustava i time smanjiti korištenje RAM</string>
+  <string name="fluency_mode_summary">Onemogući animaciju sustava i time smanji korištenje RAM-a</string>
   <string name="font_size_exhuge">Extra velik</string>
   <string name="font_size_huge">Ogroman</string>
   <string name="font_size_large">Veliki</string>
@@ -1228,7 +1228,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="font_size_preview_text">Ovo je za sve one koji vole MIUI. by "MASVA"</string>
   <string name="font_size_save">"U redu"</string>
   <string name="font_size_small">Mali</string>
-  <string name="font_size_summary">"Promjenite veličinu fonta teksta početnog zaslona, panela obavijesti, tipkovnice i izbornicima sustava.
+  <string name="font_size_summary">"Promjenite veličinu fonta teksta početnog zaslona, panela obavijesti, tipkovnice i izbornika sustava.
   
   "</string>
   <string name="font_size_summary1"/>
@@ -1250,7 +1250,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="free_wifi_connect">Poveži</string>
   <string name="free_wifi_connect_dialog_summary">Ovaj javni WLAN %1$s pruža %2$s.</string>
   <string name="free_wifi_connect_dialog_title">WLAN dostupan</string>
-  <string name="free_wifi_connect_fail">"Ne mogu se spojiti na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="free_wifi_connect_fail">"Ne mogu se povezati na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="free_wifi_connect_fail2">"Ne mogu prijaviti. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="free_wifi_connect_summary">Dodirnite za povezivanje na %1$s.</string>
   <string name="free_wifi_connect_title">WLAN dostupan</string>
@@ -1446,7 +1446,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="launch_count_label">Broj</string>
   <string name="launcher_settings_title">MIUI Pokretač</string>
   <string name="launching_cit">Pokrećem cit, pričekajte.</string>
-  <string name="launching_pho">Pokrećem podatke uređaja…</string>
+  <string name="launching_pho">Pokrećem podatke o uređaju…</string>
   <string name="launching_rep">Slanje zapisa o pogrešci…</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_huge">XL</string>
@@ -1460,7 +1460,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="led_settings">Svjetlo obavijesti</string>
   <string name="legal_information">Pravne informacije</string>
   <string name="legal_workday">Radni dani</string>
-  <string name="legal_workday_invalidate">Pon-Pet (holiday info expired)</string>
+  <string name="legal_workday_invalidate">Pon-Pet (istekli podaci o praznicima)</string>
   <string name="legal_workday_invalidate_message">Dodirnite za ažuriranje pojedinosti praznika.</string>
   <string name="legal_workday_message">(Preskoči prazike)</string>
   <string name="license_title">Dopuštenja</string>
@@ -1584,7 +1584,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="lockpassword_pin_set_toast">PIN je postavljen</string>
   <string name="lockpassword_pin_too_long">PIN mora imati manje od ovoliko znamenki: %d</string>
   <string name="lockpassword_pin_too_short">PIN mora imati najmanje ovoliko znamenki: %d</string>
-  <string name="lockpassword_press_continue">Dodirnite Nastavak kad završite</string>
+  <string name="lockpassword_press_continue">Dodirnite Nastavi kad završite</string>
   <string name="lockpattern_change_lock_pattern_label">Izmijeni uzorak za otključavanje</string>
   <string name="lockpattern_change_lock_pin_label">Promjena PIN-a</string>
   <string name="lockpattern_confirm_button_text">"Potvrdi"</string>
@@ -1649,7 +1649,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
 
 Trenutno ste prijavljeni na sljedeće račune:
 "</string>
-  <string name="master_clear_all">"Ova radnja briše sve podatke s interne pohrane kao što je : Google račun, podatke sustava i aplikacija, preuzete aplikacije</string>
+  <string name="master_clear_all">"Ova radnja briše sve podatke s unutarnje pohrane kao što je : Google račun, podatke sustava i aplikacija, preuzete aplikacije</string>
   <string name="master_clear_button_text">Poništi uređaj</string>
   <string name="master_clear_confirm_title">Poništiti?</string>
   <string name="master_clear_desc">Ova radnja briše sve podatke s "&lt;b&gt;unutarnje pohrane&lt;/b&gt;" uređaja, uključujući:  
@@ -3182,7 +3182,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="virus_scan_app_uninstall">Ukloni (%d)</string>
   <string name="virus_scan_app_waiting">Čekanje…</string>
   <string name="virus_scanner_auto_update">Ažuriraj automatski</string>
-  <string name="virus_scanner_date_formater">dd MM. yyyy</string>
+  <string name="virus_scanner_date_formater">dd.MM.yyyy</string>
   <string name="virus_scanner_lib_already_latest">Već koristite najnovije definicije :)</string>
   <string name="virus_scanner_lib_update_failed">Ažuriranje nije uspjelo</string>
   <string name="virus_scanner_lib_updating">Ažuriranje definicija…</string>
@@ -3464,7 +3464,7 @@ WLAN Asistent"</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_required_info_text">Da bi se postavljanje dovršilo, vaš uređaj treba pristupiti WLAN mreži. Nakon postavljanja možete izmjenjivati mobilnu podatkovnu vezu i WLAN.</string>
   <string name="wifi_rssi_threshold_check">Omogući RSSI prag</string>
-  <string name="wifi_rssi_threshold_check_summary">Nemoj spajati na AP, ako je RSSI je loš</string>
+  <string name="wifi_rssi_threshold_check_summary">Nemoj spajati na AP, ako je RSSI loš</string>
   <string name="wifi_save">"Spremi"</string>
   <string name="wifi_saved_access_points_label">Spremljene mreže</string>
   <string name="wifi_saved_access_points_titlebar">Spremljene mreže</string>
@@ -3599,8 +3599,8 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="wifi_unchanged">(nepromijenjeno)</string>
   <string name="wifi_unspecified">(nije određeno)</string>
   <string name="wifi_update">Osvježi statistike</string>
-  <string name="wifi_verbose_logging">Omogući opširnu prijavu na Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Povećana razina prijave na Wi‑Fi, prikaz po SSID RSSI-ju u Biraču Wi‑Fi-ja</string>
+  <string name="wifi_verbose_logging">Omogući opširnu prijavu na WLAN</string>
+  <string name="wifi_verbose_logging_summary">Povećana razina prijave na WLAN, prikaz po SSID RSSI-ju u Biraču WLAN-a</string>
   <string name="wifi_wapi_as_cert">AS Certifikat</string>
   <string name="wifi_wapi_cert_cancel_button">Odustani</string>
   <string name="wifi_wapi_cert_create_subdir">Kreiraj mapu</string>
