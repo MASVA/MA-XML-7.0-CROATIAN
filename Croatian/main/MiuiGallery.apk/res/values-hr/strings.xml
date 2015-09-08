@@ -66,15 +66,16 @@
   <string name="apply">Postavi</string>
   <string name="appwidget_empty_text">Nema fotografija.</string>
   <string name="appwidget_title">Galerija</string>
+  <string name="associate_face_album">Odaberi lice albuma</string>
   <string name="auto">Autom.</string>
   <string name="auto_create_recent_album">Napravi autom. albume favorita</string>
   <string name="auto_create_recent_album_confirm">"Galerija će izbrisati podatke favorita albuma. Albumi koje ste ručno označili favoritima neće biti pogođeni."</string>
   <string name="auto_create_recent_album_over_ten_times">Album će biti označen kao favorit nakon otvaranja više od 10 puta</string>
+  <string name="auto_update_face">Dodaj fotografije automatski</string>
+  <string name="auto_update_face_summary">Automatski usporedi i dodaj fotografije u dječji album</string>
+  <string name="auto_update_off">Isključeno</string>
+  <string name="auto_update_on">Uključeno</string>
   <string name="auto_upload_album_comfirm_to_share">Ovaj album će biti sinkr. automatski.</string>
-  <string name="auto_upload_face">Dodaj fotografije automatski</string>
-  <string name="auto_upload_face_summary">Automatski svrstaj i dodaj fotografije u dječji album</string>
-  <string name="auto_upload_face_summary_with_people_name_when_off">Dodaj fotografije od \"%1$s\" u ovaj album automatski</string>
-  <string name="auto_upload_face_summary_with_people_name_when_on">Dodaj fotografije od \"%1$s\" u ovaj album automatski</string>
   <string name="auto_upload_guide_msssage">"Automatski sinkr. svoje fotografije iz drugih aplikacija na MiCloud. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u Postavke - Sink. s MiCloud - Sink. Automatski"</string>
   <string name="auto_upload_guide_title">Sinkr. fotografija s MiCloud</string>
   <string name="auto_upload_title">Sinkr. automatski</string>
@@ -447,6 +448,8 @@
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Dodirnite lice za početak</string>
   <string name="must_pick_file">Odaberi sliku</string>
+  <string name="name_wrong">"Ovo nije %s"</string>
+  <string name="need_to_turn_on_sync">Dodirnite za uključivanje Mi Clouda</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
@@ -678,6 +681,7 @@ uređaja"</string>
   <string name="sync_album_summary">Sinkr. s MiCloud</string>
   <string name="sync_history_power_on">Sinkroniziraj povijest slika samo tijekom punjenja</string>
   <string name="sync_in_progress_message">Preuzimanje albuma…</string>
+  <string name="sync_ok">Sinkr. u redu</string>
   <string name="sync_only_in_wifi">Koristi samo WLAN za sinkr. fotografija</string>
   <string name="sync_only_in_wifi_alert">Isključivanje ove opcije može povećati vašu uporabu podataka.</string>
   <string name="sync_only_in_wifi_summary">Nikada ne koristi mobilnu podatkovnu vezu za sinkr. fotografija</string>

@@ -128,4 +128,28 @@
         <item quantity="other">"%1$d dana "</item>
         <item quantity="one">"%1$d dan "</item>
      </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">Slika (%1$d) za učitati</item>
+        <item quantity="one">1 slika za učitati</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">Videozapisa (%1$d) za učitati</item>
+        <item quantity="one">1 videozapis za učitati</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">Slika i videozapisa (%1$d) za učitati</item>
+        <item quantity="one">1 slika i videozapis za učitati</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Učitavanje %1$d slika…</item>
+        <item quantity="one">Učitavanje 1 slike…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Učitavanje %1$d videozapisa…</item>
+        <item quantity="one">Učitavanje 1 videozapisa…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Učitavanje %1$d slika i videozapisa…</item>
+        <item quantity="one">Učitavanje 1 slike i videozapisa…</item>
+    </plurals>
 </resources>
