@@ -88,7 +88,7 @@
   <string name="call_recording_error_unknown">Nepoznata greška</string>
   <string name="call_recording_notification_message">Dodirnite za slušanje.</string>
   <string name="call_recording_notification_message_low_storage">SD kartica je puna.</string>
-  <string name="call_recording_notification_message_sd_unmounted">SD kartica je uklonjena..</string>
+  <string name="call_recording_notification_message_sd_unmounted">SD kartica je uklonjena.</string>
   <string name="call_recording_notification_title">Poziv snimljen</string>
   <string name="call_recording_notification_title_error">"Ne mogu snimiti poziv."</string>
   <string name="call_settings">Postavke poziva</string>
@@ -96,7 +96,7 @@
   <string name="call_title_redialing_with_times_miui">%d puta ponovno pozvano</string>
   <string name="caller_manage_header">Konferencijski poziv %s</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Odustani</string>
   <string name="card_title_call_ended">"Poziv završen "</string>
   <string name="card_title_callback_number">""Vaš broj za povratni poziv
  %1$s"</string>
@@ -722,6 +722,6 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
 "</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?"
 "</string>
-  <string name="waiting_close_airplane_mode">Čekanje na zatvaranje Zrakoplovnog načina…</string>
+  <string name="waiting_close_airplane_mode">Samo tren…</string>
   <string name="wild_prompt_str">Zamijeni zamjenski znak s</string>
 </resources>

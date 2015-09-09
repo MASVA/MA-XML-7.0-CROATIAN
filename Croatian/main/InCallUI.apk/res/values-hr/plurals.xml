@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <plurals name="call_recording_notification_complete">
+        <item quantity="other">Snimljeno %d poziva.</item>
+        <item quantity="one">1 poziv snimljen.</item>
+	</plurals>
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Nema podatkovne veze %s minuta</item>
         <item quantity="one">Nema podatkovne veze %s minutu</item>

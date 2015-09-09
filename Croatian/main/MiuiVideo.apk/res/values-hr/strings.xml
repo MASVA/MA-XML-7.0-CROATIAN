@@ -416,6 +416,8 @@
   <string name="vp_offline_status_wait">Pričekaj</string>
   <string name="vp_offline_title">Izvanmrežno</string>
   <string name="vp_offline_title_name">Epizoda %d</string>
+  <string name="vp_play_youku_failed_get_video_info">"Ne mogu dobiti informacija o videozapisu"</string>
+  <string name="vp_play_youku_time_out">Isteklo je vrijeme veze</string>
   <string name="vp_player_plugin_dlg_neg_btn">Zatvori</string>
   <string name="vp_player_plugin_dlg_no_content">Nema Video Player Plugina</string>
   <string name="vp_player_plugin_dlg_title">Video Player Plugin</string>

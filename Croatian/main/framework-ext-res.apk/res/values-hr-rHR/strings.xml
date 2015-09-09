@@ -45,6 +45,8 @@
   <string name="permdesc_manageLocationPolicy">Omogućuje aplikaciji upravljanje pravila lokacije i određivanje pravila za specifične aplikacije.</string>
   <string name="permlab_manageLocationPolicy">Upravljaj pravilima lokacije</string>
   <string name="reboot_confirm_title">Vaš uređaj će se ponovno pokrenuti</string>
+  <string name="reboot_info_auto_boot">Vaš telefon će se uključiti u %s prema rasporedu auto pokretanja</string>
+  <string name="reboot_info_shutdown_alarm">Vaš telefon će se uključiti i oglasiti alarm u %s</string>
   <string name="reboot_progress">Ponovno pokretanje…</string>
   <string name="replace">Zamijeni</string>
   <string name="screen_button_disabled_message">Navigacijske tipke su isključene. Da ih ponovo uključite, dodirnite tipku \"Početna\" i \"Napajanje\" istovremeno.</string>

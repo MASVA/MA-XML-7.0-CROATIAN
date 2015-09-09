@@ -5,29 +5,29 @@
         <item quantity="one">Izbrisati %1$s album (%2$s ukupno)?</item>
     </plurals>
 	<plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">Odabrane stavke, uključujući fotografije ili videozapise u Mi Cloudu, izbrisati ovoliko %s  stavaka s ovog uređaja i Mi Clouda</item>
+        <item quantity="other">Odabrane stavke, uključujući fotografije ili videozapise u Mi Cloudu, izbrisati ovoliko %s stavaka s ovog uređaja i Mi Clouda</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">Odabrane stavke, uključujući fotografije u Mi Cloudu, izbrisati ovoliko %s  fotografija s ovog uređaja i Mi Clouda</item>
-        <item quantity="one">Odabrana stavka, uključujući fotografiju u Mi Cloudu, izbrisati  %s  fotografiju s ovog uređaja i Mi Clouda</item>
+        <item quantity="other">Odabrane stavke, uključujući fotografije u Mi Cloudu, izbrisati ovoliko %s  fotografija s ovog uređaja i Mi Clouda?</item>
+        <item quantity="one">Odabrana stavka, uključujući fotografiju u Mi Cloudu, izbrisati %s fotografiju s ovog uređaja i Mi Clouda</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">Odabrane stavke, uključujući videozapise u Mi Cloudu, izbrisati ovoliko %s  videozapisa s ovog uređaja i Mi Clouda</item>
-        <item quantity="one">Odabrana stavka, uključujući videozapis u Mi Cloudu, izbrisati  %s  videozapis s ovog uređaja i Mi Clouda</item>
+        <item quantity="other">Odabrane stavke, uključujući videozapise u Mi Cloudu, izbrisati ovoliko %s  videozapisa s ovog uređaja i Mi Clouda?</item>
+        <item quantity="one">Odabrana stavka, uključujući videozapis u Mi Cloudu, izbrisati %s videozapis s ovog uređaja i Mi Clouda</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">Odabrane stavke su fotografije ili videozapisi na Mi Cloudu, izbrisati ovoliko %s  stavaka s Mi Clouda</item>
+        <item quantity="other">Odabrane stavke su fotografije ili videozapisi na Mi Cloudu, izbrisati ovoliko %s  stavaka s Mi Clouda?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">Odabrane stavke su fotografije na Mi Cloudu, izbrisati ovoliko %s  fotografija s Mi Clouda</item>
-        <item quantity="one">Odabrana stavka je fotografija na Mi Cloudu, izbrisati  %s  fotografiju s Mi Clouda</item>
+        <item quantity="other">Odabrane stavke su fotografije na Mi Cloudu, izbrisati ovoliko %s  fotografija s Mi Clouda?</item>
+        <item quantity="one">Odabrana stavka je fotografija na Mi Cloudu, izbrisati %s fotografiju s Mi Clouda?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">Odabrane stavke su videozapisi na Mi Cloudu, izbrisati ovoliko %s  videozapisa s Mi Clouda</item>
-        <item quantity="one">Odabrana stavka je videozapis na Mi Cloudu, izbrisati  %s  videozapis s Mi Clouda</item>
+        <item quantity="other">Odabrane stavke su videozapisi na Mi Cloudu, izbrisati ovoliko %s videozapisa s Mi Clouda?</item>
+        <item quantity="one">Odabrana stavka je videozapis na Mi Cloudu, izbrisati %s videozapis s Mi Clouda?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">Izbrisati  %s  stavaka iz ovog albuma</item>
+        <item quantity="other">Izbrisati %s stavaka iz ovog albuma</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">Izbrisati %s stavaka?</item>
@@ -129,27 +129,27 @@
         <item quantity="one">"%1$d dan "</item>
      </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">Slika (%1$d) za učitati</item>
-        <item quantity="one">1 slika za učitati</item>
+        <item quantity="other">Fotografija (%1$d) čeka na sinkr.</item>
+        <item quantity="one">1 fotografija čeka na sinkr.</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">Videozapisa (%1$d) za učitati</item>
-        <item quantity="one">1 videozapis za učitati</item>
+        <item quantity="other">Videozapisa (%1$d) čeka na sinkr.</item>
+        <item quantity="one">1 videozapis čeka na sinkr.</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">Slika i videozapisa (%1$d) za učitati</item>
-        <item quantity="one">1 slika i videozapis za učitati</item>
+        <item quantity="other">Fotografija i videozapisa (%1$d) čeka na sinkr.</item>
+        <item quantity="one">1 fotografija i videozapis čeka na sinkr.</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Učitavanje %1$d slika…</item>
-        <item quantity="one">Učitavanje 1 slike…</item>
+        <item quantity="other">Sinkr. %1$d fotografija…</item>
+        <item quantity="one">Sinkr. 1 fotografije…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Učitavanje %1$d videozapisa…</item>
-        <item quantity="one">Učitavanje 1 videozapisa…</item>
+        <item quantity="other">Sinkr. %1$d videozapisa…</item>
+        <item quantity="one">Sinkr. 1 videozapisa…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Učitavanje %1$d slika i videozapisa…</item>
-        <item quantity="one">Učitavanje 1 slike i videozapisa…</item>
+        <item quantity="other">Sinkr. %1$d stavki…</item>
+        <item quantity="one">Sinkr. 1 stavke…</item>
     </plurals>
 </resources>

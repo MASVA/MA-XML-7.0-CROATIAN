@@ -250,6 +250,7 @@
   <string name="attachment_decoding">Privitak je preuzet u potpunosti, u tijeku je dekodiranje, pričekajte.</string>
   <string name="attachment_download_all">Preuzmi sve</string>
   <string name="attachment_image">Slika</string>
+  <string name="attachment_list_search_hint">Traži privitke</string>
   <string name="attachment_mgr_name">Privici</string>
   <string name="attachment_not_exists">Privitak nije dostupan!</string>
   <string name="attachment_not_found">"Ne mogu preuzeti privitak."</string>
@@ -526,6 +527,7 @@
   <string name="general_preference_text_zoom_small">Malen</string>
   <string name="general_preference_text_zoom_tiny">Sitan</string>
   <string name="generic_attachment_problem">"Ne mogu priložiti datoteku."</string>
+  <string name="get_database_exception">"Izbrišite podatke ove aplikacije u Postavke &gt; Aplikacije sustava i pokušajte ponovo."</string>
   <string name="gmail_acceleration">Koristi proxy poslužitelj za Gmail Račun</string>
   <string name="gmail_login_confirm_to_use_proxy">Koristiti proxy poslužitelj za pristup Gmail Računu?</string>
   <string name="gmail_login_verify">Dodaj Gmail Račun</string>
@@ -731,7 +733,7 @@ Kopija: %4$s
   <string name="outbox_alert_description_insufficient_storage_error">Nedovoljno prostora pohrane na poslužitelju e-pošte</string>
   <string name="outbox_alert_description_provision_error">Pogreška Odredaba s poslužitelja tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_reject_by_server">Odbijeno od %s</string>
-  <string name="outbox_alert_description_sent_failed">Veličina privitka prelazi ograničenje poslužitelja.</string>
+  <string name="outbox_alert_description_sent_failed">"Veličina privitka prelazi ograničenje poslužitelja."</string>
   <string name="outbox_alert_duplicate_click">"Još sinkroniziram…"</string>
   <string name="outbox_alert_edit_resend">Uredi i ponovo pošalji</string>
   <string name="outbox_alert_failed_edit_resend">"Ne mogu poslati. Uredi i pokušaj ponovo."</string>

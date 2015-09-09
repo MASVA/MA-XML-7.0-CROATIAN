@@ -128,4 +128,28 @@
         <item quantity="few">Primljeno datoteka (%1$d) apl. %2$s</item>
         <item quantity="many">Primljeno datoteka (%1$d) apl. %2$s</item>
     </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Primljeno datoteka (%1$d) od WeChat</item>
+        <item quantity="zero">Primljeno datoteka(%1$d) od WeChat</item>
+        <item quantity="one">Primljena datoteka (%1$d) od WeChat</item>
+        <item quantity="two">Primljene datoteke (%1$d) od WeChat</item>
+        <item quantity="few">Primljeno datoteka (%1$d) od WeChat</item>
+        <item quantity="many">Primljeno datoteka (%1$d) od WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d datoteka od WeChat videozapisa će isteći</item>
+        <item quantity="zero">%1$d datoteka od WeChat videozapisa će isteći</item>
+        <item quantity="one">%1$d datoteka od WeChat videozapisa će isteći</item>
+        <item quantity="two">%1$d datoteke od WeChat videozapisa će isteći</item>
+        <item quantity="few">%1$d datoteka od WeChat videozapisa će isteći</item>
+        <item quantity="many">%1$d datoteka od WeChat videozapisa će isteći</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d datoteka od WeChat privremenih videozapisa će biti izbrisani. Izraditi sigurnosnu kopiju?</item>
+        <item quantity="zero">%1$d datoteka od WeChat privremenih videozapisa će biti izbrisani. Izraditi sigurnosnu kopiju?</item>
+        <item quantity="one">%1$d datoteka od WeChat privremenih videozapisa će biti izbrisani. Izraditi sigurnosnu kopiju?</item>
+        <item quantity="two">%1$d datoteke od WeChat privremenih videozapisa će biti izbrisane. Izraditi sigurnosnu kopiju?</item>
+        <item quantity="few">%1$d datoteka od WeChat privremenih videozapisa će biti izbrisani. Izraditi sigurnosnu kopiju?</item>
+        <item quantity="many">%1$d datoteka od WeChat privremenih videozapisa će biti izbrisani. Izraditi sigurnosnu kopiju?</item>
+    </plurals>
 </resources> 
