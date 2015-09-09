@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">Upotrebljavaj ovu mrežu u zatečenom stanju</string>
+    <string name="action_do_not_use_network">Ne upotrebljavaj ovu mrežu</string>
+    <string name="action_bar_label">Prijavi se na mrežu</string>
+</resources>

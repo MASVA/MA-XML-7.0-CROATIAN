@@ -47,6 +47,8 @@
   <string name="application">Aplikacije</string>
   <string name="back">Natrag</string>
   <string name="bedroom">Spavaća soba</string>
+  <string name="bind_stb_dlg">Poveži set top box za prebacivanje kanala</string>
+  <string name="bind_stb_dlg_agree">Poveži sada</string>
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Odaberi proizvođača</string>
   <string name="brand_title_all">Sve</string>
@@ -162,6 +164,8 @@
   <string name="hot_mode">Grijalica</string>
   <string name="hot_videos">Novosti</string>
   <string name="hour">sati</string>
+  <string name="humidity">Vlaga:</string>
+  <string name="humidity_frame">%1$d%%</string>
   <string name="input_complete">Završeno</string>
   <string name="input_source">Izvor</string>
   <string name="input_speech_button">Pritisnite &amp; zadržite, a zatim izgovorite svoju naredbu</string>
@@ -212,7 +216,7 @@
   <string name="match_ac_intro_power">Otpustite kada se A/C isključi</string>
   <string name="match_ac_name_mode">Klima</string>
   <string name="match_ac_name_power">Isključi</string>
-  <string name="match_count_frame">Upari %1$d daljinski</string>
+  <string name="match_count_frame">Upari  %1$d/%2$d daljinski</string>
   <string name="match_data">Pojedinosti uparivanja</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_dvd_intro_pause">Otpustite kada se DVD reprodukcija pauzira</string>
@@ -271,6 +275,7 @@
   <string name="network_unstable"> · Imate stabilnu vezu</string>
   <string name="next_step">Sljedeći korak</string>
   <string name="no">Ne</string>
+  <string name="no_brand_service">Nema informacije o marci</string>
   <string name="no_current_play">"Reproducira se: - "</string>
   <string name="no_data">Nema podataka</string>
   <string name="no_introduction">Nema opisa</string>
@@ -279,6 +284,7 @@
   <string name="no_network">"· Da ste povezani na internet"</string>
   <string name="no_program">Nema sadržaja.</string>
   <string name="no_qq">"QQ nije instaliran na ovom uređaju."</string>
+  <string name="no_save_brand_service">Trebate dodati daljinski upravljač koji je podržan</string>
   <string name="not_respond">Nema odgovora</string>
   <string name="notification_str1">\"</string>
   <string name="notification_str2">\" će započeti za 30 min.</string>
@@ -289,7 +295,6 @@
   <string name="operator">Operator</string>
   <string name="oscillation">Oscilacija</string>
   <string name="other">Ostalo</string>
-  <string name="outdoor_temp">Vanjska temperatura %1$d ℃</string>
   <string name="outdoor_temp_unknown">Nepoznato</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_hint_text">Email ili broj telefona</string>
@@ -299,7 +304,7 @@
   <string name="passport_active_email_visit">Provjerite svoju poštu na %s</string>
   <string name="passport_activing_account">Aktiviranje…</string>
   <string name="passport_app_name">Mi Račun</string>
-  <string name="passport_area_code_hot">Često korišteno</string>
+  <string name="passport_area_code_hot">ČESTO KORIŠTENO</string>
   <string name="passport_area_code_title">Pozivni broj</string>
   <string name="passport_bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="passport_btn_return">Natrag</string>
@@ -328,6 +333,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_error_dup_phone">Ovaj tel. broj već je povezan s drugim računom</string>
   <string name="passport_error_email">Adresa e-pošte koju ste unijeli nije važeća</string>
   <string name="passport_error_empty_captcha_code">Unesite captcha kod</string>
+  <string name="passport_error_empty_email">Unesite vašu adresu e-pošte</string>
   <string name="passport_error_empty_phone_num">Unesite tel. broj</string>
   <string name="passport_error_empty_pwd">Unesite vašu zaporku</string>
   <string name="passport_error_empty_username">Unesite vaše korisničko ime</string>
@@ -358,7 +364,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_input_verify_code_hint">Unesite kod za provjeru</string>
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_loading">Učitavanje…</string>
-  <string name="passport_login">Prijava</string>
+  <string name="passport_login">Prijavite se na postojeći račun</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>
   <string name="passport_login_instead_reg">Koristi ovaj broj</string>
   <string name="passport_login_instead_reg_with_email">Koristi ovu E-poštu</string>
@@ -403,21 +409,20 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_remove_unactivated_account_notice">"Vaš račun još nije aktiviran."</string>
   <string name="passport_resend_active_email">Pošalji ponovo e-poštu aktivacije</string>
   <string name="passport_sim_index_info">SIM kartica %1$d - %2$s</string>
-  <string name="passport_skip_login">Preskoči prijavu</string>
+  <string name="passport_skip_login">Preskoči ovaj korak</string>
   <string name="passport_skip_register">Preskoči registraciju</string>
   <string name="passport_skip_setup_account_msg">Možete postaviti Mi Račun kasnije u Postavkama.</string>
   <string name="passport_skip_setup_account_title">Preskoči postavljanje</string>
   <string name="passport_title_reg">Izradi Račun</string>
   <string name="passport_trust_device">Vjeruj ovom uređaju</string>
   <string name="passport_user_agreement">Korisnički Sporazum</string>
-  <string name="passport_user_agreement_p1">"Suglasni ste s našim
-  "</string>
+  <string name="passport_user_agreement_p1">"Suglasni ste s</string>
   <string name="passport_user_agreement_p2">Korisnički Sporazum</string>
-  <string name="passport_user_agreement_p3">" i  "</string>
+  <string name="passport_user_agreement_p3"> i </string>
   <string name="passport_user_agreement_p4">Pravila o Privatnosti</string>
   <string name="passport_vcode">Kôd za provjeru</string>
   <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
-  <string name="passport_vcode_prompt_long">Unesite kôd koji je generirao vaš Mi Security token</string>
+  <string name="passport_vcode_prompt_long">Unesite kôd provjere</string>
   <string name="passport_verification_failed">Autentikacija nije uspjela</string>
   <string name="passport_verify">Provjeri</string>
   <string name="passport_welcome_skip_login">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
@@ -426,10 +431,11 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
   <string name="passport_xiaomi_account_dspt">Koristite svoj Mi Račun za prijavu na MiCloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2"/>
+  <string name="passport_xiaomi_account_sec_dspt2">Prijava na vaš Mi Račun zahtijeva internetsku vezu. Osim toga, pristup lokaciji, Mi Cloud i Mi VIP će se uključiti automatski.</string>
   <string name="place_frame">Lokacija:</string>
   <string name="play_on_tv">Repproducraj na TV</string>
   <string name="please_enter">"Polje ne može biti prazno"</string>
+  <string name="pm_2.5">PM2.5:</string>
   <string name="power">Energija</string>
   <string name="press_to_continue_match">Dodirnite za nastavak</string>
   <string name="press_to_match">Dodirnite za uparivanje</string>
@@ -468,6 +474,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="select_area">Odaberite lokaciju</string>
   <string name="select_brand">Odabrano %s</string>
   <string name="select_dvb_carrier">Odaberite operatera</string>
+  <string name="service_info">Servisne informacije</string>
   <string name="setting_airkan">BEŽIČNI ZASLON</string>
   <string name="setting_common">OPĆENITO</string>
   <string name="setting_version">Verzija %1$s</string>
@@ -507,6 +514,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="start_diagnosis">Test</string>
   <string name="start_match">Upari</string>
   <string name="stb">Set-top box</string>
+  <string name="stb_detail_title_frame">%1$s - Br. %2$d</string>
   <string name="steps">Pokušaj #%d</string>
   <string name="stop_diagnosis">Stop</string>
   <string name="study_room">Učionica</string>
@@ -519,6 +527,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="switch_place">Promjeni</string>
   <string name="technical_support"/>
   <string name="temperature">Temp.</string>
+  <string name="temprature_frame">%1$d ℃</string>
   <string name="timer">Timer</string>
   <string name="title_nodata_feedback">"Ne mogu dobiti informacije o uređaju"</string>
   <string name="to_qq">Otvorite QQ i pridružite se grupi</string>
@@ -563,5 +572,6 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="virtual_keyhboard">Koristite tipkovnicu uređaja</string>
   <string name="virtual_keyhboard_intro">Koristite tipkovnicu uređaja za unos na zaslonu</string>
   <string name="volume">Glasnoća</string>
+  <string name="weather_out">Vanjska temperatura:</string>
   <string name="yes">Da</string>
 </resources>
