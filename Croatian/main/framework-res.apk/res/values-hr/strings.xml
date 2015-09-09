@@ -1564,7 +1564,6 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="usb_storage_title">USB povezan</string>
   <string name="use_a_different_app">Upotrijebite neku drugu aplikaciju</string>
   <string name="user_owner_label">Osobne aplikacije</string>
-  <string name="user_switched">Trenutačni korisnik %1$s.</string>
   <string name="user_switching_message">Prebacivanje na korisnika %1$s…</string>
   <string name="use_physical_keyboard">Fizička tipkovnica</string>
   <string name="user_switched">Trenutni korisnik %1$s.</string>
@@ -1659,7 +1658,6 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="whichSendApplicationNamed">Dijeljenje pomoću aplikacije %1$s</string>
   <string name="whichViewApplication">Otvaranje pomoću aplikacije</string>
   <string name="whichViewApplicationNamed">Otvaranje pomoću aplikacije %1$s</string>
-  <string name="wifi_available_sign_in">Prijavite se na WLAN mrežu</string>
   <string name="wifi_p2p_dialog_title">Izravni WLAN</string>
   <string name="wifi_available_sign_in">Prijavite se na WLAN mrežu</string>
   <string name="wifi_display_notification_connected_message">Povezan sa zaslonom %1$s</string>
