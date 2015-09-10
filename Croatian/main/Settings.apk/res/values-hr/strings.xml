@@ -1107,6 +1107,14 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="drive_mode_title">Automobilski način</string>
   <string name="drive_mode_voice_report">Izlaz pretvaranja teksta u govor</string>
   <string name="dtmf_tone_enable_title">Tonovi biranja</string>
+  <string name="edge_mode_back">Natrag</string>
+  <string name="edge_mode_back_summary">Dvaput dodirnite rub telefona za natrag</string>
+  <string name="edge_mode_clean">Brisanje predmemorije sustava</string>
+  <string name="edge_mode_clean_summary">Kliznite na oba ruba istovremeno da izbrišete predmemoriju sustava</string>
+  <string name="edge_mode_photo">Snimanje fotografije</string>
+  <string name="edge_mode_photo_summary">Dok ste u sučelju kamere, dodirnite rub telefona da aktivirate okidač i dodirnite ponovno za snimanje fotografije</string>
+  <string name="edge_mode_screenshot">Snimka zaslona</string>
+  <string name="edge_mode_screenshot_summary">Dvaput dodirnite oba ruba telefona da napravite snimak zaslona</string>
   <string name="emergency_tone_alert">Upozorenje</string>
   <string name="emergency_tone_silent">Bešumno</string>
   <string name="emergency_tone_summary">Postavite način ponašanja za hitan poziv</string>
@@ -1295,7 +1303,9 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="global_locale_change_title">Promjena jezika</string>
   <string name="google_backup_section_title">Google pohrana &amp; obnova</string>
   <string name="google_wallet">Google novčanik</string>
-  <string name="gsm_to_wifi_connect_type_title">GSM -&gt; WLAN</string>
+  <string name="gsm_to_wifi_connect_type_title">GSM na WLAN</string>
+  <string name="hand_mode_notification_summary">Dodirnite za više.</string>
+  <string name="hand_mode_notification_title">Koristite kontrole ruba</string>
   <string name="handy_mode">Upravljanje jednom rukom</string>
   <string name="handy_mode_enable">Upravljanje jednom rukom</string>
   <string name="handy_mode_enter_ask">Pitaj prije ulaska u način upravljanja jednom rukom</string>
