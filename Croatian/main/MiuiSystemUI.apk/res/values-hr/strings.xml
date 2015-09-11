@@ -150,7 +150,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="notification_otg_trackball_out">Mišji trbuh nije povezan</string>
   <string name="notification_otg_unknow_in">OTG uređaj je povezan</string>
   <string name="notification_otg_unknow_out">OTG uređaj nije povezan</string>
-  <string name="notification_template_text">"  ima obavijest. Dodirnite za prikaz."</string>
+  <string name="notification_template_text">Nova obavijest. Dodirnite za prikaz.</string>
   <string name="oldman_airplane_mode_text">Zrakoplov</string>
   <string name="oldman_incall_text">Poziv</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
