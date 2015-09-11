@@ -291,8 +291,10 @@
   <string name="fail_to_pick_email">Nevažeća E-pošta</string>
   <string name="fail_to_sync_album">"Ne mogu sinkronizirati album. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
   <string name="family_member_invitation_text">Ostali članovi obitelji</string>
+  <string name="file_finish">Sinkr. s MiCloud</string>
   <string name="file_not_exist_message">"Datoteka ne postoji"</string>
   <string name="file_size">Vel. datoteke</string>
+  <string name="file_uploading">Sinkr. sa…</string>
   <string name="filllight">Ispuna svjetlom</string>
   <string name="finish_create_baby_album_toast">Napravljen je album za \"%s\" u Mi Cloudu</string>
   <string name="finish_fill_baby">Napravi</string>
@@ -449,12 +451,15 @@
   <string name="multiface_crop_help">Dodirnite lice za početak</string>
   <string name="must_pick_file">Odaberi sliku</string>
   <string name="name_wrong">"Ovo nije %s"</string>
+  <string name="need_to_turn_on_network">Povežite se na mrežu</string>
+  <string name="need_to_turn_on_wlan">Povežite se na WLAN</string>
   <string name="need_to_turn_on_sync">Uključite sinkr. s Mi Cloudom</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
   <string name="new_device_tips">"Dodirnite za prikaz 
 uređaja"</string>
+  <string name="number_of_uploading_finish">Svi videozapisi i fotografije su poslani na MiCloud</string>
   <string name="no">Ne</string>
   <string name="no_albums_alert">Nema dostupnih albuma</string>
   <string name="no_connectivity">"Neke lokacije nisu mogle biti identificirane zbog poteškoća s mrežom."</string>
@@ -679,6 +684,7 @@ uređaja"</string>
   <string name="sync_album_in_proecess">Sinkronizacija albuma…</string>
   <string name="sync_album_set_error">Ne mogu sinkronizirati fotografije. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="sync_album_summary">Sinkr. s MiCloud</string>
+  <string name="sync_cloud_space_full">MiCloud je pun</string>  
   <string name="sync_history_power_on">Sinkroniziraj povijest slika samo tijekom punjenja</string>
   <string name="sync_in_progress_message">Preuzimanje albuma…</string>
   <string name="sync_ok">Sinkr.</string>
