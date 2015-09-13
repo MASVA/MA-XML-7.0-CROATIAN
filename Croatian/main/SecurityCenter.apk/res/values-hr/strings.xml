@@ -418,7 +418,7 @@
   <string name="power_mode_internet">2G/3G</string>
   <string name="power_mode_keep_state">Zadano</string>
   <string name="power_mode_my_mode">Moj profil</string>
-  <string name="power_mode_my_mode_summary">Spremiti vaše trenutne postavke baterije</string>
+  <string name="power_mode_my_mode_summary">Spremite vaše trenutne postavke baterije</string>
   <string name="power_mode_screen_brightness">Svjetlina</string>
   <string name="power_mode_screen_brightness_automatic">Automatski: %1$d%%</string>
   <string name="power_mode_screen_brightness_manual">Ručno: %1$d%%</string>

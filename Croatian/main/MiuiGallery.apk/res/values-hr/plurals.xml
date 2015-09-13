@@ -137,8 +137,8 @@
         <item quantity="one">1 videozapis čeka na sinkr.</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">Fotografija i videozapisa (%1$d) čeka na sinkr.</item>
-        <item quantity="one">1 fotografija i videozapis čeka na sinkr.</item>
+        <item quantity="other">Ovoliko stavaka (%1$d) čeka na sinkr.</item>
+        <item quantity="one">1 stavka čeka na sinkr.</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Sinkr. %1$d fotografija…</item>
