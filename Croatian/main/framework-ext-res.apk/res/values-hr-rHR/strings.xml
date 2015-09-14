@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="all_call_livetalk_enable">Koristite nadoplatu paketa za domaće i međunarodne pozive</string>
-  <string name="all_call_livetalk_remain_mins">Preostalo minuta: (%1$s domaće) | %2$s (%3$s)</string>
+  <string name="all_call_livetalk_remain_mins">Preostalo minuta: (%1$s domaće) | (%2$s %3$s)</string>
   <string name="alwaysUsePrompt">"Zapamti moj izbor"</string>
   <string name="auto_start_warning_allow">Dopusti</string>
   <string name="auto_start_warning_deny">Odbij</string>

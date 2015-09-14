@@ -91,7 +91,7 @@
   <string name="toast_file_is_downloading">Još se preuzima</string>
   <string name="toast_max_record_time">%1$s može snimiti za oko %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Aplikacija Datoteke nije instalirana"</string>
-  <string name="wifi_recommended_body" formatted="false">"Korištenje vaše mobilne podatkovne veze za preuzimanje ove datoteke (%s) će povećati vašu uporabu podataka. Ako prekoračite vašu mjesečno ograničenje, vaš davatelj usluga vam može naplatiti dodatne naknade.
+  <string name="wifi_recommended_body" formatted="false">"Korištenje vaše mobilne podatkovne veze za preuzimanje ove datoteke (%s) će povećati vašu uporabu podataka. Ako prekoračite vaše mjesečno ograničenje, vaš mobilni operater vam može naplatiti dodatne naknade.
 Ako želite čekati na WLAN povezivanje za preuzimanje ove datoteke, dodirnite %s."</string>
   <string name="wifi_recommended_title">Upozorenje uporabe podataka</string>
   <string name="xiaomi_account_type">com.xiaomi</string>

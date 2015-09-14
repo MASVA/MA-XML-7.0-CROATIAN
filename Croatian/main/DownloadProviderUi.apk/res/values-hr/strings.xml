@@ -158,6 +158,8 @@
   <string name="privacy_tip_content">"Koristiti Xunlei Accelerator za ubrzanje preuzimanja? Poveznica domaćina preuzimanja će biti učitan na Xunlei poslužitelje. Detalji vašeg Mi Računa će biti učitani radi provjere je li imate aktivne pretplate na ovu uslugu."</string>
   <string name="privacy_tip_ok">U redu</string>
   <string name="privacy_tip_title">Koristiti Xunlei Accelerator?</string>
+  <string name="quit_btn">Izlaz</string>
+  <string name="rebind_btn">Dodaj ponovo</string>
   <string name="recommend_downloading">Preuzimanje…</string>
   <string name="recommend_failed">Nije uspjelo</string>
   <string name="recommend_install">Instaliraj</string>
@@ -197,6 +199,8 @@
   <string name="third_web_filesize">Veličina:</string>
   <string name="third_web_savepath">Lokacija</string>
   <string name="third_web_title">Spremi</string>
+  <string name="title_tips">Pažnja</string>
+  <string name="title_unbind_xunlei">Ukloni Xunlei Račun</string>
   <string name="toast_xunlei_engine_open">"Xunlei ubrzanje preuzimanja uključeno.
 Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="turn_off_xunlei_message">Možete iskusiti sporiju brzinu preuzimanja.</string>
@@ -210,6 +214,8 @@ Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="vip_expire_show_info">Isteklo je Xunlei članstvo."</string>
   <string name="vip_expire_today_show_info">Isteklo je Xunlei članstvo."</string>
   <string name="vip_show_info">5 milijuna članova.\\nUbrzajte preuzimanja na svim vašim uređajima</string>
+  <string name="xiaomi_account_not_exist_message">"Taj Mi Račun ne postoji"</string>
+  <string name="xunlei_account_has_unbind_message">Xunlei Račun uklonjen</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Ubrzaj preuzimanje</string>

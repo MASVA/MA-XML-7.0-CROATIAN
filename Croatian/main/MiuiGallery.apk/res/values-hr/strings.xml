@@ -459,7 +459,6 @@
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
   <string name="new_device_tips">"Dodirnite za prikaz 
 uređaja"</string>
-  <string name="number_of_uploading_finish">Svi videozapisi i fotografije su poslani na MiCloud</string>
   <string name="no">Ne</string>
   <string name="no_albums_alert">Nema dostupnih albuma</string>
   <string name="no_connectivity">"Neke lokacije nisu mogle biti identificirane zbog poteškoća s mrežom."</string>
@@ -478,6 +477,7 @@ uređaja"</string>
   <string name="not_now">Ne sada</string>
   <string name="not_remind_any_more">"Ne prikazuj ponovo"</string>
   <string name="not_show_hidden_albums">"Ne prikazuj skrivene albume"</string>
+  <string name="number_of_uploading_finish">Sve datoteke učitane na Mi Cloud</string>
   <string name="old">Staro</string>
   <string name="only_show_camera_in_first_page">Fotografije iz albuma na prvoj stranici</string>
   <string name="only_show_camera_in_first_page_summary">Prikaži samo fotografije kamere vašeg Mi Clouda.</string>

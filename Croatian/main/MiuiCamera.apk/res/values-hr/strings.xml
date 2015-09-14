@@ -200,8 +200,6 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_audio_focus_entry_general">Normalno</string>
   <string name="pref_audio_focus_entry_rear">Stražnji</string>
   <string name="pref_audio_focus_title">Izoštravanje zvuka</string>
-  <string name="pref_audio_indicator_entry_off">Zvuk isklj.</string>
-  <string name="pref_audio_indicator_entry_on">Zvuk uklj.</string>
   <string name="pref_burst_shoot_title">Brzo snimanje</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Postavke</string>
@@ -281,6 +279,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_facedetection_entry_off">Isključeno</string>
   <string name="pref_camera_facedetection_entry_on">Uključeno</string>
   <string name="pref_camera_facedetection_title">Prepoznavanje lica</string>
+  <string name="pref_camera_fisheye_title">Riblje oko eye</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Isključeno</string>
   <string name="pref_camera_flashmode_entry_on">Uključeno</string>
@@ -421,6 +420,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_snap_enable_summary">Kada je zaslon isključen, pritisnite &amp; držite tipku Glasnoća dolje za ulazak u Quick snap način. Pritisnite ponovno za snimanje fotografije.</string>
   <string name="pref_camera_snap_enable_title">Quick snap način</string>
   <string name="pref_camera_sound_title">Zvukovi kamere</string>
+  <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Uključeno</string>
   <string name="pref_camera_touchafaec_title">Dodirni AF/AEC</string>
@@ -538,6 +538,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="show_videos_only">Samo videozapisi</string>
   <string name="simple_mode_button_asd_flash">Isključi</string>
   <string name="simple_mode_button_asd_hdr">Isključi HDR</string>
+  <string name="simple_mode_button_text_audio_capture">Isključi zvuk okidača</string>
   <string name="simple_mode_button_text_4kuhd">Isključi 4K</string>
   <string name="simple_mode_button_text_audio_capture">Isključi snimanje zvuka</string>
   <string name="simple_mode_button_text_chroma_flash">Isključi</string>
@@ -546,6 +547,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="simple_mode_button_text_delay_capture">Isključi odbrojavanje</string>
   <string name="simple_mode_button_text_face_beauty">Isključi Uljepšanje</string>
   <string name="simple_mode_button_text_fast_video">Isključi slow-motion</string>
+  <string name="simple_mode_button_text_fisheye">Isključi Riblje oko</string>
   <string name="simple_mode_button_text_gradienter">Isključi</string>
   <string name="simple_mode_button_text_hand_night">Isključi HHT</string>
   <string name="simple_mode_button_text_hdr">Isključi HDR</string>
@@ -555,6 +557,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="simple_mode_button_text_panorama">Isključi panoramu</string>
   <string name="simple_mode_button_text_scene">Isključi način scena</string>
   <string name="simple_mode_button_text_slow_video">Isključi time-lapse</string>
+  <string name="simple_mode_button_text_tilt_shift">Isključi Tilt-shift</string>
   <string name="simple_mode_button_text_ubi_focus">Isključi</string>
   <string name="simple_mode_button_text_ubifocus">Isključi</string>
   <string name="simple_mode_title">Jednostavan način</string>

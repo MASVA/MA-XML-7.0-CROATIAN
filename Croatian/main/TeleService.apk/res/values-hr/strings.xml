@@ -811,7 +811,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="open_miui">Otvori</string>
   <string name="order_by_name">Abecedno</string>
   <string name="order_by_recent">Često korišteno</string>
-  <string name="order_id">"ID narudžbe: "</string>
+  <string name="order_id">ID narudžbe:%1$s</string>
   <string name="order_price">¥ %1$s</string>
   <string name="order_status_fail">Status narudžbe: nije uspjelo</string>
   <string name="order_status_successful">Status narudžbe: završeno</string>

@@ -67,6 +67,7 @@
   <string name="compress_message">Sažimanje na…</string>
   <string name="compress_title">Sažimanje</string>
   <string name="confirm">U redu</string>
+  <string name="confirm_clean">Očisti</string>
   <string name="confirm_know">U redu</string>
   <string name="connect_network_setting_des">Pitaj za povezivanje s internetom</string>
   <string name="copy_failed">"Ne mogu kopirati"</string>
@@ -81,8 +82,12 @@
   <string name="decompress_cancel">Odustani</string>
   <string name="decompress_confirm">Raspakiraj</string>
   <string name="decompress_destination_error">"Raspakiranje nije uspjelo: ne mogu ovdje raspakirati datoteke."</string>
+  <string name="decompress_encrypted_rar_not_supported">Šifrirana RAR datoteka nije podržana.</string>
   <string name="decompress_fail">Raspakiranje nespješno: arhiva oštećena ili datoteka istog naziva već postoji.</string>
+  <string name="decompress_input_password">Unesite zaporku…</string>
+  <string name="decompress_password_error">Pogrešna zaporka. Pokušajte ponovo…</string>
   <string name="decompress_success">Raspakiranje završeno</string>
+  <string name="decompress_title">Raspakiraj</string>
   <string name="decompress_to">Raspakiraj u…</string>
   <string name="decompress_to_here">Raspakiraj ovdje…</string>
   <string name="delete_dialog_button">Izbriši</string>
@@ -383,6 +388,7 @@ Dodano %1$s slobodnog prostora"</string>
   <string name="stay_awake_title">Zaslon se neće ugasiti</string>
   <string name="stop_server">Zaustavi FTP poslužitelj</string>
   <string name="storage_info">%1$s dostupno</string>
+  <string name="storage_info_detail">Dostupno:%1$s Ukupno:%1$s</string>
   <string name="storage_internal">Unutarnja pohrana</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">USB pohrana</string>
@@ -400,6 +406,7 @@ Dodano %1$s slobodnog prostora"</string>
   <string name="title_expire_video">O isteku</string>
   <string name="title_more_source">Još aplikacija</string>
   <string name="title_recent">NEDAVNO</string>
+  <string name="title_select_volume">Odaberite opseg</string>
   <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
   <string name="tools">ALATI</string>
   <string name="trans_task">Mrežni prijenos</string>
