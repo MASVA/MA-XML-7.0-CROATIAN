@@ -91,7 +91,7 @@
   <string name="baby_album_sharers_page_title">Podijelite sa obitelji</string>
   <string name="baby_birthday">Rođendan</string>
   <string name="baby_lock_wallpaper">Slika zaklj. zaslona</string>
-  <string name="baby_lock_wallpaper_at_least_one_selected">Odaberite album</string>
+  <string name="baby_lock_wallpaper_cancelled">Promijenjeno na zadanu pozadinu zaklj. zaslona</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Primijeniti trenutne postavke?</string>
   <string name="baby_lock_wallpaper_title">"Upotrijebi fotografiju djeteta kao pozadinu zaklj. zaslona"</string>
   <string name="baby_name_cannot_empty">Unesite ime</string>
@@ -123,6 +123,7 @@
   <string name="camera_setas_wallpaper">Pozadine</string>
   <string name="camera_view_none_message">Snimljene fotografije i videozapisi će ovdje biti prikazani.</string>
   <string name="cancel">Odustani</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Otkazati dječju sliku pozadine i resetirati zadanu pozadinu zaklj. zaslona?</string>
   <string name="cancel_hint">Radnja otkazana</string>
   <string name="cannot_delete_sharer_photo">"Ne mogu izbrisati stavke (%s) dodanih od strane drugih korisnika."</string>
   <string name="cannot_remove_creator">"Ne mogu ukloniti autora"</string>
@@ -327,6 +328,7 @@
   <string name="group_by_time">Po vremenu</string>
   <string name="has_invalid_recipient">Nevažeći primatelj: %1$s</string>
   <string name="height">Visina</string>
+  <string name="hidden_album_display_name">Skriveni album</string>
   <string name="highlight">Isticanja</string>
   <string name="highlight_abbr">I</string>
   <string name="home_my_captured_items">" Snimaka"</string>
@@ -625,6 +627,10 @@ uređaja"</string>
   <string name="send_public_url">Pošalji poveznicu albuma</string>
   <string name="sepia">Sepija</string>
   <string name="set_as_baby_lock_wallpaper">Postavi za pozadinu zaklj. zaslona</string>
+  <string name="set_baby_icon_picker_default_title">Postavi ikonu djeteta</string>
+  <string name="set_bg_file_exist_message">Konflikt između imena fotografija</string>
+  <string name="set_bg_picker_default_title">Postavite gornje sličice</string>
+  <string name="set_bg_unknow_reasons">Nepoznata pogreška</string>
   <string name="set_hidden_album">Sakrij</string>
   <string name="set_label_all_albums">Sve</string>
   <string name="set_label_local_albums">Izvanmrežno</string>

@@ -185,6 +185,7 @@ Provjerite broj za praćenje."</string>
   <string name="expresss_inquiry_all_logistics">Sve</string>
   <string name="expresss_inquiry_frequently_used_logistics">Često korišteno</string>
   <string name="follow_label">Prati %1$s</string>
+  <string name="follow_processing">Pratim</string>
   <string name="follow_success">Ne pratim %1$s.</string>
   <string name="fail_to_add_account">"Nije moguće dodati račun"</string>
   <string name="fraud_number_online_identification">Blokiraj neželjene pozive</string>
