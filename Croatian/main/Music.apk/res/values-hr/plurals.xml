@@ -12,6 +12,10 @@
         <item quantity="other">Preuzeto će biti (%d) pjesama</item>
         <item quantity="one">1 pjesma će biti preuzeta</item>
     </plurals>
+	<plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Izbrisati %d popisa pjesama?</item>
+        <item quantity="one">Izbrisati %d popis pjesama?</item>
+    </plurals>
 	<plurals name="Nnew_tracks_count">
         <item quantity="other">Novo: %d</item>
 		<item quantity="one">1 nova</item>
@@ -23,6 +27,22 @@
 	<plurals name="Ntracks_similar_count">
         <item quantity="other">Sličnih pjesama: %d</item>
         <item quantity="one">%d slična pjesma</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d izvođača</item>
+        <item quantity="one">%d izvođač</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d bendova</item>
+        <item quantity="one">%d band</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Izbrisati ovoliko %d pjesama?</item>
+        <item quantity="one">Izbrisati %d pjesmu?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Ukloniti %d songs?</item>
+        <item quantity="one">Ukloniti %d pjesmu?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">Dodano je (%d) pjesama na popis</item>
@@ -36,6 +56,10 @@
         <item quantity="other">Pjesama: %d</item>
         <item quantity="one">1 pjesma</item>
     </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Reprodukcija će se zaustaviti za %d min.</item>
+        <item quantity="one">Reprodukcija će se zaustaviti za %d min.</item>
+    </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">Poslano će biti (%d) pjesama</item>
         <item quantity="one">1 pjesma će biti poslana</item>
@@ -47,5 +71,13 @@
 	<plurals name="Nnew_local_audios">
        <item quantity="other">Dodano (%d) pjesama</item>
 	   <item quantity="one">Dodana %d pjesma</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">Odabrano stavaka %d</item>
+        <item quantity="one">%d odabrana stavka</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Pjesme su već označene kao favoriti.</item>
+        <item quantity="one">Pjesme je već označena kao favorit.</item>
     </plurals>
 </resources> 

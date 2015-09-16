@@ -24,8 +24,7 @@
   <string name="analog_gadget">Analogni sat</string>
   <string name="app_label">Sat</string>
   <string name="auto_silence_never">Nikada</string>
-  <string name="auto_silence_summary">Alarmi će se utišati nakon %d min.</string>
-  <string name="auto_silence_title">Auto. utišaj</string>
+  <string name="auto_silence_title">Auto. isključi</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Alarm rođendana</string>
   <string name="birthday_alarm_summary">Reproduciraj \"Happy Birthday\" umjesto zadanog zvuka alarma na Vaš rođendan</string>

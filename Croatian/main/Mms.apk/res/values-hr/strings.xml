@@ -284,6 +284,7 @@
   <string name="mx_auto_resend_mms_summary">Pošalji multimedijalne poruke kao MMS poruke preko mobilne podatkovne veze kada niste povezani na WLAN. Snosite redovite troškove vašeg davatelja usluga.</string>
   <string name="mx_auto_resend_sms">Pošalji kao SMS poruku</string>
   <string name="mx_auto_resend_sms_summary">Pošalji poruke kao SMS poruke preko mobilne podatkovne veze kada niste povezani na WLAN. Snosite redovite troškove vašeg davatelja usluga.</string>
+  <string name="mx_b2c_message_desc">Obavijesti mreže</string>
   <string name="mx_btn_enable">Aktiviraj</string>
   <string name="mx_btn_enable_now">Aktiviraj</string>
   <string name="mx_count_dspt">Poslano %1$d SMS-a i %2$d MMS-a</string>

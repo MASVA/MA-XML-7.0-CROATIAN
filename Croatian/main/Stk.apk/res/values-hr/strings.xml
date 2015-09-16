@@ -13,18 +13,18 @@
   <string name="default_open_channel_msg">Otvoriti kanal?</string>
   <string name="default_receive_data_msg">Primanje podataka</string>
   <string name="default_send_data_msg">Slanje podataka</string>
-  <string name="default_setup_call_msg">Uspostava poziva</string>
+  <string name="default_setup_call_msg">Uspostava poziva…</string>
   <string name="default_tone_dialog_msg">Melodija zvona</string>
   <string name="digits">Znamenke (0-9, *, #, +)</string>
-  <string name="disable_app">Onemogućeno</string>
-  <string name="enable_app">Omogućeno</string>
+  <string name="disable_app">Isključeno</string>
+  <string name="enable_app">Uključeno</string>
   <string name="help">Pomoć</string>
   <string name="menu_back">Natrag</string>
   <string name="menu_end_session">Završi sesiju</string>
   <string name="service_name">Naziv usluge</string>
   <string name="stk_app_state">Stanje aplikacije</string>
-  <string name="stk_dialog_accept">DA</string>
-  <string name="stk_dialog_reject">NE</string>
+  <string name="stk_dialog_accept">Prihvati</string>
+  <string name="stk_dialog_reject">Odbij</string>
   <string name="stk_dialog_title">SIM Alat</string>
   <string name="stk_no_service">Nema dostupne usluge</string>
 </resources>

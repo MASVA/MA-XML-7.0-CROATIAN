@@ -63,7 +63,7 @@
   <string name="clean_trash_box">Isprazni smeće</string>
   <string name="cleaning">Čišćenje…</string>
   <string name="close">Zatvori</string>
-  <string name="compress_fail">Sažimanje nije uspjelo: datoteka s istim imenom već postoji.</string>
+  <string name="compress_fail">"Ne mogu sažeti. Datoteka s istim imenom već postoji."</string>
   <string name="compress_message">Sažimanje na…</string>
   <string name="compress_title">Sažimanje</string>
   <string name="confirm">U redu</string>
@@ -81,15 +81,15 @@
   <string name="data_capacity">Podaci %1$s</string>
   <string name="decompress_cancel">Odustani</string>
   <string name="decompress_confirm">Raspakiraj</string>
-  <string name="decompress_destination_error">"Raspakiranje nije uspjelo: ne mogu ovdje raspakirati datoteke."</string>
+  <string name="decompress_destination_error">"Ne mogu raspakirati datoteke na ovom mjestu."</string>
   <string name="decompress_encrypted_rar_not_supported">Šifrirana RAR datoteka nije podržana.</string>
-  <string name="decompress_fail">Raspakiranje nespješno: arhiva oštećena ili datoteka istog naziva već postoji.</string>
-  <string name="decompress_input_password">Unesite zaporku…</string>
+  <string name="decompress_fail">"Ne mogu raspakirati datoteke. Datoteka s istim imenom već postoji ili je arhiva oštećena."</string>
+  <string name="decompress_input_password">Unesite zaporku</string>
   <string name="decompress_password_error">Pogrešna zaporka. Pokušajte ponovo…</string>
   <string name="decompress_success">Raspakiranje završeno</string>
   <string name="decompress_title">Raspakiraj</string>
-  <string name="decompress_to">Raspakiraj u…</string>
-  <string name="decompress_to_here">Raspakiraj ovdje…</string>
+  <string name="decompress_to">Raspakiraj datoteke u…</string>
+  <string name="decompress_to_here">Raspakiraj ovdje</string>
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
@@ -144,8 +144,8 @@
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Dodirni&lt;/a&gt;za ići u smeće</string>
   <string name="ftp_account_req_notice">4~16 znakova, slova i znamenke , mala i velika slova</string>
   <string name="ftp_anonymous_login">Anonimna prijava</string>
-  <string name="ftp_invalid_username_or_password">Neispravno korisničko ime i zaporka</string>
-  <string name="ftp_open_port_error">Pogreška pri otvaranju porta: provjerite mrežnu vezu ili resetirajte broj porta.</string>
+  <string name="ftp_invalid_username_or_password">Korisničko ime ili zaporka nije točna</string>
+  <string name="ftp_open_port_error">"Ne mogu otvoriti port. Provjerite mrežno povezivanje ili ih resetirajte broj porta."</string>
   <string name="ftp_password_hint">Zaporka</string>
   <string name="ftp_port_number">Broj porta</string>
   <string name="ftp_transfer_secure">Sigurnost</string>
@@ -373,10 +373,9 @@
   <string name="share_box">Podijeljeno</string>
   <string name="share_box_receive">Primljeno</string>
   <string name="share_box_send">Poslano</string>
-  <string name="share_link_failed">Nije uspjelo stvaranje veze.</string>
-  <string name="show_message">Potrebno je preuzeti datoteku prije otvaranja.</string>
+  <string name="share_link_failed">"Ne mogu generirati poveznicu."</string>
   <string name="sign_description">Prijava…</string>
-  <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoju mrežnu vezu."</string>
+  <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoje mrežno povezivanje."</string>
   <string name="signin_success">"Prijavljeni ste!
 Dodano %1$s slobodnog prostora"</string>
   <string name="smb_loading">Samo tren…</string>

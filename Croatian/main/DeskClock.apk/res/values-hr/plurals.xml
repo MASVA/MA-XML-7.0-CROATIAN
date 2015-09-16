@@ -9,8 +9,16 @@
         <item quantity="one">1 minuta</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Odgodi za %d min.</item>
-        <item quantity="one">Odgodi za %d min.</item>
+        <item quantity="other">Odgoda alarma na %d min.</item>
+        <item quantity="one">Odgodi alarma na %d min.</item>
+    </plurals>
+	<plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Odgoda alarma na %d min.</item>
+        <item quantity="one">Odgodi alarma na %d min.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Alarmi će se isključiti nakon %d minuta</item>
+        <item quantity="one">Alarmi će se isključiti nakon %d minute</item>
     </plurals>
      <plurals name="timer_message_hour">
         <item quantity="other">"%1$d sati "</item>

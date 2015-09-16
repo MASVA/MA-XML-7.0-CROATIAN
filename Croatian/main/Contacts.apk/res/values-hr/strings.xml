@@ -380,6 +380,7 @@ Kartice kontakata su isključene"</string>
   <string name="email_mobile">E-pošta na mobitel</string>
   <string name="email_other">E-pošta</string>
   <string name="email_work">E-pošta na poslovni</string>
+  <string name="emergency_number_label">Broj za hitne slučajeve</string>
   <string name="emptyGroup">U ovoj grupi nema osoba.</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Upišite ime osobe"</string>
@@ -462,7 +463,7 @@ Razlog: \"%s\""</string>
   <string name="import_all_sim_entries_miui">Uvezi sve kontakte</string>
   <string name="import_all_vcard_string">"Uvezi sve vCard datoteke"</string>
   <string name="import_contact_card_button">Uvezi kontakt</string>
-  <string name="import_failure_no_vcard_file">"U pohrani nije pronađena nijedna vCard datoteka."</string>
+  <string name="import_failure_no_vcard_file">"U pohrani nema pronađenih vCard datoteka."</string>
   <string name="import_from_other_phone">Uvezi s drugog uređaja</string>
   <string name="import_from_sdcard">Uvoz iz pohrane</string>
   <string name="import_from_sim">Uvezi sa SIM kartice</string>
@@ -507,6 +508,7 @@ Razlog: \"%s\""</string>
   <string name="in_call_show_long_press_to_record">Pritisni &amp; drži za snimanje</string>
   <string name="in_call_show_pick_video">Odaberi videozapis</string>
   <string name="in_call_show_preview">Pregled</string>
+  <string name="in_call_show_preview_reshoot">Pokušaj ponovo</string>
   <string name="in_call_show_recording">Snimanje…</string>
   <string name="in_call_show_reshoot">Snimi ponovo</string>
   <string name="in_call_show_save_completed">Videozapis profila je spremljen</string>
@@ -637,7 +639,7 @@ Razlog: \"%s\""</string>
   <string name="miprofile_request_agenda_yesterday">%1$s želi razmijeniti Kartice kontakata</string>
   <string name="miprofile_request_agree">Prihvati</string>
   <string name="miprofile_request_agree_exchange_profile">Kartice kontakata su razmjenjene</string>
-  <string name="miprofile_request_agreed">%1$s pristaje na razmjenu Kartica kontakta</string>
+  <string name="miprofile_request_agreed">%1$s pristaje na razmjenu Kartica kontakta sa mnom</string>
   <string name="miprofile_request_alertdialog_message">Vaša kartica će biti automatski poslana nakon što ta osoba prihvati.</string>
   <string name="miprofile_request_alertdialog_title">Razmjena Kartica kontakata</string>
   <string name="miprofile_request_clear_alertdialog_message">Izbrisati povijest razmjene kartica?</string>
@@ -1272,8 +1274,8 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="websiteLabelsGroup">"Web-lokacija"</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Izbriši podatke</string>
-  <string name="yellowPageNavigationIconLabel">Žute Stranice</string>
-  <string name="yellowPageNavigationLabel">Žute Stranice</string>
+  <string name="yellowPageNavigationIconLabel">Direktorij</string>
+  <string name="yellowPageNavigationLabel">Direktorij</string>
   <string name="yellowpage_navigation_clear_search_history">Izbriši povijest</string>
   <string name="yellowpage_navigation_more_items">Više</string>
   <string name="yellowpage_navigation_more_items_title">Više usluga</string>
