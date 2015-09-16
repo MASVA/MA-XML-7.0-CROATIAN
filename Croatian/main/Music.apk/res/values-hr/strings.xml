@@ -16,7 +16,7 @@
   <string name="action_item_multiple">Uredi</string>
   <string name="action_item_play_all">Reproduciraj sve</string>
   <string name="action_item_remove">Ukloni</string>
-  <string name="action_item_remove_from_favorite">Ulkloni favorite</string>
+  <string name="action_item_remove_from_favorite">Ukloni favorite</string>
   <string name="action_item_send">Pošalji</string>
   <string name="action_item_share">Podijeli</string>
   <string name="add_music">Dodaj pjesme</string>
@@ -31,7 +31,7 @@
   <string name="artist_name">Izvođač</string>
   <string name="artist_search_title">Izvođač</string>
   <string name="artist_view">Izvođač</string>
-  <string name="atmd_tel">Podrška: 0755-86699030</string>
+  <string name="atmd_music">Ultimativno</string>
   <string name="audio_picker_title">Odaberi pjesmu</string>
   <string name="auto_download_in_wifi">Automatski preuzmi favorite preko WLAN-a</string>
   <string name="auto_payment">Autom. obnovi</string>
@@ -42,7 +42,7 @@
   <string name="baidu_music">Baidu glazba</string>
   <string name="bill_list_fragment_title">Grafikon</string>
   <string name="bluetooth_device">Bluetooth uređaj</string>
-  <string name="buffering">Stavljanje u međuspremnik…</string>
+  <string name="buffering">Buffering…</string>
   <string name="button_add">Dodaj</string>
   <string name="can_not_find_resource">"Ne mogu pronaći izvore"</string>
   <string name="cancel">Odustani</string>
@@ -58,7 +58,7 @@
   <string name="close_music_time">"Preostalo vremena: "</string>
   <string name="cloud_enable">Sinkr. glazbu s Mi Cloud</string>
   <string name="cloud_settings">Postavke sinkronizacije</string>
-  <string name="cp_info_first">Streaming service is provided by Ultimate Inc.</string>
+  <string name="cp_info_first">Streaming uslugu pruža Ultimate Inc.</string>
   <string name="create_playlist">Izradi novi popis pjesama</string>
   <string name="create_playlist_failure">"Ne mogu izraditi popis pjesama"</string>
   <string name="current_services">Trenutne usluge</string>
@@ -163,7 +163,7 @@
   <string name="filter_by_size_summary">Sakrij male audio datoteke"</string>
   <string name="find_music">Traži pjesme~</string>
   <string name="format_not_support">"Ovaj format nije podržan.</string>
-  <string name="format_unsupported">"Ovaj format nije podržan."</string>
+  <string name="format_unsupported_or_corrupted">"Ovaj format nije podržan ili je datoteka oštećena"</string>
   <string name="fragment_more">Više</string>
   <string name="fragment_title_artist">IZVOĐAČI</string>
   <string name="fragment_title_artist_album">ALBUMI</string>
@@ -171,8 +171,8 @@
   <string name="fragment_title_channel">FM</string>
   <string name="fragment_title_personal">OSOBNO</string>
   <string name="fragment_title_recommend">ISTAKNUTO</string>
-  <string name="group_artist">Bands</string>
-  <string name="handle_later">Not now</string>
+  <string name="group_artist">Bendovi</string>
+  <string name="handle_later">Ne sada</string>
   <string name="headset_settings">Slušalice &amp; efekti zvuka</string>
   <string name="high_quality">Viša</string>
   <string name="higher_quality_music">Visoka kvaliteta zvuka</string>
@@ -295,7 +295,7 @@
   <string name="not_selected">Odaberi pjesmu</string>
   <string name="nowplaying_menu_item_delete">Izbriši</string>
   <string name="ok">"U redu"</string>
-  <string name="online_music">Online Glazba</string>
+  <string name="one_month">1 mmjesec</string>
   <string name="online_music_enabled_subtitle">Dodirnite za stream vaših omiljenih pjesama.</string>
   <string name="online_music_enabled_summary">Slušajte i preuzmite omiljene pjesme. Pogledajte Billboard ljestvice i trenutan popis pjesama gdje god krenuli!</string>
   <string name="online_music_enabled_title">Besplatan stream je ovdje</string>
@@ -317,7 +317,7 @@
   <string name="please_download_first">Morate preuzeti tu pjesmu prije nego što je možete postaviti kao zvuk zvona</string>
   <string name="please_search_or_select">Pretražite ili odaberite polje</string>
   <string name="please_select_song">Molimo odaberite jednu pjesmu</string>
-  <string name="preset_music_playlist">Popis Mi Glazbe</string>
+  <string name="preset_music_playlist">Mi Glazb popis pjesama</string>
   <string name="presonal_center">Postavke računa</string>
   <string name="price">Cijena:</string>
   <string name="priority_storage">Koristi vanjsku SD karticu</string>
@@ -363,7 +363,7 @@
   <string name="set_id3_successful">Informacije pjesme su spremljene</string>
   <string name="set_lyric_successful">Tekst je spremljen</string>
   <string name="set_ringtones_failed">Ne mogu postaviti zvuk zvona.</string>
-  <string name="set_ringtones_successful">%s uspješno postavljeno za zvuk zvona.</string>
+  <string name="set_ringtones_successful">%s postavljen za zvuk zvona.</string>
   <string name="share_append_text">Iz @Mi Glazba</string>
   <string name="share_chooser_title">Dijeli</string>
   <string name="share_description">Iz Mi Glazba</string>
