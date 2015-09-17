@@ -206,7 +206,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_sd_plugout_check_title">SD kartica (uklanjanje)</string>
   <string name="cit_sd_unmount">Uklonite SD karticu</string>
   <string name="cit_sd_unmount_sucess">SD kartica uklonjena</string>
-  <string name="cit_sim_check_summary">Potvrdite da se ispravan status i Informacije o SIM kartici prikazuju u nastavku</string>
+  <string name="cit_sim_check_summary">Uvjerite se da se informacije i status SIM kartice prikazuju ispravno.</string>
   <string name="cit_sim_check_title">SIM kartica</string>
   <string name="cit_sim_error_unknown">Nepoznato</string>
   <string name="cit_sim_network_operator">Mrežni davatelji usluga:</string>
@@ -302,7 +302,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_usb_OTG_out">USB OTG uređaj uklonjen</string>
   <string name="cit_usb_charger_in">Punjenje putem  USB-a</string>
   <string name="cit_usb_charger_out">USB punjač isključen</string>
-  <string name="cit_version_check_summary">U nastavku su informacije verzije OS-a. Potvrdite da su Informacije označene zelenom bojom ispravne.</string>
+  <string name="cit_version_check_summary">"Informacije o uređaju su ispod. Uvjerite se da su informacije označene zelenom bojom točne."</string>
   <string name="cit_version_check_title">Provjeri verziju</string>
   <string name="cit_vga_camera_capture">Snimite fotografiju</string>
   <string name="cit_vga_camera_capture_fail">Nije uspjelo snimanje fotografije</string>
