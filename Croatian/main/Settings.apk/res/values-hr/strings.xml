@@ -74,7 +74,7 @@ Napomena: povećanje trostrukim dodirom moguće je svuda osim na tipkovnici i tr
   <string name="accessibility_toggle_speak_password_preference_title">Izgovori zaporke</string>
   <string name="account_add">Dodaj</string>
   <string name="account_autostar_label">Autom. pokretanje</string>
-  <string name="account_list">Svi</string>
+  <string name="account_list">Ostali računi</string>
   <string name="account_settings">Računi</string>
   <string name="account_settings_menu_auto_sync">Auto sink. podataka</string>
   <string name="account_settings_menu_auto_sync_personal">Auto sink. osobnih podataka</string>
@@ -1964,6 +1964,7 @@ i pokrenite ga."</string>
   <string name="oldman_mode_entry_title">Lite način</string>
   <string name="oldman_mode_settings_caption">Postavke Lite načina</string>
   <string name="oldman_mode_summary">Koristi pojednostavljeni Početni zaslon i izbornike</string>
+  <string name="oldman_mode_summary_cta">Lite način treba povezivanje s internetom i da može pročitati vaše kontakte, poruke, i detalje o lokaciji za normalan rad.</string>
   <string name="online_resource_entry">Online izvori</string>
   <string name="only_one_home_message">Postavke početnog zaslona bit će skrivene dok ne instalirate još jednu aplikaciju početnog zaslona.</string>
   <string name="only_when_charging">Samo kada je priključeno</string>
@@ -2106,7 +2107,8 @@ i pokrenite ga."</string>
   <string name="preference_change_password_title">Promijeni zaporku</string>
   <string name="preferred_app_settings">Zadano</string>
   <string name="preferred_app_settings_default">Zadano</string>
-  <string name="preferred_app_settings_reset">"Obnovi zadano"</string>
+  <string name="preferred_app_settings_reset">"Vrati na zadano"</string>
+  <string name="preferred_app_settings_reset_button">Vrati</string>
   <string name="preferred_app_settings_reset_message">Podešenja zadanih aplikacija će biti vraćene na MIUI tvornička podešenja</string>
   <string name="preferred_application_title">Željena: %s</string>
   <string name="preferred_application_warning_message">Zamjena vaše zadane aplikacije %1$s može povećati potrošnju baterije, smanjiti brzinu, te kontakte uređaja izložiti riziku. U zamjenu koristi %2$s.</string>

@@ -91,7 +91,7 @@
   <string name="baby_album_sharers_page_title">Podijelite sa obitelji</string>
   <string name="baby_birthday">Rođendan</string>
   <string name="baby_lock_wallpaper">Slika zaklj. zaslona</string>
-  <string name="baby_lock_wallpaper_cancelled">Promijenjeno na zadanu pozadinu zaklj. zaslona</string>
+  <string name="baby_lock_wallpaper_cancelled">Vraćeno na zadanu pozadinu zaklj. zaslona</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Primijeniti trenutne postavke?</string>
   <string name="baby_lock_wallpaper_title">"Upotrijebi fotografiju djeteta kao pozadinu zaklj. zaslona"</string>
   <string name="baby_name_cannot_empty">Unesite ime</string>
@@ -123,7 +123,7 @@
   <string name="camera_setas_wallpaper">Pozadine</string>
   <string name="camera_view_none_message">Snimljene fotografije i videozapisi će ovdje biti prikazani.</string>
   <string name="cancel">Odustani</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Otkazati dječju sliku pozadine i resetirati zadanu pozadinu zaklj. zaslona?</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Vratiti na zadanu pozadinu zaklj. zaslona?</string>
   <string name="cancel_hint">Radnja otkazana</string>
   <string name="cannot_delete_sharer_photo">"Ne mogu izbrisati stavke (%s) dodanih od strane drugih korisnika."</string>
   <string name="cannot_remove_creator">"Ne mogu ukloniti autora"</string>
@@ -627,9 +627,9 @@ uređaja"</string>
   <string name="send_public_url">Pošalji poveznicu albuma</string>
   <string name="sepia">Sepija</string>
   <string name="set_as_baby_lock_wallpaper">Postavi za pozadinu zaklj. zaslona</string>
-  <string name="set_baby_icon_picker_default_title">Postavi ikonu djeteta</string>
-  <string name="set_bg_file_exist_message">Konflikt između imena fotografija</string>
-  <string name="set_bg_picker_default_title">Postavite gornje sličice</string>
+  <string name="set_baby_icon_picker_default_title">Postavi thumbnail fotografiju</string>
+  <string name="set_bg_file_exist_message">Ova stavka već postoji</string>
+  <string name="set_bg_picker_default_title">Postavi naslovnu fotografiju</string>
   <string name="set_bg_unknow_reasons">Nepoznata pogreška</string>
   <string name="set_hidden_album">Sakrij</string>
   <string name="set_label_all_albums">Sve</string>
@@ -690,6 +690,7 @@ uređaja"</string>
   <string name="sync_album_in_proecess">Sinkronizacija albuma…</string>
   <string name="sync_album_set_error">Ne mogu sinkronizirati fotografije. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="sync_album_summary">Sinkr. s MiCloud</string>
+  <string name="sync_battery_low">Slaba baterija</string>
   <string name="sync_cloud_space_full">MiCloud je pun</string>  
   <string name="sync_history_power_on">Sinkroniziraj povijest slika samo tijekom punjenja</string>
   <string name="sync_in_progress_message">Preuzimanje albuma…</string>

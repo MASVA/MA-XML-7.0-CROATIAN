@@ -79,6 +79,11 @@
   <string name="create_share_link_description">Stvori vezu za dijeljenje…</string>
   <string name="cution">Savjeti</string>
   <string name="data_capacity">Podaci %1$s</string>
+  <string name="data_consumption_cancel">Izlaz</string>
+  <string name="data_consumption_checkbox_hint">"Ne prikazuj ponovo"</string>
+  <string name="data_consumption_confirm">U redu</string>
+  <string name="data_consumption_message">Ova aplikacija treba povezivanje s internetom putem WLAN-a za normalan rad.</string>
+  <string name="data_consumption_title">Povezivanje s internetom</string>
   <string name="decompress_cancel">Odustani</string>
   <string name="decompress_confirm">Raspakiraj</string>
   <string name="decompress_destination_error">"Ne mogu raspakirati datoteke na ovom mjestu."</string>
@@ -260,6 +265,7 @@
   <string name="notification_dialog_confirm">U redu</string>
   <string name="notification_dialog_content">Automatski obavijesti i organiziraj kada su datoteke dodane ili promjenjene u %1$s.</string>
   <string name="notification_dialog_title">Obavijesti</string>
+  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Obavijesti</string>
   <string name="notification_summary">"%1$s još ne podržava ovu značajku"</string>
   <string name="notification_title">Obavijesti kada su nove datoteke dodane u %1$s</string>

@@ -35,7 +35,7 @@
   <string name="audio_picker_title">Odaberi pjesmu</string>
   <string name="auto_download_in_wifi">Automatski preuzmi favorite preko WLAN-a</string>
   <string name="auto_payment">Autom. obnovi</string>
-  <string name="avail_services">Dostupne usluge</string>
+  <string name="avail_services">Dostupno</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>
   <string name="avoid_to_use_traffic_summary">"Nemoj koristiti mobilnu mrežu za stream glazbe"</string>
   <string name="avoid_to_use_traffic_title">Koristi samo WLAN za stream</string>
@@ -47,9 +47,9 @@
   <string name="can_not_find_resource">"Ne mogu pronaći izvore"</string>
   <string name="cancel">Odustani</string>
   <string name="channel_list_fragment_title">Radio</string>
-  <string name="chinese_female">Kineski ženski pjevači</string>
-  <string name="chinese_group">Kineske kombinacije</string>
-  <string name="chinese_male">Kineski muški pjevači</string>
+  <string name="chinese_female">Ženski izvođači (Kina)</string>
+  <string name="chinese_group">Bendovi (Kina)</string>
+  <string name="chinese_male">Muški izvođači (Kina)</string>
   <string name="choose_download_quality">Odaberi kvalitetu preuzimanja</string>
   <string name="choose_stream_quality">Odaberi kvalitetu streama</string>
   <string name="click_modify">Dodirnite za uređivanje teksta</string>
@@ -61,7 +61,7 @@
   <string name="cp_info_first">Streaming uslugu pruža Ultimate Inc.</string>
   <string name="create_playlist">Izradi novi popis pjesama</string>
   <string name="create_playlist_failure">"Ne mogu izraditi popis pjesama"</string>
-  <string name="current_services">Trenutne usluge</string>
+  <string name="current_services">Trenutno</string>
   <string name="data_usage_warning">Uporaba podataka</string>
   <string name="data_usage_warning_summary">Korištenje vaše mobilne podatkovne veze za streaming visoko kvalitetne glazbe može povećati troškove uporabe podataka.</string>
   <string name="delete">Izbriši</string>
@@ -109,9 +109,9 @@
   <string name="empty_page_no_document">Nema datoteka sa zvukom.</string>
   <string name="empty_page_no_track">Nema pjesama.</string>
   <string name="enabled">Omogućeno</string>
-  <string name="english_female">Europski i američki ženski pjevači</string>
-  <string name="english_group">Europske i američke kombinacije</string>
-  <string name="english_male">Europski i američki mušski pjevači</string>
+  <string name="english_female">Ženski izvođači (US/Europe)</string>
+  <string name="english_group">Bendovi (US/Europe)</string>
+  <string name="english_male">Muški izvođači (US/Europe)</string>
   <string name="eq_auto">Prilagođeno</string>
   <string name="eq_blues">Bluz</string>
   <string name="eq_classical">Klasična</string>
@@ -194,11 +194,13 @@
   <string name="impunity_declaration_title">Uvjeti pružanja usluge</string>
   <string name="in_searching_please_wait">Pretraživanje…</string>
   <string name="is_loading_data">Učitavanje još traje. Pričekajte minutu/dvije i pokušajte ponovo.</string>
-  <string name="is_scanning">Skeniranje, molimo pričekajte.</string>
-  <string name="is_scanning_support_online">Skeniranje, molimo pričekajte ili odaberite glazbu s interneta.</string>
-  <string name="japan_korea_female">Japanski i Korejski ženski pjevači</string>
-  <string name="japan_korea_group">Japanske i Korejske kombinacije</string>
-  <string name="japan_korea_male">Japanski i Korejski muški pjevači</string>
+  <string name="is_scanning">Provjera prostora za pohranu…</string>
+  <string name="is_scanning_support_online">"Provjera prostora za pohranu…
+  
+  (U međuvremenu, možete slušati glazbu online)"</string>
+  <string name="japan_korea_female">Ženski izvođači (Japan/Koreja)</string>
+  <string name="japan_korea_group">Bendovi (Japan/Koreja)</string>
+  <string name="japan_korea_male">Muški izvođači (Japan/Koreja)</string>
   <string name="ktv_playlist">KTV popis reprodukcije</string>
   <string name="like">Sviđa mi se</string>
   <string name="list_detail_title">Detalji</string>
@@ -297,7 +299,7 @@
   <string name="ok">"U redu"</string>
   <string name="one_month">1 mmjesec</string>
   <string name="online_music_enabled_subtitle">Dodirnite za stream vaših omiljenih pjesama.</string>
-  <string name="online_music_enabled_summary">Slušajte i preuzmite omiljene pjesme. Pogledajte Billboard ljestvice i trenutan popis pjesama gdje god krenuli!</string>
+  <string name="online_music_enabled_summary">Slušajte i preuzmite omiljene pjesme. Pogledajte najbolje pjesme i trenutan popis gdje god krenuli!</string>
   <string name="online_music_enabled_title">Besplatan stream je ovdje</string>
   <string name="online_playlist_is_empty">Popis pjesama je prazan</string>
   <string name="only_online_can_select_quality">Možete odabrati kvalitetu samo za glazbu koju stremate.</string>
@@ -316,7 +318,7 @@
   <string name="playlist_unavailable">"Nažalost, popis nije dostupan. Da ga izbrišete, pritisnite i držite, a zatim odaberite izbriši."</string>
   <string name="please_download_first">Morate preuzeti tu pjesmu prije nego što je možete postaviti kao zvuk zvona</string>
   <string name="please_search_or_select">Pretražite ili odaberite polje</string>
-  <string name="please_select_song">Molimo odaberite jednu pjesmu</string>
+  <string name="please_select_song">Odaberite jednu pjesmu</string>
   <string name="preset_music_playlist">Mi Glazba popis pjesama</string>
   <string name="presonal_center">Postavke računa</string>
   <string name="price">Cijena:</string>
@@ -364,12 +366,12 @@
   <string name="set_lyric_successful">Tekst je spremljen</string>
   <string name="set_ringtones_failed">Ne mogu postaviti zvuk zvona.</string>
   <string name="set_ringtones_successful">%s postavljen za zvuk zvona.</string>
-  <string name="share_append_text">Iz @Mi Glazba</string>
-  <string name="share_chooser_title">Dijeli</string>
-  <string name="share_description">Iz Mi Glazba</string>
-  <string name="share_end_note">Iz Mi Glazba</string>
-  <string name="share_text_list">Otkrio sam super popis pjesama na Mi Glazba:</string>
-  <string name="share_text_song">Otkrio sam super pjesmu na Mi Glazba</string>
+  <string name="share_append_text">Od @MIUI</string>
+  <string name="share_chooser_title">Dijeli putem</string>
+  <string name="share_description">Od Mi Glazba</string>
+  <string name="share_end_note">Od Mi Glazba</string>
+  <string name="share_text_list">"Popis pjesama od Mi Glazba: "</string>
+  <string name="share_text_song">"Pjesma u Mi Glazba: "</string>
   <string name="similar_songs">Slične pjesme</string>
   <string name="sleep_mode">Sleep timer</string>
   <string name="sleep_mode_canceled">Sleep mode isključen</string>
@@ -412,8 +414,8 @@
   <string name="title_online_song">Popularne pjesme</string>
   <string name="title_online_suggest">Moglo bi vas se svidjeti</string>
   <string name="title_search_history">Povijest pretraživanja</string>
-  <string name="title_search_hot">Vrući upiti</string>
-  <string name="too_freq">Prečeste radnje</string>
+  <string name="title_search_hot">Popularno</string>
+  <string name="too_freq">Previše zahtjeva poslanih s ovog uređaja</string>
   <string name="tos">Uvjeti Pružanja Usluge</string>
   <string name="track_list_control_download">"Preuzmi"</string>
   <string name="track_list_control_edit_add_tracks">Dodaj pjesme</string>
@@ -435,7 +437,7 @@
   <string name="upgrade_immediate">Ažuriraj sada</string>
   <string name="upgrade_nobeta">"Obustavljamo našu trenutnu streaming uslugu, dok ne riješimo probleme oko autorskih prava. Žao nam je zbog neugodnosti :("</string>
   <string name="upgrade_remind">Dostupno je ažuriranje</string>
-  <string name="upgrade_services">Usluge nadogradnje</string>
+  <string name="upgrade_services">Ažuriranja</string>
   <string name="upgrade_suggest">"Obustavljamo našu trenutnu streaming uslugu zbog pitanja autorskih prava. Ažurirajte na najnoviju verziju aplikacije Glazba za slušanje glazbe visoke kvalitete."</string>
   <string name="upgrade_to">Nadogradi na</string>
   <string name="upgrade_waringing">"Moći ćete samo slušati glazbu pohranjenu na vašem uređaju."</string>

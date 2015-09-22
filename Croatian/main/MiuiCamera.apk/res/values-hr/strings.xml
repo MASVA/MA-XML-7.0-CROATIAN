@@ -581,7 +581,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržano kada je HDR UKLJUČEN.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Brzo uzastopno snimanje nije podržano kada ISO nije 'automatski'."</string>
   <string name="toast_cannot_preview_image_when_screen_locked">""Ne mogu pregledavati slike dok je uređaj zaključan"</string>
-  <string name="toast_start_audio_capture">Napravite zvuk na okidanju</string>
+  <string name="toast_start_audio_capture">Napravi zvuk kod snimanja fotografije</string>
   <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
   <string name="ubi_focus_exit_button_text">Isključi</string>
   <string name="ubifocus_capture_warning_message">Za najbolje rezultate, vaša fotografija bi trebala sadržavati objekte i blizu (manje od 1 metra od objektiva) i daleko</string>

@@ -315,6 +315,8 @@
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="colon">:</string>
   <string name="compose">Nova poruka</string>
+  <string name="compose_attachment_number_limit">Broj privitaka ne može prelaziti 10 !</string>
+  <string name="compose_picturesexceedlimits">Broj online slika ne smije prelaziti 5 !</string>
   <string name="compose_send">Pošalji</string>
   <string name="compose_sent">Poslano</string>
   <string name="confirm">U redu</string>
@@ -338,6 +340,8 @@
   <string name="contact_edit_set_vip">Podesi VIP</string>
   <string name="contact_edit_title_permission">"Dopuštenja kontakata"</string>
   <string name="contact_edit_title_phone_contact">Popis kontakata telefona</string>
+  <string name="contact_in_filter_call_phone_str">Poziv: %s</string>
+  <string name="contact_in_filter_title">Dolazi od njega (nje).</string>
   <string name="contact_content_provider">Kontaktirajte davatelja sadržaja</string>
   <string name="contact_info_string">Prikaži podatke o kontaktu za %1$s</string>
   <string name="contact_info_string_default">Prikaži podatke o kontaktu</string>
@@ -582,7 +586,7 @@
   <string name="mail_header_message_body_auto_download_tip">Sadržaj e-pošte će se preuzeti putem WLAN-a.</string>
   <string name="mail_header_message_body_download_failed">Preuzimanje sadržaja e-pošte nije uspjelo</string>
   <string name="mail_header_network_not_available">"Nemate mrežnu vezu."</string>
-  <string name="mailbox_list_account_selector_combined_view">Kombinirani prikaz</string>
+  <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
   <string name="mailbox_name_display_drafts">Skice</string>
   <string name="mailbox_name_display_inbox">Pristigla pošta</string>
   <string name="mailbox_name_display_junk">Otpad</string>

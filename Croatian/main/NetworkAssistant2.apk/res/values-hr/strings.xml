@@ -111,7 +111,8 @@ Za više informacija provjerite poruku koju ste dobili od svog operatera"</strin
   <string name="firewall_fragment_tab_title_nonsys">Instalirano</string>
   <string name="firewall_fragment_tab_title_sys">Sustav</string>
   <string name="firewall_network_restrict_notify_message">Dodirni za promjenu postavki.</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s nije dopušteno povezivanje na %2$s."</string>
+  <string name="firewall_network_restrict_notify_mobile">2G/3G</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s ne može koristiti %2$s."</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Međunarodni roaming</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>

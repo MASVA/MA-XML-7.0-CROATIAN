@@ -195,7 +195,7 @@ Kartice kontakata su isključene"</string>
   <string name="contact_detail_miprofile_privacy_settings">Potrebno je dopuštenje za pregled</string>
   <string name="contact_detail_miprofile_request">Razmjeni Kartice kontakata</string>
   <string name="contact_detail_miprofile_request_fail_toast">"Ne mogu poslati zahtjev"</string>
-  <string name="contact_detail_miprofile_request_subtitle">Ažuriraj fotografije profila i informacije o kontaktu automatski</string>
+  <string name="contact_detail_miprofile_request_subtitle">"Automatski ažuriraj podatke o ovom kontaktu"</string>
   <string name="contact_detail_miprofile_request_success_toast">Zahtjev je poslan</string>
   <string name="contact_detail_miprofile_save">Dodirnite za dobivanje kartice kontakta</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Ne mogu dobiti karticu kontakta"</string>
@@ -248,7 +248,7 @@ Kartice kontakata su isključene"</string>
   <string name="default_ringtone">"Zadana melodija zvona"</string>
   <string name="deleteConfirmation">Ovaj kontakt će biti izbrisan.</string>
   <string name="deleteConfirmationDetail">Izbrisati \"%s\"?</string>
-  <string name="deleteConfirmation_title">"Izbriši"</string>
+  <string name="deleteConfirmation_title">"Izbrisati ovaj kontakt?"</string>
   <string name="delete_call_log_message">Izbrisati povijest poziva?</string>
   <string name="delete_call_log_selected_title">Izbrisati odabranu povijest poziva?</string>
   <string name="delete_call_log_title">Odaberi povijest poziva za brisanje</string>
@@ -883,7 +883,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="quit_dialog_confirm_message">"Niste pridružili niti jedan kontakt"</string>
   <string name="quit_dialog_confirm_title">Odustani od pridruživanja</string>
   <string name="readOnlyContactDeleteConfirmation">Ovaj kontakt sadrži informacije iz više računa. Informacije iz računa koji su samo za čitanje bit će skrivene na popise kontakata, a ne izbrisane.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" sadrži informacije iz više računa. Informacije s računa samo za čitanje će biti sakrivene u vašem popisu kontakata.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" sadrži informacije iz više računa. Bilo koja informacija koja se ne može izbrisati će biti skrivena s vašeg popisa kontakata."</string>
   <string name="readOnlyContactWarning">Ne možete izbrisati kontakte s računa samo za čitanje, ali možete ih sakriti na svojim popisima kontakata</string>
   <string name="readingSimContacts">Čitanje SIM kartice…</string>
   <string name="reading_vcard_canceled_title">Čitanje podataka vCard otkazano je</string>

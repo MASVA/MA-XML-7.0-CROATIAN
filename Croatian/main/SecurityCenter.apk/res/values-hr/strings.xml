@@ -196,6 +196,7 @@
   <string name="hints_last_virus_scan_yesterday_virus">Jučerašnje skeniranje: Opasno</string>
   <string name="hints_loading_text">Učitavanje…</string>
   <string name="hints_need_quick_scan">Preporučuje se brzo skeniranje</string>
+  <string name="hints_need_regular_scan">Skenirajte redovito svoj uređaj</string>
   <string name="hints_power_percent_title">Baterije</string>
   <string name="hints_remember_choice">Zapamti prednosti</string>
   <string name="hints_risk_apk_list_item_summary">Rizik (apk)</string>
