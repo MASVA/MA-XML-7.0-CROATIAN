@@ -24,6 +24,10 @@
         <item>Primljeno</item>
         <item>Poslano</item>
     </string-array>
+	<string-array name="entries_date_type_rightvalue">
+        <item>Primljeno</item>
+        <item>Poslano</item>
+    </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
         <item>Mi Poruke</item>

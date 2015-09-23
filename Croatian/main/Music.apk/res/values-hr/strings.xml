@@ -2,8 +2,8 @@
 <resources>
   <string name="account">Račun</string>
   <string name="account_and_cloud">Račun</string>
-  <string name="action_item_add">Dodaj</string>
-  <string name="action_item_add_song">Dodaj</string>
+  <string name="action_item_add">Dodaj na popis pjesama</string>
+  <string name="action_item_add_song">Dodaj na popis pjesama</string>
   <string name="action_item_add_to_current_playlist">Trenutan popis pjesama</string>
   <string name="action_item_add_to_favorite_playlist">Popis pjesama favorita</string>
   <string name="action_item_add_to_new_playlist">Novo</string>
@@ -65,7 +65,7 @@
   <string name="data_usage_warning">Uporaba podataka</string>
   <string name="data_usage_warning_summary">Korištenje vaše mobilne podatkovne veze za streaming visoko kvalitetne glazbe može povećati troškove uporabe podataka.</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_file_as_well">Izbriši i lokalnu datoteku</string>
+  <string name="delete_file_as_well">Trajno izbriši ovu pjesmu</string>
   <string name="delete_file_end">Izbriši u potpunosti</string>
   <string name="delete_file_start">Izbriši odabrane datoteke</string>
   <string name="desc_online_personal_radio">Samo za tebe</string>
@@ -177,11 +177,11 @@
   <string name="high_quality">Viša</string>
   <string name="higher_quality_music">Visoka kvaliteta zvuka</string>
   <string name="higher_quality_music_summary">Stream i preuzimanje datoteka veće brzine prijenosa</string>
-  <string name="home_tab_local">Moja Glazba</string>
+  <string name="home_tab_local">Moja glazba</string>
   <string name="home_tab_online">Otkrijte</string>
   <string name="i_know">U redu</string>
   <string name="i_know_it">U redu</string>
-  <string name="impunity_declaration_content1">"Dodirom Slažemse, pristajete na uvjete navedenim u našem "</string>
+  <string name="impunity_declaration_content1">"Dodirom Slažem se, pristajete na uvjete navedenim u našem "</string>
   <string name="impunity_declaration">Ova aplikacija treba povezivanje s internetom.</string>
   <string name="impunity_declaration_content3">" i "</string>
   <string name="impunity_declaration_content4">Pravila o Privatnosti</string>
@@ -215,7 +215,7 @@
   <string name="lrc_search_failed">"Ne mogu pronaći tekst"</string>
   <string name="lrc_searching">"Pretraživanje…"</string>
   <string name="lyric">Tekst</string>
-  <string name="lyric_is_empty">Tekst je nedostupan</string>
+  <string name="lyric_is_empty">Tekst nije dostupan</string>
   <string name="lyric_open_other_connect">Preuzmi tekst koristeći mobilnu mrežu</string>
   <string name="lyric_setting">Postavke teksta</string>
   <string name="male_artist">Muški izvođači</string>
@@ -263,7 +263,7 @@
   <string name="music_quality">Kvaliteta glazbe</string>
   <string name="music_settings">Glazba</string>
   <string name="my_account">Mi Račun</string>
-  <string name="my_music">Moja Glazba</string>
+  <string name="my_music">Moja glazba</string>
   <string name="my_music_empty_goto_online">Nema pronađenih pjesama</string>
   <string name="my_playlist">Moj popis pjesama</string>
   <string name="name_online_personal_radio">Radio</string>
@@ -303,11 +303,11 @@
   <string name="online_music_enabled_title">Besplatan stream je ovdje</string>
   <string name="online_playlist_is_empty">Popis pjesama je prazan</string>
   <string name="only_online_can_select_quality">Možete odabrati kvalitetu samo za glazbu koju stremate.</string>
-  <string name="order_pending">Čeka se potvrda</string>
+  <string name="order_pending">Čekanje potvrde</string>
   <string name="order_process_fail">"Nije bilo moguće autorizirati vaš račun. Pričekajte nekoliko minuta i pokušajte ponovno."</string>
   <string name="page_local_setting">Postavke</string>
   <string name="pay">Plati:</string>
-  <string name="pay_now">Pplati sada</string>
+  <string name="pay_now">Plati sada</string>
   <string name="payment_fail">Plaćanje nije uspjelo</string>
   <string name="payment_success">Plaćanje završeno</string>
   <string name="period_format">%1$s-%2$s</string>

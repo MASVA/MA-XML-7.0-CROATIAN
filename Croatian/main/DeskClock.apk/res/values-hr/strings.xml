@@ -94,6 +94,8 @@
   <string name="stopwatch_title">Štoperica</string>
   <string name="system_time_setting">Postavke</string>
   <string name="time">Vrijeme</string>
+  <string name="timer_alarm_alert_pad">%s</string>
+  <string name="timer_alarm_cancel_pad">Dodirnite zaslon da zaustavite zvonjavu</string>
   <string name="timer_alert_alert_silenced">Kronometar će se ugasiti za %d min.</string>
   <string name="timer_continue">Nastavi</string>
   <string name="timer_got_it">U redu</string>
