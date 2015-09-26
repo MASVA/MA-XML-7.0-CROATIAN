@@ -123,6 +123,7 @@
   <string name="error_info_cant_send_folder">"Ne mogu slati ovu vrstu datoteke."</string>
   <string name="error_open_file_failed_no_app_found">Nema nađenih aplikacija da izvrše ovu radnju.</string>
   <string name="expand_all">Sve</string>
+  <string name="extract">Raspakiraj</string>
   <string name="fail_to_create_folder">Nedovoljno prostora ili mapa već postoji.</string>
   <string name="fail_to_create_folder_unknown">"Ne mogu stvoriti mapu"</string>
   <string name="fail_to_rename">Datoteka s istim nazivom već postoji.</string>
@@ -195,6 +196,9 @@
   <string name="load_err">"Ne mogu učitati"</string>
   <string name="load_more">Prikaži više</string>
   <string name="loading">Učitavam…</string>
+  <string name="local_image">Fotografije</string>
+  <string name="local_music">Glazba</string>
+  <string name="local_video">Videozapisi</string>
   <string name="login_reg_content">Pohranite datoteke i sinkronizirajte ih na više uređaja.</string>
   <string name="login_reg_content0">Koristite KuaiPan iz bilo kojeg mjesta.</string>
   <string name="megabyteShort">MB</string>
@@ -214,6 +218,7 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"Ne mogu izrezati"</string>
+  <string name="move_to">Premjesti u…</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="my_app">Podaci aplik.</string>
   <string name="my_app_desc"/>
@@ -371,6 +376,9 @@
   <string name="search_statistic_tag">Oznaka</string>
   <string name="search_title">Traži</string>
   <string name="search_title_hint">Traži</string>
+  <string name="select_image">Odaberi fotografiju</string>
+  <string name="select_music">Odaberi pjesmu</string>
+  <string name="select_video">Odaberi videozapis</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Ova vrsta datoteke nije podržana.</string>
   <string name="server_control_advanced_settings">FTP postavke</string>
@@ -393,10 +401,13 @@ Dodano %1$s slobodnog prostora"</string>
   <string name="stay_awake_title">Zaslon se neće ugasiti</string>
   <string name="stop_server">Zaustavi FTP poslužitelj</string>
   <string name="storage_info">%1$s dostupno</string>
-  <string name="storage_info_detail">Dostupno:%1$s Ukupno:%1$s</string>
+  <string name="storage_info_detail">Dostupno:%1$s Ukupno:%2$s</string>
   <string name="storage_internal">Unutarnja pohrana</string>
+  <string name="storage_internal_description">Unutarnja pohrana</string>
   <string name="storage_sd_card">SD kartica</string>
+  <string name="storage_sd_card_description">SD kartica</string>
   <string name="storage_usb">USB pohrana</string>
+  <string name="storage_usb_description">USB pohrana</string>
   <string name="storage_warning">"Ne mogu koristiti vanjsku pohranu"</string>
   <string name="sys_size_enable">" dostupno"</string>
   <string name="system_alert">Internet povezivanje</string>

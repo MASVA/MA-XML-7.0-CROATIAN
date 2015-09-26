@@ -38,7 +38,6 @@
   <string name="backup_items_sysdata_tailer">" x podaci sustava,"</string>
   <string name="backup_new">Novo:</string>
   <string name="backup_progress">Stvaranje Sig. kopije…</string>
-  <string name="backup_recently">" (najnovija Sig. kopija) "</string>
   <string name="backup_report">Prikaži detalje</string>
   <string name="backup_update">Ažuriraj</string>
   <string name="batch_delete_backup_confirm">Izbrisati odabrane Sig. kopije?</string>
@@ -94,7 +93,10 @@
   <string name="enable_encrypt_xiaomi_account">Sig. kopija od %1$s, obrišite trenutni račun, i prijavite se kao %2$s da vratite korisničke podatke.</string>
   <string name="err_authentication_failed">Provjera autentičnosti nije uspjela</string>
   <string name="err_bakfile_broken">"Ne mogu koristiti ovu Sig. kopiju."</string>
+  <string name="err_filesystem_mount">"Ne mogu pristupiti prostoru za pohranu routera"</string>
   <string name="err_low_storage">Nedovoljno prostora</string>
+  <string name="err_router_disconnected">"Provjerite priključak vašeg routera i pokušajte ponovo."</string>
+  <string name="err_router_files_delete">"Ne mogu obrisati Sig. kopije na routeru"</string>
   <string name="err_unknown">Nepoznata greška</string>
   <string name="err_version_too_old">Sig. kopija je prestara.</string>
   <string name="err_version_unsupported">"Verzija Sig. kopije nije podržana."</string>
@@ -186,6 +188,7 @@
   <string name="software_backup_info">Podaci aplikacije</string>
   <string name="start_backup">Započni stvaranje Sig. kopije</string>
   <string name="start_restore">Vrati</string>
+  <string name="state_mounting">Pristup prostoru za pohranu routera…</string>
   <string name="state_waiting">Samo tren…</string>
   <string name="succeed">Završeno</string>
   <string name="summary_err_backup_encrypting">Prijavite se u vaš Mi Račun.</string>

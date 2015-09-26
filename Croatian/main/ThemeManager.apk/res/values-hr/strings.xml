@@ -347,6 +347,7 @@
   <string name="theme_precast_update_notification_title">MIUI 7 teme ažurirane</string>
   <string name="theme_provision_default_theme_title">Zadano</string>
   <string name="theme_provision_loading_tips">Samo tren…</string>
+  <string name="theme_provision_oper_button_next">Dalje</string>
   <string name="theme_provision_title">Odaberite temu</string>
   <string name="theme_purchased_list_empty">"Nemate kupljenih tema."</string>
   <string name="theme_purchased_non_local">Online</string>

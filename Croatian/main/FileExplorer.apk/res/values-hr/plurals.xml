@@ -72,6 +72,14 @@
         <item quantity="few">Datoteka (%2$d) apl. %1$s</item>
         <item quantity="many">Datoteka(%2$d) apl. %1$s</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other">Stavaka: %d</item>
+        <item quantity="zero">Stavaka: %d</item>
+        <item quantity="one">Stavaka: %d</item>
+        <item quantity="two">Stavaka: %d</item>
+        <item quantity="few">Stavaka: %d</item>
+        <item quantity="many">Stavaka: %d</item>
+    </plurals>
     <plurals name="search_head_hint_file">
         <item quantity="other">Datoteka %1$s (%2$d)</item>
         <item quantity="zero">Datoteka %1$s (%2$d)</item>
