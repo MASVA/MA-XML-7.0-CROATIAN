@@ -20,6 +20,7 @@
   <string name="download_unknown_title">&lt;Bez naslova&gt;</string>
   <string name="enter_garbage_clean">Očistite unutarnju memoriju.</string>
   <string name="insufficient_space">"Nema dovoljno prostora na unutarnjoj pohrani vašeg uređaja"</string>
+  <string name="mobile_recommended_title">Uporaba mob. podataka</string>
   <string name="notif_text_engine_off">Xunlei accelerator je isključen.</string>
   <string name="notif_text_engine_on">Ubrzavanje preuzimanja…(samo za Kinu)</string>
   <string name="notif_title_file_size">Veličina: %%1$d</string>
@@ -52,12 +53,8 @@
   <string name="privacy_tip_content">"Koristiti Xunlei Accelerator za ubrzanje preuzimanja? URL domaćina preuzimanja će biti učitan na Xunlei poslužitelje. Detalji vašeg Mi Računa će biti učitani radi provjere je li imate aktivne pretplate na ovu uslugu."</string>
   <string name="privacy_tip_ok">U redu</string>
   <string name="privacy_tip_title">Koristiti Xunlei Accelerator?</string>
-  <string name="recommended_file_more_in_mobile" formatted="false">Korištenje vaše mobilne podatkovne veze za preuzimanje ovih %s datoteka (%s ) će povećati uporabu podataka.</string>
-  <string name="recommended_file_one_in_mobile">Korištenje vaše mobilne podatkovne veze za preuzimanje ove datoteke (%s ) će povećati uporabu podataka.</string>
-  <string name="recommended_file_size_download_in_mobile" formatted="false">"Niste povezani s WLAN-om u ovom trenutku. %s
-
-Ne mogu dobiti pojedinosti o veličini datoteke . Za preuzimanje ove datoteke korištenjem mobilne podatkovne veze, dodirnite %s. Pričekati i preuzeti ovu datoteku kada ste povezani na WLAN, dodirnite %s."</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Ne mogu dobiti pojedinosti o veličini datoteke. Za preuzimanje ove datoteke korištenjem mobilne podatkovne veze, dodirnite %s. Pričekati i preuzeti ovu datoteku kada ste povezani na WLAN, dodirnite %s."</string>
+  <string name="recommended_file_size_download_in_mobile">Koristiti %s of mobilnih podataka za preuzimanje ove datoteke?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Koristiti mobilnu podatkovnu vezu za preuzimanje ove datoteke?</string>
   <string name="root_downloads">Preuzimanja</string>
   <string name="task_already_exist">Zadatak već postoji</string>
   <string name="warning_tip_cancel">Preuzmi</string>

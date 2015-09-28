@@ -341,9 +341,8 @@
   <string name="list_language_dtitle">Jezici</string>
   <string name="list_language_summary">Odaberite jezik vijesti</string>
   <string name="list_language_title">Jezik</string>
+  <string name="livetalk_dial">Korištenje paketa nadoplate</string>
   <string name="livetalk_left_minute">%s min. preostalo</string>
-  <string name="livetalk_provider_info">Pruža vam %s</string>
-  <string name="livetalk_waiting">Čekanje...</string>
   <string name="load_networks_progress">Pretraživanje…</string>
   <string name="local_disable">Lokalne vijesti onemogućene</string>
   <string name="local_enable">Lokalne vijesti omogućene</string>

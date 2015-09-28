@@ -286,6 +286,10 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="operator_setted_error_notify_title">Pogreška SIM kartice</string>
   <string name="other_exception_summary">"Nemate povezivanja s internetom"</string>
   <string name="other_exception_title">Provjera drugih problema</string>
+  <string name="package_change_notification_summary">Dodirnite da saznate više.</string>
+  <string name="package_change_notification_title">Podesite ograničenje podataka automatski</string>
+  <string name="package_setted_error_notification_summary">Dodirnite za prikaz detalja o uporabi podataka.</string>
+  <string name="package_setted_error_notification_titile">"Ne mogu postaviti plan podataka"</string>
   <string name="pay_charge">Nadoplata</string>
   <string name="per_month_pkg_traffic_settings">Podesi ograničenje podataka</string>
   <string name="permission_exception_summary">"Neke aplikacije nemaju dopuštenje za povezivanje na internet"</string>

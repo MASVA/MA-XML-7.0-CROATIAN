@@ -293,7 +293,7 @@
   <string name="operation_copying_detail">Kopiranje (%1$d/%2$d)</string>
   <string name="operation_create_folder">Nova mapa</string>
   <string name="operation_create_folder_message">Imenuj mapu</string>
-  <string name="operation_decompressing">Raspakiravanje…</string>
+  <string name="operation_decompressing">Raspakiranje…</string>
   <string name="operation_del_fav">Uklanjanje iz favorita…</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_delete_confirm_message">Izbrisati stavku?</string>
