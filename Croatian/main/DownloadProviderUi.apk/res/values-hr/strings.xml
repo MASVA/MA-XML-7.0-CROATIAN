@@ -22,7 +22,7 @@
   <string name="auth_fail">"Ne mogu dobiti autorizaciju"</string>
   <string name="bind_xunlei_account">Dodaj Xunlei Račun</string>
   <string name="bt_download">Preuzmi</string>
-  <string name="bt_xunlei_open_info">Koristiti Xunlei Engine za otvaranje ove veze (potrebno)?</string>
+  <string name="bt_xunlei_open_info">Koristiti Xunlei Engine za otvaranje ovakvih poveznica?</string>
   <string name="button_sort_by_date">Poredaj po datumu</string>
   <string name="button_sort_by_size">Poredaj po veličini</string>
   <string name="cancel">Odustani</string>
@@ -105,7 +105,7 @@
   <string name="expire_notification_msg">Članstvo Xunlei uskoro istječe</string>
   <string name="expire_today_notification_msg">Članstvo Xunlei danas ističe</string>
   <string name="extract_file">Raspakiranje datoteke…</string>
-  <string name="file_exist_hint">Ova datoteka već čeka da bude preuzeta</string>
+  <string name="file_exist_hint">Ova datoteka već postoji</string>
   <string name="file_picker">Odaberite lokaciju</string>
   <string name="free_high_speed_channel">Xunlei ubrzanje preuzimanja (besplatno)</string>
   <string name="free_speedup_exp">Isprobajte Xunlei ubrzanje preuzimanja besplatno</string>
@@ -136,7 +136,7 @@
   <string name="new_add">Novo</string>
   <string name="new_add_bt">Dodaj torrent</string>
   <string name="no_downloads">Nema preuzimanja.</string>
-  <string name="no_file_hint">Ova datoteka već čeka da bude preuzeta</string>
+  <string name="no_file_hint">Ova datoteka je već na čekanju da bude preuzeta</string>
   <string name="no_vip_info">Nabavite Xunlei članstvo za ubrzanje preuzimanja</string>
   <string name="no_vip_show_info">"Ubrzajte preuzimanja na svim vašim uređajima sa Xunlei"</string>
   <string name="one_month">1 mjesec</string>
@@ -248,7 +248,7 @@ Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="xunlei_gaosu">Xunlei ubrzanje preuzimanja</string>
   <string name="xunlei_member_annual_fee">Godišnje</string>
   <string name="xunlei_member_one_month">Mjesečno</string>
-  <string name="xunlei_open_info">Koristiti Xunlei Engine za otvaranje ove vrste veze (potrebno)?</string>
+  <string name="xunlei_open_info">Koristiti Xunlei Engine za otvaranje ovakvih poveznica?</string>
   <string name="xunlei_speed_service">Xunlei ubrzanje preuzimanja</string>
   <string name="xunlei_switch">Xunlei alat preuzimanja</string>
 </resources>

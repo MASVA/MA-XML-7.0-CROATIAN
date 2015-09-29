@@ -3362,6 +3362,7 @@ WLAN Asistent"</string>
   <string name="wifi_avoid_poor_network_detection_summary">Koristi samo mreže s dobrom internetskom vezom</string>
   <string name="wifi_cancel">Odustani</string>
   <string name="wifi_certificate">Certifikat</string>
+  <string name="wifi_click_share_wlan">Dodirnite za dijeljenje zaporke</string>
   <string name="wifi_config_info">WLAN konfiguracija</string>
   <string name="wifi_configured_ap_list">Prethodno konfigurirane pristupne točke</string>
   <string name="wifi_connect">Poveži</string>
