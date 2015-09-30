@@ -59,6 +59,14 @@
   <string name="app_new_version">Najnovija verzija ove aplikacije je već instalirana</string>
   <string name="app_update_install">Spremno za instaliranje ažuriranja.</string>
   <string name="application_name">Preglednik</string>
+  <string name="aqi_quality_index_break">AQI %1$s</string>
+  <string name="aqi_quality_index_dangerous">AQI %1$s</string>
+  <string name="aqi_quality_index_good">AQI %1$s</string>
+  <string name="aqi_quality_index_hazardous">AQI %1$s</string>
+  <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
+  <string name="aqi_quality_index_moderate">AQI %1$s</string>
+  <string name="aqi_quality_index_pure">AQI %1$s</string>
+  <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="autologin_bar_error">"Ne mogu se prijaviti."</string>
   <string name="autologin_bar_hide_text">Sakrij</string>
   <string name="autologin_bar_login_text">Prijava</string>
@@ -99,6 +107,7 @@
   <string name="cannot_download">Mogu se preuzeti samo \"http\" ili \"https\" poveznice.</string>
   <string name="choosertitle_sharevia">Dijeli putem</string>
   <string name="clear_history">Očisti povijest</string>
+  <string name="clear_most_visited">Povijest zapisa</string>
   <string name="clear_search_history">Očisti povijest</string>
   <string name="clip_dialog_title">Otvoriti kopiranu poveznicu?</string>
   <string name="close_ads_choice_no">Dopusti</string>
@@ -234,6 +243,13 @@
   <string name="have_sent_bookmark_to_home_screen">Poslano na početni zaslon</string>
   <string name="history_saved_webpage">Spremi stranicu</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+  <string name="homepage_delete_card_menu">Izbriši</string>
+  <string name="homepage_get_location">Dobivanje lokacije</string>
+  <string name="homepage_get_location_failed">"Ne mogu dobiti informacije, odaberite grad"</string>
+  <string name="homepage_more_cards">Više kartica</string>
+  <string name="homepage_more_sites">Više web stranica</string>
+  <string name="homepage_search_hint">Pretraži</string>
+  <string name="homepage_top_card_menu">Na vrh</string>
   <string name="in_incognito">Anoniman mod je aktivan, neće ostati povijest preglednika.</string>
   <string name="is_first_history_item">Ovo je prva stranica u povijesti Preglednika</string>
   <string name="is_first_tab">Ovo je prva kartica</string>
@@ -305,14 +321,14 @@ Napustiti ovu stranicu?"</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Odustani</string>
-  <string name="miuishare_account_login_confirmation">Potrebna je prijava</string>
+  <string name="miuishare_account_login_confirmation">Prvo se prijavite</string>
   <string name="miuishare_account_login_ok">Prijava</string>
-  <string name="miuishare_account_need_activate">Weibo dijeljenje zahtijeva da je vaš Weibo račun povezan sa Xiaomi računom koji trenutno nije aktiviran. Aktivirati Vaš račun?</string>
-  <string name="miuishare_account_need_login">Weibo dijeljenje zahtijeva da je vaš Weibo račun povezan sa Xiaomi računom koji trenutno nije prijavljen. Prijaviti se sada za dijeljenje?</string>
+  <string name="miuishare_account_need_activate">Weibo račun treba biti povezan sa vašim Mi Računom. Prijaviti se sa Mi Računom?</string>
+  <string name="miuishare_account_need_login">Weibo račun treba biti povezan sa vašim trenutnim Mi Računom. Prijaviti se sada za dijeljenje?</string>
   <string name="miuishare_app_name">MiuiShare</string>
-  <string name="miuishare_no_network">Nema mreže za podijeliti</string>
+  <string name="miuishare_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="miuishare_publish">Pošalji</string>
-  <string name="miuishare_share_done">Podijeljeni sadržaj je poslan.</string>
+  <string name="miuishare_share_done">Podijeljeno</string>
   <string name="miuishare_share_editor_title">Podijeli</string>
   <string name="miuishare_title_more">Više</string>
   <string name="miuishare_title_share">Podijeli</string>
@@ -320,6 +336,11 @@ Napustiti ovu stranicu?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">USB pohrana je potrebna za izmjenu ove putanje</string>
   <string name="month_picker_dialog_title">Postavi mjesec</string>
+  <string name="nav_bottom_bar_back">Natrag</string>
+  <string name="nav_bottom_bar_close_all">Zatvori sve</string>
+  <string name="nav_bottom_bar_new_tab">Nova kartica</string>
+  <string name="nav_screen_container_tab_incognito">Anonimna kartica</string>
+  <string name="nav_screen_container_tab_normal">Redovna kartica</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Povezati se na ovu mrežu</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Dostupna otvorena WLAN mreža</string>
   <string name="new_folder_name_lable">Naziv grupe</string>
@@ -341,6 +362,7 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_adblock_counts">Blokirano %d</string>
   <string name="pref_adblock_title">Blokiranje reklama</string>
   <string name="pref_auto_update_under_wifi">Autom. ažuriraj na WLAN-u</string>
+  <string name="pref_category_hint">Kategorija</string>
   <string name="pref_check_security_url_summary">"Pošalji Poveznicu Web stranice na Mi Poslužitelje radi provjere da je li sigurna."</string>
   <string name="pref_check_security_url_title">Provjeri sigurnost Poveznice</string>
   <string name="pref_clear_adblock_statistics">Izbriši povijest blokiranih reklama</string>
@@ -359,6 +381,9 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_content_search_engine">Tražilica u adresnoj traci</string>
   <string name="pref_content_search_engine_summary">Odaberite tražilicu</string>
   <string name="pref_enable_adblock_notification">Prikaži obavijesti Blokiranja reklama</string>
+  <string name="pref_enable_news">Vijesti</string>
+  <string name="pref_enable_novels">Romani</string>
+  <string name="pref_enable_videos">Videozapisi</string>
   <string name="pref_extras_reset_default">Vrati na zadano</string>
   <string name="pref_extras_reset_default_dlg">Vratiti postavke na zadane vrijednosti?</string>
   <string name="pref_extras_reset_default_summary">Vrati na zadane postavke</string>
@@ -377,6 +402,9 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_force_userscalable_summary">"Prebriši zahtjev nekih web lokacija za kontrolu ponašanja zumiranja"</string>
   <string name="pref_general_title">Općenito</string>
   <string name="pref_key_gesture_title">Gumbi &amp; geste</string>
+  <string name="pref_notifications_hint">Obavijesti</string>
+  <string name="pref_notifications_receive">Nova obavijest</string>
+  <string name="pref_notifications_title">Obavijesti</string>
   <string name="pref_other_title">Ostalo</string>
   <string name="pref_privacy_clear_cache">Brisanje predmemorije</string>
   <string name="pref_privacy_clear_cache_dlg">Izbrisati spremljeni sadržaj u lokalnoj predmemoriji i bazama podataka?</string>
@@ -490,7 +518,8 @@ Napustiti ovu stranicu?"</string>
   <string name="search_label">Preglednik</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Oznake i povijest web-a</string>
-  <string name="search_shipin">Video zapis</string>
+  <string name="search_shipin">Videozapis</string>
+  <string name="search_sm">SM</string>
   <string name="search_sogou">Sogou</string>
   <string name="search_taobao">Taobao</string>
   <string name="search_tupian">Slika</string>
@@ -555,6 +584,7 @@ Napustiti ovu stranicu?"</string>
   <string name="url_find_on_page_result">Prikaži u Pregledniku</string>
   <string name="url_find_on_page_result_item">Prikaži sav tekst za \"%s\"</string>
   <string name="url_hint">Unesi Poveznicu ili pretraži web</string>
+  <string name="url_hint_from_search">Unesite ključnu riječ</string>
   <string name="url_opened_in_background">Otvori u pozadinskoj kartici</string>
   <string name="url_suggest_indicator_bookmark">Oznake/Povijest</string>
   <string name="url_suggest_indicator_hoturl">Popularno</string>

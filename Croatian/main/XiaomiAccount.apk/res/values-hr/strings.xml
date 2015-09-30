@@ -401,6 +401,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
   <string name="prev">Natrag</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
+  <string name="provision_skip_login">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">Provjera u 2 koraka</string>
   <string name="quick_login_dialog_title">Provjeri zaporku</string>
@@ -427,7 +428,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="scan_barcode_title">Da se prijavite u svoj Mi Račun, skenirajte QR kod</string>
   <string name="service_error">Pogreška usluge</string>
   <string name="sina_weibo">Sina Weibo</string>
-  <string name="skip_register">Preskoči ovaj korak</string>
+  <string name="skip_register">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
   <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijava u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
   <string name="theme_store">MIUI Trgovina Tema</string>
   <string name="theme_store_dspt">Odaberite svoj ​​izgled. Stotine slobodnih prilagodljivih tema kako bi vaš telefon izgledao jedinstven.</string>
