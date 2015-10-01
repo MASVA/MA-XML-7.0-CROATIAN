@@ -182,6 +182,7 @@
   "i_know_it": "U redu",
   "impunity_declaration_content1": "Dodirom Slažem se, pristajete na uvjete navedenim u našem \"",
   "impunity_declaration": "Ova aplikacija treba povezivanje s internetom.",
+  "impunity_declaration_content2": "Korisnički Sporazum",
   "impunity_declaration_content3": " i ",
   "impunity_declaration_content4": "Pravila o Privatnosti",
   "impunity_declaration_content5": ".",
