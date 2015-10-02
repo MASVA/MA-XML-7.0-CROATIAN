@@ -195,9 +195,7 @@
   "in_searching_please_wait": "Pretraživanje…",
   "is_loading_data": "Učitavanje još traje. Pričekajte minutu/dvije i pokušajte ponovo.",
   "is_scanning": "Provjera prostora za pohranu…",
-  "is_scanning_support_online": "Provjera prostora za pohranu…
-  
-  (U međuvremenu, možete slušati glazbu online)",
+  "is_scanning_support_online": "Skeniram, molimo počakajte ili odaberite glazbe online.",
   "japan_korea_female": "Ženski izvođači (Japan/Koreja)",
   "japan_korea_group": "Bendovi (Japan/Koreja)",
   "japan_korea_male": "Muški izvođači (Japan/Koreja)",
@@ -297,7 +295,7 @@
   "not_selected": "Odaberi pjesmu",
   "nowplaying_menu_item_delete": "Izbriši",
   "ok": "U redu",
-  "one_month": "1 mmjesec",
+  "one_month": "1 mjesec",
   "online_music_enabled_subtitle": "Dodirnite za stream vaših omiljenih pjesama.",
   "online_music_enabled_summary": "Slušajte i preuzmite omiljene pjesme. Pogledajte Billboard ljestvice i trenutan popis pjesama gdje god krenuli!",
   "online_music_enabled_title": "Besplatan stream je ovdje",
@@ -525,5 +523,5 @@
    "vip_expiration_message": "Nakon što istekne vaše članstvo, biti će te samo u mogućnosti na streaming glazbe od 128Kbps. Zbog zakonskih ograničenja, neke pjesme nće biti dostupne za preuzimanje.",
    "vip_expiration_title": "Članstvo uskoro istječe",
    "vip_recommend_title": "Nabavite višu kvalitetu glazbe",
-   "vip_required": "\"Žao nam je, VIP je potreban\"",
+   "vip_required": "Žao nam je, VIP je potreban"
 }
