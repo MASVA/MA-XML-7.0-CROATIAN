@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigiraj na početnu</string>
-  <string name="abc_action_bar_up_description">Navigiraj gore</string>
+  <string name="abc_action_bar_home_description">Na početnu</string>
+  <string name="abc_action_bar_up_description">Gore</string>
   <string name="abc_action_menu_overflow_description">Više</string>
   <string name="abc_action_mode_done">Završeno</string>
   <string name="accessibility_button_clear">Obriši unos</string>
@@ -19,8 +19,8 @@
   <string name="action">Prijava</string>
   <string name="action_menu_text_add_bookmark">Dodaj oznaku</string>
   <string name="action_menu_text_bandwidth">Ušteda podataka</string>
-  <string name="action_menu_text_bandwidth_off">Ušteda podataka/Isklj.</string>
-  <string name="action_menu_text_bandwidth_on">Ušteda podataka/Uklj.</string>
+  <string name="action_menu_text_bandwidth_off">Ušteda Isklj.</string>
+  <string name="action_menu_text_bandwidth_on">Ušteda Uklj.</string>
   <string name="action_menu_text_bookmark_added">Oznaka dodana</string>
   <string name="action_menu_text_copy_url">Kopiraj poveznicu</string>
   <string name="action_menu_text_create_qr_code">QR kod</string>
@@ -78,7 +78,7 @@
   <string name="block_ads_message">Želite li blokirati poruke s ove web stranice?</string>
   <string name="block_ads_title">Sadržaj može sadržavati reklame</string>
   <string name="bookmark_add_to">Dodaj u</string>
-  <string name="bookmark_cannot_save_url">"Ovaj se poveznica ne može spremiti kao oznaka."</string>
+  <string name="bookmark_cannot_save_url">"Ova se poveznica ne može spremiti kao oznaka."</string>
   <string name="bookmark_folder_needs_title">Unesite naziv grupe</string>
   <string name="bookmark_group_lable">Grupa</string>
   <string name="bookmark_needs_title">Oznaka mora imati ime.</string>
@@ -114,7 +114,7 @@
   <string name="close_ads_choice_yes">Blokiraj</string>
   <string name="close_ads_message">"Blokirati sadržaj s ove web stranice? Možete vidjeti koje ste stranice blokirali u Postavke &gt; Napredno &gt; Blokirane stranice."</string>
   <string name="close_ads_title">Blokirati sadržaj?</string>
-  <string name="close_all_tab_alert_message">Zatvoriti sve kartice trenutno otvorene u Pregledniku?</string>
+  <string name="close_all_tab_alert_message">Zatvoriti sve trenutno otvorene kartice u Pregledniku?</string>
   <string name="close_all_tab_alert_title">Zatvori sve kartice</string>
   <string name="close_cloud_tab_tip">Zatvoriti cloud kartice na %s?</string>
   <string name="cloud_loading_tips">Povucite dolje za sinkr.</string>
@@ -234,7 +234,7 @@
   <string name="geolocation_permissions_prompt_toast_allowed">Ova stranica može pristupiti detaljima vaše lokacije. To možete promijeniti u Postavke &gt; Napredno &gt; Podaci Web stranice.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Ova stranica ne može pristupiti vašoj lokaciji</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Odustani</string>
-  <string name="geolocation_settings_page_dialog_message">Očistiti pristup lokacij za ovu stranicu?</string>
+  <string name="geolocation_settings_page_dialog_message">Očistiti pristup lokaciji za ovu stranicu?</string>
   <string name="geolocation_settings_page_dialog_ok_button">U redu</string>
   <string name="geolocation_settings_page_summary_allowed">Ova stranica trenutno ima pristup vašoj lokaciji</string>
   <string name="geolocation_settings_page_summary_not_allowed">"Ova stranica trenutno nema pristup vašoj lokaciji"</string>
@@ -305,9 +305,9 @@ Napustiti ovu stranicu?"</string>
   <string name="miui_content_select_all">Odaberi sve</string>
   <string name="miui_content_share">Dijeli</string>
   <string name="miui_content_web_search">Pretraži</string>
-  <string name="miui_quicksearch_enable_pref_summary">Pokaži poveznicu u traci pretrage u panelu obavijesti</string>
-  <string name="miui_quicksearch_enable_pref_title">Traka pretrage u panelu obavijesti</string>
-  <string name="miui_search_notification_message">Dodirnite za otvaranje trake pretrage</string>
+  <string name="miui_quicksearch_enable_pref_summary">Pokaži traku pretraživanja u panelu obavijesti</string>
+  <string name="miui_quicksearch_enable_pref_title">Traka pretraživanja u panelu obavijesti</string>
+  <string name="miui_search_notification_message">Dodirnite za otvaranje trake pretraživanja</string>
   <string name="miui_search_notification_title">Brzo pretraživanje</string>
   <string name="miui_startpage">Početna stranica</string>
   <string name="miuichromium_error_page_diagnostic">Dijagnostika mreže</string>
@@ -390,8 +390,8 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_extras_reset_default_title">Ostalo</string>
   <string name="pref_extras_title">Napredno</string>
   <string name="pref_extras_title_version">Verzija</string>
-  <string name="pref_file_downlaod_save_is_reset_default_settings">"Spremi datoteke na zadano lokaciju Preglednika"</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">Vrati na zadano lokaciju</string>
+  <string name="pref_file_downlaod_save_is_reset_default_settings">"Spremi datoteke na zadanu lokaciju Preglednika"</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Vrati lokaciju na zadano</string>
   <string name="pref_file_download_default_path_prefix">Zadana lokacija: %s</string>
   <string name="pref_file_download_save_modify_default_path">Lokacija preuzetih datoteka</string>
   <string name="pref_file_download_save_title">Preuzimanja</string>
@@ -445,7 +445,7 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_setting_title">Postavke stranice</string>
   <string name="pref_ua_string">Niz korisničkog agenta</string>
   <string name="pref_version_info">Verzija</string>
-  <string name="pref_volume_key_action">Pomičite pomoću tipaka za glasnoću</string>
+  <string name="pref_volume_key_action">Pomicanje pomoću tipaka za glasnoću</string>
   <string name="private_browsing_warning">Ova funkcija nije podržana u ovoj verziji Androida.</string>
   <string name="profiler_error_toast">Nije uspjelo pokretanje profilera</string>
   <string name="profiler_no_storage_toast">Nije moguće pokrenuti profiler jer vanjska pohrana nije spremna</string>
@@ -573,7 +573,7 @@ Napustiti ovu stranicu?"</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
   <string name="time_picker_dialog_pm">PM</string>
   <string name="time_picker_dialog_second_subsecond_separator">.</string>
-  <string name="time_picker_dialog_title">Postavljanje vremena</string>
+  <string name="time_picker_dialog_title">Postavite vrijeme</string>
   <string name="title_bar_loading">Učitavanje…</string>
   <string name="too_many_windows_dialog_message">"Preglednik ne može otvoriti novu karticu dok ne zatvorite drugu karticu"</string>
   <string name="too_many_windows_dialog_title">"Ne mogu otvoriti više kartica"</string>
@@ -642,6 +642,6 @@ Napustiti ovu stranicu?"</string>
   <string name="webpage_history_title">Povijest</string>
   <string name="webpage_title">Oznake &amp; Povijest</string>
   <string name="webview_find_on_page">Pronađi na stranici</string>
-  <string name="webviewchromium_private_browsing_warning">Funkcija nije podržana u ovoj verziji Androida.</string>
+  <string name="webviewchromium_private_browsing_warning">Značajka nije podržana u ovoj verziji Androida.</string>
   <string name="week_picker_dialog_title">Postavite tjedan</string>
 </resources>
