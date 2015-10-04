@@ -79,7 +79,7 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
 1.Dodirnite gumb za kalibraciju ispod za ulazak u sučelje fotoaparata
 2.Pritisnite tipku Natrag za izlaz iz sučelja fotoaparata
 3.Dobiti ćete natpis Kalibriranje uspješno za oznaku da je kalibrirano."</string>
-  <string name="cit_camera_sdcard_error">"Can't take photo. SD card is full."</string>
+  <string name="cit_camera_sdcard_error">"Ne mogu snimiti fotografiju. SD kartica je puna."</string>
   <string name="cit_charger_plugin_check_summary">Kada je USB punjač priključen tekst \"Punjenje putem USB/AC\" bi trebao biti prikazan u nastavku.</string>
   <string name="cit_charger_plugin_check_title">Punjač (priključite)</string>
   <string name="cit_charger_plugout_check_summary">Kada USB punjač nije priključen tekst \"USB/AC punjač nije priključen\" bi trebao biti prikazan u nastavku.</string>
@@ -91,6 +91,8 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_display_continue">Dodirnite zaslon za početak testiranja</string>
   <string name="cit_exit_test_summary">Kada izađete, svi povezani tekstualni podaci će biti izbrisani.</string>
   <string name="cit_exit_test_title">Zaustavi testiranje</string>
+  <string name="cit_external_sd_check_summary">Ovaj test će provjeriti status SD kartice</string>
+  <string name="cit_external_sd_check_title">Testiranje SD kartice</string>
   <string name="cit_fail">Nije uspjelo</string>
   <string name="cit_fm_audio_path">Postavljanje putanje zvuka</string>
   <string name="cit_fm_audio_path_headset">Slušalice</string>

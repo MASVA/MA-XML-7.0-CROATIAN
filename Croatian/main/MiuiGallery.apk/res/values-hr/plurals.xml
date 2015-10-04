@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<plurals name="confirm_delete_album">
-        <item quantity="other">Izbrisati albume %1$s (%2$s ukupno)?</item>
-        <item quantity="one">Izbrisati %1$s album (%2$s ukupno)?</item>
+        <item quantity="other">Izbrisati albume %1$s (%2$s ukupno) ?</item>
+        <item quantity="one">Izbrisati %1$s album (%2$s ukupno) ?</item>
     </plurals>
 	<plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">Odabrane stavke, uključujući fotografije ili videozapise u Mi Cloudu, izbrisati ovoliko %s stavaka s ovog uređaja i Mi Clouda</item>
+        <item quantity="other">Izbrisati odabrane stavke (%s), uključujući fotografije i videozapise u Mi Cloudu, s ovog uređaja i Mi Clouda ?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">Odabrane stavke, uključujući fotografije u Mi Cloudu, izbrisati ovoliko %s  fotografija s ovog uređaja i Mi Clouda?</item>
-        <item quantity="one">Odabrana stavka, uključujući fotografiju u Mi Cloudu, izbrisati %s fotografiju s ovog uređaja i Mi Clouda</item>
+        <item quantity="other">Izbrisati odabrane stavke (%s), uključujući fotografije s ovog uređaja i Mi Clouda ?</item>
+        <item quantity="one">Izbrisati odabranu stavku (%s), uključujući fotografiju s ovog uređaja i Mi Clouda ?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">Odabrane stavke, uključujući videozapise u Mi Cloudu, izbrisati ovoliko %s  videozapisa s ovog uređaja i Mi Clouda?</item>
-        <item quantity="one">Odabrana stavka, uključujući videozapis u Mi Cloudu, izbrisati %s videozapis s ovog uređaja i Mi Clouda</item>
+        <item quantity="other">Izbrisati odabrane stavke (%s), uključujući videozapise u Mi Cloudu, s ovog uređaja i Mi Clouda ?</item>
+        <item quantity="one">Izbrisati odabrane stavke (%s), uključujući videozapis u Mi Cloudu, s ovog uređaja i Mi Clouda ?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">Odabrane stavke su fotografije ili videozapisi na Mi Cloudu, izbrisati ovoliko %s  stavaka s Mi Clouda?</item>
+        <item quantity="other">Izbrisati odabrane stavke (%s), uključujući fotografije i videozapise u Mi Cloudu, s ovog uređaja i Mi Clouda ?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">Odabrane stavke su fotografije na Mi Cloudu, izbrisati ovoliko %s  fotografija s Mi Clouda?</item>
-        <item quantity="one">Odabrana stavka je fotografija na Mi Cloudu, izbrisati %s fotografiju s Mi Clouda?</item>
+        <item quantity="other">Izbrisati odabrane stavke (%s) u Mi Cloudu, uključujući fotografije s ovog uređaja i Mi Clouda ?</item>
+        <item quantity="one">Izbrisati odabranu stavku (%s) u Mi Cloudu, uključujući fotografiju s ovog uređaja i Mi Clouda ?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">Odabrane stavke su videozapisi na Mi Cloudu, izbrisati ovoliko %s videozapisa s Mi Clouda?</item>
-        <item quantity="one">Odabrana stavka je videozapis na Mi Cloudu, izbrisati %s videozapis s Mi Clouda?</item>
+        <item quantity="other">Izbrisati odabrane stavke (%s) u Mi Cloudu, uključujući videozapise s ovog uređaja i Mi Clouda ?</item>
+        <item quantity="one">Izbrisati odabrane stavke (%s) u Mi Cloudu, uključujući videozapis s ovog uređaja i Mi Clouda ?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
         <item quantity="other">Izbrisati %s stavaka iz ovog albuma</item>
@@ -79,8 +79,8 @@
         <item quantity="one">%d mapa</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"Nemate dopuštenje za brisanje ovih datoteka: %d."</item>
-        <item quantity="one">"Nemate dopuštenje za brisanje ove %d datoteke."</item>
+        <item quantity="other">"Nemate dopuštenje za brisanje ovih (%d) datoteka."</item>
+        <item quantity="one">"Nemate dopuštenje za brisanje ove (%d) datoteke."</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Možete odabrati ovoliko( %d) stavaka</item>
@@ -109,7 +109,7 @@
         <item quantity="one">"Ne prikazivati ovo lice?"</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">Fotografija (%1$d) od %2$s će biti dodano</item>
+        <item quantity="other">%1$d fotografija od %2$s će biti dodano</item>
         <item quantity="one">%1$d fotografija od %2$s će biti dodana</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">

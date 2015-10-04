@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-         <item quantity="other">Izbrisati(%1$d) datoteka</item>
-         <item quantity="zero">Izbrisati(%1$d) datoteka</item>
-         <item quantity="one">Izbrisati(%1$d) datoteku</item>
-         <item quantity="two">Izbrisati(%1$d) datoteke</item>
-         <item quantity="few">Izbrisati(%1$d) datoteka</item>
-         <item quantity="many">Izbrisati(%1$d) datoteka</item>
+         <item quantity="other">Izbrisati (%1$d) datoteka</item>
+         <item quantity="zero">Izbrisati (%1$d) datoteka</item>
+         <item quantity="one">Izbrisati (%1$d) datoteku</item>
+         <item quantity="two">Izbrisati (%1$d) datoteke</item>
+         <item quantity="few">Izbrisati (%1$d) datoteka</item>
+         <item quantity="many">Izbrisati (%1$d) datoteka</item>
     </plurals>
     <plurals name="delete_folders_confirm">
          <item quantity="other">" i (%1$d) mapa ?"</item>
@@ -122,10 +122,10 @@
     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Pronađeno (%1$d) novih datoteka</item>
-        <item quantity="zero">Pronađeno(%1$d) novih datoteka</item>
+        <item quantity="zero">Pronađeno (%1$d) novih datoteka</item>
         <item quantity="one">Pronađena (%1$d) nova datoteka</item>
         <item quantity="two">Pronađene (%1$d) nove datoteke</item>
-        <item quantity="few">Pronađeno (%1$d)novih datoteka</item>
+        <item quantity="few">Pronađeno (%1$d) novih datoteka</item>
         <item quantity="many">Pronađeno (%1$d) novih datoteka</item>
     </plurals>
     <plurals name="file_notify_title">
@@ -137,12 +137,12 @@
         <item quantity="many">Primljeno datoteka (%1$d) apl. %2$s</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Primljeno datoteka (%1$d) od WeChat</item>
-        <item quantity="zero">Primljeno datoteka(%1$d) od WeChat</item>
-        <item quantity="one">Primljena datoteka (%1$d) od WeChat</item>
-        <item quantity="two">Primljene datoteke (%1$d) od WeChat</item>
-        <item quantity="few">Primljeno datoteka (%1$d) od WeChat</item>
-        <item quantity="many">Primljeno datoteka (%1$d) od WeChat</item>
+        <item quantity="other">Primljeno (%1$d) datoteka od WeChat</item>
+        <item quantity="zero">Primljeno (%1$d) datoteka od WeChat</item>
+        <item quantity="one">Primljena (%1$d) datoteka od WeChat</item>
+        <item quantity="two">Primljene (%1$d) datoteke od WeChat</item>
+        <item quantity="few">Primljeno (%1$d) datoteka od WeChat</item>
+        <item quantity="many">Primljeno (%1$d) datoteka od WeChat</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
         <item quantity="other">%1$d datoteka od WeChat videozapisa će isteći</item>
