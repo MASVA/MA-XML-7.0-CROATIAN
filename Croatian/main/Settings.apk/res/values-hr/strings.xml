@@ -2403,7 +2403,7 @@ Ova postavka utječe na sve korisnike na ovom uređaju."</string>
   <string name="screen_paper_mode_global_title">Sve aplikacije</string>
   <string name="screen_paper_mode_local_summary">Koristi Način čitanja za odabrane aplikacije</string>
   <string name="screen_paper_mode_local_title">Odabrane aplikacije</string>
-  <string name="screen_paper_mode_off_apps_title">"Nemoj koristi Način čitanja"</string>
+  <string name="screen_paper_mode_off_apps_title">"Nemoj koristiti Način čitanja"</string>
   <string name="screen_paper_mode_range_title">Postavke</string>
   <string name="screen_paper_mode_set_apps_title">Vlastiti Način čitanja</string>
   <string name="screen_paper_mode_summary">"Smanji odsjaj pozadine"</string>
