@@ -1112,7 +1112,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="edge_mode_clean">Brisanje predmemorije sustava</string>
   <string name="edge_mode_clean_summary">Kliznite na oba ruba istovremeno da izbrišete predmemoriju sustava</string>
   <string name="edge_mode_photo">Snimanje fotografije</string>
-  <string name="edge_mode_photo_summary">Dok ste u sučelju kamere, dodirnite rub telefona da aktivirate okidač i dodirnite ponovno za snimanje fotografije</string>
+  <string name="edge_mode_photo_summary">Dok ste u sučelju kamere, dodirnite dvaput rub telefona da snimite fotografiju</string>
   <string name="edge_mode_screenshot">Snimka zaslona</string>
   <string name="edge_mode_screenshot_summary">Dvaput dodirnite oba ruba telefona da napravite snimak zaslona</string>
   <string name="emergency_tone_alert">Upozorenje</string>
