@@ -42,7 +42,7 @@
   <string name="receiver_video_file_current">Primanje %2$d​ od %1$s…</string>
   <string name="receiver_video_file_num">%2$d​ od %1$s</string>
   <string name="send_file_time_format_m">m:s</string>
-  <string name="send_file_time_format_s">s sekunda</string>
+  <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"Nemoj slati"</string>
   <string name="sender_complete">Gotovo</string>
   <string name="sender_fail">"Ne mogu poslati"</string>

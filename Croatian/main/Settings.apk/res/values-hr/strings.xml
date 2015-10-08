@@ -2712,6 +2712,7 @@ Preostalo pokušaja:"</string>
   <string name="sound_category_system_title">Sustav</string>
   <string name="sound_effects_enable_title">Zvukovi dodira</string>
   <string name="sound_settings">"Zvuk"</string>
+  <string name="sound_vibrate_settings">Zvuk &amp; vibracija</string>
   <string name="spellchecker_language">Jezik</string>
   <string name="spellchecker_quick_settings">Postavke</string>
   <string name="spellchecker_security_warning">Ovaj alat za provjeru pravopisa može prikupljati sav tekst koji upisujete, uključujući osobne podatke kao što su zaporke i brojevi kreditnih kartica. Dolazi s aplikacije %1$s. Upotrebljavati taj alat za provjeru pravopisa?</string>
