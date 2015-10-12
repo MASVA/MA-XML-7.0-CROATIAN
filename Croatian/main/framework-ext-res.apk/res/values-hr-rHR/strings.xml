@@ -66,7 +66,7 @@
   <string name="sim_added_reboot_title">SIM kartica će biti aktivirana nakon ponovnog pokretanja uređaja.</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" uključen</string>
-  <string name="status_bar_toggle_ac">Zaklj. zaslona</string>
+  <string name="status_bar_toggle_ac">Zaklj. aplik.</string>
   <string name="status_bar_toggle_auto_brightness">Svjetlina</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Svjetlina</string>

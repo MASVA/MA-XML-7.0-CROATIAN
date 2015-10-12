@@ -83,6 +83,8 @@
   <string name="autohomemain">Autohomemain</string>
   <string name="baby_album">Dječji album</string>
   <string name="baby_album_new_photo_page_title">"Album od %1$s"</string>
+  <string name="baby_album_new_photo_remind">Imate nove fotografije u vašem dječjem albumu.</string>
+  <string name="baby_album_no_share_user_tip">Trenutno nemate sljedbenika</string>
   <string name="baby_album_picker_default_title">"Odaberi lice %1$s"</string>
   <string name="baby_album_setting_title">Informacije o djetetu</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
@@ -115,6 +117,7 @@
   <string name="by_email">E-pošta</string>
   <string name="by_others">Ostalo</string>
   <string name="by_sms">SMS</string>
+  <string name="byteShort">B</string>
   <string name="camera_black_white">Crno &amp; Bijelo</string>
   <string name="camera_connected">Kamera uključena.</string>
   <string name="camera_disconnected">Kamera isključena.</string>
@@ -149,6 +152,7 @@
   <string name="cloud_be_shared_guide_title">Ovaj album je podijelio prijatelj</string>
   <string name="cloud_camera_display_name">Fotografije kamere</string>
   <string name="cloud_folder_chooser_move">Izbriši slike iz izvornog albuma</string>
+  <string name="cloud_full_tip_str">Nema dovoljno prostora na Cloudu</string>
   <string name="cloud_gallery_recyclebin_full">Kanta za smeće je puna. Ispraznite koš na www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Nema dovoljno prostora u vašem cloudu</string>
   <string name="cloud_gallery_space_full_buy_more">"Ne mogu sinkronizirati nove fotografije s vašim Mi Cloudom. Da biste sinkronizirali više fotografija, kupite dodatni prostor za pohranu."</string>
@@ -180,6 +184,10 @@
   <string name="confirm_merge_face_albums">" "&lt;Data&gt;Spojiti ovaj album s %s?&lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt;Spojiti ove albume s %s?&lt;/Data&gt;" "</string>  
   <string name="confirm_not_face">Nije ova osoba</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Jeste li sigurni da je to &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Jeste li sigurni da to nije &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Jeste li sigurni da su ovo &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ova lica će biti premještena u \"%2$s\" album nakon potvrde. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Jeste li sigurni da ovo nisu &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ova lica će biti premještena u \"%2$s\" album nakon potvrde. &lt;/Data&gt;" "</string>
   <string name="contact_photo">Postavi za sliku kontakta</string>
   <string name="context_menu_add_contact">Dodaj u kontakte</string>
   <string name="context_menu_copy">Kopiraj</string>
@@ -239,6 +247,7 @@
   <string name="duration">Trajanje</string>
   <string name="early_bird">Earlybird</string>
   <string name="edit">Uredi</string>
+  <string name="edit_baby_info">Pregled informacija o djetetu</string>
   <string name="edited_photo_bucket_name">Uređeno</string>
   <string name="effect">Filteri</string>
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
@@ -249,7 +258,8 @@
   <string name="error_album_not_exist">"Album ne postoji."</string>
   <string name="error_cloud_not_active">Nema fotografija u cloudu.</string>
   <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom.</string>
-  <string name="error_invalid_link">Veza nije valjana</string>
+  <string name="error_invalid_link">Poveznica nije valjana</string>
+  <string name="error_link_has_expired">Poveznica je istekla</string>
   <string name="error_not_acceptable">Sinkr. je onemogućena</string>
   <string name="error_repeat_apply">Ovaj je album već podijeljen</string>
   <string name="error_share_not_support">"Ova značajka nije još podržana"</string>
@@ -292,6 +302,7 @@
   <string name="fail_to_pick_email">Nevažeća E-pošta</string>
   <string name="fail_to_sync_album">"Ne mogu sinkronizirati album. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
   <string name="family_member_invitation_text">Ostali članovi obitelji</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_finish">Sinkr. s MiCloud</string>
   <string name="file_not_exist_message">"Datoteka ne postoji"</string>
   <string name="file_size">Vel. datoteke</string>
@@ -316,6 +327,7 @@
   <string name="gallery_cloud_provider_name">MiCloud fotografije</string>
   <string name="gallery_setting">Galerija</string>
   <string name="get_album_info_in_process">"Dobivanje pojedinosti dijeljenog albuma…"</string>
+  <string name="gigabyteShort">GB</string>
   <string name="global_setting">Postavke</string>
   <string name="go_setting">Prikaži postavke</string>
   <string name="grain">Zrnatost filma</string>
@@ -354,7 +366,7 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Uvoz je dovršen</string>
   <string name="import_fail">Uvoz neuspješan</string>
-  <string name="impunity_declaration">"Neke od značajki Galerije zahtijevaju povezivanje s internetom za normalan rad."</string>
+  <string name="impunity_declaration">"Korištenjem ove usluge pristajete na Xiaomi %1$s and %2$s. Neke od značajki Galerije zahtijevaju povezivanje s internetom za normalan rad."</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
   <string name="impunity_declaration_positive_text">U redu</string>
   <string name="impunity_declaration_settings">Obavijest povezivanja s internetom</string>
@@ -393,6 +405,7 @@
   <string name="kick_sharer">Ukloni zajedničkog gledatelja</string>
   <string name="kick_sharer_failed">"Ne mogu ukloniti ovu osobu"</string>
   <string name="kick_sharer_successfully">Ova osoba je uklonjena</string>
+  <string name="kilobyteShort">KB</string>
   <string name="last_chinese_new_year">Zadnja Kineska Nova godina</string>
   <string name="last_new_year">Zadnja Nova godina</string>
   <string name="last_valentine_day">Zadnje Valentinovo</string>
@@ -453,9 +466,9 @@
   <string name="multiface_crop_help">Dodirnite lice za početak</string>
   <string name="must_pick_file">Odaberi sliku</string>
   <string name="name_wrong">"Ovo nije %s"</string>
-  <string name="need_to_turn_on_network">Povežite se na mrežu</string>
-  <string name="need_to_turn_on_wlan">Povežite se na WLAN</string>
-  <string name="need_to_turn_on_sync">Uključite sinkr. s Mi Cloudom</string>
+  <string name="need_to_turn_on_network">"Nemate internetsku vezu."</string>
+  <string name="need_to_turn_on_sync">Uključite prvo sinkr. s Mi Cloudom</string>
+  <string name="need_to_turn_on_wlan">Povežite se prvo na WLAN</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
@@ -474,12 +487,13 @@ uređaja"</string>
   <string name="no_such_item">"Ne mogu pronaći stavku"</string>
   <string name="no_thumbnail">Nema sličica</string>
   <string name="none_picture">Nema slika</string>
+  <string name="not_ask_any_more">"Ne pitaj ponovo kod klika na sljedeći \"%s\""</string>
   <string name="not_auto_create_recent_album">Poništi pravljenje favorita</string>
   <string name="not_is">Ne</string>
   <string name="not_now">Ne sada</string>
   <string name="not_remind_any_more">"Ne prikazuj ponovo"</string>
   <string name="not_show_hidden_albums">"Ne prikazuj skrivene albume"</string>
-  <string name="number_of_uploading_finish">Sve datoteke učitane na Mi Cloud</string>
+  <string name="number_of_uploading_finish">Sinkronizirano s Mi Cloud</string>
   <string name="old">Staro</string>
   <string name="only_show_camera_in_first_page">Fotografije iz albuma na prvoj stranici</string>
   <string name="only_show_camera_in_first_page_summary">Prikaži samo fotografije kamere vašeg Mi Clouda.</string>
@@ -522,6 +536,7 @@ uređaja"</string>
   <string name="path">Putanja</string>
   <string name="people">Osobe</string>
   <string name="pet_album_display_name">Fotografije ljubimaca</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Dodaj broj telefona</string>
   <string name="photo_page_always_rotate">Autom. zakretanje slika</string>
   <string name="photo_page_detail_show_in_the_map">Pokaži lokaciju na mapi</string>
@@ -627,7 +642,7 @@ uređaja"</string>
   <string name="send_public_url">Pošalji poveznicu albuma</string>
   <string name="sepia">Sepija</string>
   <string name="set_as_baby_lock_wallpaper">Postavi za pozadinu zaklj. zaslona</string>
-  <string name="set_baby_icon_picker_default_title">Postavi thumbnail fotografiju</string>
+  <string name="set_baby_icon_picker_default_title">Postavi sliku djeteta</string>
   <string name="set_bg_file_exist_message">Ova stavka već postoji</string>
   <string name="set_bg_picker_default_title">Postavi naslovnu fotografiju</string>
   <string name="set_bg_unknow_reasons">Nepoznata pogreška</string>
@@ -691,7 +706,7 @@ uređaja"</string>
   <string name="sync_album_set_error">Ne mogu sinkronizirati fotografije. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="sync_album_summary">Sinkr. s MiCloud</string>
   <string name="sync_battery_low">Slaba baterija</string>
-  <string name="sync_cloud_space_full">MiCloud je pun</string>  
+  <string name="sync_cloud_space_full">Nema dovoljno prostora na MiCloudu</string>  
   <string name="sync_history_power_on">Sinkroniziraj povijest slika samo tijekom punjenja</string>
   <string name="sync_in_progress_message">Preuzimanje albuma…</string>
   <string name="sync_ok">Sinkr.</string>
@@ -709,6 +724,7 @@ uređaja"</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
+  <string name="terabyteShort">TB</string>
   <string name="there_is_no_image">Nema slika u ovoj mapi</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Vrijeme</string>
@@ -732,11 +748,14 @@ uređaja"</string>
   <string name="unpublishing">Otkazivanje…</string>
   <string name="untagged">Neoznačeno</string>
   <string name="upgrade_micloud_space">Kupite još prostora</string>
+  <string name="user_agreement">" Uvjeti Pružanja Usluge"</string>
   <string name="user_alias_self">Sam</string>
+  <string name="user_policy">Pravila Privatnosti</string>
   <string name="video_err">"Ne mogu reproducirati videozapis."</string>
   <string name="video_not_exist">Videozapis ne postoji</string>
   <string name="videos">" Videozapisa"</string>
   <string name="view_baby_album">Prikaži dječji album</string>
+  <string name="view_baby_info">Uredi informacije o djetetu</string>
   <string name="view_face_album">Prikaži album</string>
   <string name="view_sharers">Prikaži sudionike</string>
   <string name="vignette">Vinjeta</string>
