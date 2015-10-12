@@ -1493,7 +1493,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="tethered_notification_title">Ograničenje ili aktivan hotspot</string>
   <string name="textSelectionCABTitle">Odabir teksta</string>
   <string name="text_copied">Tekst kopiran u međuspremnik.</string>
-  <string name="time_of_day" formatted="false">%H:%M:%S</string>
+  <string name="time_of_day" formatted="false">%-k:%M:%S</string>
   <string name="time_picker_decrement_hour_button">Smanjenje sati</string>
   <string name="time_picker_decrement_minute_button">Smanjenje minuta</string>
   <string name="time_picker_decrement_set_am_button">Postavi AM</string>

@@ -184,10 +184,10 @@
   <string name="confirm_merge_face_albums">" "&lt;Data&gt;Spojiti ovaj album s %s?&lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt;Spojiti ove albume s %s?&lt;/Data&gt;" "</string>  
   <string name="confirm_not_face">Nije ova osoba</string>
-  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Jeste li sigurni da je to &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Jeste li sigurni da to nije &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Jeste li sigurni da su ovo &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ova lica će biti premještena u \"%2$s\" album nakon potvrde. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Jeste li sigurni da ovo nisu &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ova lica će biti premještena u \"%2$s\" album nakon potvrde. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_is">"Jeste li sigurni da je ovo %1$s? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde."</string>
+  <string name="confirm_recommandation_face_not">"Jeste li sigurni da ovo nije %1$s? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde."</string>
+  <string name="confirm_recommandation_multiple_faces_are">"Jeste li sigurni da su ovo %1$s? Ova lica će biti premještena u \"%2$s\" album nakon potvrde."</string>
+  <string name="confirm_recommandation_multiple_faces_not">"Jeste li sigurni da ovo nisu %1$s? Ova lica će biti premještena u \"%2$s\" album nakon potvrde."</string>
   <string name="contact_photo">Postavi za sliku kontakta</string>
   <string name="context_menu_add_contact">Dodaj u kontakte</string>
   <string name="context_menu_copy">Kopiraj</string>
