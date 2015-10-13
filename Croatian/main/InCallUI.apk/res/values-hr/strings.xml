@@ -91,11 +91,13 @@
   <string name="call_recording_notification_message_sd_unmounted">SD kartica je uklonjena.</string>
   <string name="call_recording_notification_title">Poziv snimljen</string>
   <string name="call_recording_notification_title_error">"Ne mogu snimiti poziv."</string>
+  <string name="call_self">"Ne možete birati vlastiti broj"</string>
   <string name="call_settings">Postavke poziva</string>
   <string name="call_title_redialing_with_times">%d puta ponovno pozvano</string>
   <string name="call_title_redialing_with_times_miui">%d puta ponovno pozvano</string>
   <string name="caller_manage_header">Konferencijski poziv %s</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
+  <string name="cancel_call">Poklopi</string>
   <string name="cancel">Odustani</string>
   <string name="card_title_call_ended">"Poziv završen "</string>
   <string name="card_title_callback_number">""Vaš broj za povratni poziv
@@ -183,6 +185,7 @@
   <string name="description_image_button_zero">nula</string>
   <string name="description_target_accept_upgrade_to_video_request">Prihvati zahtjev za videozapis</string>
   <string name="description_target_answer">Odgovori</string>
+  <string name="dial_with_gsm_phone">Redoviti poziv</string>
   <string name="description_target_answer_audio_call">Prihvati kao audiopoziv</string>
   <string name="description_target_answer_rx_video">Prihvati kao RX Video</string>
   <string name="description_target_answer_tx_video">Prihvati kao TX Video</string>
@@ -377,6 +380,10 @@
   <string name="modify_call_prompt_no">Ne</string>
   <string name="modify_call_prompt_yes">Da</string>
   <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="network_error_message">Pokušajte napraviti redoviti poziv. On će biti naplaćen od strane operatera.</string>
+  <string name="network_error_title">Pogreška mreže</string>
+  <string name="no_balance_message">Nema dovoljno preostalih sredstava na vašem računu. Umjesto toga, pokušajte napraviti redoviti poziv.</string>
+  <string name="no_balance_title">Nedovoljno sredstava</string>
   <string name="multi_category_disable">Multi-kategorije onemogućene</string>
   <string name="multi_category_enable">Multi-kategorije omogućene</string>
   <string name="name">Ime</string>
@@ -399,6 +406,8 @@
   <string name="no_wifi_available_title">Nema WLAN veze</string>
   <string name="non_ivr_menu_collapse_menu">Zatvori izbornik</string>
   <string name="non_ivr_menu_view_menu">Pokaži izbornik</string>
+  <string name="not_support_message">"Nadoplata trenutno ne podržava takve brojeve. Umjesto toga, pokušajte napraviti redoviti poziv."</string>
+  <string name="not_support_title">"Broj nije podržan"</string>
   <string name="not_a_valid_port">Broj porta mora biti od 1000 do 65534</string>
   <string name="not_allowed">"Vaša SIM kartica ne dopušta povezivanje s ovom mrežom."</string>
   <string name="not_voice_capable">Glasovni pozivi nisu podržani</string>
@@ -544,6 +553,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="preferred_network_mode_wcdma_perf_summary">Način željene mreže: Poželjno WCDMA</string>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="private_num">Privatan broj</string>
+  <string name="purchase_now">Nadoplata</string>
   <string name="progress_dialog_exiting_ecm">Isključivanje ECM</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Proxy Adresa</string>

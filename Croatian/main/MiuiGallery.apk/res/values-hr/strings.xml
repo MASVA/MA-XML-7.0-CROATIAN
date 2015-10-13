@@ -183,7 +183,7 @@
   <string name="confirm_face">Podudaranje</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt;Spojiti ovaj album s %s?&lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt;Spojiti ove albume s %s?&lt;/Data&gt;" "</string>  
-  <string name="confirm_not_face">Nije ova osoba</string>
+  <string name="confirm_not_face">Nema podudaranja</string>
   <string name="confirm_recommandation_face_is">"Jeste li sigurni da je ovo %1$s? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde."</string>
   <string name="confirm_recommandation_face_not">"Jeste li sigurni da ovo nije %1$s? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde."</string>
   <string name="confirm_recommandation_multiple_faces_are">"Jeste li sigurni da su ovo %1$s? Ova lica će biti premještena u \"%2$s\" album nakon potvrde."</string>
@@ -487,7 +487,7 @@ uređaja"</string>
   <string name="no_such_item">"Ne mogu pronaći stavku"</string>
   <string name="no_thumbnail">Nema sličica</string>
   <string name="none_picture">Nema slika</string>
-  <string name="not_ask_any_more">"Ne pitaj ponovo kod klika na sljedeći \"%s\""</string>
+  <string name="not_ask_any_more">"Ne pitaj ponovo za \"%s\" odgovore"</string>
   <string name="not_auto_create_recent_album">Poništi pravljenje favorita</string>
   <string name="not_is">Ne</string>
   <string name="not_now">Ne sada</string>

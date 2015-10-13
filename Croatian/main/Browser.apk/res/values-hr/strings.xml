@@ -107,7 +107,7 @@
   <string name="cannot_download">Mogu se preuzeti samo \"http\" ili \"https\" poveznice.</string>
   <string name="choosertitle_sharevia">Dijeli putem</string>
   <string name="clear_history">Očisti povijest</string>
-  <string name="clear_most_visited">Povijest zapisa</string>
+  <string name="clear_most_visited">Nedavno</string>
   <string name="clear_search_history">Očisti povijest</string>
   <string name="clip_dialog_title">Otvoriti kopiranu poveznicu?</string>
   <string name="close_ads_choice_no">Dopusti</string>
@@ -246,7 +246,7 @@
   <string name="homepage_delete_card_menu">Izbriši</string>
   <string name="homepage_get_location">Dobivanje lokacije</string>
   <string name="homepage_get_location_failed">"Ne mogu dobiti informacije, odaberite grad"</string>
-  <string name="homepage_more_cards">Više kartica</string>
+  <string name="homepage_more_cards">Više usluga</string>
   <string name="homepage_more_sites">Više web stranica</string>
   <string name="homepage_search_hint">Pretraži</string>
   <string name="homepage_top_card_menu">Na vrh</string>
@@ -361,7 +361,7 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Brzi unos Poveznice</string>
   <string name="pref_adblock_counts">Blokirano %d</string>
   <string name="pref_adblock_title">Blokiranje reklama</string>
-  <string name="pref_auto_update_under_wifi">Autom. ažuriraj na WLAN-u</string>
+  <string name="pref_auto_update_under_wifi">Ažuriraj koristeći WLAN</string>
   <string name="pref_category_hint">Kategorija</string>
   <string name="pref_check_security_url_summary">"Pošalji Poveznicu Web stranice na Mi Poslužitelje radi provjere da je li sigurna."</string>
   <string name="pref_check_security_url_title">Provjeri sigurnost Poveznice</string>
@@ -382,7 +382,7 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_content_search_engine_summary">Odaberite tražilicu</string>
   <string name="pref_enable_adblock_notification">Prikaži obavijesti Blokiranja reklama</string>
   <string name="pref_enable_news">Vijesti</string>
-  <string name="pref_enable_novels">Romani</string>
+  <string name="pref_enable_novels">Knjige</string>
   <string name="pref_enable_videos">Videozapisi</string>
   <string name="pref_extras_reset_default">Vrati na zadano</string>
   <string name="pref_extras_reset_default_dlg">Vratiti postavke na zadane vrijednosti?</string>
@@ -403,7 +403,7 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_general_title">Općenito</string>
   <string name="pref_key_gesture_title">Gumbi &amp; geste</string>
   <string name="pref_notifications_hint">Obavijesti</string>
-  <string name="pref_notifications_receive">Nova obavijest</string>
+  <string name="pref_notifications_receive">Obavijesti</string>
   <string name="pref_notifications_title">Obavijesti</string>
   <string name="pref_other_title">Ostalo</string>
   <string name="pref_privacy_clear_cache">Brisanje predmemorije</string>
@@ -597,10 +597,10 @@ Napustiti ovu stranicu?"</string>
   <string name="v5_deselect_all">Poništi</string>
   <string name="v5_edit_mode_title_empty">0 odabrano</string>
   <string name="v5_select_all">Odaberi sve</string>
-  <string name="version_check_button_checking">Provjera</string>
-  <string name="version_check_button_default">Provjera ažuriranja</string>
+  <string name="version_check_button_checking">Provjeravam…</string>
+  <string name="version_check_button_default">Provjeri za ažuriranja</string>
   <string name="version_check_button_download_failed">Nastavi s preuzimanjem</string>
-  <string name="version_check_button_downloading">Preuzimanje</string>
+  <string name="version_check_button_downloading">Preuzimanje…</string>
   <string name="version_check_button_install">Instaliraj</string>
   <string name="version_check_button_newest">Nema dostupnih ažuriranja</string>
   <string name="version_check_button_no_network">"Ne mogu se povezati na mrežu"</string>

@@ -438,6 +438,7 @@
   <string name="fdn_disabled">Brojevi za fiksno biranje su isključeni</string>
   <string name="fdn_enable_puk2_requested">Zaporka nije točna, PIN2 je blokiran. Promijenite PIN2 i pokušajte ponovo!</string>
   <string name="fdn_enabled">Brojevi za fiksno biranje su uključeni</string>
+  <string name="fdn_full">"FDN nije ažuriran jer popis je pun."</string>
   <string name="fdn_failed">Operacija FDN nije uspjela.</string>
   <string name="fdn_invalid_number">FDN nije ažuriran jer broj ne može premašivati 20 znamenki.</string>
   <string name="fdn_service_unavailable">FDN usluga nije dostupna.</string>

@@ -2751,10 +2751,10 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_custom_carrier">Uredi naziv operatera</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>
-  <string name="status_bar_settings_enable_notification">Dopusti obavijesti</string>
+  <string name="status_bar_settings_enable_notification">Prikaži obavijesti</string>
   <string name="status_bar_settings_expandable_under_keyguard">Prikaži na zaključanom zaslonu</string>
   <string name="status_bar_settings_long_click_sort">Pritisnite &amp; držite za pokupiti prečac</string>
-  <string name="status_bar_settings_manage_notification">Upravljaj obavijestima</string>
+  <string name="status_bar_settings_manage_notification">Obavijesti aplikacija</string>
   <string name="status_bar_settings_no_carrier">Ništa</string>
   <string name="status_bar_settings_notification_bar">Panel obavijesti</string>
   <string name="status_bar_settings_notification_led">Svjetlo obavijesti</string>
@@ -2765,7 +2765,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
   <string name="status_bar_settings_show_flow_info">Prikaži detalje plutanja</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
-  <string name="status_bar_settings_show_keyguard_notification">Prikaži plutajuće obavijesti</string>
+  <string name="status_bar_settings_show_keyguard_notification">Plutajuće obavijesti i zaklj. zaslon</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Prikaži plutajuće obavijesti na zaključanom zaslonu i posvuda drugdje</string>
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži u panelu</string>

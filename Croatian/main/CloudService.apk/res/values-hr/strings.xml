@@ -302,14 +302,14 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_dspt_entrance_provision_confirm_open">Koristi MiCloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne možete koristiti MiCloud?"</string>
   <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
-  <string name="sync_dspt_provision">"Sinkronizacija
-Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih vaših uređaja ili im pristupite na "</string>
+  <string name="sync_dspt_provision">"Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih vaših uređaja ili im pristupite na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Možete uključiti/isključiti tu značajku bilo kada u Postavkama.
   
   
 "</string>
+  <string name="sync_dspt_provision_header">Sinkronizacija</string>
   <string name="sync_dspt_provision_title">MiCloud</string>
   <string name="sync_item_calllog_summary">Sinkroniziraj zapise obavljenih/primljenih poziva na oavj telefon</string>
   <string name="sync_item_calllog_title">Sinkroniziraj povijest poziva</string>

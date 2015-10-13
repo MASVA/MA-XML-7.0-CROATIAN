@@ -532,6 +532,8 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_msg_today">Ušteđeno danas</string>
   <string name="traffic_saving_need_optimize">Može biti optimizirano</string>
   <string name="traffic_saving_notification_button_start">Aktiviraj</string>
+  <string name="traffic_saving_notify_no_apps_saving">Nema aplik. koje koriste uštedu</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Dodirnite za uključivanje uštede.</string>
   <string name="traffic_saving_notify_start_content">Ušteđeno ovaj mjesec %s</string>
   <string name="traffic_saving_notify_start_title">Vaša uporaba podataka je smanjena</string>
   <string name="traffic_saving_one_key_optimize">Optimiziraj za uštedu podataka</string>

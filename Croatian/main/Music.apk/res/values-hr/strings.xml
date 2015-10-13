@@ -2,7 +2,7 @@
 <resources>
   <string name="account">Račun</string>
   <string name="account_and_cloud">Račun</string>
-  <string name="action_item_add">Dodaj na popis pjesama</string>
+  <string name="action_item_add">Dodaj</string>
   <string name="action_item_add_song">Dodaj na popis pjesama</string>
   <string name="action_item_add_to_current_playlist">Trenutan popis pjesama</string>
   <string name="action_item_add_to_favorite_playlist">Popis pjesama favorita</string>
@@ -35,11 +35,14 @@
   <string name="audio_picker_title">Odaberi pjesmu</string>
   <string name="auto_download_in_wifi">Automatski preuzmi favorite preko WLAN-a</string>
   <string name="auto_payment">Autom. obnovi</string>
+  <string name="auto_payment_date">Sljedeće plaćanje: %s</string>
   <string name="avail_services">Dostupno</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>
   <string name="avoid_to_use_traffic_summary">"Nemoj koristiti mobilnu mrežu za stream glazbe"</string>
   <string name="avoid_to_use_traffic_title">Koristi samo WLAN za stream</string>
   <string name="baidu_music">Baidu glazba</string>
+  <string name="being_disable_auto_payment">Isključivanje…</string>
+  <string name="being_enable_auto_payment">Uključivanje…</string>
   <string name="bill_list_fragment_title">Grafikon</string>
   <string name="bluetooth_device">Bluetooth uređaj</string>
   <string name="buffering">Buffering…</string>
@@ -334,6 +337,8 @@
   <string name="renew">Obnovi:</string>
   <string name="renew_1">Obnovi</string>
   <string name="renew_period">Period obnove:</string>
+  <string name="repeat_all_notif">Ponovi sve pjesme.</string>
+  <string name="repeat_current_notif">Ponovi trenutnu pjesmu.</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="ringtone_not_support">"Format ove pjesme nije podržan."</string>
   <string name="search_album">Potražite album na internetu</string>
@@ -373,6 +378,8 @@
   <string name="share_end_note">Od Mi Glazba</string>
   <string name="share_text_list">"Popis pjesama od Mi Glazba: "</string>
   <string name="share_text_song">"Pjesma u Mi Glazba: "</string>
+  <string name="shuffle_off_notif">Slučajni odabir isključen.</string>
+  <string name="shuffle_on_notif">Slučajni odabir uključen.</string>
   <string name="similar_songs">Slične pjesme</string>
   <string name="sleep_mode">Sleep timer</string>
   <string name="sleep_mode_canceled">Sleep mode isključen</string>

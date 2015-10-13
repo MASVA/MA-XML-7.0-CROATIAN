@@ -1271,6 +1271,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="voicemail_status_configure_voicemail">"Postavite svoju govornu poštu."</string>
   <string name="voicemail_status_messages_waiting">"Povezivanje s poslužiteljem govorne pošte nije moguće." Nova govorna pošta čeka."</string>
   <string name="voicemail_status_voicemail_not_available">"Povezivanje s poslužiteljem govorne pošte nije moguće."</string>
+  <string name="voip_name">Mi Voice</string>
   <string name="websiteLabelsGroup">"Web-lokacija"</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Izbriši podatke</string>
