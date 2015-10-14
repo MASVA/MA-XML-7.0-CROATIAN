@@ -58,7 +58,6 @@
   <string name="record_back_pressed_hint">Za zaustavljanje snimanja, dodirnite Natrag ponovo</string>
   <string name="record_download">Preuzmi s MiClouda</string>
   <string name="record_download_complete">Preuzeto</string>
-  <string name="record_download_complete">Završeno</string>
   <string name="record_download_failed">Nije uspjelo</string>
   <string name="record_download_msg">Snimke se mogu reproducirati tek nakon što je završilo preuzimanje.</string>
   <string name="record_download_msg_reload">"Taj snimak ne postoji."</string>
