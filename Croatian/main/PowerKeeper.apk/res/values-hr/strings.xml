@@ -21,6 +21,7 @@
   <string name="background">Aplikacija se izvodi u pozadini</string>
   <string name="config_custom_description">Kada trebate manje od očekivanog, koristite prilagođene konfiguracije</string>
   <string name="config_custom_title">Prilagođeno</string>
+  <string name="config_mode_title">Postavke</string>
   <string name="config_suggest_description">Koristite različite konfiguracije štednje energije za aplikacije</string>
   <string name="config_suggest_title">MIUI predlaže</string>
   <string name="disabled">Isklj.</string>

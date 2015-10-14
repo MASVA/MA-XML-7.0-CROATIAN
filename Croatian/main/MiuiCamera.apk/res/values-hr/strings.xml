@@ -40,7 +40,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="camera_snap_mode_title_detail">Dodirnite za prikaz detalja</string>
   <string name="can_not_play_video">Otključaj zaslon za prikaz reprodukcije</string>
   <string name="cancel">Odustani</string>
-  <string name="cannot_connect_camera_once">"Ne mogu se spojiti s kamerom."</string>
+  <string name="cannot_connect_camera_once">"Ne mogu se povezati s kamerom."</string>
   <string name="cannot_connect_camera_twice">"Ne mogu se povezati s kamerom, ponovno pokrenite vaš uređaj."</string>
   <string name="cannot_move_warning_message">Fotografiram, držite uređaj mirnim</string>
   <string name="clear_effects">Očisti efekte</string>
@@ -55,7 +55,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="confirm_recording_fail_calling_alert">"Ne mogu snimati tijekom poziva."</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"Druga aplikacija možda već koristi mikrofon uređaja za snimanje."</string>
   <string name="confirm_recording_fail_title">"Ne mogu snimiti"</string>
-  <string name="confirm_restore_message">"Obnoviti na zadane postavke Kamere?"</string>
+  <string name="confirm_restore_message">"Obnoviti Kameru na zadane postavke?"</string>
   <string name="confirm_restore_title">Obnovi na zadane postavke</string>
   <string name="connect_wifi">Poveži se na ovu WLAN mrežu</string>
   <string name="contact_address">Adresa</string>

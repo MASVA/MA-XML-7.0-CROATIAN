@@ -1306,9 +1306,9 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="gsm_to_wifi_connect_type_title">GSM na WLAN</string>
   <string name="hand_mode_notification_summary">Dodirnite za više.</string>
   <string name="hand_mode_notification_title">Koristite kontrole ruba</string>
-  <string name="handy_mode">Upravljanje jednom rukom</string>
-  <string name="handy_mode_enable">Upravljanje jednom rukom</string>
-  <string name="handy_mode_enter_ask">Pitaj prije ulaska u način upravljanja jednom rukom</string>
+  <string name="handy_mode">Rad jednom rukom</string>
+  <string name="handy_mode_enable">Rad jednom rukom</string>
+  <string name="handy_mode_enter_ask">Pitaj prije ulaska u način Rada jednom rukom</string>
   <string name="handy_mode_size">Veličina zaslona</string>
   <string name="handy_mode_tips">Prijeđite prstom lijevo ili desno od tipke Početna da pomaknete zaslon bliže jednoj strani.</string>
   <string name="haptic_feedback_enable_title">Vibracija na dodir</string>

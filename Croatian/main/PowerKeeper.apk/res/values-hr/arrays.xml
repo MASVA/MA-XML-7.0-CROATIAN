@@ -49,4 +49,8 @@
         <item>Neodabrano</item>
         <item>Ostalo</item>
     </string-array>
+	<string-array name="hmode_app_groups">
+        <item>Prilagođeno</item>
+        <item>Predloženo</item>
+    </string-array>
 </resources>
