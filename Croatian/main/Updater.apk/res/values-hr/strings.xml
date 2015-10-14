@@ -128,6 +128,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">"Ne mogu ući u Recovery"</string>
   <string name="recovery_failed_title">Koristite Mi PC Suite za ažuriranje vašeg sustava</string>
   <string name="recovery_power_not_enough_msg">Priključite punjač da napravite ažuriranje ako je baterija na manje od 30%</string>
+  <string name="recovery_power_not_enough_msg_plugged">Baterija mora biti iznad 15% prije ažuriranja uređaja</string>
   <string name="recovery_power_not_enough_title">Slaba baterija</string>
   <string name="repeat">Pokušaj ponovo</string>
   <string name="set_auto">Provjeri ima li ažuriranja automatski</string>

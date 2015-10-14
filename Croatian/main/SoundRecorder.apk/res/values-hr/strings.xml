@@ -8,6 +8,12 @@
   <string name="button_start_now">Preuzimanje</string>
   <string name="call_record">Snimljenih poziva (%d)</string>
   <string name="cloud_record">Sinkronizirano %d</string>
+  <string name="cloud_record_open">Sinkr. snimaka</string>
+  <string name="cloud_record_tip">Sinkr. snimaka s Mi Cloudom.</string>
+  <string name="cloud_status_full_dialog_cancel">Ne sada</string>
+  <string name="cloud_status_full_dialog_msg">"Vaša pohrana u cloudu je puna, ne možete sinkronizirati snimke. Nadogradite svoj račun da biste dobili više prostora za pohranu."</string>
+  <string name="cloud_status_full_dialog_ok">Upgrade</string>
+  <string name="cloud_status_full_dialog_title">Mi Cloud je pun</string>
   <string name="data_connection_body">Korištenje vaše mobilne podatkovne veze za preuzimanje ove datoteke će povećati vašu uporabu podataka. Ako prekoračite vašu mjesečno ograničenje, vaš mobilni operater vam može naplatiti dodatne naknade.</string>
   <string name="data_connection_button_text">U redu</string>
   <string name="data_connection_title">Upozorenje uporabe podataka</string>
@@ -30,7 +36,6 @@
   <string name="loading_recording">Učitavanje</string>
   <string name="low_battery_error">Preostalo manje od 5% baterije, da snimanje ne bude izgubljeno, snimanje je bilo zaustavljeno i spremljeno.</string>
   <string name="message_file_size_error">Snimanje je dostiglo maksimalnu duljinu snimanja podržanu za %s</string>
-  <string name="no_downloading_file">Nema preuzetih datoteka</string>
   <string name="no_file">Prazno</string>
   <string name="notification_message_all_paused">Čekanje na WLAN vezu.</string>
   <string name="notification_playback">Reprodukcija snimke…</string>
@@ -52,14 +57,13 @@
   <string name="preference_tip_rename">Ručno unesite naziv snimke</string>
   <string name="record_back_pressed_hint">Za zaustavljanje snimanja, dodirnite Natrag ponovo</string>
   <string name="record_download">Preuzmi s MiClouda</string>
-  <string name="record_download_activity">Popis preuzimanja</string>
+  <string name="record_download_complete">Preuzeto</string>
   <string name="record_download_complete">Završeno</string>
   <string name="record_download_failed">Nije uspjelo</string>
   <string name="record_download_msg">Snimke se mogu reproducirati tek nakon što je završilo preuzimanje.</string>
   <string name="record_download_msg_reload">"Taj snimak ne postoji."</string>
   <string name="record_download_paused">Pauzirano</string>
   <string name="record_download_pending">Na čekanju</string>
-  <string name="record_download_progress">%d%%</string>
   <string name="record_downloading_notification">Preuzimanje…</string>
   <string name="record_downloading_notification_complete">Preuzimanje završeno</string>
   <string name="record_downloading_notification_count">%d preuzeto</string>
@@ -89,7 +93,6 @@
   <string name="sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
   <string name="sync_records">Sinkr. s MiCloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_file_is_downloading">Još se preuzima</string>
   <string name="toast_max_record_time">%1$s može snimiti za oko %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Aplikacija Datoteke nije instalirana"</string>
   <string name="wifi_recommended_body" formatted="false">"Korištenje vaše mobilne podatkovne veze za preuzimanje ove datoteke (%s) će povećati vašu uporabu podataka. Ako prekoračite vaše mjesečno ograničenje, vaš mobilni operater vam može naplatiti dodatne naknade.

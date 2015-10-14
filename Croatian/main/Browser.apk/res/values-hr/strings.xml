@@ -446,6 +446,8 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_ua_string">Niz korisničkog agenta</string>
   <string name="pref_version_info">Verzija</string>
   <string name="pref_volume_key_action">Pomicanje pomoću tipaka za glasnoću</string>
+  <string name="pref_weather_location_summary">"Korišteno od strane dodatka vremena preglednika"</string>
+  <string name="pref_weather_location_title">Lokacija vremena</string>
   <string name="private_browsing_warning">Ova funkcija nije podržana u ovoj verziji Androida.</string>
   <string name="profiler_error_toast">Nije uspjelo pokretanje profilera</string>
   <string name="profiler_no_storage_toast">Nije moguće pokrenuti profiler jer vanjska pohrana nije spremna</string>
@@ -532,6 +534,8 @@ Napustiti ovu stranicu?"</string>
   <string name="share_page_text">"【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Ova Poveznica web stranice će biti poslana na Xiaomi poslužitelje radi provjere da li je siguran. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Provjeri sigurnost Poveznice</string>
+  <string name="show_security_tip_dialog_title">Uvjeti pružanja usluge</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Servisi prognoze trebaju informacije o lokaciji da vam ponude najnovije informacije o vremenu u pregledniku. Možete uključiti ovu značajku u Postavkama.</string>
   <string name="sign_in_to" formatted="false">Prijavite se u %s1 \"%s2\"</string>
   <string name="skip_button_label">Preskoči</string>
   <string name="skip_current_version">Preskoči ovu verziju</string>
