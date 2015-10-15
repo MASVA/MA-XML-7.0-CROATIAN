@@ -291,7 +291,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_error_phone_error">Nevažeći broj telefona</string>
   <string name="passport_error_server">Pogreška poslužitelja</string>
   <string name="passport_error_sim_not_ready">"Ne mogu pronaći SIM karticu"</string>
-  <string name="passport_error_ssl_hand_shake">Pogreška veze s poslužiteljem. Pokušajte postaviti datum/vrijeme svog sustava na trenutno vrijeme.</string>
+  <string name="passport_error_ssl_hand_shake">"Ne mogu povezati na poslužitelj"</string>
   <string name="passport_error_unknown">"Ne mogu se prijaviti"</string>
   <string name="passport_error_user_name">Korisničko ime koje ste unijeli nije valjano.</string>
   <string name="passport_error_verify_code">Kôd koje ste unijeli nije valjan.</string>

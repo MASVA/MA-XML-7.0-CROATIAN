@@ -441,6 +441,7 @@
   <string name="vp_skip">Preskoči uvod i kredite</string>
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Viša</string>
+  <string name="vp_time_separator">/</string>
   <string name="vp_toast_downloadapk">Preuzimanje aplikacije u pozadini …</string>
   <string name="vp_unknown_source">Nepoznat izvor</string>
   <string name="vp_using_16_9">Nametni 16:9</string>
