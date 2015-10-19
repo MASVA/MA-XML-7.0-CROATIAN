@@ -41,7 +41,7 @@
         <item quantity="one">Izbrisati %d pjesmu?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Ukloniti %d songs?</item>
+        <item quantity="other">Ukloniti %d pjesama?</item>
         <item quantity="one">Ukloniti %d pjesmu?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">

@@ -14,6 +14,9 @@
   <string name="experimental_validate_username">Korisničko ime</string>
   <string name="experimental_validate_warning">Hvala vam što nam pomažete učiniti MIUI boljim!</string>
   <string name="find_device_turn_off_flight_mode">Isključite Zrakoplovni način</string>
+  <string name="fingerprint_not_identified_msg">Za otključavanje uređaja unesite zaporku.</string>
+  <string name="fingerprint_not_identified_title">"Ne mogu pročitati otisak prsta"</string>
+  <string name="fingerprint_try_again_text">Pokušajte ponovo</string>
   <string name="forget_password_string">Zaboravljena zaporka</string>
   <string name="incorrect_pincode">Netočan PIN</string>
   <string name="incorrect_pincode_remaining_attempts">Netočan PIN, preostalo pokušaja %d</string>

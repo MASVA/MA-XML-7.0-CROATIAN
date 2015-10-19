@@ -7,7 +7,7 @@
   "action_item_add_to_favorite_playlist": "Popis pjesama favorita",
   "action_item_add_to_new_playlist": "Novo",
   "action_item_cancel": "Odustani",
-  "action_item_delete": "Izbrisati",
+  "action_item_delete": "Izbriši",
   "action_item_download": "Preuzimanje",
   "action_item_favorite": "Favorit",
   "action_item_follow": "Slijedi",

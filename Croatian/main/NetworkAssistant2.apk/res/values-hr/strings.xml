@@ -517,6 +517,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_button_start">Uključi</string>
   <string name="traffic_saving_button_stop">Isključi</string>
   <string name="traffic_saving_can_optimized">Optimiziraj</string>
+  <string name="traffic_saving_detail">Detalji</string>
   <string name="traffic_saving_history_title">Povijest</string>
   <string name="traffic_saving_history_total_money">Ukupno ušteđeno</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
@@ -527,6 +528,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_history_total_rate">Ušteda</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Ušteđeno podataka</string>
+  <string name="traffic_saving_mobile_usage">Uporaba podataka</string>
   <string name="traffic_saving_msg_month">Mjesečna ušteda:</string>
   <string name="traffic_saving_msg_not_started">Isključeno</string>
   <string name="traffic_saving_msg_today">Ušteđeno danas</string>
@@ -546,6 +548,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatski aktiviraj Uštedu podataka radi smanjenja mobilnog podatkovnog prometa aplikacija.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Ako imate mjesečno ograničenje podataka, ne zaboravite isključiti Uštedu podataka za pojedine aplikacije da izbjegnete dodatne troškove vašeg operatera.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aktiviraj</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string>
+  <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
   <string name="traffic_saving_title">Ušteda podataka</string>
   <string name="traffic_saving_toast_start_mobile">Ušteda podataka uključena</string>
   <string name="traffic_saving_toast_start_none_mobile">Ušteda počinje prilikom korištenja mobilnih podataka</string>
@@ -558,6 +561,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_whitelist_btn_removed">Aplikacija uklonjena s popisa</string>
   <string name="traffic_saving_whitelist_count">"Aplikacija bez ograničenja uporabe podataka: %d"</string>
   <string name="traffic_saving_whitelist_no_app">Nema aplikacija</string>
+  <string name="traffic_saving_wifi_usage">WLAN uporaba</string>
   <string name="traffic_setting_app_count">Aplik.:%d</string>
   <string name="traffic_setting_completed">U redu</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Prilagodite uporabu i ograničenje podataka</string>

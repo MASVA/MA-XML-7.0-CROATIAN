@@ -114,10 +114,13 @@
   <string name="black_white">Flat C&amp; B</string>
   <string name="brannan">Brannan</string>
   <string name="browse_category">Pretraži</string>
+  <string name="buy_member_tip">Postanite član</string>
   <string name="by_email">E-pošta</string>
   <string name="by_others">Ostalo</string>
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
+  <string name="calculated_pictures_time_tip">Poredano fotografija iz %1s do sada. Preostale fotografije će biti poredane postupno. Da ubrzate ovaj proces, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_vip">Poredano fotografija iz %1s do sada. Preostale fotografije će uskoro biti poredane.</string>
   <string name="camera_black_white">Crno &amp; Bijelo</string>
   <string name="camera_connected">Kamera uključena.</string>
   <string name="camera_disconnected">Kamera isključena.</string>
@@ -757,6 +760,7 @@ uređaja"</string>
   <string name="view_baby_album">Prikaži dječji album</string>
   <string name="view_baby_info">Uredi informacije o djetetu</string>
   <string name="view_face_album">Prikaži album</string>
+  <string name="view_queuing_status">Provjerite status</string>
   <string name="view_sharers">Prikaži sudionike</string>
   <string name="vignette">Vinjeta</string>
   <string name="wallpaper">Slika pozadine</string>

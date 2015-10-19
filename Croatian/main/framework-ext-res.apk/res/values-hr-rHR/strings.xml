@@ -9,6 +9,7 @@
   <string name="call_record_or">" Ili "</string>
   <string name="call_record_sample_prefix_miui">Poziv</string>
   <string name="caller_info_name_delimiter">" ili "</string>
+  <string name="cancel_action">Odustani</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
   <string name="fc_dialog_body">Poslati izvještaj o pogreškama Mi za analizu? Ovo izvješće može sadržavati osobne podatke. Vaše će se izvješće koristiti za pomoć rješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>
@@ -60,6 +61,9 @@
   <string name="screen_rotation_freeze_message">Auto. rotacija onemogućena.</string>
   <string name="select">Odaberi</string>
   <string name="select_all">Odaberi sve</string>
+  <string name="set_password_action">Postavite zaporku</string>
+  <string name="set_password_message">Postaviti novu zaporku?</string>
+  <string name="set_password_title">Postavite zaporku</string>
   <string name="shutdown_confirm_title">"Vaš će se telefon isključiti."</string>
   <string name="shutdown_progress">"Isključivanje…"</string>
   <string name="sim_added_reboot_confirm">Ponovni pokreni</string>

@@ -94,6 +94,19 @@ Napomena: povećanje trostrukim dodirom moguće je svuda osim na tipkovnici i tr
   <string name="add_auto_startup_application">Dodaj aplikaciju</string>
   <string name="add_device_admin">Aktiviraj</string>
   <string name="add_device_admin_msg">Aktivirati administratora uređaja?</string>
+  <string name="add_fingerprint_done_msg">Sada možete otključati uređaj s otiskom prsta.</string>
+  <string name="add_fingerprint_done_title">Done!</string>
+  <string name="add_fingerprint_finished_button_text">Done</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"Da dodate svoj otisak prsta, stavite prst na senzor.
+Provjerite da li vaš prst pokriva unutarnji rub senzora"</string>
+  <string name="add_fingerprint_instruction_msg">Otključajte uređaj ili potvrdite plaćanje s vašim otiskom prsta</string>
+  <string name="add_fingerprint_instruction_title">Postavite prst na skener otiska prsta</string>
+  <string name="add_fingerprint_move_finger_title">Maknite prst</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Nakon pritiska na senzor, maknite prst i ponovite.</string>
+  <string name="add_fingerprint_put_finger_msg">Nakon pritiska na senzor, maknite prst i ponovite.</string>
+  <string name="add_fingerprint_put_finger_title">Stavite prst</string>
+  <string name="add_fingerprint_text">Dodaj otisak prsta</string>
+  <string name="add_fingerprint_toast_text">Postavite prst na skener</string>
   <string name="adding_profile_owner_warning">"Ako nastavite, vašim će korisnikom upravljati administrator, koji može i pohranjivati povezane podatke, kao i vaše osobne podatke.
 
 Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s ovim Kkorisnikom te njima upravljati, uključujući mrežnu aktivnost i podatke o lokaciji vašeg uređaja."</string>
@@ -220,7 +233,9 @@ Jednostavno približite jedan uređaj drugom (obično se njihove stražnje stran
   <string name="applications_settings">Instalirane aplikacije</string>
   <string name="applications_settings_header">Postavke aplikacije</string>
   <string name="applications_settings_summary">Upravljanje aplikacijama, postavljanje prečaca za brzo pokretanje</string>
+  <string name="apply_fingerprint_to_category_title">Primijeni otisak prsta za…</string>
   <string name="apply_now_button_text">Ažuriraj</string>
+  <string name="apply_password_to_category_title">Primijeni zaporku za…</string>
   <string name="apply_update_fail">Ažuriranje sustava nije uspjelo.</string>
   <string name="apps_with_restrictions_header">Aplikacije s ograničenjima</string>
   <string name="apps_with_restrictions_settings_button">Proširi postavke za aplikaciju</string>
@@ -912,6 +927,10 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="default_sound">Zadani zvuk</string>
   <string name="default_usb_mode">USB veza</string>
   <string name="delete">"Izbriši"</string>
+  <string name="delete_fingerprint_confirm_msg">Ukloniti otisak prsta?</string>
+  <string name="delete_fingerprint_text">Ukloni</string>
+  <string name="delete_legacy_fingerprint">Izbriši</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrisati podatke o otisku prsta?</string>
   <string name="deny">Odbij</string>
   <string name="deny_sms_message">"Zabrani slanje SMS poruka"</string>
   <string name="deny_sms_title">Zaključaj SMS</string>
@@ -1215,6 +1234,11 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="filter_apps_running">Pokrenuto</string>
   <string name="filter_apps_third_party">Preuzeto</string>
   <string name="filter_dlg_title">Odabir opcija filtra</string>
+  <string name="fingerprint_and_password_entrance_title">Zaporka &amp; Otisak prsta</string>
+  <string name="fingerprint_identificating_msg">Skeniranje otiska prsta…</string>
+  <string name="fingerprint_identify_input_password_msg">Unesite zaporku</string>
+  <string name="fingerprint_identify_try_again_msg">"Nije moguće skenirati, pokušajte ponovo"</string>
+  <string name="fingerprint_list_title">Otisak prsta</string>
   <string name="finish_application">Prisilno zaustavi</string>
   <string name="finish_button_label">Završi</string>
   <string name="firmware_version">Verzija sustava Android</string>
@@ -1359,6 +1383,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="incoming_call_breathing_light_color_title">Boja LED-a kod poziva</string>
   <string name="incoming_call_breathing_light_freq_title">Frekvencija treperenja LED-a kod poziva</string>
   <string name="incoming_call_volume_title">Zvuk zvona</string>
+  <string name="information_dialog_button_text">Shvaćam</string>
   <string name="input_method">Tipkovnica</string>
   <string name="input_method_selector">Odaberi načina unosa</string>
   <string name="input_method_selector_always_hide_title">Uvijek sakrij</string>
@@ -1406,6 +1431,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="join_many_items_last">%1$s i %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s i %2$s</string>
+  <string name="keep_legacy_fingerprint">Čuvaj</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="kernel_version">Verzija jezgre</string>
@@ -1693,6 +1719,7 @@ Za brisanje glazbe, slika i ostalih korisničkih podataka, "&lt;b&gt;USB pohrana
   <string name="master_clear_progress_title">Brisanje</string>
   <string name="master_clear_summary">Briše sve podatke na uređaju</string>
   <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
+  <string name="max_fingerprint_number_reached">"Nije moguće dodati više od 5 otisaka prstiju. Da dodate otisak prsta, prvo izbrišite postojeći otisak prsta."</string>
   <string name="max_cpu6_info">"6 jezgreni "</string>
   <string name="max_cpu8_info">"8 jezgreni "</string>	
   <string name="media_button">Medijska tipka</string>
@@ -2035,6 +2062,7 @@ i pokrenite ga."</string>
   <string name="page_layout_page2_title">Pregled</string>
   <string name="page_layout_small_title">MALI</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
+  <string name="password_entrance_title">Zaporka</string>
   <string name="password_guard">Zaporka</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Performanse</string>
@@ -2519,6 +2547,7 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="search_wallpaper">slika pozadine</string>
   <string name="search_wifi">wlan</string>
   <string name="search_wifi_display">wifi zaslon</string>
+  <string name="secure_keyguard_business_title">Zaporka zaklj. zaslona</string>
   <string name="secure_lock_encryption_warning">Budući da ste uključili uslugu pristupačnosti, vaš uređaj neće upotrebljavati PIN ili zaporku za zaključavanje zaslona za bolje šifriranje podataka.</string>
   <string name="security_enable_widgets_disabled_summary">Onemogućio administrator</string>
   <string name="security_enable_widgets_title">Omogući widgete</string>
@@ -2973,9 +3002,11 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="tts_status_ok">%1$s je u potpunosti podržan</string>
   <string name="tts_status_requires_network">%1$s zahtjeva mrežnu vezu</string>
   <string name="tts_status_title">Status zadanog jezika</string>
+  <string name="turn_off_common_password_confirm_msg">Zaporka će također biti isključena.</string>
   <string name="turn_off_radio">Isključi radio</string>
   <string name="turn_off_security_lock">Isključi zaključavanje zaslona</string>
   <string name="turn_on_radio">Uključi radio</string>
+  <string name="turn_on_security_lock">Dodaj sigurnosnu zaporku</string>
   <string name="uicc_eject">Isključi UICC memoriju</string>
   <string name="uicc_eject_summary">Isključite UICC memoriju, tako da je možete ukloniti na siguran način</string>
   <string name="uicc_format">Izbriši UICC memoriju</string>
