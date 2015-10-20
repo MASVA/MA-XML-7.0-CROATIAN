@@ -152,6 +152,7 @@
   <string name="gong_count_xiang">"Broj stavki: %d "</string>
   <string name="good">U redu</string>
   <string name="hint_apk_download">Instalirajte ovu aplikaciju</string>
+  <string name="hint_apk_download_format">Instaliraj \"%1$s\" aplikaciju</string>
   <string name="hint_apk_install">Instalirajte ovu aplikaciju</string>
   <string name="hint_apk_text_update">Instalirati sada ovo (%1$s) ažuriranje?</string>
   <string name="hint_apk_title_update">Dostupno ažuriranje (%1$s)</string>

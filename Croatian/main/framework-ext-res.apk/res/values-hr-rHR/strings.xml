@@ -4,6 +4,9 @@
   <string name="all_call_livetalk_remain_mins">Preostalo minuta: (%1$s domaće) | (%2$s %3$s)</string>
   <string name="alwaysUsePrompt">"Zapamti moj izbor"</string>
   <string name="auto_start_warning_allow">Dopusti</string>
+  <string name="apply_password_action">Postavi zaporku</string>
+  <string name="apply_password_confirm_dlg_msg">Potrebna zaporka za %s​?</string>
+  <string name="apply_password_confirm_dlg_title">Ova zaporka će se koristiti za %s</string>
   <string name="auto_start_warning_deny">Odbij</string>
   <string name="auto_start_warning_title">Dopustiti %s autom. pokretanje?</string>
   <string name="call_record_or">" Ili "</string>

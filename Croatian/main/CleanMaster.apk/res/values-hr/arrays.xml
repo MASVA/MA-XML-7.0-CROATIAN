@@ -48,4 +48,9 @@
         <item>Napravi Sig. kopiju i deinstaliraj</item>
         <item>Deinstaliraj</item>
     </string-array>
+	<string-array name="auto_alert_apps_time">
+        <item>Svakih 7 dana</item>
+        <item>Svakih 15 dana</item>
+        <item>Svakih 30 dana</item>
+    </string-array>
 </resources>

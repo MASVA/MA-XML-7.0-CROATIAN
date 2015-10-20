@@ -159,8 +159,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="return_to_incall_screen">Povratak na poziv</string>
   <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke su isključene</string>
-  <string name="screen_pinning_description">Ovo se prikazuje sve dok ne odznačite. Dodirnite i zadržite Natrag i Pregled u isto vrijeme da otkvačite.</string>
-  <string name="screen_pinning_description_accessible">Ovo se prikazuje sve dok ne odznačite. Dodirnite i zadržite Pregled da otkvačite.</string>
+  <string name="screen_pinning_description">Ovo se prikazuje sve dok ne odznačite. Dodirnite i zadržite \"Početna\" i \"Napajanje\" istovremeno da otkvačite.</string>
+  <string name="screen_pinning_description_accessible">Ovo se prikazuje sve dok ne odznačite. Dodirnite \"Početna\" i \"Napajanje\" istovremeno da otkvačite.</string>
   <string name="screen_pinning_negative">Ne hvala</string>
   <string name="screen_pinning_positive">Razumijem</string>
   <string name="screen_pinning_title">Zaslon je prikvačen</string>

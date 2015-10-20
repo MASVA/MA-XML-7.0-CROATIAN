@@ -62,6 +62,7 @@
   <string name="androidesk_wallpapers">Android slike pozadine</string>
   <string name="aperture">Otvor blende</string>
   <string name="app_name">Galerija</string>
+  <string name="app_name_edit_picture">Uredi sliku</string>
   <string name="app_name_view_picture">Prikaži sliku</string>
   <string name="apply">Postavi</string>
   <string name="appwidget_empty_text">Nema fotografija.</string>
@@ -119,8 +120,9 @@
   <string name="by_others">Ostalo</string>
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
-  <string name="calculated_pictures_time_tip">Poredano fotografija iz %1s do sada. Preostale fotografije će biti poredane postupno. Da ubrzate ovaj proces, %2$s</string>
-  <string name="calculated_pictures_time_tip_for_vip">Poredano fotografija iz %1s do sada. Preostale fotografije će uskoro biti poredane.</string>
+  <string name="calculated_pictures_time_tip">Poredano fotografija iz %1$s do sada. Preostale fotografije će biti poredane postupno. Da ubrzate ovaj proces, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Poredano fotografija iz %1$s do sada. Preostale fotografije će biti poredane postupno.</string>
+  <string name="calculated_pictures_time_tip_for_vip">Poredano fotografija iz %1$s do sada. Preostale fotografije će uskoro biti poredane.</string>
   <string name="camera_black_white">Crno &amp; Bijelo</string>
   <string name="camera_connected">Kamera uključena.</string>
   <string name="camera_disconnected">Kamera isključena.</string>
@@ -533,8 +535,8 @@ uređaja"</string>
   <string name="paint_crop_cancel_context">Spremiti obrezanu sliku?</string>
   <string name="paint_crop_cancel_title">Odbaci promjene</string>
   <string name="paint_crop_tips">Postavite ciljno područje slike u blizini centra rešetke.</string>
-  <string name="paint_highlight">Istaknuto</string>
-  <string name="paint_highlight_cancel_context">Spremiti istaknutu sliku?</string>
+  <string name="paint_highlight">Crtarija</string>
+  <string name="paint_highlight_cancel_context">Spremiti iscrtanu sliku?</string>
   <string name="paint_highlight_cancel_title">Odbaci promjene</string>
   <string name="path">Putanja</string>
   <string name="people">Osobe</string>

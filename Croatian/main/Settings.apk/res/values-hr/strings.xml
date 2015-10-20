@@ -211,7 +211,7 @@ Jednostavno približite jedan uređaj drugom (obično se njihove stražnje stran
   <string name="app_notification_sensitive_summary">Kada je uređaj zaključan, sakrij osjetljivi sadržaj u obavijestima te aplikacije</string>
   <string name="app_notification_sensitive_title">Osjetljivo</string>
   <string name="app_notifications_dialog_done">Gotovo</string>
-  <string name="app_notifications_switch_label">Prikaži obavijesti</string>
+  <string name="app_notifications_switch_label">Obavijesti</string>
   <string name="app_notifications_title">Obavijesti aplikacije</string>
   <string name="app_ops_never_used">(Nikada nije upotrebljavano)</string>
   <string name="app_ops_running">Pokrenuto</string>
@@ -2763,7 +2763,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_and_notification_bar">Panel obavijesti i statusna traka</string>
   <string name="status_bar_app_disable_notification">Sakrij obavijesti</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Zaklj. zaslon, Panel obavijesti</string>
-  <string name="status_bar_app_enable_on_notificationBar">Prikaži u Panelu obavijesti</string>
+  <string name="status_bar_app_enable_on_notificationBar">Panel obavijesti</string>
   <string name="status_bar_filter_item_description">Za postavljanje upozorenja, idite na Postavke &gt; Obavijesti &gt; Upravljaj obavijestima</string>
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Prilagođena pozicija tipki</string>

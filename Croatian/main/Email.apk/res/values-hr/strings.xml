@@ -206,7 +206,7 @@
   <string name="activity_folder_selection">Odabir mape</string>
   <string name="activity_mailbox_selection">Odabir računa</string>
   <string name="add_account">Dodaj račun</string>
-  <string name="add_attachment">Priloži datoteke</string>
+  <string name="add_attachment">Dodaj privitak</string>
   <string name="add_bcc_label">Dodaj skrivenu kopiju</string>
   <string name="add_calendar">Podsjeti</string>
   <string name="add_cc_label">Dodaj kopiju/skrivenu kopiju</string>
@@ -232,7 +232,7 @@
   <string name="archived">Arhivirano</string>
   <string name="att_download_failed_content">"Ne mogu preuzeti privitak za ovu poruku."</string>
   <string name="att_download_failed_title">"Ne mogu preuzeti privitak."</string>
-  <string name="att_file_not_exists">Datoteka %s nije pronađena!</string>
+  <string name="att_file_not_exists">"Ne mogu pronaći %s"</string>
   <string name="att_mgr_no_attachment">Nema privitaka.</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Ime</string>
@@ -246,16 +246,16 @@
   <string name="attachment_application_vnd_ms_powerpoint">Prezentacija</string>
   <string name="attachment_audio">Zvuk</string>
   <string name="attachment_bar_title">Privici</string>
-  <string name="attachment_canceling">Otkazuje se, pričekajte minutu!</string>
-  <string name="attachment_decoding">Privitak je preuzet u potpunosti, u tijeku je dekodiranje, pričekajte.</string>
+  <string name="attachment_canceling">Otkazivanje…</string>
+  <string name="attachment_decoding">Otvaranje privitka…</string>
   <string name="attachment_download_all">Preuzmi sve</string>
   <string name="attachment_image">Slika</string>
   <string name="attachment_list_search_hint">Traži privitke</string>
   <string name="attachment_mgr_name">Privici</string>
   <string name="attachment_not_exists">Privitak nije dostupan!</string>
   <string name="attachment_not_found">"Ne mogu preuzeti privitak."</string>
-  <string name="attachment_open_SecurityException_hint">Provjera dopuštenja, oštećenja i sl.</string>
-  <string name="attachment_open_SecurityException_title">Neuspjelo otvaranje datoteke</string>
+  <string name="attachment_open_SecurityException_hint">Nemate dopuštenje za otvaranje ove datoteke ili je datoteka možda oštećena</string>
+  <string name="attachment_open_SecurityException_title">"Ne mogu otvoriti datoteku"</string>
   <string name="attachment_stop_all">Zaustavi</string>
   <string name="attachment_text">Tekst</string>
   <string name="attachment_type_blocked">Nažalost, ne možete spremiti niti otvoriti tu vrstu privitka.</string>
@@ -316,7 +316,7 @@
   <string name="colon">:</string>
   <string name="compose">Nova poruka</string>
   <string name="compose_attachment_number_limit">Broj privitaka ne može prelaziti 10 !</string>
-  <string name="compose_picturesexceedlimits">Broj online slika ne smije prelaziti 5 !</string>
+  <string name="compose_picturesexceedlimits">"Broj online slika u poruci ne smije prelaziti 5 !"</string>
   <string name="compose_send">Pošalji</string>
   <string name="compose_sent">Poslano</string>
   <string name="confirm">U redu</string>
@@ -340,8 +340,8 @@
   <string name="contact_edit_set_vip">Podesi VIP</string>
   <string name="contact_edit_title_permission">"Dopuštenja kontakata"</string>
   <string name="contact_edit_title_phone_contact">Popis kontakata telefona</string>
-  <string name="contact_in_filter_call_phone_str">Poziv: %s</string>
-  <string name="contact_in_filter_title">Dolazi od njega (nje).</string>
+  <string name="contact_in_filter_call_phone_str">Poziv od %s</string>
+  <string name="contact_in_filter_title">" od ove osobe."</string>
   <string name="contact_content_provider">Kontaktirajte davatelja sadržaja</string>
   <string name="contact_info_string">Prikaži podatke o kontaktu za %1$s</string>
   <string name="contact_info_string_default">Prikaži podatke o kontaktu</string>
@@ -417,6 +417,7 @@
   <string name="discard">Zanemari</string>
   <string name="discard_drafts">Odbaci skice</string>
   <string name="dismiss_tip_hover_text">Odbacivanje savjeta</string>
+  <string name="disturb_switch">Ne ometaj</string>
   <string name="done">Gotovo</string>
   <string name="done_action">Gotovo</string>
   <string name="donot_disturb_endtime_title">Do</string>
@@ -534,6 +535,8 @@
   <string name="get_database_exception">"Izbrišite podatke ove aplikacije u Postavke &gt; Aplikacije sustava i pokušajte ponovo."</string>
   <string name="gmail_acceleration">Koristi proxy poslužitelj za Gmail Račun</string>
   <string name="gmail_login_confirm_to_use_proxy">Koristiti proxy poslužitelj za pristup Gmail Računu?</string>
+  <string name="gmail_login_failed_non_proxy_title">"Ne mogu pristupiti Gmail poslužitelju"</string>
+  <string name="gmail_server_authorization_deleted">Dohvaćanje pristupa autorizacije nije uspjelo, ponovno unesite CERT.</string>
   <string name="gmail_login_verify">Dodaj Gmail Račun</string>
   <string name="gmail_web_login_go">U redu</string>
   <string name="gmail_web_login_required_message">Prijavite se u Gmail</string>
@@ -733,6 +736,7 @@ Kopija: %4$s
   <string name="outbox_alert_description_cannot_authenticate">"Ne mogu provjeriti autentičnost %s."</string>
   <string name="outbox_alert_description_email_size_error">Postignut je maksimalan broj E-pošte.</string>
   <string name="outbox_alert_description_fail_authentication">Pogrešno korisničko ime ili zaporka.</string>
+  <string name="outbox_alert_description_fail_network">Anomalija mreže.</string>
   <string name="outbox_alert_description_http_error">HTTP Pogreška tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_insufficient_storage_error">Nedovoljno prostora pohrane na poslužitelju e-pošte</string>
   <string name="outbox_alert_description_provision_error">Pogreška Odredaba s poslužitelja tijekom izlazne sinkronizacije</string>
@@ -915,8 +919,8 @@ Kopija: %4$s
   <string name="save_attachment">Spremi</string>
   <string name="save_draft">Spremi skicu</string>
   <string name="save_draft_failed">"Ne mogu spremiti skicu"</string>
-  <string name="save_power_summary">Obavijesti dolazne e-pošte će biti utišane</string>
-  <string name="save_power_title">Ne ometaj me</string>
+  <string name="save_power_summary">Ušteda energije u postavljeno vrijeme</string>
+  <string name="save_power_title">Način uštede energije</string>
   <string name="saved">Spremljeno,  %s</string>
   <string name="saving">Spremanje…</string>
   <string name="sdcard_cannot_use">"Ne mogu koristiti SD karticu"</string>
@@ -961,7 +965,8 @@ Kopija: %4$s
   <string name="ser_resp_err_map_ssl">"Odaberite 'SSL/TLS (Prihvati sve certifikate)' u 'Vrsta sigurnosti'"</string>
   <string name="set_network">Postavljanje mreže</string>
   <string name="settings_activity_title">E-pošta</string>
-  <string name="sharing">Dijeli</string>
+  <string name="share_choose">Odaberite datoteku za dijeljenje</string>
+  <string name="sharing">Podijeli</string>
   <string name="shortcut_name_title">Naziv prečaca mape</string>
   <string name="show_elided">▶ Prikaži citirani tekst</string>
   <string name="show_images">Prikaži slike</string>
@@ -1023,7 +1028,7 @@ Kopija: %4$s
   <string name="toast_bar_open_gmail_synchronization">Dodirnite za korištenje proxy poslužitelja za Gmail</string>
   <string name="too_large_to_attach_additional">"Veličina datoteke ne smije prelaziti %1$s."</string>
   <string name="too_large_to_attach_multiple">Jedna ili više datoteka nije priloženo.Veličina ne smije prelaziti %1$s."</string>
-  <string name="too_large_to_attach_single">"Ne mogu priložiti datoteku koristeći %1$s."</string>
+  <string name="too_large_to_attach_single">"Ne mogu priložiti datoteku veću od %1$s."</string>
   <string name="trash_folder_selection_title">Odaberite mapu za otpad poslužitelja za %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
