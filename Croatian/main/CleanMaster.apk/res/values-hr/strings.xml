@@ -159,7 +159,6 @@
   <string name="hints_quick_scanning">Skeniranje…</string>
   <string name="hints_residual_header_left">Ostaci</string>
   <string name="hints_scanfinish">Nema smeća</string>
-  <string name="hints_scanfinish">Nema smeća, pokušajte Dubinsko Čišćenje</string>
   <string name="hints_storage_clean_size">Oslobođeno %s unutarnje pohrane</string>
   <string name="hints_storage_free">Slobodno</string>
   <string name="hints_storage_free_size">%s dostupno, više stavki može biti očišćeno​</string>
