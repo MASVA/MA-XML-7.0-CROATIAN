@@ -219,7 +219,7 @@
   <string name="pref_summary_garbage_process_mode">Postavi obavijest za čistač kada je pokrenut</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Pošaljite i usporedite nepoznate nazive datoteka s online definicijama</string>
   <string name="pref_summary_open_optimizer_memory_scan">Automatski odaberite aplikacije za čišćenje </string>
-  <string name="pref_title_apps_check_size">Storage space limit</string>
+  <string name="pref_title_apps_check_size">Ograničenje prostora za pohranu</string>
   <string name="pref_title_apps_check_time">Učestalost</string>
   <string name="pref_title_apps_cleanup_size">Kada dosegne veličinu predmemorije</string>
   <string name="pref_title_auto_clean_and_alert">Očisti automatski</string>
