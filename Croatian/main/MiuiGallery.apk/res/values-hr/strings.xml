@@ -119,7 +119,7 @@
   <string name="by_others">Ostalo</string>
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
-  <string name="calculated_pictures_time_tip">Poredano fotografija iz %1s do sada. Preostale fotografije će biti poredane postupno. Da ubrzate ovaj proces, %2$s</string>
+  <string name="calculated_pictures_time_tip">Poredano fotografija iz %1$s do sada. Preostale fotografije će biti poredane postupno. Da ubrzate ovaj proces, %2$s</string>
   <string name="calculated_pictures_time_tip_for_vip">Poredano fotografija iz %1s do sada. Preostale fotografije će uskoro biti poredane.</string>
   <string name="camera_black_white">Crno &amp; Bijelo</string>
   <string name="camera_connected">Kamera uključena.</string>
