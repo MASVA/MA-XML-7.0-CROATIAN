@@ -85,9 +85,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">" da pronađete, zaključate, ili poništite svoj uređaj na daljinu.
 Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke."</string>
-  <string name="find_device_send_sms_alert">"
-  
-Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke."</string>
+  <string name="find_device_send_sms_alert">"Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke."</string>
   <string name="find_device_status_ok">Pronađite svoj ureðaj s bilo kojeg mjesta na i.mi.com</string>
   <string name="find_device_status_ok_international">Pronađite svoj ureðaj s bilo kojeg mjesta na www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Dodirnite U redu za utišavanje</string>
@@ -110,6 +108,11 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="master_alert_notif_dspt_add">Za sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="master_alert_notif_title">Zadnja sinkr. prije %s dana</string>
+  <string name="micloud_all_sub_1_intl_sms">"Međunarodni SMS biti će poslan za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera. Kada uključite 'Pronađi uređaj', SMS aktivacije može biti poslan nakon što promjenite SIM kartice."</string>
+  <string name="micloud_all_sub_1_sms">"Redovita SMS poruka biti će poslana za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera. Kada uključite 'Pronađi uređaj', SMS aktivacije može biti poslan nakon što promjenite SIM kartice."</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">"2 SMS poruke (redovita i međunarodna) bit će poslane za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera. Kada uključite 'Pronađi uređaj', SMS aktivacije može biti poslan nakon što promjenite SIM kartice."</string>
+  <string name="micloud_all_sub_2_intl_sms">"2 međunarodne SMS poruke biti će poslane za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera. Kada uključite 'Pronađi uređaj', SMS aktivacije može biti poslan nakon što promjenite SIM kartice."</string>
+  <string name="micloud_all_sub_2_sms">"2 redovite SMS poruke biti će poslane za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera. Kada uključite 'Pronađi uređaj', SMS aktivacije može biti poslan nakon što promjenite SIM kartice."</string>
   <string name="micloud_buy_member">Račun</string>
   <string name="micloud_check_sim_notify_text">"Izgleda da ste promijenili SIM kartice. Prijavite se
 na vaš Mi Račun za aktiviranje Mi Clouda."</string>

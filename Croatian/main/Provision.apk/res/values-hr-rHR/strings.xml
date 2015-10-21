@@ -2,6 +2,8 @@
 <resources>
   <string name="agree">Slažem se</string>
   <string name="congratulation_label"/>
+  <string name="desc_extra_fingerprint"/>
+  <string name="desc_fingerprint">Koristite svoj otisak prsta za otključavanje uređaja, potvrdu Mi Pay transakcija, ili za prijavu na aplikacije i usluge.</string>
   <string name="disagree">Odustani</string>
   <string name="ime_privacy_policy">Pravila o privatnosti za odabrane tipkovnice</string>
   <string name="ime_privacy_policy_no_network">Nema mrežne veze. Pogledajte Pravila o privatnosti za ovu tipkovnicu na %s.</string>
@@ -15,6 +17,7 @@
   <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
   <string name="network_access_warning">Morate se povezati s internetom kako biste aktivirali Mi Usluge.</string>
   <string name="next">Dalje</string>
+  <string name="next_fingerprint">Dalje</string>
   <string name="other_settings">Dodatne postavke</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dopustiti aplikacijama pristup vašoj lokaciji</string>
@@ -48,6 +51,7 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
 
 Morate se složiti s Uvjeti pružanja usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI."</string>
   <string name="title_congratulation">"Spremni ste za MIUI!"</string>
+  <string name="title_fingerprint">Dodajte svoj otisak prsta</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
   <string name="welcome">Dobrodošli</string>
 </resources>

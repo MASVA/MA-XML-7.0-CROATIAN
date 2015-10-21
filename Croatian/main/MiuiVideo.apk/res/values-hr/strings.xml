@@ -109,7 +109,8 @@
   <string name="disk_volume">USB pohrana</string>
   <string name="dlna_list_name">DLNA uređaj</string>
   <string name="dlna_name">Dijeljeni uređaj</string>
-  <string name="douban_score">Score</string>
+  <string name="douban_score">Ocjena</string>
+  <string name="download">Preuzmi</string>
   <string name="download_add_success">Zadatak preuzimanja uspješno dodan</string>
   <string name="download_error">"Ne mogu preuzeti datoteku"</string>
   <string name="download_fail">Preuzimanje nije uspjelo</string>
@@ -276,6 +277,7 @@
   <string name="router_download_task_with">%d zadataka</string>
   <string name="router_update">Morate nadograditi  Xiaomi router aplikaciju.</string>
   <string name="score">Ocjena  </string>
+  <string name="score_douban">Douban Ocjena %1$s</string>
   <string name="score_by">Ocjena: %s</string>
   <string name="sdcard_storage">Unutarnja pohrana</string>
   <string name="search">Traži</string>

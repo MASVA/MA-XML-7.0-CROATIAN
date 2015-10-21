@@ -37,6 +37,8 @@
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"Ne mogu poslati toliko puno stavaka"</string>
   <string name="cancel">Odustani</string>
+  <string name="cancel_error">"Ne mogu ukloniti, pokušajte ponovo"</string>
+  <string name="cancel_success">Uspješno uklonjeno, sve datoteke premještene u sdcard/fileexplorer/decryption</string>
   <string name="category">Kategorije</string>
   <string name="category_all">Sve</string>
   <string name="category_apk">Aplikacije</string>
@@ -95,7 +97,11 @@
   <string name="decompress_title">Raspakiraj</string>
   <string name="decompress_to">Raspakiraj datoteke u…</string>
   <string name="decompress_to_here">Raspakiraj ovdje</string>
+  <string name="decrypt">Ukloni iz privatnog</string>
+  <string name="decrypt_error">"Ne mogu dešifrirati"</string>
+  <string name="decrypting">Dešifriranje…</string>
   <string name="delete_dialog_button">Izbriši</string>
+  <string name="delete_error">"Ne mogu izbrisati datoteke, pokušajte ponovo"</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_file_error">"Ne mogu izbrisati datoteku"</string>
@@ -110,6 +116,7 @@
   <string name="dialog_type_image">Slike</string>
   <string name="dialog_type_text">Tekst</string>
   <string name="dialog_type_video">Videozapisi</string>
+  <string name="dir_not_support">"Ova mapa ne može biti privatna."</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prazno</string>
   <string name="dlg_error_unmount_text">Nije uspjelo ukloniti USB pohranu.</string>
@@ -119,6 +126,9 @@
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
   <string name="enable_sd_card">Umetnite SD karticu ili onemogućite USB masovnu pohranu.</string>
+  <string name="encrypt_error">"Ne mogu napraviti datoteke privatnim, pokušajte ponovo"</string>
+  <string name="encrypt_success">Sve datoteke su privatne</string>
+  <string name="encrypting">Šifriranje…</string>
   <string name="error_filename_too_long">Naziv je predugačak.</string>
   <string name="error_info_cant_send_folder">"Ne mogu slati ovu vrstu datoteke."</string>
   <string name="error_open_file_failed_no_app_found">Nema nađenih aplikacija da izvrše ovu radnju.</string>
@@ -198,9 +208,11 @@
   <string name="loading">Učitavam…</string>
   <string name="local_image">Fotografije</string>
   <string name="local_music">Glazba</string>
+  <string name="local_sticker_str">Preuzeto</string>
   <string name="local_video">Videozapisi</string>
   <string name="login_reg_content">Pohranite datoteke i sinkronizirajte ih na više uređaja.</string>
   <string name="login_reg_content0">Koristite KuaiPan iz bilo kojeg mjesta.</string>
+  <string name="make_private">Napravi privatnim</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Čišćenje</string>
   <string name="menu_item_ftp">FTP</string>
@@ -219,6 +231,7 @@
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"Ne mogu izrezati"</string>
   <string name="move_to">Premjesti u…</string>
+  <string name="msg_set_password">Postavite prvo zaporku</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="my_app">Podaci aplik.</string>
   <string name="my_app_desc"/>
@@ -251,15 +264,29 @@
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
   <string name="network_connect_confirm_des">Aplikacija Datoteke treba povezivanje s internetom za normalan rad</string>
+  <string name="network_spent_reminding">Otvaranje ove stranice će potrošiti nešto vašeg mobilnog prometa.</string>
+  <string name="network_spent_reminding_title">Obavijest uporabe podataka</string>
   <string name="never_notify_network_connect">Zapamti postavke</string>
   <string name="new_folder_name">Mapa bez naziva</string>
+  <string name="new_function">O Privatnim mapama</string>
+  <string name="new_function_info">"Privatna mapa je nova MIUI značajka.
+Možete šifrirati svoje datoteke
+i pohraniti ih na sigurno mjesto.
+
+Povucite prema dolje na početnoj stranici da provjerite."</string>
+  <string name="new_function_str">"WeChat naljepnice sada mogu biti prikupljene automatski.
+Preuzmite ih kada želite
+i nikad ne propustite nove cool naljepnice!"</string>
+  <string name="new_function_title_str">O WeChat naljepnicama</string>
   <string name="no">Ne</string>
   <string name="no_app_tags">Prazno</string>
   <string name="no_display_file">"Ne mogu prikazati %1$s"</string>
   <string name="no_enough_storage_indication">"Prostor uređaja za pohranu je pun."</string>
   <string name="no_enough_storage_title">Nema dovoljno prostora</string>
   <string name="no_file">Prazno</string>
+  <string name="no_local_sticker_tip">"Ne mogu pronaći preuzete naljepnice. Provjerite naljepnice podjeljene od strane Mi obožavatelja."</string>
   <string name="no_more_space">Nema dovoljno prostora.</string>
+  <string name="no_network_str">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovo."</string>
   <string name="no_recent_files">Nema nedavnih datoteka</string>
   <string name="no_tasks">Nema zadataka.</string>
   <string name="no_wifi">Nema dostupnih WLAN veza.</string>
@@ -281,6 +308,7 @@
 2. Učitati je na vaš KuaiPan račun."</string>
   <string name="open_changed_file_title">Promjena primijenjena</string>
   <string name="open_file_failed">"Ne mogu otvoriti"</string>
+  <string name="open_private_folder">Izrada privatne mape…</string>
   <string name="operate_confirm_in_3g">Koristiti vašu mobilnu podatkovnu vezu za preuzimanje ove velike datoteke?</string>
   <string name="operating">Obrada…</string>
   <string name="operation_add_fav">Dodavanje u favorite…</string>
@@ -321,15 +349,27 @@
   <string name="operation_show_sys">Pokaži skrivene datoteke</string>
   <string name="operation_unfavorite">Nefavoriti</string>
   <string name="pan_settting">KuaiPan postavke</string>
+  <string name="partial_cancel_successful">"Ne mogu ukloniti neke datoteke. Ostale datoteke premještene su u sdcard/fileexplorer/decryption"</string>
+  <string name="partial_delete_failure">"Ne mogu izbrisati neke datoteke, pokušajte ponovo"</string>
+  <string name="partial_encrypt_success">"Ne mogu napraviti neke datoteke privatnim, pokušajte ponovo"</string>
+  <string name="partial_repair_done">Neke datoteke uspješno obnovljene</string>
   <string name="paused">Pauzirano</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefon</string>
   <string name="port_range">Port mora biti između 1024–65535</string>
+  <string name="private_files">Privatno</string>
+  <string name="private_folder">Privatna mapa</string>
+  <string name="promot_enctypt_password">Unesite zaporku koja se koristi za otključavanje uređaja ili za isključivanje Dječjeg načina</string>
   <string name="pull_to_signin">Povucite dolje za prijavu.</string>
   <string name="release_to_signin">Otpustite za prijavu</string>
   <string name="rename_alert">"Ako promijenite ekstenziju ove datoteke, možda nećete biti u mogućnosti je otvoriti."</string>
   <string name="rename_description">Promjena naziva…</string>
   <string name="rename_failed">"Ne mogu preimenovati %1$s"</string>
+  <string name="repair_done">Obnovljeno</string>
+  <string name="repair_error">"Ne mogu obnoviti"</string>
+  <string name="repair_file">Obnovi šifrirane datoteke</string>
+  <string name="reset_password">Resetiranje zaporke</string>
+  <string name="restoring">Obnavljam…</string>
   <string name="rlv_last_refreshing_time">Ažurirano %1$s</string>
   <string name="rlv_loading_more">Samo tren…</string>
   <string name="rlv_pull_to_refresh">Povuci za osvježavanje</string>
@@ -388,6 +428,14 @@
   <string name="share_box_receive">Primljeno</string>
   <string name="share_box_send">Poslano</string>
   <string name="share_link_failed">"Ne mogu generirati poveznicu."</string>
+  <string name="shared_sticker_network_permission_tip">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno."</string>
+  <string name="shared_sticker_page_no_file">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno.."</string>
+  <string name="shared_sticker_str">Podijeljeno od Mi obažavatelja</string>
+  <string name="shared_sticker_suffix">Naljepnica na %s</string>
+  <string name="shared_sticker_use_tip">"Možete poslati naljepnice koje ste spremili u WeChat dijalozima isto kao kad šaljete slike.
+(GIF-ovi mogu biti dodani u Vlastito u WeChat Naljepnicama)."</string>
+  <string name="shared_sticker_use_tip_title">Kako koristiti naljepnice</string>
+  <string name="shared_str">Podijelio %s</string>
   <string name="sign_description">Prijava…</string>
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoje mrežno povezivanje."</string>
   <string name="signin_success">"Prijavljeni ste!
@@ -426,6 +474,8 @@ Dodano %1$s slobodnog prostora"</string>
   <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
   <string name="tools">ALATI</string>
   <string name="trans_task">Mrežni prijenos</string>
+  <string name="transfer_done">Datoteke uspješno premještene.</string>
+  <string name="transfer_private_data">Premještanje privatnih datoteka sa SD kartice…</string>
   <string name="transing">Slanje…</string>
   <string name="trash_box_capacity">Koš za smeće %1$s</string>
   <string name="trash_box_link">Da ispraznite kantu za smeće, posjetite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
@@ -455,6 +505,7 @@ oslobodili prostor.</string>
   <string name="user_guide_save_file">Spremite vaše datoteke pomoću KuaiPana.</string>
   <string name="user_guide_summary">Kratak pregled</string>
   <string name="user_guide_upload_to_kuaipan">Pohranite stavke na KuaiPan s vašeg telefona</string>
+  <string name="user_not_login">Prvo se prijavite</string>
   <string name="utf8_summary">Zadano kodiranje FTP sistema</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Čekam mrežu…</string>
@@ -463,6 +514,7 @@ oslobodili prostor.</string>
   <string name="waiting">Čekanje…</string>
   <string name="wangpan_root_path">Moj Drive</string>
   <string name="wechat_video">Video na %s</string>
+  <string name="weixin_sticker_tag_str">WeChat Naljepnice</string>
   <string name="wifi_state">WLAN mreža</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>

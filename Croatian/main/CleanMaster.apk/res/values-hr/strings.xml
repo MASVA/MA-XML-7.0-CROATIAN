@@ -248,7 +248,7 @@
   <string name="privacy_clipboard_type">Međuspremnik</string>
   <string name="privacy_search_desc">Povijest pretraživanja</string>
   <string name="privacy_search_type">Google pretraživanje</string>
-  <string name="promotion">Popularno</string>
+  <string name="promotion">"Odabir urednika"</string>
   <string name="recommended">Istaknuto</string>
   <string name="safety_check_detail">%1$d puta, dobiveno %2$d poena</string>
   <string name="safety_rank">Ispred %d%% MIUI korisnika u pogledu sigurnosti</string>
@@ -274,7 +274,7 @@
   <string name="tips_of_garbage_cloud_scan">Pronađite skriveno smeće s cloud skeniranjem</string>
   <string name="tips_of_garbage_data_set">Ažurirajte bazu podataka Čistača da pronađete više smeća na vašem uređaju</string>
   <string name="tips_of_network_speed_set">Prikaz brzinu mreža u statusnoj traci</string>
-  <string name="tips_of_operators_set">Prilagodite promet automatski</string>
+  <string name="tips_of_operators_set">Prilagodite statistiku uporabe podataka automatski</string>
   <string name="tips_of_package_set">Postavite svoj plan podataka i kontrolirajte količinu prometa koju koristite</string>
   <string name="tips_of_traffic_notification">Prikaz statistike mobilnih podataka u panelu obavijesti</string>
   <string name="tips_of_traffic_pack_threshold">"Kupite više podataka kada ste blizu svog mjesečnog ograničenja prometa"</string>
