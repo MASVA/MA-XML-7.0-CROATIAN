@@ -3,7 +3,6 @@
   <string name="month_day_year" formatted="false">%-e. %B %Y.</string>
   <string name="time_of_day" formatted="false">%H:%M:%S</string>
   <string name="date_and_time" formatted="false">%H:%M:%S %-e.%b.%Y.</string>
-  <string name="date_time">%2$s %1$s</string>
   <string name="BaMmi">Zabrana poziva</string>
   <string name="CLIRDefaultOffNextCallOff">Zadana postavka ID-a pozivatelja nema ograničenje. Sljedeći poziv: Nije ograničen</string>
   <string name="CLIRDefaultOffNextCallOn">Zadana postavka ID-a pozivatelja nema ograničenje. Sljedeći poziv: Ograničen</string>
