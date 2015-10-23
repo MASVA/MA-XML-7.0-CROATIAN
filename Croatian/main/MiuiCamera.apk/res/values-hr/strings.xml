@@ -279,7 +279,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_facedetection_entry_off">Isključeno</string>
   <string name="pref_camera_facedetection_entry_on">Uključeno</string>
   <string name="pref_camera_facedetection_title">Prepoznavanje lica</string>
-  <string name="pref_camera_fisheye_title">Riblje oko eye</string>
+  <string name="pref_camera_fisheye_title">Riblje oko</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Isključeno</string>
   <string name="pref_camera_flashmode_entry_on">Uključeno</string>
