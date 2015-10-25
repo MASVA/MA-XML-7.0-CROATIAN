@@ -145,9 +145,9 @@
         <item>Ostvarili ste svoj cilj (%1$s%2$s)!</item>
     </string-array>
     <string-array name="phone_notify_tips">
-        <item>Vibriraj MiBandom kod dolaznog poziva</item>
-        <item>Vibriraj MiBandom za vrijeme alarma</item>
-        <item>Vibriraj MiBandom kod dolazne SMS poruke</item>
+        <item>Zavibriraj MiBandom kod dolaznog poziva</item>
+        <item>Zavibriraj MiBandom za vrijeme alarma</item>
+        <item>Zavibriraj MiBandom kod dolazne SMS poruke</item>
     </string-array>
     <string-array name="contacts_notify_title">
         <item>Samo za pozive iz kontakata</item>

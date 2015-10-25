@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Plugin Usluge Sigurnosti</string>
+  <string name="cancel_button">Odustani</string>
+  <string name="empty">" "</string>
+  <string name="main_toolbar_purchase">Nadoplata</string>
+  <string name="miuishare_title_more">Više</string>
+  <string name="miuishare_title_share">Podijeli</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+  <string name="miuishare_weibo_title">Weibo</string>
+  <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
+  <string name="no_network_btn">Pokušaj ponovo</string>
+  <string name="ok_button">U redu</string>
+  <string name="open_browser">Otvori u pregledniku</string>
+  <string name="privacy_declare_dialog_title">Uvjeti pružanja usluge</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i pojedinosti operatera biti će šifrirani i poslani na Mi poslužitelje da bi dobili više informacija o mogućnosti kupnje podataka."</string>
+  <string name="share">Podijeli</string>
+  <string name="title_share_link">Podijeli poveznicu</string>
+  <string name="usage_sorted_loading_text">Samo tren…</string>
+</resources>

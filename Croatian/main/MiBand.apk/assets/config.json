@@ -1,40 +1,46 @@
 {
-    "global":true,
+    "global":false,
 
     "partner" : {
-        "enable":false,
-        "loadEnable" : false,
+        "enable":true,
+        "loadEnable" : true,
         "healthLinkEnable" : false,
-        "QQHealthEnable":false
+        "QQHealthEnable":false,
+		"WeiboHealthEnable" : false,
+        "GoogleFitEnable" : true
     },
 
     "runner" : {
-        "enable" : true
+        "enable" : true,
+        "runnerGroupEnnable" : false
     },
 
+    "relation" : {
+        "enable" : true
+    },
     "mall" : {
         "enable" : false
     },
 
     "upgrade" : {
-        "miUpgrade" : false
+        "miUpgrade" : true
     },
 
     "weather" : {
-        "enable" : false
+        "enable" : true
     },
 
     "lab" : {
-        "enableSportVote" : true,
+        "enableSportVote" : false,
         "enableActionTag" : true
     },
 
     "push" : {
-        "enable" : false
+        "enable" : true
     },
 
     "weight" : {
-        "enable" : false
+        "enable" : true
     }, 
 
     "log" : {
@@ -46,5 +52,9 @@
     "bluetooth" : {
         "sensorWhiteListEnable" : true,
         "connectedBroadcastEnable" :true
+    },
+
+    "shoes" : {
+        "enable" : false
     }
 }
