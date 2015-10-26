@@ -15,6 +15,7 @@
   <string name="activity_title_garbage_cleanup">Čistač</string>
   <string name="activity_title_license_manager">Dopuštenja</string>
   <string name="activity_title_memory">Memorija</string>
+  <string name="activity_title_network_speed_detail">Povezanost</string>
   <string name="activity_title_networkassistants">Uporaba podataka</string>
   <string name="activity_title_notification_bar_manager">Obavijesti</string>
   <string name="activity_title_perm_manager">Dopuštenja</string>
@@ -90,6 +91,7 @@
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
   <string name="btn_text_cleanup_all">Očisti</string>
   <string name="btn_text_done">Gotovo</string>
+  <string name="btn_text_network_speed_detail">Povezanost</string>
   <string name="btn_text_power_cleanup">Super Čistač</string>
   <string name="btn_text_quick_cleanup">Očisti</string>
   <string name="btn_text_quick_optimize">Optimiziraj</string>

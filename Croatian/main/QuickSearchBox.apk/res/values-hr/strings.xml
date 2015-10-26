@@ -3,13 +3,14 @@
   <string name="app_name">Pretraži</string>
   <string name="apps_search_activity"/>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-  <string name="clear_shortcuts">Obriši prečac</string>
-  <string name="clear_shortcuts_agree">Obriši prečace</string>
+  <string name="clear_history">Izbriši povijest zapisa</string>
+  <string name="clear_shortcuts">Izbriši prečac</string>
+  <string name="clear_shortcuts_agree">Izbriši prečace</string>
   <string name="clear_shortcuts_disagree">"Ne brisati prečace"</string>
   <string name="clear_shortcuts_prompt">"To će izbrisati sve prečace i nedavno izabrane prijedloge pretraživanja.(Za brisanje povijesti preglednika, upotrijebite postavke preglednika.)"</string>
   <string name="clear_shortcuts_summary">Izbrišite prečace do nedavno odabranih prijedloga pretraživanja</string>
   <string name="corpus_description_apps">Nazivi instaliranih aplikacija</string>
-  <string name="corpus_description_web">Pretraživanje weba,oznake i povijest preglednika</string>
+  <string name="corpus_description_web">Pretraživanje weba, oznake i povijest preglednika</string>
   <string name="corpus_hint_apps">Pretraži aplikacije</string>
   <string name="corpus_label_apps">Aplikacije</string>
   <string name="corpus_label_global">Sve</string>
@@ -30,14 +31,17 @@
   <string name="google_search_description">Prijedlozi Google Pretraživanja</string>
   <string name="google_search_hint">Google pretraživanje</string>
   <string name="google_search_label">Google</string>
+  <string name="hot_search">Česta pretraživanja</string>
   <string name="google_settings_category_title">Google pretraživanje</string>
   <string name="google_suggest_base">https://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="loading">Samo tren…</string>
   <string name="menu_help">Pomoć</string>
   <string name="menu_settings">Postavke pretraživanja</string>
   <string name="recently_shortcut_label">Nedavni prečaci</string>
   <string name="remove_from_history">Uklanjanje stavke iz povijesti</string>
-  <string name="remove_from_history_failed">"Uklanjanje stavke iz povijesti nije moguće"</string>
+  <string name="remove_from_history_failed">"Ne mogu ukloniti stavku iz povijesti"</string>
+  <string name="search_history">Pretraži povijest</string>
   <string name="search_in_app_store">Pretraži na marketu</string>
   <string name="search_in_web">Pretraži na Internetu</string>
   <string name="search_settings">Postavke pretraživanja</string>
@@ -52,6 +56,7 @@
   <string name="searchable_lable_video">Video</string>
   <string name="searchable_sources">Online</string>
   <string name="send_secret_code">Pošalji kod</string>
+  <string name="show_more">Više</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">”</string>
   <string name="voice_search_hint_quotation_start">“</string>

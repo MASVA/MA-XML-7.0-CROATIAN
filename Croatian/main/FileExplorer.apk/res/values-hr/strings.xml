@@ -335,6 +335,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_move">Obreži</string>
   <string name="operation_moving">Premještanje…</string>
   <string name="operation_moving_detail">Premještanje (%1$d/%2$d)</string>
+  <string name="operation_other_apps">Otvori u drugoj aplikaciji</string>
   <string name="operation_paste">Zalijepi</string>
   <string name="operation_pasting">Kopiranje…</string>
   <string name="operation_pause">Pauza</string>
@@ -356,6 +357,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="paused">Pauzirano</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefon</string>
+  <string name="pick_folder">Odaberite mapu</string>
   <string name="port_range">Port mora biti između 1024–65535</string>
   <string name="private_files">Privatno</string>
   <string name="private_folder">Privatna mapa</string>
@@ -385,6 +387,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="search_app">Izvor</string>
   <string name="search_app_more">Više</string>
   <string name="search_category">Vrsta</string>
+  <string name="search_description">Pretraži sve datoteke na uređaju</string>
   <string name="search_empty_view_hint">Nema rezultata</string>
   <string name="search_error_hint">Unesite ključne riječi za traženje</string>
   <string name="search_file_type_apk">Apk</string>

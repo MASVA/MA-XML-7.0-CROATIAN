@@ -2,6 +2,9 @@
 <resources>
   <string name="accept">U redu</string>
   <string name="activate">Aktiviraj</string>
+  <string name="activate_auto_sms_notification_desc_1_card">SMS poruka poslana za aktiviranje \"Pronađi uređaj\"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS poruka poslana sa SIM kartice %s za aktiviranje \"Pronađi uređaj\"</string>
+  <string name="activate_auto_sms_notification_title">Aktiviranje SIM kartice</string>
   <string name="activate_feature_call_log_sync">Sinkr. povijest poziva</string>
   <string name="activate_feature_find_device">Pronađi uređaj</string>
   <string name="activate_feature_mms_sync">Sinkr. SMS poruka</string>

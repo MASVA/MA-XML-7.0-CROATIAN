@@ -36,6 +36,7 @@
   <string name="buffering">Međupohrana…</string>
   <string name="cancel_action">Odustani</string>
   <string name="cancel_btn_label">Odustani</string>
+  <string name="cant_edit_lock_screen">"Ne mogu urediti stil zaklj. zaslona."</string>
   <string name="cant_remove_folder">"Nije moguće ukloniti mapu"</string>
   <string name="cant_remove_retained_app">Nije moguće ukloniti ovu aplikaciju</string>
   <string name="cant_remove_system_app">"Nije moguće ukloniti aplikaciju sustava"</string>

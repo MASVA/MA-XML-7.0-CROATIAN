@@ -4,6 +4,7 @@
   <string name="abc_action_bar_up_description">Gore</string>
   <string name="abc_action_menu_overflow_description">Više</string>
   <string name="abc_action_mode_done">Završeno</string>
+  <string name="accept_cookies_confirm_message">Isključivanje ove značajke može uzrokovati loše ponašanje nekih web stranica.</string>
   <string name="accessibility_button_clear">Obriši unos</string>
   <string name="accessibility_date_picker_month">Mjesec</string>
   <string name="accessibility_date_picker_week">Tjedan</string>
@@ -204,6 +205,7 @@
   <string name="empty_bookmark">Prazno</string>
   <string name="empty_history_hint">Prazno</string>
   <string name="empty_snapshot_hint">Prazno</string>
+  <string name="enable_geolocation_confirm_message">Isključivanje ove značajke može uzrokovati loše ponašanje nekih web stranica.</string>
   <string name="enter_developer_mode">Ulaz u Developer mod</string>
   <string name="enter_incongnito_mode">Ulaz u Anoniman mod</string>
   <string name="error_console_eval_button_text">Ocijeni</string>
@@ -357,6 +359,7 @@ Napustiti ovu stranicu?"</string>
   <string name="page_info_view">Prikaz informacija o stranici</string>
   <string name="password">Zaporka</string>
   <string name="popup_window_attempt">Dozvoliti ovoj stranici otvaranje skočnih prozora?</string>
+  <string name="positive_confirm_message">Isključi svejedno</string>
   <string name="pref_accessibility_title">Pristupačnost</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Kod unosa iz adresne trake, zajedničke kombinacije slova mogu se unijeti jednim pritiskom na tipku</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Brzi unos Poveznice</string>
@@ -480,6 +483,7 @@ Napustiti ovu stranicu?"</string>
   <string name="readmode_recommend_message">"Pročitali ste sve dijelove ove knjige. Odaberite drugu"</string>
   <string name="readmode_refresh">Osvježi</string>
   <string name="readmodelist_bookmarks_to_show">Popis čitanja</string>
+  <string name="remember_passwords_confirm_message">Isključivanje ove značajke može utjecati na potrošnju.</string>
   <string name="remove_bookmark">Izbriši oznaku</string>
   <string name="remove_bookmark_group">Izbriši grupu</string>
   <string name="remove_from_bookmarks">Ukloni iz oznaka</string>
@@ -498,6 +502,7 @@ Napustiti ovu stranicu?"</string>
   <string name="save_dialog_title">Spremi</string>
   <string name="save_file_already_exist_alert_message">Datoteka s istim nazivom već postoji, želite li je prepisati?</string>
   <string name="save_file_already_exist_alert_title">Prepisati datoteku?</string>
+  <string name="save_form_data_confirm_message">Isključivanje ove značajke može utjecati na potrošnju.</string>
   <string name="save_image_failed">"Ne mogu spremiti sliku"</string>
   <string name="save_image_success">Slika spremljena</string>
   <string name="save_page_capture_tip">Otvori panel obavijesti za prikaz snimke zaslona.</string>
@@ -529,7 +534,9 @@ Napustiti ovu stranicu?"</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
   <string name="secure_download_in_xiaomi_market">Preuzmite u App Store</string>
+  <string name="security_url_confirm_message">Isključivanje ove značajke može uzrokovati sigurnosne rizike.</string>
   <string name="security_warning">Sigurnosno upozorenje</string>
+  <string name="security_warnings_confirm_message">Isključivanje ove značajke može uzrokovati sigurnosne rizike.</string>
   <string name="select_dot">Odaberi tekst</string>
   <string name="select_download_device">Odaberi uređaj</string>
   <string name="share_page_text">"【%1$s】 | %2$s"</string>
@@ -643,6 +650,7 @@ Napustiti ovu stranicu?"</string>
   <string name="voice_title_listening">Slušanje…</string>
   <string name="voice_title_please">Počnite govoriti…</string>
   <string name="voice_title_speech_again">"Ne razumijem vas"</string>
+  <string name="weather_location_confirm_message">Isključivanje ove značajke može utjecati na potrošnju.</string>
   <string name="webpage_bookmark_title">Oznake</string>
   <string name="webpage_history_title">Povijest</string>
   <string name="webpage_title">Oznake &amp; Povijest</string>

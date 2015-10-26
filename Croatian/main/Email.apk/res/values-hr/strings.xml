@@ -231,6 +231,7 @@
   <string name="archive">Arhiviraj</string>
   <string name="archived">Arhivirano</string>
   <string name="att_download_failed_content">"Ne mogu preuzeti privitak za ovu poruku."</string>
+  <string name="att_download_failed_network_slow">Mreža je spora, pokušajte preuzmeti kasnije</string>
   <string name="att_download_failed_title">"Ne mogu preuzeti privitak."</string>
   <string name="att_file_not_exists">"Ne mogu pronaći %s"</string>
   <string name="att_mgr_no_attachment">Nema privitaka.</string>
@@ -280,6 +281,13 @@
   <string name="bottom_bar_more_unread">Označi nepročitano</string>
   <string name="bottom_bar_no_quickreply_toast">Nema brzih odgovora</string>
   <string name="bytes">%s B</string>
+  <string name="calendar_remind_dialog_title">Podsjeti</string>
+  <string name="calendar_remind_gridview_month_later">Mjesec kasnije</string>
+  <string name="calendar_remind_gridview_nextweek">Drugi tjedan</string>
+  <string name="calendar_remind_gridview_pick_date">Odaberi datum</string>
+  <string name="calendar_remind_gridview_tomorrow">Sutra</string>
+  <string name="calendar_remind_gridview_tonight">Večeras</string>
+  <string name="calendar_remind_gridview_weekend">Vikend</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_action">Odustani</string>
   <string name="cancel_attachment">Odustani</string>
@@ -315,7 +323,7 @@
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="colon">:</string>
   <string name="compose">Nova poruka</string>
-  <string name="compose_attachment_number_limit">Broj privitaka ne može prelaziti 10 !</string>
+  <string name="compose_attachment_number_limit">"Ne mogu dodati više od 10 privitaka"</string>
   <string name="compose_picturesexceedlimits">"Broj online slika u poruci ne smije prelaziti 5 !"</string>
   <string name="compose_send">Pošalji</string>
   <string name="compose_sent">Poslano</string>
@@ -536,7 +544,7 @@
   <string name="gmail_acceleration">Koristi proxy poslužitelj za Gmail Račun</string>
   <string name="gmail_login_confirm_to_use_proxy">Koristiti proxy poslužitelj za pristup Gmail Računu?</string>
   <string name="gmail_login_failed_non_proxy_title">"Ne mogu pristupiti Gmail poslužitelju"</string>
-  <string name="gmail_server_authorization_deleted">Dohvaćanje pristupa autorizacije nije uspjelo, ponovno unesite CERT.</string>
+  <string name="gmail_server_authorization_deleted">"Ne mogu potvrditi autentičnost računa. Pokušajte ponovno dodati ovaj račun."</string>
   <string name="gmail_login_verify">Dodaj Gmail Račun</string>
   <string name="gmail_web_login_go">U redu</string>
   <string name="gmail_web_login_required_message">Prijavite se u Gmail</string>
@@ -736,13 +744,13 @@ Kopija: %4$s
   <string name="outbox_alert_description_cannot_authenticate">"Ne mogu provjeriti autentičnost %s."</string>
   <string name="outbox_alert_description_email_size_error">Postignut je maksimalan broj E-pošte.</string>
   <string name="outbox_alert_description_fail_authentication">Pogrešno korisničko ime ili zaporka.</string>
-  <string name="outbox_alert_description_fail_network">Anomalija mreže.</string>
+  <string name="outbox_alert_description_fail_network">"Ne mogu se povezati na mrežu."</string>
   <string name="outbox_alert_description_http_error">HTTP Pogreška tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_insufficient_storage_error">Nedovoljno prostora pohrane na poslužitelju e-pošte</string>
   <string name="outbox_alert_description_provision_error">Pogreška Odredaba s poslužitelja tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_reject_by_server">Odbijeno od %s</string>
   <string name="outbox_alert_description_sent_failed">"Veličina privitka prelazi ograničenje poslužitelja."</string>
-  <string name="outbox_alert_duplicate_click">"Još sinkroniziram…"</string>
+  <string name="outbox_alert_duplicate_click">"Još šaljem…"</string>
   <string name="outbox_alert_edit_resend">Uredi i ponovo pošalji</string>
   <string name="outbox_alert_failed_edit_resend">"Ne mogu poslati. Uredi i pokušaj ponovo."</string>
   <string name="outbox_alert_mailbox_not_found">Adresa E-pošte nije pronađena</string>
@@ -904,6 +912,7 @@ Kopija: %4$s
   <string name="remove_folder">Ukloni iz %1$s</string>
   <string name="remove_star">Odznači</string>
   <string name="reply">Odgovor</string>
+  <string name="reply_add_bodycontent">Dodati brzi odgovor u sadržaj poruke?</string>
   <string name="reply_all">Odgovori svima</string>
   <string name="reply_attribution" formatted="false">Dana %s osoba %s napisala je:</string>
   <string name="replyto_heading">"Odgovori: "</string>
@@ -919,8 +928,8 @@ Kopija: %4$s
   <string name="save_attachment">Spremi</string>
   <string name="save_draft">Spremi skicu</string>
   <string name="save_draft_failed">"Ne mogu spremiti skicu"</string>
-  <string name="save_power_summary">Ušteda energije u postavljeno vrijeme</string>
-  <string name="save_power_title">Način uštede energije</string>
+  <string name="save_power_summary">Raspored vremena da se smanjila potrošnja baterije</string>
+  <string name="save_power_title">Ušteda baterije</string>
   <string name="saved">Spremljeno,  %s</string>
   <string name="saving">Spremanje…</string>
   <string name="sdcard_cannot_use">"Ne mogu koristiti SD karticu"</string>

@@ -256,7 +256,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Prisilno zaustaviti ovu aplikaciju?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"Ne mogu prisilno zaustaviti aplikacije sustava."</string>
   <string name="network_speed_for_apps_others">Ostalo</string>
-  <string name="network_speed_for_apps_title">Detalji brzine veze</string>
+  <string name="network_speed_for_apps_title">Veza</string>
   <string name="network_speed_for_apps_total">Brzina veze</string>
   <string name="networkchanged_exception_summary">Mrežno povezivanje se promijenilo. Testirajte ponovo.</string>
   <string name="networkchanged_exception_title">Način povezivanja se promijenio</string>
