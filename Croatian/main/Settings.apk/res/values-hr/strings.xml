@@ -2543,6 +2543,7 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="search_sync">sinkr.</string>
   <string name="search_tether">dijeljenje veze</string>
   <string name="search_unlock_set">postavi otključavanje</string>
+  <string name="search_virtual_sim">virtualni sim</string>
   <string name="search_vpn">vpn</string>
   <string name="search_wallpaper">slika pozadine</string>
   <string name="search_wifi">wlan</string>
@@ -3235,6 +3236,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="vibrate_input_devices_summary">Preusmjeri vibraciju na upravljač igrama kada su povezani.</string>
   <string name="virtual_sim_category_title">Virtualni SIM</string>
   <string name="virtual_sim_description">Pouzdana međunarodna roaming usluga</string>
+  <string name="virtual_sim_search_title">Virtualni SIM</string>
   <string name="virtual_sim_title">Roaming mreža podataka</string>
   <string name="vibrate_on_touch_title">Vibracija na dodir</string>
   <string name="vibrate_when_ringing_title">Vibracija i za pozive</string>

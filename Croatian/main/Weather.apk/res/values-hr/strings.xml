@@ -23,7 +23,7 @@
   <string name="activity_main_refresh_fail">"Ne mogu se povezati na mrežu"</string>
   <string name="activity_main_refresh_time">Zadnje ažuriranje %1$s</string>
   <string name="activity_main_refresh_timeout">Ažuriranje nije uspjelo</string>
-  <string name="activity_main_time_format">dd/MM</string>
+  <string name="activity_main_time_format">MMM d</string>
   <string name="activity_main_update_time">Ažurirano %1$s</string>
   <string name="activity_main_update_time_right_now">Upravo sada</string>
   <string name="activity_weather_main_null_data">- -</string>
@@ -218,7 +218,7 @@
   <string name="resource_see_more">Prikaži više</string>
   <string name="resource_select">Odaberi</string>
   <string name="resource_select_ringtone_confirm">Odabrati ovaj zvuk?</string>
-   <string name="resource_select_ringtone_confirm_picker">Odabrati ovaj zvuk?</string>
+  <string name="resource_select_ringtone_confirm_picker">Odabrati ovaj zvuk?</string>
   <string name="resource_selected">Istaknuto</string>
   <string name="resource_send">Pošalji</string>
   <string name="resource_server_alert_dialog_title">"Vraćamo se odmah…"</string>

@@ -646,7 +646,7 @@ Razlog: \"%s\""</string>
   <string name="miprofile_request_clear_alertdialog_title">Izbriši</string>
   <string name="miprofile_request_deleted">Kartica izbrisana</string>
   <string name="miprofile_request_empty_request">Nema zahtjeva za razmjenu</string>
-  <string name="miprofile_request_exchange_title">Traženje Kartice kontakta</string>
+  <string name="miprofile_request_exchange_title">Pronađi Kartice kontakta</string>
   <string name="miprofile_request_menu_clear_request">Izbriši povijest</string>
   <string name="miprofile_request_message">%1$s osoba žele razmijeniti Kartice kontakata</string>
   <string name="miprofile_request_notification_message">Prihvatite da biste vidjeli fotografije profila i više informacija</string>

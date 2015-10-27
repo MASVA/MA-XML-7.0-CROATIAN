@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="achieve_condition">Nagrađen za:</string>
+  <string name="achieved">ZARAĐENO</string>
+  <string name="achieved_time">Zarađeno na %s</string>
+  <string name="achievement_progress" formatted="false">Napredak: %d/%d</string>
+  <string name="achievements">Nagrade</string>
+  <string name="acquired_time_x">Primljeno %s</string>
   <string name="action">Pregled</string>
   <string name="already_used">Korišteno</string>
   <string name="app_name">Mi VIP</string>
@@ -7,8 +13,10 @@
   <string name="award_time">Prikupljeno %s</string>
   <string name="awarded_package_is_expired">Isteklo</string>
   <string name="awarded_package_was_redeemed">Otkupljeno</string>
+  <string name="awards">Nagrade</string>
   <string name="browse">Pregled</string>
   <string name="buff_enable">[ omogući ]</string>
+  <string name="copy_and_use">Otkupi</string>
   <string name="cube_ptr_hours_ago"> sati ranije</string>
   <string name="cube_ptr_last_update">Zadnje ažuriranje: </string>
   <string name="cube_ptr_minutes_ago"> min. ranije</string>
@@ -18,12 +26,22 @@
   <string name="cube_ptr_refreshing">Ažuriram…</string>
   <string name="cube_ptr_release_to_refresh">Otpusti za osvježiti</string>
   <string name="cube_ptr_seconds_ago"> sek. ranije</string>
+  <string name="daily_task">Dnevni izazovi</string>
   <string name="days">%d d</string>
+  <string name="device_answer_phone_times">Odgovorenih poziva</string>
+  <string name="device_charge_times">Napunjeno puta</string>
+  <string name="device_unlock_screen_times">Zaslon otključan</string>
+  <string name="device_usage_data">Uporaba telefona</string>
+  <string name="download_message">Preuzeti %s?</string>
+  <string name="download_progress">%d%%</string>
+  <string name="download_title">Preuzeti ovu aplikaciju?</string>
+  <string name="downloading">Preuzimanje…</string>
   <string name="exp_buff">+%s%% boda</string>
   <string name="experience">Bod</string>
   <string name="expired">Isteklo</string>
   <string name="fail_reach_server">"Ne mogu se povezati na poslužitelj"</string>
   <string name="giveup">Odustani</string>
+  <string name="go">Napredak</string>
   <string name="hello">Pozdrav</string>
   <string name="hours">%d s</string>
   <string name="in_progress">Slanje zahtjeva…</string>
@@ -33,18 +51,22 @@
   <string name="level_exp_value" formatted="false">Bodova: %d/%d</string>
   <string name="level_info_format" formatted="false">"Razina %d %d/%d
 %s"</string>
+  <string name="limit_task">Ograničeni izazovi</string>
+  <string name="limit_task_format" formatted="false">%d/%d</string>
   <string name="millis">%d ms</string>
   <string name="minutes">%d m</string>
   <string name="my_award">Moje nagrade</string>
+  <string name="no_achievements">Prazno.</string>
   <string name="no_app">Instalirajte prvo Mi VIP aplikaciju</string>
   <string name="no_award">Nema nagrada</string>
   <string name="no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="no_task">Svi izazovi su završeni</string>
   <string name="passive_task">Pozadinski izazovi</string>
   <string name="privilege">Privilegije</string>
-  <string name="promote">Razina gore</string>
+  <string name="promote">Zadaci ažuriranja</string>
   <string name="query_level_fail">"Ne mogu dobiti informacije"</string>
   <string name="query_user_tasks_fail">"Ne mogu dobiti detalje izazova"</string>
+  <string name="redeem">Otkupi</string>
   <string name="take_awarded_package">Otkupljen</string>
   <string name="seconds">%d sek.</string>
   <string name="start_activity_error">"Ne mogu pokrenuti aplik.: %s"</string>
@@ -60,10 +82,10 @@
   <string name="task_select_title">Odaberi izazov</string>
   <string name="task_start">Start</string>
   <string name="task_take_award">Dobijte nagrade</string>
-  <string name="today_task">"Današnji izazovi"</string>
-  <string name="today_task_format" formatted="false">%d/%d</string>
+  <string name="unachieved">DOSTUPNO</string>
   <string name="unlimited_task">Račun nadograđen!</string>
   <string name="upgraded">Razina gore!</string>
   <string name="use">Koristi</string>
+  <string name="use_immediately">Koristi sada</string>
   <string name="validity">Isitče %s</string>
 </resources>

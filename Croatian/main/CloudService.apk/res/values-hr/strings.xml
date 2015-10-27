@@ -36,9 +36,9 @@ Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 dana</string>
   <string name="cloud_back_up_interval_short">1 dan</string>
   <string name="cloud_back_up_network_unavailable">"Ne mogu ukloniti. Povežite se na WLAN i pokušajte ponovno."</string>
-  <string name="cloud_back_up_open_info">"Napravi Sig. kopiju aplikacija kada je povezano na WLAN svakih %1$s 
+  <string name="cloud_back_up_open_info">"Napravi Sig. kopiju kada je povezano na WLAN svakih %1$s 
 Zadnja Sig. kopija: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Napravi Sig. kopiju aplikacija kada je povezano na WLAN svakih %1$s</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Napravi Sig. kopiju kada je povezano na WLAN svakih %1$s</string>
   <string name="cloud_back_up_remove_success">Sig. kopija je izbrisana</string>
   <string name="cloud_back_up_title">Sig. kopija aplikacija</string>
   <string name="cloud_backup_dialog_title">Napravi Sig. kopiju s Mi Cloudom</string>
@@ -158,13 +158,13 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_space_full">Nedovoljno prostora za pohranu</string>
   <string name="micloud_main_space_low">Još ima malo prostora…</string>
   <string name="micloud_main_stop_sync">Sinkr. zaustavljena</string>
-  <string name="micloud_main_suggest_setting">"Čeka se WLAN veza za sinkronizaciju
-Dodirnite tipku Postavke za prikaz više opcija"</string>
+  <string name="micloud_main_suggest_setting">"Čeka se WLAN veza za sinkronizaciju.
+Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
   <string name="micloud_main_suggest_sync">"Ne mogu sve sinkronizirati"</string>
   <string name="micloud_main_sync_exception">Pogreška sinkr.</string>
   <string name="micloud_main_sync_init">Prikupljanje informacija</string>
   <string name="micloud_main_sync_now">Sinkroniziraj sada</string>
-  <string name="micloud_main_sync_on_wifi">Samo putem WLAN-a</string>
+  <string name="micloud_main_sync_on_wifi">Čeka se WLAN</string>
   <string name="micloud_main_sync_pause">Sinkr. pauzirana</string>
   <string name="micloud_main_sync_setting">Postavke Sinkr.</string>
   <string name="micloud_main_sync_stop">Sinkr. zaustavljena</string>

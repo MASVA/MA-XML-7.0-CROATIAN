@@ -7,5 +7,8 @@
 idite na %s"</string>
    <string name="loading">Učitavanje…</string>
    <string name="mibi_license">Mi Kredit Uvjeti Pružanja Usluge</string>
+   <string name="open_wifi_connect_summary">Dodirnite za prikaz detalja.</string>
+  <string name="open_wifi_connect_title">Poveži se na %1$s</string>
+  <string name="permdesc_accessDrm">Aplikaciji omogućuje pristup DRM zaštićenom sadržaju.</string>
    <string name="policy_name">Pravilo:%s</string>
 </resources>

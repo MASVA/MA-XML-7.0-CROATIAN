@@ -7,16 +7,6 @@
          <item>za 30 min.</item>
          <item>Nikad</item>
      </string-array>
-     <string-array name="preferred_app_entries">
-         <item>Pokretač</item>
-         <item>Biranje</item>
-         <item>Poruke</item>
-         <item>Preglednik</item>
-         <item>Kamera</item>
-         <item>Galerija</item>
-         <item>Glazba</item>
-         <item>E-pošta</item>
-     </string-array>
      <string-array name="alarm_repeat_type">
         <item>Jednom</item>
         <item>Svakodnevno</item>
