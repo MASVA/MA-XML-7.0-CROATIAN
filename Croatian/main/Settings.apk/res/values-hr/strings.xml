@@ -3343,7 +3343,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="vpn_username">Korisničko ime</string>
   <string name="wait_for_debugger">Čekanje na program za otkrivanje pogrešaka</string>
   <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za uklanjanje pogrešaka prije pokretanja</string>
-  <string name="wakeup_for_keyguard_notification_title">Uključi zaslon za obavijesti</string>
+  <string name="wakeup_for_keyguard_notification_title">Uključi zaslon kod obavijesti</string>
   <string name="wallpaper_attributions">Slike pozadine</string>
   <string name="wallpaper_attributions_values">"Davatelji satelitskih slika:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
