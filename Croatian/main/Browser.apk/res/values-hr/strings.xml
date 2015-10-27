@@ -642,13 +642,10 @@ Napustiti ovu stranicu?"</string>
   <string name="video_download_error_http_gone">Datoteka nije pronađena</string>
   <string name="video_download_exists">Preuzimanje videozapisa započelo</string>
   <string name="video_download_fail">Pogreška</string>		   
-  <string name="video_download_fail">Pogreška</string>
   <string name="video_download_failed">"Ne mogu preuzeti videozapis"</string>
   <string name="video_download_pause">Pauzirano</string>		   
-  <string name="video_download_pause">Pauzirano</string>
   <string name="video_download_start">Započni preuzimanje</string>
   <string name="video_download_success">Dovršeno</string>		  
-  <string name="video_download_success">Dovršeno</string>
   <string name="video_download_unknown_name">Nepoznat naziv</string>
   <string name="video_download_unknown_size">Nepoznata veličina</string>
   <string name="video_download_unsupport">Nepodržan videozapis</string>
