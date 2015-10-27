@@ -37,14 +37,6 @@
   <string name="key_btn_space">Razmak</string>
   <string name="location_usage_restricted_body">Dodirnite za uklanjanje ograničenja.</string>
   <string name="location_usage_restricted_title">Pozadinsko lociranje je ograničeno</string>
-  <string name="lock_to_app_description">"Kvačenje zaslona zaključava zaslon u jednom prikazu.
-
-Da otkvačite, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanje\"."</string>
-  <string name="lock_to_app_description_accessible">"Kvačenje zaslona zaključava zaslon u jednom prikazu.
-
-Da otkvačite, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanje\"."</string>
-  <string name="lock_to_app_toast">Da otkvačite ovaj zaslon, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanje\".</string>
-  <string name="lock_to_app_toast_accessible">Da otkvačite ovaj zaslon, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanje\".</string>
   <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
