@@ -113,6 +113,8 @@ Za više informacija provjerite poruku koju ste dobili od svog operatera"</strin
   <string name="firewall_network_restrict_notify_message">Dodirnite za promjenu postavki.</string>
   <string name="firewall_network_restrict_notify_mobile">2G/3G</string>
   <string name="firewall_network_restrict_notify_title">"%1$s ne može koristiti %2$s."</string>
+  <string name="firewall_restrict_android_dialog_content">"Ako ne dopustite Androidu povezivanje s internetom, neke ključne značajke mogu biti time pogođene kao što je WLAN hotspot."</string>
+  <string name="firewall_restrict_android_dialog_title">Pažnja</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Međunarodni roaming</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
@@ -139,6 +141,7 @@ Za više informacija provjerite poruku koju ste dobili od svog operatera"</strin
   <string name="international_roaming_setting">Međunarodni roaming</string>
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u roamingu</string>
   <string name="ip_address_exception_summary">"Nije bilo moguće dobiti IP adresu. Ako naiđete ponovno na ovaj problem, pokušajte koristiti statičnu IP adresu."</string>
+  <string name="kilobyte_per_second">Kb/s</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne mogu učitati"</string>
@@ -196,6 +199,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="main_traffic_used_text">iskorišteno</string>
   <string name="manual_input_free_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="manual_input_traffic">Postavi uporabu podataka</string>
+  <string name="megabyte_per_second">Mb/s</string>
   <string name="mi_service_app_detail">Detalji usluge uporabe podataka</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
@@ -354,7 +358,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_title_over_traffic_limit_warning">Kada je premašeno</string>
   <string name="pref_title_traffic_limit_number">Veličina</string>
   <string name="pref_title_traffic_speed_state">Prikaži brzinu mreže u traci obavijesti</string>
-  <string name="pref_title_update_notification">Prikaži obavijesti uporabe podataka</string>
+  <string name="pref_title_update_notification">Obavijesti uporabe podataka</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Dopusti pametne iznimke</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatski dodaj aplikacije s mogućnošću uštede podataka u iznimke</string>
   <string name="pref_traffic_saving_compressed">Smanjeno</string>

@@ -28,6 +28,7 @@
   <string name="invalid_confirm_pin_hint">"PIN-ovi se ne podudaraju"</string>
   <string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, držite gumb za uključivanje</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
+  <string name="lock_screen_date_12">EE, dd.MM.</string>
   <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak završen</string>

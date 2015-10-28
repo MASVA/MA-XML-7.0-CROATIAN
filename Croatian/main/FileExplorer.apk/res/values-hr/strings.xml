@@ -97,7 +97,7 @@
   <string name="decompress_title">Raspakiraj</string>
   <string name="decompress_to">Raspakiraj datoteke u…</string>
   <string name="decompress_to_here">Raspakiraj ovdje</string>
-  <string name="decrypt">Ukloni iz privatnog</string>
+  <string name="decrypt">Ukloni</string>
   <string name="decrypt_error">"Ne mogu dešifrirati"</string>
   <string name="decrypting">Dešifriranje…</string>
   <string name="delete_dialog_button">Izbriši</string>
@@ -127,6 +127,7 @@
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
   <string name="enable_sd_card">Umetnite SD karticu ili onemogućite USB masovnu pohranu.</string>
   <string name="encrypt_error">"Ne mogu napraviti datoteke privatnim, pokušajte ponovo"</string>
+  <string name="encrypt_prefix">PRIVATNO</string>
   <string name="encrypt_success">Sve datoteke su privatne</string>
   <string name="encrypting">Šifriranje…</string>
   <string name="error_filename_too_long">Naziv je predugačak.</string>
@@ -270,8 +271,7 @@
   <string name="new_folder_name">Mapa bez naziva</string>
   <string name="new_function">O Privatnim mapama</string>
   <string name="new_function_info">"Privatna mapa je nova MIUI značajka.
-Možete šifrirati svoje datoteke
-i pohraniti ih na sigurno mjesto.
+Možete šifrirati svoje datoteke i pohraniti ih na sigurno mjesto.
 
 Povucite prema dolje na početnoj stranici da provjerite."</string>
   <string name="new_function_str">"WeChat naljepnice sada mogu biti prikupljene automatski.

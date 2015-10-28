@@ -203,7 +203,7 @@
   <string name="notice_title_request">Zahtjev</string>
   <string name="notification_online">Novi događaj %1$s: %2$s</string>
   <string name="online_calendar_activity_label">Upis kalendara</string>
-  <string name="online_notice_message">Pretplata na kalendar zahtijeva da se slažete s %1$s i %2$s prije uporabe. Za pretplatu na kalendar za upotrebu potrebno je povezivanje na mrežu. Slažete li se?</string>
+  <string name="online_notice_message">"Korištenjem ovog proizvoda, pristajete na naše %1$s i %2$s. Ova aplikacija treba povezivanje s internetom za normalan rad."</string>
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>
   <string name="pref_error_no_ringtone_select">Melodija zvona nije odabrana</string>
