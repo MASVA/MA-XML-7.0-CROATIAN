@@ -517,9 +517,9 @@
         <item>Predmemorija (prazna)</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Jako</item>
+        <item>Jaka</item>
         <item>Srednja</item>
-        <item>Lagano</item>
+        <item>Lagana</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Jako</item>
