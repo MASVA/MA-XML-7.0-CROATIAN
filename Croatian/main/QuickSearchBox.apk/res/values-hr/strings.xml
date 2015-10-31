@@ -26,15 +26,11 @@
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
   <string name="google_app_label">Google pretraživanje</string>
-  <string name="google_search_base">https://www.google.com/m?hl=%1$s</string>
-  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Prijedlozi Google Pretraživanja</string>
   <string name="google_search_hint">Google pretraživanje</string>
   <string name="google_search_label">Google</string>
-  <string name="hot_search">Česta pretraživanja</string>
   <string name="google_settings_category_title">Google pretraživanje</string>
-  <string name="google_suggest_base">https://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
-  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="hot_search">Česta pretraživanja</string>
   <string name="loading">Samo tren…</string>
   <string name="menu_help">Pomoć</string>
   <string name="menu_settings">Postavke pretraživanja</string>
@@ -61,8 +57,8 @@
   <string name="voice_search_hint_quotation_end">”</string>
   <string name="voice_search_hint_quotation_start">“</string>
   <string name="voice_search_hint_title">Pokušajte reći:</string>
+  <string name="xiaomi_hint"/>
+  <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Rezultati</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="xiaomi_hot_query"/>
-  <string name="xiaomi_hint"/>
 </resources>
