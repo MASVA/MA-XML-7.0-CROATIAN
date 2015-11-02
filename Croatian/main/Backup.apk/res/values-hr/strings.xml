@@ -75,14 +75,14 @@
   <string name="custom_progress">%d stavaka</string>
   <string name="data_item_desc">Podaci</string>
   <string name="data_no_enough_space_message">"Nema dovoljno prostora na unutarnjoj memoriji vašeg uređaja."</string>
-  <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+  <string name="date_format">yyyy MM dd HH:mm:ss</string>
   <string name="delete">Izbriši</string>
   <string name="delete_backup_process">Brisanje…</string>
   <string name="delete_backup_title">Izbriši Sig. kopiju</string>
   <string name="delete_failed_backup_confirm">Ova Sig. kopija sadrži pogreške.</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="digit_percent">%</string>
-  <string name="dir_date_format">HH-mm-ss_dd-MM-yyyy</string>
+  <string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>
   <string name="disable_encrypt_title">Isključi šifriranje</string>
   <string name="enable_encrypt">Uključi šifriranje</string>
   <string name="enable_encrypt_fail">Neuspješno uključivanje</string>
@@ -259,14 +259,14 @@
   <string name="trans_sender">"Ja sam pošiljatelj"</string>
   <string name="trans_sender_connectting">Potvrdite na novom uređaju</string>
   <string name="trans_sender_searching">Traženje za novim uređajima</string>
-  <string name="trans_sender_searching_ensurance">"Pobrinite se da je stari uređaj uključen
-Čekanje povezivanja starog uređaja…"</string>
+  <string name="trans_sender_searching_ensurance">"Pobrinite se da je drugi uređaj uključen
+Čekanje povezivanja drugog uređaja…"</string>
   <string name="trans_sending_completed">Podaci poslani</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_remained">, spreman</string>
-  <string name="trans_waiting_ensurance">"Pobrinite se da je stari uređaj uključen
+  <string name="trans_waiting_ensurance">"Pobrinite se da je drugi uređaj uključen
 I prijenos omogućen"</string>
-  <string name="trans_waiting_for_sender">Čekanje povezivanja starog uređaja…</string>
+  <string name="trans_waiting_for_sender">Čekanje povezivanja drugog uređaja…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" stavki"</string>
   <string name="unknown_hint">Nepoznato</string>
