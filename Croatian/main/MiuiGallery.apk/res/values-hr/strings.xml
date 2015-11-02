@@ -194,6 +194,7 @@
   <string name="confirm_recommandation_multiple_faces_are">"Jeste li sigurni da su ovo %1$s? Ova lica će biti premještena u \"%2$s\" album nakon potvrde."</string>
   <string name="confirm_recommandation_multiple_faces_not">"Jeste li sigurni da ovo nisu %1$s? Ova lica će biti premještena u \"%2$s\" album nakon potvrde."</string>
   <string name="contact_photo">Postavi za sliku kontakta</string>
+  <string name="contact_tip">Kontakti</string>
   <string name="context_menu_add_contact">Dodaj u kontakte</string>
   <string name="context_menu_copy">Kopiraj</string>
   <string name="context_menu_copy_notice">Kopirano u međuspremnik</string>
@@ -381,10 +382,12 @@
   <string name="initial_cloud_button_text">Prijavite se</string>
   <string name="initial_cloud_text">Pohranite i pregledajte vaše fotografije s bilo kojeg mjesta.</string>
   <string name="initializing_cloud">Pokretanje…</string>
+  <string name="input_a_name">Unesite ime</string>
   <string name="input_baby_name">Unesite ime</string>
   <string name="input_baby_nick_name">Unesite nadimak</string>
   <string name="input_cloudfolder_name">Naziv Albuma</string>
   <string name="input_nickname_toast">"Unesite ime djeteta"</string>
+  <string name="input_or_select_a_name">Unesite ili odaberite ime</string>
   <string name="internal_camera_folder_display_name">Unutarnje fotografije</string>
   <string name="internal_miui_capture_screen_folder_display_name">Unutarnje snimke zaslona</string>
   <string name="internal_sd_card">Unutarnja pohrana</string>

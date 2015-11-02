@@ -1992,6 +1992,7 @@ i pokrenite ga."</string>
   <string name="oldman_mode_settings_caption">Postavke Lite načina</string>
   <string name="oldman_mode_summary">Koristi pojednostavljeni Početni zaslon i izbornike</string>
   <string name="oldman_mode_summary_cta">Lite način treba povezivanje s internetom i da može pročitati vaše kontakte, poruke, i detalje o lokaciji za normalan rad.</string>
+  <string name="onekey_migrate">Prijenos</string>
   <string name="online_resource_entry">Online izvori</string>
   <string name="only_one_home_message">Postavke početnog zaslona bit će skrivene dok ne instalirate još jednu aplikaciju početnog zaslona.</string>
   <string name="only_when_charging">Samo kada je priključeno</string>
@@ -2762,9 +2763,11 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_awaiting_tap">Dodirnite oznaku da zapišete podatke…</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
   <string name="status_bar_and_notification_bar">Panel obavijesti i statusna traka</string>
-  <string name="status_bar_app_disable_notification">Sakrij obavijesti</string>
-  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Zaklj. zaslon, Panel obavijesti</string>
-  <string name="status_bar_app_enable_on_notificationBar">Panel obavijesti</string>
+  <string name="status_bar_app_des_separator">, </string>
+  <string name="status_bar_app_disable_notification">Obavijesti sakrivene</string>
+  <string name="status_bar_app_enable_floating">Plutajuće obavijesti</string>
+  <string name="status_bar_app_enable_keyguard">Zaklj. zaslon</string>
+  <string name="status_bar_app_enable_message">Značke</string>
   <string name="status_bar_filter_item_description">Za postavljanje upozorenja, idite na Postavke &gt; Obavijesti &gt; Upravljaj obavijestima</string>
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Prilagođena pozicija tipki</string>
@@ -2793,10 +2796,11 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk &amp; vibracija</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>
   <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
+  <string name="status_bar_settings_show_floating_notification">Plutajuće obavijesti</string>
+  <string name="status_bar_settings_show_floating_notification_summary">"Plutajuće obavijesti automatski će nestati nakon što se prikažu na vrhu zaslona"</string>
   <string name="status_bar_settings_show_flow_info">Prikaži detalje plutanja</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
-  <string name="status_bar_settings_show_keyguard_notification">Plutajuće obavijesti i zaklj. zaslon</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">Prikaži plutajuće obavijesti na zaključanom zaslonu i posvuda drugdje</string>
+  <string name="status_bar_settings_show_keyguard_notification">Zaklj. zaslon</string>  
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži u panelu</string>
   <string name="status_bar_settings_show_notification_icon">Prikaži ikone obavijesti</string>

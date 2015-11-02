@@ -53,6 +53,7 @@
   <string name="cancel">Odustani</string>
   <string name="cancel_backup">Odustani</string>
   <string name="cancel_restore">Odustani</string>
+  <string name="click_to_view">Dodirnite za prikaz</string>
   <string name="cloud_app_name">Pohrani na Mi Cloud</string>
   <string name="cloud_backup_hint">Za pristup vašim Sig. kopijama, prijavite se sada</string>
   <string name="cloud_backup_login">Prijavite se u vaš Mi Račun</string>
@@ -107,6 +108,7 @@
   <string name="feature_title_call_log">Povijest poziva</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Učitavanje…</string>
+  <string name="files_backup_info">Sve datoteke na SD kartici (uključujući fotografije, pjesme, videozapise, podatke aplikacija, itd.)</string>
   <string name="findlost_contact">Vrati kontakte</string>
   <string name="findlost_contact_online">Vrati kontakte s Mi Clouda</string>
   <string name="guarded_mode_dialog_message">Ova funkcija nije dopuštena u "Gost" načinu rada</string>
@@ -122,6 +124,7 @@
   <string name="local_no_backup">Nema Sig. kopija</string>
   <string name="local_restore_window_title">Lokalna obnova</string>
   <string name="local_select_account_contact">Računi &amp; Kontakti</string>
+  <string name="local_select_files">SD kartica</string>
   <string name="local_select_sysdata">Sustav</string>
   <string name="local_select_userapp">Aplikacije</string>
   <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
@@ -149,6 +152,7 @@
   <string name="read_encrypt_fail">"Ne mogu čitati šifriranu Sig. kopiju"</string>
   <string name="refresh">Osvježi</string>
   <string name="restore">Vrati</string>
+  <string name="remote_receive">Primanje</string>
   <string name="restore_backup">Vrati</string>
   <string name="restore_contact">Vraćam kontakte</string>
   <string name="restore_contact_content">Vraćanje kontakata može rezultirati duplim kontaktima</string>
@@ -225,6 +229,44 @@
   <string name="task_service_not_launched">"Zadatak još nije započet"</string>
   <string name="task_stopped_exception">Vraćanje otkazano</string>
   <string name="total_num">Stavki %d,</string>
+  <string name="trans_backingup">Izrada Sig. kopije …</string>
+  <string name="trans_backingup_no_items">Sinkr. …</string>
+  <string name="trans_cancel_confirm">Prijenos u tijeku, otkazati sada?</string>
+  <string name="trans_cancelling">Odustani</string>
+  <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>
+  <string name="trans_connecting_toast">Povezivanje…</string>
+  <string name="trans_detail_category_account">Računi i kontakti</string>
+  <string name="trans_detail_category_files">Datoteke</string>
+  <string name="trans_detail_category_sysdata">Podaci sustava</string>
+  <string name="trans_detail_category_userdata">Aplikacije</string>
+  <string name="trans_device_disconnected">Uređaj nije povezan</string>
+  <string name="trans_main_tutor">Prenesite kontakte, povijest poziva, poruke, raspored početnog zaslona, aplikacije, postavke, itd. na novi uređaj</string>
+  <string name="trans_my_device">Moj uređaj</string>
+  <string name="trans_one_key_migrate">Prijenos</string>
+  <string name="trans_progress_subdescript_br_receiver">Primanje %s</string>
+  <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %s</string>
+  <string name="trans_progress_subdescript_transing_receiver">Primanje %s</string>
+  <string name="trans_progress_subdescript_transing_sender">Slanje %s</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Primanje datoteka…</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka…</string>
+  <string name="trans_progress_subdescript_waiting">Čakanje na primanje %s</string>
+  <string name="trans_receiver">"Ja sam primatelj"</string>
+  <string name="trans_receiving_completed">Podaci primljeni</string>
+  <string name="trans_restoring">Vraćanje…</string>
+  <string name="trans_restoring_no_items">Sinkr. stavaka</string>
+  <string name="trans_select_device_receive">Odaberite jedan uređaj za primanje podataka.</string>
+  <string name="trans_select_device_send">Odaberite jedan uređaj za prijenos podataka.</string>
+  <string name="trans_sender">"Ja sam pošiljatelj"</string>
+  <string name="trans_sender_connectting">Potvrdite na novom uređaju</string>
+  <string name="trans_sender_searching">Traženje za novim uređajima</string>
+  <string name="trans_sender_searching_ensurance">"Pobrinite se da je stari uređaj uključen
+Čekanje povezivanja starog uređaja…"</string>
+  <string name="trans_sending_completed">Podaci poslani</string>
+  <string name="trans_time_format_second">Manje od 1 minute</string>
+  <string name="trans_time_remained">, spreman</string>
+  <string name="trans_waiting_ensurance">"Pobrinite se da je stari uređaj uključen
+I prijenos omogućen"</string>
+  <string name="trans_waiting_for_sender">Čekanje povezivanja starog uređaja…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" stavki"</string>
   <string name="unknown_hint">Nepoznato</string>

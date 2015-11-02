@@ -415,7 +415,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg operatera za slanj
   <string name="saving_conflict_dialog_ok">U redu</string>
   <string name="saving_conflict_dialog_title">Pažnja</string>
   <string name="saving_conflict_restrictbackground_msg">""Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Dopustiti podatke u pozadini i uključiti Uštedu podataka?"</string>
-  <string name="sc_allow_network_dialog_message">Ova aplikacija treba povezivanje na internet da funkcionira normalno.</string>
+  <string name="sc_allow_network_dialog_message">Ova aplikacija treba povezivanje na internet za normalan rad.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti ovu značajku"</string>
   <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="see_detail">Detalji</string>

@@ -150,6 +150,7 @@
   <string name="ex_type_mx">Mi Poruka</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Dosegnuto je ograničenje veličine poruke.</string>
+  <string name="exceed_message_size_limitation_add_slide">Veličina poruke nije dovoljna da dodate slajd</string>
   <string name="exceed_message_text_limitation">Dosegnuto je ograničenje veličine poruke.</string>
   <string name="expire_on">Ističe: %s</string>
   <string name="exporting_progress_private_message">Izvoz poruka iz privatnog sandučića</string>

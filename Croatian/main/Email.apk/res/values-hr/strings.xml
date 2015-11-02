@@ -519,7 +519,7 @@
   <string name="folder_trash_name_en2">Izbrisana poruka</string>
   <string name="folder_trash_name_en3">[Gmail]/Bin</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s%2$s</string>
+  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Dalje</string>
   <string name="forward_attachment">Proslijedi</string>
   <string name="forward_attribution">---------- Proslijeđena poruka ----------&lt;br&gt;Šalje: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Predmet: %3$s&lt;br&gt;Prima: %4$s&lt;br&gt;</string>
@@ -750,7 +750,7 @@ Kopija: %4$s
   <string name="outbox_alert_description_provision_error">Pogreška Odredaba s poslužitelja tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_reject_by_server">Odbijeno od %s</string>
   <string name="outbox_alert_description_sent_failed">"Veličina privitka prelazi ograničenje poslužitelja."</string>
-  <string name="outbox_alert_duplicate_click">"Još šaljem…"</string>
+  <string name="outbox_alert_duplicate_click">"Šaljem…"</string>
   <string name="outbox_alert_edit_resend">Uredi i ponovo pošalji</string>
   <string name="outbox_alert_failed_edit_resend">"Ne mogu poslati. Uredi i pokušaj ponovo."</string>
   <string name="outbox_alert_mailbox_not_found">Adresa E-pošte nije pronađena</string>
@@ -928,7 +928,7 @@ Kopija: %4$s
   <string name="save_attachment">Spremi</string>
   <string name="save_draft">Spremi skicu</string>
   <string name="save_draft_failed">"Ne mogu spremiti skicu"</string>
-  <string name="save_power_summary">Raspored vremena da se smanjila potrošnja baterije</string>
+  <string name="save_power_summary">Postavite vrijeme uštede energije</string>
   <string name="save_power_title">Ušteda baterije</string>
   <string name="saved">Spremljeno,  %s</string>
   <string name="saving">Spremanje…</string>

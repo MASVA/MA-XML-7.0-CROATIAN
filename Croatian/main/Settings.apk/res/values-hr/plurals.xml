@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%s aplik. ne može prikazati obavijesti"</item>
+        <item quantity="one">"1 aplik. ne može prikazati obavijesti"</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s aplik. može prikazati obavijesti</item>
+        <item quantity="one">1 aplik. može prikazati obavijesti</item>
+    </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Još %1$d koraka i postat ćete razvojni programer.</item>
         <item quantity="one">Još %1$d korak i postat ćete razvojni programer.</item>
