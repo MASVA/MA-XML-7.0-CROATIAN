@@ -4,8 +4,10 @@
  To može potrajati nekoliko minuta</string>
   <string name="action_mode_deselect_all">Poništi odabir</string>
   <string name="action_mode_select_all">Odaberi sve</string>
+  <string name="add_private_files">Dodaj datoteke</string>
   <string name="add_task">Dodaj zadatak</string>
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
+  <string name="already_liked">"Već ste označili ovu stavku"</string>
   <string name="already_signin_description">"Već ste se prijavili danas."</string>
   <string name="app_name">Datoteke</string>
   <string name="app_name_bluetooth">Bluetooth</string>
@@ -38,7 +40,9 @@
   <string name="can_not_send_with_too_many">"Ne mogu poslati toliko puno stavaka"</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_error">"Ne mogu ukloniti, pokušajte ponovo"</string>
+  <string name="cancel_operation">Otkaži radnju</string>
   <string name="cancel_success">Uspješno uklonjeno, sve datoteke premještene u sdcard/fileexplorer/decryption</string>
+  <string name="cancelled_by_user">Radnja otkazana</string>
   <string name="category">Kategorije</string>
   <string name="category_all">Sve</string>
   <string name="category_apk">Aplikacije</string>
@@ -123,6 +127,7 @@
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Preuzimanje neuspješno!</string>
   <string name="download_link_completed">Podijelio sam %1$s preko KuaiPan. Dodirnite na vezu ispod za pregled:</string>
+  <string name="downloaded_sticker_str">Preuzeto</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
   <string name="enable_sd_card">Umetnite SD karticu ili onemogućite USB masovnu pohranu.</string>
@@ -176,6 +181,8 @@
   <string name="group_title_extra_backup">Sig. kopije</string>
   <string name="group_title_extra_expire">O isteku</string>
   <string name="group_title_extra_new">Novo</string>
+  <string name="if_cancel">Otkazati vou radnju?</string>
+  <string name="image_loading_error">"Ne mogu učitati sliku"</string>
   <string name="instruction">Unesite adresu u FTP klijent:</string>
   <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
   <string name="just_now">Upravo sada</string>
@@ -209,7 +216,7 @@
   <string name="loading">Učitavam…</string>
   <string name="local_image">Fotografije</string>
   <string name="local_music">Glazba</string>
-  <string name="local_sticker_str">Preuzeto</string>
+  <string name="local_sticker_str">Izvanmrežno</string>
   <string name="local_video">Videozapisi</string>
   <string name="login_reg_content">Pohranite datoteke i sinkronizirajte ih na više uređaja.</string>
   <string name="login_reg_content0">Koristite KuaiPan iz bilo kojeg mjesta.</string>
@@ -219,6 +226,7 @@
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Traži</string>
   <string name="menu_item_sort">Poredaj po</string>
+  <string name="menu_item_sort_add_time">"Izrađeno "</string>
   <string name="menu_item_sort_date">Datumu izmjene</string>
   <string name="menu_item_sort_name">Po nazivu</string>
   <string name="menu_item_sort_size">Po veličini</string>
@@ -281,6 +289,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no">Ne</string>
   <string name="no_app_tags">Prazno</string>
   <string name="no_display_file">"Ne mogu prikazati %1$s"</string>
+  <string name="no_downloaded_sticker_tip">"Ne mogu pronaći preuzete naljepnice. Provjerite naljepnice podjeljene od strane Mi obožavatelja."</string>
   <string name="no_enough_storage_indication">"Prostor uređaja za pohranu je pun."</string>
   <string name="no_enough_storage_title">Nema dovoljno prostora</string>
   <string name="no_file">Prazno</string>
@@ -301,7 +310,10 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="notification_setting">Obavijesti</string>
   <string name="notification_summary">"%1$s još ne podržava ovu značajku"</string>
   <string name="notification_title">Obavijesti kada su nove datoteke dodane u %1$s</string>
-  <string name="notification_wechat_title">Obavijesti me da WeChat Videozapis uskoro istjeće</string>
+  <string name="notification_wechat_expired_empty">WeChat je već izbrisao ove videozapise.</string>
+  <string name="notification_wechat_title">Obavijesti WeChat videozapisa</string>
+  <string name="notify_private_folder_msg">Dodirnite da naučite o privatnim mapama.</string>
+  <string name="notify_private_folder_title">Zaštitite svoje osobne datoteke</string>  
   <string name="online_not_support">"Ne mogu prikazati ovu datoteku online u ovom trenutku."</string>
   <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena, mogli bi:
 1. Preuzeti datoteku ponovno da je ažurirate.
@@ -332,6 +344,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_favorite">Favoriti</string>
   <string name="operation_hide_sys">"Ne prikazuj skrivene datoteke"</string>
   <string name="operation_info">Detalji</string>
+  <string name="operation_like">Označi</string>
   <string name="operation_move">Obreži</string>
   <string name="operation_moving">Premještanje…</string>
   <string name="operation_moving_detail">Premještanje (%1$d/%2$d)</string>
@@ -363,6 +376,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="private_folder">Privatna mapa</string>
   <string name="promot_enctypt_password">Unesite zaporku koja se koristi za otključavanje uređaja ili za isključivanje Dječjeg načina</string>
   <string name="pull_to_signin">Povucite dolje za prijavu.</string>
+  <string name="qq_not_installed">"QQ nije instaliran"</string>
   <string name="release_to_signin">Otpustite za prijavu</string>
   <string name="rename_alert">"Ako promijenite ekstenziju ove datoteke, možda nećete biti u mogućnosti je otvoriti."</string>
   <string name="rename_description">Promjena naziva…</string>
@@ -377,6 +391,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="rlv_pull_to_refresh">Povuci za osvježavanje</string>
   <string name="rlv_refreshing">Skeniranje datoteka…</string>
   <string name="rlv_release_to_refresh">Pusti za osvježavanje</string>
+  <string name="save_to_local">Preuzeto</string>
   <string name="sd_card_available">Dostupno: %1$s</string>
   <string name="sd_card_size">SD kartica: %1$s</string>
   <string name="sd_full">Vaša SD kartica je puna.</string>
@@ -404,6 +419,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="search_keyword_messge">Express</string>
   <string name="search_keyword_news">Vijesti</string>
   <string name="search_keyword_wallet">Novčanik</string>
+  <string name="search_result">Rezultati</string>
   <string name="search_result_hint1">Srodno</string>
   <string name="search_result_hint2">Sve</string>
   <string name="search_result_hint3">" "</string>
@@ -424,6 +440,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="select_video">Odaberi videozapis</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Ova vrsta datoteke nije podržana.</string>
+  <string name="send_to_qq">Pošalji na QQ</string>
+  <string name="send_to_weixin">Pošalji na WeChat</string>
   <string name="server_control_advanced_settings">FTP postavke</string>
   <string name="server_control_charset">Kodiranje prijenosa</string>
   <string name="server_control_settings">Postavke</string>
@@ -486,11 +504,13 @@ Dodano %1$s slobodnog prostora"</string>
 oslobodite prostor.</string>
   <string name="trash_box_message2">Ispraznite koš za smeće kako bi
 oslobodili prostor.</string>
+  <string name="type_not_support">"Ovaj format datoteke nije podržan. Raspakirajte ovu datoteku i pokušajte ponovo."</string>
   <string name="ui_filechange_btn_download">Preuzeti datoteku?</string>
   <string name="ui_filechange_btn_upload">Učitati datoteke</string>
   <string name="ui_main_menu_option_sign_in">Prijavite se</string>
   <string name="ui_main_menu_option_task_manage">Upravljanje prijenosa</string>
   <string name="ui_main_progress_txt_open_file">Preuzimam…</string>
+  <string name="ui_main_toast_favorite_added">Uspješno označeno</string>
   <string name="ui_main_toast_favorite_removed">Neoznačeno</string>
   <string name="ui_main_toast_operation_failed">"Ne mogu odznačiti %1$s"</string>
   <string name="unmount_inform_text">Isključiti USB pohranu?</string>
@@ -517,6 +537,7 @@ oslobodili prostor.</string>
   <string name="waiting">Čekanje…</string>
   <string name="wangpan_root_path">Moj Drive</string>
   <string name="wechat_video">Video na %s</string>
+  <string name="weixin_not_installed">"WeChat nije instaliran"</string>
   <string name="weixin_sticker_tag_str">WeChat Naljepnice</string>
   <string name="wifi_state">WLAN mreža</string>
   <string name="xiaomi_account">Mi Račun</string>

@@ -225,7 +225,7 @@ i pokušajte ponovno."</string>
   <string name="sniff_result_num_prefix">Pronađeno</string>
   <string name="sniff_result_num_video_suffix">stavki</string>
   <string name="sniff_result_num_website_suffix">web stranica</string>
-  <string name="sniff_result_website_intro">共&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; stavki | Izvor: %2$s</string>
+  <string name="sniff_result_website_intro">Ukupno&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; stavki | Izvor: %2$s</string>
   <string name="sniff_sniffing_btn_text">Traženje izvora…</string>
   <string name="sniff_terms_agree">Prihvaćam</string>
   <string name="sniff_terms_msg">Trebali bi prihvatiti \"Uvjeti korištenja\" da počnete koristiti drugu tražilicu.</string>

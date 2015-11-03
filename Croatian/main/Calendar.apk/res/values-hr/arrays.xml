@@ -241,6 +241,12 @@
         <item>mjesec</item>
         <item>godina</item>
     </string-array>
+	<string-array name="repeat_frequency_spinner_plural">
+        <item>dana</item>
+        <item>tjedana</item>
+        <item>mjeseci</item>
+        <item>godina</item>
+    </string-array>
 	<string-array name="travel_reminder_minutes_labels">
         <item>3 sata</item>
         <item>4 sata</item>

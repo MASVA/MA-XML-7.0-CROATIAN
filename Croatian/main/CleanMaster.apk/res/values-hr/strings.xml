@@ -172,6 +172,7 @@
   <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
   <string name="login_immediately">Prijavite se</string>
   <string name="mainbtn_text_quick_cleanup">Očisti %s</string>
+  <string name="mainbtn_text_quick_cleanup_default">Očisti</string>
   <string name="memeory_check_content">%1$d aplik., memorija %2$s</string>
   <string name="month_day_format">MMM dd</string>
   <string name="msg_cleanup_db_update_checking">Provjera za ažuriranja…</string>
@@ -261,7 +262,7 @@
   <string name="similar_image_empty">Nema pronađenin duplikata</string>
   <string name="similar_image_scaning">Provjeravam…</string>
   <string name="similar_image_title">Fotografije</string>
-  <string name="start_install">Započnite instalaciju</string>
+  <string name="start_install">Instaliraj sada</string>
   <string name="summary_auto_cleaner">Čistiti automatski vaš sustav svaka 3 dana?</string>
   <string name="summary_delete_cache">"Svi podaci ove aplikacije će biti trajno izbrisani (uključujući sve datoteke, postavke i račune)."</string>
   <string name="summary_delete_large_file">"Neke velike datoteke mogu biti korisne ako nemate internetsku vezu (npr karte, rasporedi, itd). Pobrinite se da ne trebate ovu datoteku."</string>

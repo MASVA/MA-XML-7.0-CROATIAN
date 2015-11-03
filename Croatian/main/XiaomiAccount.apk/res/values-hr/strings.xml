@@ -20,7 +20,7 @@
   <string name="account_error_shorter_user_name">Ime mora biti duže od 2 znaka</string>
   <string name="account_error_user_birthday">Rođendan koji ste unijeli nije važeći</string>
   <string name="account_learn_more_title">Izradite Mi Račun besplatno</string>
-  <string name="account_limit_update_birthday">Žao nam je, ne možemo obraditi vaš zahtjev u ovom trenutku.</string>
+  <string name="account_limit_update_birthday">"Ne mogu ažurirati datum rođendana upravo sada"</string>
   <string name="account_name">Račun: %1$s</string>
   <string name="account_no_set">Ništa</string>
   <string name="account_none">Ništa</string>
