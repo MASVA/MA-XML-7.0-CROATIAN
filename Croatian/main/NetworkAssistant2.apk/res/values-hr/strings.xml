@@ -547,8 +547,8 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_pic_compress_orig">Original</string>
   <string name="traffic_saving_ratio">Uporaba podataka smanjena %.2f%%</string>
   <string name="traffic_saving_ratio_low">"Ne mogu značajno smanjiti uporabu podataka"</string>
-  <string name="traffic_saving_recommanded_close">Isključite ovu stavku</string>
-  <string name="traffic_saving_recommanded_open">Uključite ovu stavku</string>
+  <string name="traffic_saving_recommanded_close">Isključi</string>
+  <string name="traffic_saving_recommanded_open">Uključi</string>
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatski aktiviraj Uštedu podataka radi smanjenja mobilnog podatkovnog prometa aplikacija.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Ako imate mjesečno ograničenje podataka, ne zaboravite isključiti Uštedu podataka za pojedine aplikacije da izbjegnete dodatne troškove vašeg operatera.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aktiviraj</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string>

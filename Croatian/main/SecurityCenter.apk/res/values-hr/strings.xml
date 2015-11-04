@@ -197,6 +197,7 @@
   <string name="hints_last_virus_scan_yesterday_safe">Jučerašnje skeniranje: Sigurno</string>
   <string name="hints_last_virus_scan_yesterday_virus">Jučerašnje skeniranje: Opasno</string>
   <string name="hints_loading_text">Učitavanje…</string>
+  <string name="hints_need_quick_clean">Pronađite i izbrišite opasne datoteke</string>
   <string name="hints_need_quick_scan">Preporučuje se brzo skeniranje</string>
   <string name="hints_need_regular_scan">Skenirajte redovito svoj uređaj</string>
   <string name="hints_power_percent_title">Baterije</string>
@@ -273,7 +274,8 @@
   <string name="menu_text_networkassistants_danger">Premašeno: %s</string>
   <string name="menu_text_networkassistants_remain">Preostalo: %s</string>
   <string name="menu_text_power_manager">Potrošnja baterije</string>
-  <string name="menu_text_power_percent">Baterija: %s</string>
+  <string name="menu_text_power_percent">%s</string>
+  <string name="menu_text_power_percent_title">Baterija %s</string>
   <string name="month_report_activity_label">Mjesečno izvješće</string>
   <string name="month_report_click_reconnect_network">Pokušaj ponovno</string>
   <string name="month_report_disconnect_tip">"Ne mogu se povezati na mrežu"</string>
@@ -538,6 +540,7 @@
   <string name="summary_flow_verify">"Vaša statistika uporabe podataka nije sinkronizirana s vašim operaterom %d dana."</string>
   <string name="summary_garbage_lib">Koristite najnovije definicije za uklanjanje spyware, adware i drugog neželjenog smeća.</string>
   <string name="summary_install_virus">Provjerite aplikacije za virusima prije instalacije</string>
+  <string name="summary_live_talk_purchase">Samo ¥ 0.05 po minuti za domaće pozive.</string>
   <string name="summary_miui_update">Ažuriranje dostupno za %s.</string>
   <string name="summary_mms">Blokiraj automatski spam SMS poruke</string>
   <string name="summary_network_switch">Dopusti aplikaciji Sigurnost povezivanje na internet</string>
@@ -572,6 +575,7 @@
   <string name="title_garbage_lib">Automatska ažuriranja su isključena</string>
   <string name="title_install_virus_no">Instaliranje nadzora isključeno</string>
   <string name="title_install_virus_yes">Instaliranje nadzora uključeno</string>
+  <string name="title_live_talk_purchase">Nadoplatite sada</string>
   <string name="title_miui_update">Dostupno ažuriranje</string>
   <string name="title_mms_no">Filter poruka je isključen</string>
   <string name="title_mms_yes">Filter poruka je uključen</string>

@@ -1244,7 +1244,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="firmware_version">Verzija sustava Android</string>
   <string name="floating_window_switch_label">Prikaži skočne prozore</string>
   <string name="floating_window_switch_label_disable">Sakrij skočne prozore</string>
-  <string name="fluency_mode">Optimiziranje performansi sustava</string>
+  <string name="fluency_mode">Animacije sustava</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
   <string name="fluency_mode_confirm_title">Ponovno pokrenuti?</string>
   <string name="fluency_mode_confirm_will_fluency_mode_text">Morate ponovno pokrenuti uređaj za primjenu ovih postavki.</string>
@@ -1366,8 +1366,8 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="heavy_weight_stop_description">Ova se aplikacija ne može sigurno zaustaviti. Ako je zaustavite, mogli biste izgubiti trenutačan rad.</string>
   <string name="help_label">Pomoć</string>
   <string name="hidden_ssid_label">Skriveni SSID:</string>
-  <string name="high_performance_notif_summary">"Način rada Performanse onemogućuje kontrolu temperature i ograničenja potrošnje baterije dopuštajući da vaš uređaj radi maksimalnim kapacitetom. To može dovesti do jačeg zagrijavanja vašeg uređaja i smanjiti vijek trajanja baterije."</string>
-  <string name="high_performance_notif_title">Upozorenje korištenja baterije</string>
+  <string name="high_performance_notif_summary">"Uređaj se može jače zagrijati tijekom dužeg korištenja."</string>
+  <string name="high_performance_notif_title">Način Performasnse je uključen</string>
   <string name="high_performance_title">"Izgleda kao da provodite benchmark testiranje. Postavite upravljanje napajanjem na \"Performanse\" za bolje rezultate."</string>
   <string name="history_details_title">Detalji povijesti</string>
   <string name="home_app_uninstall_button">Deinstaliraj aplikaciju</string>
@@ -2109,7 +2109,7 @@ i pokrenite ga."</string>
   <string name="power_discharge_remaining">Preostalo je %1$s</string>
   <string name="power_discharging_duration">%1$d%% – još približno %2$s</string>
   <string name="power_flashlight">Svjetiljka</string>
-  <string name="power_hide_mode_summary">"Uštedite bateriju ograničavanjem pojedinačnih procesa aplikacija u pozadini, WLAN-a, mobilne podatkovne veze i GPS-a"</string>
+  <string name="power_hide_mode_summary">"Uštedite bateriju ograničavanjem pojedinačnih procesa aplikacija u pozadini, WLAN-a, mobilne podatkovne veze i korištenja GPS-a"</string>
   <string name="power_hide_mode_title">Upravljanje korištenjem baterije aplikacija</string>
   <string name="power_idle">Telefon u mirovanju</string>
   <string name="power_mgr">Baterija</string>

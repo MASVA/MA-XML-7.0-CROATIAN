@@ -81,6 +81,10 @@
         <item>Veliki</item>
         <item>Ogroman</item>
     </string-array>
+	<string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Pad</item>
+    </string-array>
 	<string-array name="pre_webapp_text_sizes">
         <item>Veći</item>
         <item>Veliki</item>

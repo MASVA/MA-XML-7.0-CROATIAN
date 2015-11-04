@@ -112,7 +112,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="gps_notification_found_text">Lokaciju postavio GPS</string>
   <string name="gps_notification_searching_text">Traženje GPS-a</string>
   <string name="headset_custom">Odbaci</string>
-  <string name="headset_info">Dodirnite za podešavanje postavki</string>
+  <string name="headset_info">Dodirnite za prikaz postavki.</string>
   <string name="headset_settings">Slušalice su spojene</string>
   <string name="hint_for_long_press_app_switch_key">Pritisni &amp; drži za izbornik</string>
   <string name="invalid_charger">USB punjenje nije podržano.

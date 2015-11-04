@@ -30,6 +30,8 @@
   <string name="all">Sve</string>
   <string name="all_ep">Sve ep</string>
   <string name="all_episode">Sve Epizode</string>
+  <string name="app_charging_wifi_mode">Punjenje za ažuriranje aplikacije</string>
+  <string name="app_charging_wifi_mode_summary">Ažuriraj aplikaciju automatski kada je povezano na WLAN i na punjenju</string>
   <string name="app_latest_version">Ovo je već najnovija inačica</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s komponenta je spremna</string>
@@ -37,7 +39,7 @@
   <string name="app_upgrade_version">Nova verzija</string>
   <string name="app_version">Verzija</string>
   <string name="app_wifi_mode">Autom. ažuriraj preko WLAN-a</string>
-  <string name="app_wifi_mode_summary">Kada je povezano na WLAN, automatski nadogradi na posljednju verziju.</string>
+  <string name="app_wifi_mode_summary">Ažuriraj aplikaciju automatski kod pokretanja i kada je povezano na WLAN</string>
   <string name="authenticated_failed">"Ne mogu se prijaviti"</string>
   <string name="authenticating">&lt;CDATA&gt;Provjera&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">Provjera nije uspjela</string>

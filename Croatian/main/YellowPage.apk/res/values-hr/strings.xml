@@ -51,7 +51,8 @@
   <string name="coupon_bought_count">%d kupljeno</string>
   <string name="currency_character">RMB</string>
   <string name="custom_mark_category">Prilagodi</string>
-  <string name="data_error">Žao nam je, trenutna usluga nije dostupna, pokušajte ponovo kasnije</string>
+  <string name="data_error">Dogodila se pogreška</string>
+  <string name="data_error_show">Dogodila se pogreška</string>
   <string name="delete">Izbrisati</string>
   <string name="deleting">Brisanje…</string>
   <string name="description_author">Autor</string>
