@@ -56,7 +56,7 @@
   <string name="activate_desc_mixed_sim_cards">SMS i međunarodni SMS će biti poslani za aktiviranje vaše 2 SIM kartice</string>
   <string name="activate_desc_sim_card">SMS će biti poslan za aktiviranje vaše SIM kartice</string>
   <string name="activate_feature_call_log_sync">Sinkronizacija popisa poziva</string>
-  <string name="activate_feature_find_device">'Pronađi uređaj'</string>
+  <string name="activate_feature_find_device">Pronađi uređaj</string>
   <string name="activate_feature_mms_sync">Sinkronizacija SMS-a</string>
   <string name="activate_feature_mx">Besplatne Cloud Poruke</string>
   <string name="activate_phone_failed_notif_title">"Ne mogu aktivirati SIM karticu"</string>
@@ -313,7 +313,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_loading">Učitavanje…</string>
   <string name="passport_login">Prijavite se na postojeći račun</string>
-  <string name="passport_login_check_find_device">Provjera statusa 'Pronađi uređaj'…</string>
+  <string name="passport_login_check_find_device">Provjera statusa Pronađi uređaj…</string>
   <string name="passport_login_check_find_device_failed">"Ne mogu provjeriti status 'Pronađi uređaj'. Provjerite mrežnu vezu."</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>
   <string name="passport_login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s). Prijavite se da aktivirate ovaj uređaj.</string>

@@ -5,7 +5,7 @@
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne mogu otkljuèati. %s."</string>
   <string name="disable_find_device_error">"Ne mogu iskljuèiti Pronaði ureðaj. %1$s"</string>
-  <string name="disable_find_device_success">Pronaði Ureðaj" je iskljuèen.</string>
+  <string name="disable_find_device_success">Pronaði Ureðaj je iskljuèen.</string>
   <string name="enable_find_device_error">"Ne mogu ukljuèiti Pronaði ureðaj. %1$s"</string>
   <string name="enable_find_device_success">Pronaði ureðaj je ukljuèen.</string>
   <string name="find_device">Pronaði ureðaj</string>

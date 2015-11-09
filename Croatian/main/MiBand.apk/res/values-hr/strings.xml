@@ -440,8 +440,7 @@ ustajanje</string>
   <string name="fw_failed_help_title0">Što je Firmware?</string>
   <string name="fw_failed_help_title1">Zašto je potrebno ažurirati Firmware?</string>
   <string name="fw_failed_help_title2">Problemi ažuriranja?</string>
-  <string name="fw_low_battery_tips" formatted="false">"Baterija Mi Banda mora biti više od 5% prije nego što možete ažurirati. Spojite ga na punjač
-a ažuriranje će se automatski pokrenuti nakon punjenja Mi Banda"</string>
+  <string name="fw_low_battery_tips">"Baterija Mi Banda  mora biti iznad 10% prije nego što možete ažurirati."</string>
   <string name="fw_low_battery_title">Napunite bateriju vašeg ​​Mi Banda</string>
   <string name="fw_low_battery_view_help">Pomoć</string>
   <string name="fw_upgrade_failed">"Ne mogu ažurirati firmware."</string>
@@ -748,8 +747,8 @@ Zaspao u %3$s, Probudio se u %4$s"</string>
   <string name="measure_tips">请保持手环底部贴紧皮肤</string>
   <string name="measuring">测量中</string>
   <string name="median">Median</string>
-  <string name="message_title_care">Poruka njege</string>
-  <string name="message_title_friend">Poruka od prijatelja</string>
+  <string name="message_title_care">Poruka </string>
+  <string name="message_title_friend">Poruka</string>
   <string name="metre">m</string>
   <string name="mi_band">Mi Band</string>
   <string name="miid_not_support">ID Mi Računa koji ste unijeli nije valjan.</string>
@@ -1119,7 +1118,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="running_tip_use_bracelet_content">可检测实时步频</string>
   <string name="running_tip_use_bracelet_label">Nakon korištenja Mi Banda</string>
   <string name="running_today_null"/>
-  <string name="running_unit_calorie">Kal</string>
+  <string name="running_unlogin_notice">"Niste prijavljeni. Podaci se ne mogu se sinkronizirati s poslužiteljem i mogu se izgubiti tijekom korištenja aplikacije. Prijaviti se sada?"</string>
   <string name="running_unsynchronous">Nije sinkr.</string>
   <string name="running_volumn_notice">Niska glasnoća medija za kilometar govora, podesite ga u Glazba/Postavke</string>
   <string name="running_watermark">Vodeni žig</string>
@@ -1199,8 +1198,7 @@ učitan na poslužitelj."</string>
   <string name="share_continue_goal_format">"Prohodano %1$s, %2$s koraka dnevno.
 %3$s
 %4$s"</string>
-  <string name="share_continue_goal_format_run">"Prohodano %1$s, pretrčano %2$s
-%3$s
+  <string name="share_continue_goal_format_run">"Prohodano %1$s, pretrčano %2$s, %3$s.
 %4$s"</string>
   <string name="share_facebook_label">Facebook</string>
   <string name="share_goal_tips_fail">Opuštajući dan za mene.</string>
@@ -1266,6 +1264,8 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="shoes_bind_alert_title">Ne mogu upariti</string>
   <string name="shoes_bind_change_ok">Zamjeni</string>
   <string name="shoes_bind_change_text" formatted="false">Povezani ste s %s, sigurno se želite povezati s %s?</string>
+  <string name="shoes_bind_prompt">"请晃动华米智芯
+然后将华米智芯的二维码放在取景框中"</string>
   <string name="shoes_bind_failed">Povezivanje nije uspjelo</string>
   <string name="shoes_bind_first">Prvo povežite</string>
   <string name="shoes_bind_prompt">Stavite na…</string>
