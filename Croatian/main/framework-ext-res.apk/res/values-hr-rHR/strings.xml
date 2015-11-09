@@ -25,14 +25,18 @@
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>
   <string name="global_actions_silent_mode">"Bešumno"</string>
+  <string name="group_name_contacts">Kontakti</string>
+  <string name="group_name_coworkers">Kolege</string>
+  <string name="group_name_family">Obitelj</string>
+  <string name="group_name_friends">Prijatelji</string>
   <string name="handy_mode_enter_dlg_msg">Ući u Rad jednom rukom?</string>
   <string name="handy_mode_enter_dlg_title">Rad jednom rukom</string>
   <string name="handy_mode_summary">Da zatvorite, dodirnite tamno područje zaslona</string>
   <string name="handy_mode_title">Rad jednom rukom</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Stavite vaš prst na gumb Početna</string>
+  <string name="default_name">Zadano</string>
   <string name="internal_livetalk_enable">Koristite nadoplatu paketa za domaće pozive</string>
-  <string name="internal_remain_mins">%1$s min. preostalo (domaći pozivi)</string>
   <string name="international_livetalk_enable">Koristite nadoplatu paketa za međunarodne pozive</string>
-  <string name="international_remain_mins">%1$s min. preostalo (%2$s poziva)</string>
   <string name="key_btn_ok">U redu</string>
   <string name="key_btn_space">Razmak</string>
   <string name="location_usage_restricted_body">Dodirnite za uklanjanje ograničenja.</string>
@@ -41,6 +45,7 @@
   <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
   <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
+  <string name="maml_component_customization_title">Postavke</string>
   <string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB Dostupno: %2$sB"</string>
   <string name="paste">Zalijepi</string>
@@ -53,6 +58,7 @@
   <string name="reboot_info_shutdown_alarm">Vaš telefon će se uključiti i oglasiti alarm u %s</string>
   <string name="reboot_progress">Ponovno pokretanje…</string>
   <string name="replace">Zamijeni</string>
+  <string name="resource_select">Odaberi</string>
   <string name="screen_button_disabled_message">Navigacijske tipke su isključene. Da ih ponovo uključite, dodirnite tipku \"Početna\" i \"Napajanje\" istovremeno.</string>
   <string name="screen_button_enabled_message">Navigacijske tipke su isključene.</string>
   <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>

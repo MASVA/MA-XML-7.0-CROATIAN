@@ -119,7 +119,7 @@
   <string name="power_mode_view_user_define_title">Novi događaj</string>
   <string name="power_optimize_activity_profile_file_error">Pogreška Štednje baterije</string>
   <string name="quick_disconnect_description">Aplikacije u pozadini mogu se povezati s mrežom na kratko vrijeme, dok je kontinuirano povezivanje ograničeno</string>
-  <string name="quick_disconnect_title">Prkini vezu</string>
+  <string name="quick_disconnect_title">Prekini vezu</string>
   <string name="reading">Način čitanja</string>
   <string name="screen_off">Zaslon isključen</string>
   <string name="screen_off_10_min">Zaslon isključen preko 10 min.</string>

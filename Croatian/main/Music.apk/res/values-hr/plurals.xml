@@ -8,6 +8,12 @@
         <item quantity="other">Preostalo (%d) dana</item>
         <item quantity="one">Preostao 1 dan</item>
     </plurals>
+	<plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">"Možete preuzeti %d Premium pjesama ovog mjeseca. Nadogradite Premium Song Pack za više preuzimanje."</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">"Možete preuzeti %d Premium pjesama ovog mjeseca. Ipak preuzeti odabrane pjesme?"</item>
+    </plurals>
     <plurals name="NTrackstoDownload">
         <item quantity="other">Preuzeto će biti (%d) pjesama</item>
         <item quantity="one">1 pjesma će biti preuzeta</item>

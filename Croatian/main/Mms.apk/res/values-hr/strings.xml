@@ -256,6 +256,8 @@
   <string name="msg_type_hint_mms">Multimedijska poruka (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi Poruka</string>
+  <string name="msg_type_hint_mx_b2c">Obavijesti mreže</string>
+  <string name="msg_type_hint_mx_b2c_omit">Obavijesti mreže</string>
   <string name="msg_type_hint_mx_omit">Mi Poruka</string>
   <string name="msg_type_hint_sms">SMS</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -287,6 +289,8 @@
   <string name="mx_auto_resend_sms">Pošalji kao SMS poruku</string>
   <string name="mx_auto_resend_sms_summary">Pošalji poruke kao SMS poruke preko mobilne podatkovne veze kada niste povezani na WLAN. Snosite redovite troškove vašeg davatelja usluga.</string>
   <string name="mx_b2c_message_desc">Obavijesti mreže</string>
+  <string name="mx_b2c_message_resend_not_online">"Ne mogu ponovno poslati poruku. Mi Poruka je izvanmrežno."</string>
+  <string name="mx_b2c_message_server">pOSLUŽITELJ</string>
   <string name="mx_btn_enable">Aktiviraj</string>
   <string name="mx_btn_enable_now">Aktiviraj</string>
   <string name="mx_count_dspt">Poslano %1$d SMS-a i %2$d MMS-a</string>

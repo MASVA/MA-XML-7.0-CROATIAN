@@ -26,6 +26,7 @@
   <string name="apply_as_lock_wallpaper_message">Postaviti i za pozadinu zaklj. zaslona?</string>
   <string name="apply_as_wallpaper">Početni zaslon</string>
   <string name="apply_both">Postavi oboje</string>
+  <string name="apply_negative_action">"Ne postavljaj"</string>
   <string name="aqi_quality_index_dangerous">Opasno</string>
   <string name="aqi_quality_index_good">Dobro</string>
   <string name="aqi_quality_index_hazardous">Riskantno</string>
@@ -211,11 +212,11 @@
   <string name="sort_by_not_defined">Automatski poredaj</string>
   <string name="start_activity_failed">"Ne mogu pokrenuti Pokretač"</string>
   <string name="starting_preset_app">Pokretanje…</string>
-  <string name="status_downloaded">preuzeto</string>
-  <string name="status_downloading">preuzimanje</string>
-  <string name="status_installing">instaliranje</string>
-  <string name="status_paused">pauzirano</string>
-  <string name="status_pending">na čekanju</string>
+  <string name="status_downloaded">Preuzeto</string>
+  <string name="status_downloading">Preuzimanje</string>
+  <string name="status_installing">Instaliranje</string>
+  <string name="status_paused">Pauzirano</string>
+  <string name="status_pending">Na čekanju</string>
   <string name="title_select_live_folder">Odaberite mapu</string>
   <string name="title_select_shortcut">Odaberite prečac</string>
   <string name="toggle_select_title">Odaberite prečac</string>

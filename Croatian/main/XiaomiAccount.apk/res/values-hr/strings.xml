@@ -56,7 +56,7 @@
   <string name="activate_desc_mixed_sim_cards">SMS i međunarodni SMS će biti poslani za aktiviranje vaše 2 SIM kartice</string>
   <string name="activate_desc_sim_card">SMS će biti poslan za aktiviranje vaše SIM kartice</string>
   <string name="activate_feature_call_log_sync">Sinkronizacija popisa poziva</string>
-  <string name="activate_feature_find_device">Pronađi uređaj</string>
+  <string name="activate_feature_find_device">'Pronađi uređaj'</string>
   <string name="activate_feature_mms_sync">Sinkronizacija SMS-a</string>
   <string name="activate_feature_mx">Besplatne Cloud Poruke</string>
   <string name="activate_phone_failed_notif_title">"Ne mogu aktivirati SIM karticu"</string>
@@ -313,7 +313,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_loading">Učitavanje…</string>
   <string name="passport_login">Prijavite se na postojeći račun</string>
+  <string name="passport_login_check_find_device">Provjera statusa 'Pronađi uređaj'…</string>
+  <string name="passport_login_check_find_device_failed">"Ne mogu provjeriti status 'Pronađi uređaj'. Provjerite mrežnu vezu."</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>
+  <string name="passport_login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s). Prijavite se da aktivirate ovaj uređaj.</string>
   <string name="passport_login_instead_reg">Koristi ovaj broj</string>
   <string name="passport_login_instead_reg_with_email">Koristi ovu E-poštu</string>
   <string name="passport_login_notice">Prijava…</string>
@@ -391,7 +394,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_password">Pogrešna zaporka</string>
   <string name="passport_wrong_phone_number_format">Format broja telefona koji ste unijeli nije važeći</string>
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
-  <string name="passport_xiaomi_account_dspt">Koristite svoj Mi Račun za prijavu na MiCloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
+  <string name="passport_xiaomi_account_dspt">Koristite svoj Mi Račun za prijavu na MiCloud, MIUI Trgovinu Tema, i Mi Trgovinu, s bilo kojeg mjesta.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Prijava na vaš Mi Račun zahtijeva internetsku vezu. Osim toga, pristup lokaciji, Mi Cloud, i Mi VIP će se uključiti automatski.</string>
   <string name="password">Unesite vašu zaporku</string>

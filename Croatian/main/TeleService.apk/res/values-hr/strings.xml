@@ -754,7 +754,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="no_data">Nema podataka</string>
   <string name="no_internet_available">Za uspostavu internetskog poziva prvo provjerite internetsku vezu.</string>
   <string name="no_internet_available_title">Nema internetske veze</string>
-  <string name="no_more">Ne više</string>
+  <string name="no_sim_card">Nema SIM kartice</string>
   <string name="no_product_list">Prazno</string>
   <string name="no_sip_account_found">Na ovom telefonu nema računa za internetske pozive. Želite li ga dodati odmah?</string>
   <string name="no_sip_account_found_title">Nema računa za internetske pozive</string>
@@ -1117,9 +1117,9 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="setting_duration_title">Preostalo vrijeme</string>
   <string name="settings_label">Postavke mreže</string>
   <string name="sim1_activated">SIM kartica 1</string>
-  <string name="sim1_no_activated">SIM kartica 1 provjerena</string>
+  <string name="sim1_no_activated">"SIM kartica 1 nije potvrđena, ne mogu birati"</string>
   <string name="sim2_activated">, SIM kartica 2</string>
-  <string name="sim2_no_activated">, SIM kartica 2 provjerena</string>
+  <string name="sim2_no_activated">"SIM kartica 2 nije potvrđena, ne mogu birati"</string>
   <string name="simContacts_airplaneMode">Za uvoz kontakata sa SIM kartice prvo isključite zrakoplovni način.</string>
   <string name="simContacts_empty">Nema kontakata na vašoj SIM kartici.</string>
   <string name="simContacts_emptyLoading">Čitanje sa SIM kartice…</string>
@@ -1137,7 +1137,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sim_label_emergency_calls">Hitni pozivi</string>
   <string name="sim_ndp_dismiss_text">Odbaci</string>
   <string name="sim_ndp_unlock_text">Otključaj</string>
-  <string name="sim_no_activated">Nije provjereno</string>
+  <string name="sim_no_activated">"SIM kartica 2 nije potvrđena, ne mogu birati"</string>
   <string name="sim_unknown">Nepoznato</string>
   <string name="sim_unlock_failed">SIM zahtjev otključavanja neuspješan.</string>
   <string name="sim_unlock_success">SIM otključavanje uspješno.</string>
@@ -1281,6 +1281,9 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="username_title">Korisničko ime</string>
   <string name="ussdRunning">Pokrenut je USSD kôd…</string>
   <string name="ussd_dialog_sep">----------</string>
+  <string name="verified">Provjereno</string>
+  <string name="verify_fialed">Ne mogu provjeriti</string>
+  <string name="verifying">Provjera…</string>
   <string name="vibrate_on_ring_title">Vibracija kod poziva</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte.
 Obratite se davatelju usluge ako problem potraje."</string>

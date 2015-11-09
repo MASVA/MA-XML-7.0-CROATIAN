@@ -235,7 +235,7 @@ Jednostavno približite jedan uređaj drugom (obično se njihove stražnje stran
   <string name="applications_settings_summary">Upravljanje aplikacijama, postavljanje prečaca za brzo pokretanje</string>
   <string name="apply_fingerprint_to_category_title">Primijeni otisak prsta za…</string>
   <string name="apply_now_button_text">Ažuriraj</string>
-  <string name="apply_password_to_category_title">Primijeni zaporku za…</string>
+  <string name="apply_password_to_category_title">Potebna zaporka</string>
   <string name="apply_update_fail">Ažuriranje sustava nije uspjelo.</string>
   <string name="apps_with_restrictions_header">Aplikacije s ograničenjima</string>
   <string name="apps_with_restrictions_settings_button">Proširi postavke za aplikaciju</string>
@@ -670,7 +670,9 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="change_password">Promijeni zaporku</string>
   <string name="change_security_lock">Probaj ostale načine otključavanja</string>
   <string name="check_update">Provjeri ažuriranja</string>
+  <string name="check_find_device_status_failure_confirm">U redu</string>
   <string name="checkbox_notification_same_as_incoming_call">Koristi glasnoću dolaznog poziva za obavijesti</string>
+  <string name="checking_find_device_status">Provjera statusa Pronađi uređaj…</string>
   <string name="checking_for_updates">Provjera ažuriranja…</string>
   <string name="children_mode_enable_title">Dječji način</string>
   <string name="children_mode_set_apps_title">Dostupne aplikacije</string>
@@ -1221,10 +1223,14 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="external_data_size_label">USB uređaj za pohranu podataka</string>
   <string name="external_storage_turn_off">Vanjska pohrana je isključena</string>
   <string name="external_storage_turn_on">Vanjska pohrana je uključena</string>
-  <string name="extreme_threats_summary">Primanje obavijesti za ekstremne ugroženosti života i imovi</string>
+  <string name="extreme_threats_summary">Primanje obavijesti za ekstremne ugroženosti života i imovinu</string>
   <string name="extreme_threats_title">Ekstremne prijetnje</string>
   <string name="factory_reset_summary">"Izbriši sve podatke iz unutarnje memorije telefona"</string>
+  <string name="failed_to_check_find_device_status_content">"Ne mogu provjeriti status. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="failed_to_check_find_device_status_title">"Ne mogu provjeriti status Pronađi uređaj"</string>
   <string name="failed_to_open_app_settings_toast">Otvaranje postavki za aplikaciju %1$s nije uspjelo</string>
+  <string name="failed_to_shut_down_find_device_content">"Ne mogue isključiti Pronađi uređaj. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="failed_to_shut_down_find_device_title">"Ne mogu isključiti Pronađi uređaj"</string>
   <string name="fcc_equipment_id">ID opreme</string>
   <string name="filter">Filtar</string>
   <string name="filter_apps_all">Sve</string>
@@ -2634,8 +2640,12 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
   <string name="show_user_info_on_lockscreen_label">Prikaži podatke o korisniku na zaključanom zaslonu</string>
+  <string name="shut_down_find_device_failure_confirm">OK</string>
+  <string name="shut_down_find_device_network_failure_content">"Ne mogu isključiti Pronađi uređaj. Provjerite je li uređaj povezan s internetom."</string>
+  <string name="shut_down_find_device_network_failure_title">"Ne mogu se povezati na mrežu"</string>
+  <string name="shuting_down_find_device">Isključivanje Pronađi uređaj…</string>
   <string name="silent_mode_title">Bešumni način</string>
-  <string name="sim_absent">No SIM/RUIM</string>
+  <string name="sim_absent">Nema SIM/RUIM</string>
   <string name="sim_bad_pin">Netočan PIN</string>
   <string name="sim_call_back_title">Uzvratni poziv sa zadanog SIM-a</string>
   <string name="sim_calls_always_use">Uvijek upotrebljavaj za pozive</string>
@@ -2763,7 +2773,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_awaiting_tap">Dodirnite oznaku da zapišete podatke…</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
   <string name="status_bar_and_notification_bar">Panel obavijesti i statusna traka</string>
-  <string name="status_bar_app_des_separator">, </string>
+  <string name="status_bar_app_des_separator">", "</string>
   <string name="status_bar_app_disable_notification">Obavijesti sakrivene</string>
   <string name="status_bar_app_enable_floating">Plutajuće obavijesti</string>
   <string name="status_bar_app_enable_keyguard">Zaklj. zaslon</string>
@@ -2800,7 +2810,7 @@ To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</strin
   <string name="status_bar_settings_show_floating_notification_summary">"Plutajuće obavijesti automatski će nestati nakon što se prikažu na vrhu zaslona"</string>
   <string name="status_bar_settings_show_flow_info">Prikaži detalje plutanja</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
-  <string name="status_bar_settings_show_keyguard_notification">Zaklj. zaslon</string>  
+  <string name="status_bar_settings_show_keyguard_notification">Obavijesti zaklj. zaslona</string>  
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži u panelu</string>
   <string name="status_bar_settings_show_notification_icon">Prikaži ikone obavijesti</string>
@@ -3264,7 +3274,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="virus_scanner_auto_update">Ažuriraj automatski</string>
   <string name="virus_scanner_date_formater">dd.MM.yyyy</string>
   <string name="virus_scanner_lib_already_latest">Već koristite najnovije definicije :)</string>
-  <string name="virus_scanner_lib_update_failed">Ažuriranje nije uspjelo</string>
+  <string name="virus_scanner_lib_update_failed">"Ne mogu ažurirati"</string>
   <string name="virus_scanner_lib_updating">Ažuriranje definicija…</string>
   <string name="virus_scanner_manual_update">Ažurirano %s</string>
   <string name="virus_scanner_provider">Definicije omogućuje %s</string>

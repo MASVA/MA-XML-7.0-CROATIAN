@@ -32,6 +32,7 @@
   <string name="confirm">U redu</string>
   <string name="confirm_delete_downloads_message">%d preuzimanja će biti izbrisano.</string>
   <string name="confirm_delete_the_download_item_message">Izbrisati ova preuzimanja?</string>
+  <string name="creat_task_success">Dodano na red za preuzimanje</string>
   <string name="create_task">Izradi zadatak</string>
   <string name="delete">Izbriši</string>
   <string name="delete_download">Izbriši</string>
@@ -226,9 +227,12 @@ i pokušajte ponovno."</string>
   <string name="sniff_result_num_video_suffix">stavki</string>
   <string name="sniff_result_num_website_suffix">web stranica</string>
   <string name="sniff_result_website_intro">Ukupno&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; stavki | Izvor: %2$s</string>
+  <string name="sniff_search_assoicate_sizeinfo">Veličina: %1$s</string>
+  <string name="sniff_search_install">Instaliraj</string>
   <string name="sniff_sniffing_btn_text">Traženje izvora…</string>
   <string name="sniff_terms_agree">Prihvaćam</string>
   <string name="sniff_terms_msg">Trebali bi prihvatiti \"Uvjeti korištenja\" da počnete koristiti drugu tražilicu.</string>
+  <string name="sniff_terms_msg_bold">Uvjeti korištenja</string>
   <string name="sniff_terms_reject">Odbijam</string>
   <string name="sniff_terms_title">Pažnja</string>
   <string name="sniff_text_sniff_next_page">Nastavi &gt;</string>
@@ -251,7 +255,7 @@ i pokušajte ponovno."</string>
   <string name="third_web_filename_hint">Naziv</string>
   <string name="third_web_filesize">Veličina:</string>
   <string name="third_web_savepath">Lokacija</string>
-  <string name="third_web_title">Spremi</string>
+  <string name="third_web_title">Preuzmi</string>
   <string name="title_tips">Pažnja</string>
   <string name="title_unbind_xunlei">Ukloni Xunlei Račun</string>
   <string name="toast_xunlei_engine_open">"Xunlei ubrzanje preuzimanja uključeno.

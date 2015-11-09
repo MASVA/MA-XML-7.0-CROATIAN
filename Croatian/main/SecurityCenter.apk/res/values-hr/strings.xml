@@ -24,7 +24,9 @@
   <string name="activity_title_power_manager">Potrošnja baterije</string>
   <string name="activity_title_risk">Rizik</string>
   <string name="activity_title_risk_detail">Detalji</string>
+  <string name="activity_title_root_acquired">Dopusti ROOT pristup</string>
   <string name="activity_title_root_manager">ROOT pristup</string>
+  <string name="activity_title_root_note">O ROOT pristupu</string>
   <string name="activity_title_settings">Postavke</string>
   <string name="activity_title_system">Sustav</string>
   <string name="activity_title_trash">Predmemorija</string>
@@ -314,6 +316,7 @@
   <string name="permission_send_sms_descx">Pošalji SMS i MMS poruke direktno</string>
   <string name="permission_with_SMS_and_MMS">Dopuštenja koja se odnose na SMS i MMS</string>
   <string name="permission_with_call_and_contact">Dopuštenja koja se odnose na telefonske pozive, informacije kontakata i povijest poziva.</string>
+  <string name="pm_root_success_notification_title">ROOT pristup omogućen</string>
   <string name="power_20s_enter_mode">Na %1$ds baterije prebaci na %2$s</string>
   <string name="power_20s_shutdown">Uređaj će se isključiti za 20 sek.</string>
   <string name="power_apply_toast">Prebačeno na %s </string>

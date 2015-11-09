@@ -10,6 +10,10 @@
   <string name="dialog_insufficient_space_on_cache">Nema dovoljno prostora na unutarnjoj pohrani</string>
   <string name="dialog_insufficient_space_on_external">Nema dovoljno prostora na vanjskoj pohrani</string>
   <string name="dialog_not_show_again">"Ne prikazuj ponovo"</string>
+  <string name="download_apk_desktop_installing">Instaliranje…</string>
+  <string name="download_apk_desktop_pause">Pauzirano</string>
+  <string name="download_apk_desktop_pending">Na čekanju</string>
+  <string name="download_apk_desktop_running">Preuzimanje…</string>
   <string name="download_error">Neuspješno</string>
   <string name="download_no_application_title">"Nije moguće otvaranje datoteke"</string>
   <string name="download_percent">%d%%</string>

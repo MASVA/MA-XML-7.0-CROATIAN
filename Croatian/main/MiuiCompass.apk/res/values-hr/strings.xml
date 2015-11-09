@@ -53,6 +53,6 @@
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Protresite za kalibriranje</string>
-  <string name="using_camera_confirm_cancel">Zatvori</string>
+  <string name="using_camera_confirm_cancel">Izlaz</string>
   <string name="using_camera_confirm_ok">Slažem se</string>
 </resources>

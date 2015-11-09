@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activate_xiaomi_account">Aktiviraj ovaj ureðaj</string>
+  <string name="app_name">Pronaði ureðaj</string>
+  <string name="captcha">Captcha</string>
+  <string name="change_find_device_status_failed">"Ne mogu otkljuèati. %s."</string>
+  <string name="disable_find_device_error">"Ne mogu iskljuèiti Pronaði ureðaj. %1$s"</string>
+  <string name="disable_find_device_success">Pronaði Ureðaj" je iskljuèen.</string>
+  <string name="enable_find_device_error">"Ne mogu ukljuèiti Pronaði ureðaj. %1$s"</string>
+  <string name="enable_find_device_success">Pronaði ureðaj je ukljuèen.</string>
+  <string name="find_device">Pronaði ureðaj</string>
+  <string name="find_device_error_account_sys_timeout">"Ne mogu se povezati na Mi Raèun"</string>
+  <string name="find_device_error_network">Provjerite podatkovnu vezu i pokušajte ponovo.</string>
+  <string name="find_device_error_password_changed">Zaporka raèuna je nedavno promijenjena.</string>
+  <string name="find_device_error_server">Pogreška poslužitelja</string>
+  <string name="find_device_error_unknown">Nepoznata pogreška.</string>
+  <string name="find_device_noise_title">Zvuk lociranja ureðaja</string>
+  <string name="find_device_notice_p1">Idite na</string>
+  <string name="find_device_notice_p2">i.mi.com</string>
+  <string name="find_device_notice_p3">" da pronaðete, zakljuèate, ili poništite svoj ureðaj na daljinu.
+Ako promjenite SIM kartice, još jedna SMS poruka æe automatski biti poslana za ponovno aktiviranje ove znaèajke."</string>
+  <string name="find_device_stop_noise">Dodirnite U redu da utišate</string>
+  <string name="find_device_success_title">Pronaði ureða</string>
+  <string name="i_know">U redu</string>
+  <string name="login_failed">"Ne mogu se prijaviti"</string>
+  <string name="password">Zaporka</string>
+  <string name="phone_locked">Ovaj je ureðaj možda povezan s postojeæim Mi Raèunom (%s). Prijavite se da aktivirate ovaj ureðaj.</string>
+  <string name="stop_on_empty_captcha">"Captcha polje ne može biti prazno"</string>
+  <string name="stop_on_empty_password">"Polje zaporke ne može biti prazno"</string>
+  <string name="unlock">Aktiviraj</string>
+  <string name="unlock_access_denied">Pristup odbijen</string>
+  <string name="unlock_bad_authentication">Pogrešno korisnièko ime ili zaporka</string>
+  <string name="unlock_error_device_id">"Ne mogu dobiti ID ureðaja"</string>
+  <string name="unlock_error_interrupted">Prekinuto</string>
+  <string name="unlock_error_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="unlock_error_rpc">RPC pogreška</string>
+  <string name="unlock_error_server">Pogreška poslužitelja</string>
+  <string name="unlock_error_ssl_hand_shake">"Ne mogu se povezati s poslužiteljem, pokušajte podesiti datum i vrijeme ruèno."</string>
+  <string name="unlock_error_unknown">"Ne mogu se prijaviti"</string>
+  <string name="unlock_error_user_name">Pogrešno korisnièko ime</string>
+  <string name="unlock_wrong_captcha">Uneseni kôd nije ispravan</string>
+  <string name="unlocking">Aktivacija...</string>
+  <string name="verify_password_failed">"Ne mogu potvrditi ID Mi Raèuna. %s."</string>
+</resources>

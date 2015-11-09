@@ -34,6 +34,7 @@
   <string name="error_title">"Ne mogu sinkronizirati"</string>
   <string name="error_unauthorized">Sinkronizacija je isključena zbog prevelikog broja pokušaja prijave.</string>
   <string name="evening">PM</string>
+  <string name="fmt_chinese_date"/>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -200,7 +201,7 @@ idite na: %s."</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
-  <string name="sync_one_time_sync">Sinkronizacija ( %1$s)</string>
+  <string name="sync_one_time_sync">Sinkronizacija ( %1$s )</string>
   <string name="the_anniversary_of_lifting_martial_law"/>
   <string name="the_anti_aggression_day"/>
   <string name="the_arbor_day"/>

@@ -12,6 +12,7 @@
   <string name="no_network_btn">Pokušaj ponovo</string>
   <string name="ok_button">U redu</string>
   <string name="open_browser">Otvori u pregledniku</string>
+  <string name="pm_lable_name">O ROOT pristupu</string>
   <string name="privacy_declare_dialog_title">Uvjeti pružanja usluge</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i pojedinosti operatera biti će šifrirani i poslani na Mi poslužitelje da bi dobili više informacija o mogućnosti kupnje podataka."</string>
   <string name="share">Podijeli</string>

@@ -15,6 +15,12 @@ Dozvoliti sada i ubuduće?"</string>
   <string name="app_store_missing_message">"Izgleda da niste instalirali našu službenu App Store. Instalirati je sada?"</string>
   <string name="app_store_missing_title">"App Store nije instalirana"</string>
   <string name="auto_startup_dialog_msg">Ova se aplikacija ne može pokrenuti bez vašeg dopuštenja.</string>
+  <string name="btn_text_install_new_version">Zadnja verzija</string>
+  <string name="btn_text_install_origin">Originalna verzija</string>
+  <string name="btn_text_install_security_version_in_appstore">Zamijeni sa sigurnom verzijom</string>
+  <string name="btn_text_scaning">Skeniranje…</string>
+  <string name="btn_text_security_install">Zamijeni sa sigurnom verzijom</string>
+  <string name="btn_text_security_scan">Sigurnosno skeniranje</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_delete">Izbriši</string>
   <string name="button_text_delete_timer">Izbriši (%d)</string>
@@ -47,6 +53,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="install_failed_system_incompatible">"Ova aplikacija nije kompatibilna s MIUI"</string>
   <string name="install_failed_verify_failed">Paket nije prošao provjeru i ne može se instalirati.</string>
   <string name="install_failed_verify_timeout">Isteklo je vrijeme za pokušaj potvrde ovog paketa. Pokušajte ga kasnije ponovo instalirati.</string>
+  <string name="install_from_appstore_hint">Preporučujemo vam da instalirate aplikaciju iz App Store</string>
   <string name="installing">Instaliranje…</string>
   <string name="launch">Otvori</string>
   <string name="lift_ban">Dopusti</string>
@@ -54,6 +61,11 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="low_risk_perms">Dopuštenja niskog rizika</string>
   <string name="manage_applications">Upravljanje aplikacijama</string>
   <string name="manage_device_administrators">Upravljanje administratorima uređaja</string>
+  <string name="message_apk_checking">Provjera Apk…</string>
+  <string name="message_appstore_verify_has_new_version">Novija verzija ove aplikacije dostupna je u našoj App Store. Želite li je instalirati?</string>
+  <string name="message_appstore_verify_inconsistent">"Ova aplikacija ima potpis različit od onog u App Store, sigurnije će biti instalirati aplikaciju od tamo."</string>
+  <string name="message_appstore_verify_ok">Verzija ove aplikacije na App Store je prošla naše sigurnosne testove, preporučujemo da instalirate aplikaciju od tamo.</string>
+  <string name="message_security_scaning">Skeniranje…</string>
   <string name="ok">U redu</string>
   <string name="other_relative">Ostala dopuštenja</string>
   <string name="out_of_space_dlg_text">"Nema dovoljno prostora za pohranu na uređaju za instaliranje %1$s."</string>
@@ -109,4 +121,5 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="virus_scan_install">Instaliraj svejedno</string>
   <string name="virus_scan_is_risk">"Ovaj aplikacija predstavlja rizik za sigurnost vašeg uređaja."</string>
   <string name="virus_scan_is_virus">Ova aplikacija sadrži virus.</string>
+  <string name="waiting_tip">Ovo može potrajati neko vrijeme, ali se isplati</string>
 </resources>
