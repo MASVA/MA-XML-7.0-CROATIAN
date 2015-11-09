@@ -1264,8 +1264,6 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="shoes_bind_alert_title">Ne mogu upariti</string>
   <string name="shoes_bind_change_ok">Zamjeni</string>
   <string name="shoes_bind_change_text" formatted="false">Povezani ste s %s, sigurno se želite povezati s %s?</string>
-  <string name="shoes_bind_prompt">"请晃动华米智芯
-然后将华米智芯的二维码放在取景框中"</string>
   <string name="shoes_bind_failed">Povezivanje nije uspjelo</string>
   <string name="shoes_bind_first">Prvo povežite</string>
   <string name="shoes_bind_prompt">Stavite na…</string>
