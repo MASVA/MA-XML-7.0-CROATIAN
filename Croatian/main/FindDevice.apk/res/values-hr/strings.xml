@@ -4,7 +4,7 @@
   <string name="app_name">Pronaði uređaj</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne mogu otključati. %s."</string>
-  <string name="disable_find_device_error">"Ne mogu isključiti Pronaði uređaj. %1$s"</string>
+  <string name="disable_find_device_error">"Ne mogu isključiti Pronađi uređaj. %1$s"</string>
   <string name="disable_find_device_success">Pronađi Uređaj je isključen.</string>
   <string name="enable_find_device_error">"Ne mogu uključiti Pronađi uređaj. %1$s"</string>
   <string name="enable_find_device_success">Pronađi uređaj je uključen.</string>
