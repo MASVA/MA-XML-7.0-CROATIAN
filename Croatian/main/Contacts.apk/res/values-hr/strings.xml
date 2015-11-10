@@ -212,6 +212,7 @@ Kartice kontakata su isključene"</string>
   <string name="contact_detail_profile_switch_on_subtitle">Dodirnite da uključite kartice kontakata</string>
   <string name="contact_detail_profile_switch_on_success_toast">Kartice kontakata su uključene</string>
   <string name="contact_directory_description">Direktorij %1$s</string>
+  <string name="contact_edit_save_error_empty">Kontakt je prazan</string>
   <string name="contact_edit_title_edit">"Uredi kontakt"</string>
   <string name="contact_edit_title_insert">"Spremi u %s"</string>
   <string name="contact_edit_title_readonly">Kontakt samo za čitanje</string>
@@ -239,6 +240,7 @@ Kartice kontakata su isključene"</string>
   <string name="create_group_dialog_title">Izrada nove grupe</string>
   <string name="create_group_item_label">Izrada nove grupe</string>
   <string name="create_qrcode_fail_message">"Ne mogu kreirati QR kod"</string>
+  <string name="create_voip_shortcut_success">Prečac je napravljen</string>
   <string name="customLabelPickerTitle">Prilagođeni naziv oznake</string>
   <string name="custom_list_filter">"Definiranje prilagođenog prikaza"</string>
   <string name="custom_nickname_hint">Unesite nadimak</string>
@@ -765,6 +767,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="no_contacts_dialog_title">Pronalaženje kontakata nije uspjelo</string>
   <string name="no_contacts_selected">Nije odabran nijedan kontakt.</string>
   <string name="no_sdcard_message">"Pohrana nije pronađena."</string>
+  <string name="no_voip_contacts">Nema VOIP kontakata</string>
   <string name="non_phone_add_to_contacts">Dodaj kontaktima</string>
   <string name="non_phone_caption">Broj telefona</string>
   <string name="non_phone_close">"Zatvori"</string>
@@ -1281,7 +1284,13 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="voicemail_status_configure_voicemail">"Postavite svoju govornu poštu."</string>
   <string name="voicemail_status_messages_waiting">"Povezivanje s poslužiteljem govorne pošte nije moguće." Nova govorna pošta čeka."</string>
   <string name="voicemail_status_voicemail_not_available">"Povezivanje s poslužiteljem govorne pošte nije moguće."</string>
-  <string name="voip_name">Mi Voice</string>
+  <string name="voip_contact_label">Mi Voice</string>
+  <string name="voip_contacts_entry">Mi Voice</string>
+  <string name="voip_contacts_entry_header">Mi Poruka i Voice</string>
+  <string name="voip_loading_contact">Samo tren…</string>
+   <string name="voip_name">Mi Voice</string>
+  <string name="voip_recommend_msg">Dodirnite za korištenje Voip-a</string>
+  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="websiteLabelsGroup">"Web-lokacija"</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Izbriši podatke</string>

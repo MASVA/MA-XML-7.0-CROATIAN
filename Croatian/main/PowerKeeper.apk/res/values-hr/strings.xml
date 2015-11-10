@@ -7,6 +7,7 @@
   <string name="activity_title_poweroptimize">Štednja baterije</string>
   <string name="add_applications">Odaberi aplikacije</string>
   <string name="add_apps_title">Aplikacije</string>
+  <string name="app_list_total">Aplikacija: %d</string>
   <string name="add_user_define_group_failed">"Ne mogu dodati profil"</string>
   <string name="add_user_define_title">Dodaj profil</string>
   <string name="alter_message_abandon_title">Odbaciti promjene?</string>

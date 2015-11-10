@@ -259,6 +259,9 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
  
  
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"Ova značajka može zatražiti vaš broj telefona. Vaš operater vam može naplatiti SMS poruku korištenu za aktiviranje ove značajke kada je otkrivena SIM kartica.
+
+Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
   <string name="mx_dspt_provision_with_voip">"Nazovite druge MIUI korisnike besplatno koristeći internetsku vezu. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
   <string name="mx_dspt_provision_with_voip2">Pravila o Privatnosti</string>
   <string name="mx_sub_dspt_provision">Mi Poruka</string>

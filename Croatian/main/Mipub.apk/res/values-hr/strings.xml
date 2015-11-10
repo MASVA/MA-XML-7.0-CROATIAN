@@ -84,6 +84,7 @@
   <string name="hms_uri_param_err">"Poveznica ne može biti prazna"</string>
   <string name="invalid_conversation">Nevažeći razgovor</string>
   <string name="left_cancel">Pomaknite ulijevo da poništite</string>
+  <string name="low_memory">Manjak memorije!</string>
   <string name="menu_add_black">Blokiraj ovaj broj</string>
   <string name="menu_add_contact">Dodaj postojećem kontaktu</string>
   <string name="menu_call">Poziv</string>
@@ -186,6 +187,7 @@
   <string name="restore_blocked_message">Vrati blokirane poruke</string>
   <string name="retrive_hms_tips">Preuzimam…</string>
   <string name="save">Spremi</string>
+  <string name="scan_result">Rezultati skeniranja</string>
   <string name="search_empty">Nema podudaranja</string>
   <string name="search_hint">Pretraživanje slanja poruka</string>
   <string name="search_label">Poruke</string>

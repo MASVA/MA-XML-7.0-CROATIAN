@@ -163,7 +163,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="screen_pinning_negative">Ne hvala</string>
   <string name="screen_pinning_positive">Razumijem</string>
   <string name="screen_pinning_title">Zaslon je prikvačen</string>
-  <string name="screenshot_failed_text">"Ne mogu spremiti snimku zaslona. Pohrana je možda u upotrebi."</string>
+  <string name="screenshot_failed_text">"Ne mogu napraviti snimak zaslona zbog ograničenog prostora za pohranu, ili to ne dopušta aplikacija ili vaša organizacija."</string>
   <string name="screenshot_saved_text">"Dodirnite za prikaz snimke zaslona."</string>
   <string name="screenshot_saved_title">"Zaslon je snimljen."</string>
   <string name="screenshot_saving_text">Snimka zaslona se sprema.</string>

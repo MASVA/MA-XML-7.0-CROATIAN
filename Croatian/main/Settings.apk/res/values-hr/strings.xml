@@ -3307,7 +3307,7 @@ Riječ možete dodati dodirom na tipku Dodaj (+)"</string>
   <string name="volume_media_mute">Isključivanje zvuka glazbe &amp; drugih medija</string>
   <string name="volume_notification_description">Obavijesti</string>
   <string name="volume_notification_mute">Isključivanje zvuka obavijesti</string>
-  <string name="volume_restore">Poništavanje razina</string>
+  <string name="volume_restore">Resetiranje razina</string>
   <string name="volume_restore_alert">"Sve razine glasnoće će se resetirati."</string>
   <string name="volume_ring_description">Melodija zvona &amp; obavijesti</string>
   <string name="volume_ring_mute">Isključi zvuk melodije zvona &amp; obavijesti</string>
@@ -3702,7 +3702,7 @@ Postavljanje uređaja može zahtijevati znatnu mrežnu aktivnost."</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD kartica nema AS Certifikat.</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Format AS certifikata je neispravan.</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Unesi naziv AS certifikata</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Kreiranje mape nije uspjelo.</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">"Ne mogu napraviti mapu."</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Mapa s tim nazivom već postoji.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Unesi naziv mape</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">Upravljanje WAPI certifikatima</string>
