@@ -123,8 +123,8 @@
   <string name="pm_root_acquired_button">ROOT pristup</string>
   <string name="pm_root_acquired_notification_title">Dobivanje ROOT pristupa</string>
   <string name="pm_root_acquired_rooting">Dobivanje ROOT pristupa %s</string>
-  <string name="pm_root_checking">Checking system info…</string>
-  <string name="pm_root_fail_button_retry">Retry</string>
+  <string name="pm_root_checking">Provjera informacija sustava…</string>
+  <string name="pm_root_fail_button_retry">Pokušaj ponovo</string>
   <string name="pm_root_fail_msg">"Ova aplikacija ne može dobiti ROOT pristup. Pokušajte ponovo."</string>
   <string name="pm_root_fail_service_busy">Pričekajte dok vaš uređaj ne završi sa ažuriranjem i pokušajte ponovo.</string>
   <string name="pm_root_fail_title">"Ne mogu dobiti ROOT pristup"</string>
