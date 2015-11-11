@@ -124,6 +124,7 @@
   <string name="callrecordview_menu_show_sim">%s poziva</string>
   <string name="callrecordview_menu_show_stranger">Pozivi od nepoznatih brojeva</string>
   <string name="callrecordview_menu_show_title">Prikaz povijesti poziva</string>
+  <string name="calls_voip_prompt">VOIP</string>
   <string name="cancel_confirmation_dialog_message">Odbaciti promjene?</string>
   <string name="cancel_confirmation_dialog_title">Odustani</string>
   <string name="cancel_export_confirmation_message">"Otkazati izvoz datoteke %s?"</string>
@@ -466,6 +467,7 @@ Razlog: \"%s\""</string>
   <string name="import_all_vcard_string">"Uvezi sve vCard datoteke"</string>
   <string name="import_contact_card_button">Uvezi kontakt</string>
   <string name="import_failure_no_vcard_file">"U pohrani nema pronađenih vCard datoteka."</string>
+  <string name="import_from_onekey_migrate">Uvezi sa Prijenosom</string>
   <string name="import_from_other_phone">Uvezi s drugog uređaja</string>
   <string name="import_from_sdcard">Uvoz iz pohrane</string>
   <string name="import_from_sim">Uvezi sa SIM kartice</string>
@@ -767,7 +769,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="no_contacts_dialog_title">Pronalaženje kontakata nije uspjelo</string>
   <string name="no_contacts_selected">Nije odabran nijedan kontakt.</string>
   <string name="no_sdcard_message">"Pohrana nije pronađena."</string>
-  <string name="no_voip_contacts">Nema VOIP kontakata</string>
+  <string name="no_voip_contacts">Nema Mi Voice kontakata</string>
   <string name="non_phone_add_to_contacts">Dodaj kontaktima</string>
   <string name="non_phone_caption">Broj telefona</string>
   <string name="non_phone_close">"Zatvori"</string>
@@ -799,7 +801,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">"Telefon"</string>
-  <string name="phone_call_type_voip">VOIP</string>
+  <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_primary">"Primarni"</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija na telefonu.</string>
@@ -1288,8 +1290,8 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_contacts_entry_header">Mi Poruka i Voice</string>
   <string name="voip_loading_contact">Samo tren…</string>
-   <string name="voip_name">Mi Voice</string>
-  <string name="voip_recommend_msg">Dodirnite za korištenje Voip-a</string>
+  <string name="voip_name">Mi Voice</string>
+  <string name="voip_recommend_msg">Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
   <string name="websiteLabelsGroup">"Web-lokacija"</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>

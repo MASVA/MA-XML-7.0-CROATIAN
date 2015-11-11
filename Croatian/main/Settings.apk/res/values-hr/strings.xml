@@ -1226,7 +1226,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="extreme_threats_summary">Primanje obavijesti za ekstremne ugroženosti života i imovinu</string>
   <string name="extreme_threats_title">Ekstremne prijetnje</string>
   <string name="factory_reset_summary">"Izbriši sve podatke iz unutarnje memorije telefona"</string>
-  <string name="failed_to_check_find_device_status_content">"Ne mogu provjeriti status. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="failed_to_check_find_device_status_content">"Ne mogu provjeriti status Pronađi uređaj. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="failed_to_check_find_device_status_title">"Ne mogu provjeriti status Pronađi uređaj"</string>
   <string name="failed_to_open_app_settings_toast">Otvaranje postavki za aplikaciju %1$s nije uspjelo</string>
   <string name="failed_to_shut_down_find_device_content">"Ne mogue isključiti Pronađi uređaj. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
@@ -2562,6 +2562,7 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="security_keyguard_category_name">Zaključan zaslon</string>
   <string name="security_password_category_name">Zaklj. zaslona</string>
   <string name="security_passwords_title">Zaporke</string>
+  <string name="security_patch">Sigurnosna zakrpa Android razine</string>
   <string name="security_privacy_settings_title">Privatnost</string>
   <string name="security_relative">Sigurnost</string>
   <string name="security_settings_billing_desc">Ova aplikacija može naplaćivati upotrebu:</string>

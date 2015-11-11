@@ -76,6 +76,10 @@
   <string name="power_config_cpu_mode_title">CPU način</string>
   <string name="power_config_data_connect_summary">Dopusti Aplikacijama povezivanje na mrežu u pozadini</string>
   <string name="power_config_data_connect_title">Podatkovna veza</string>
+  <string name="power_config_disable_description">MIUI će ograničiti funkcionalnost aplikacija u pozadini</string>
+  <string name="power_config_disable_title">Onemogući</string>
+  <string name="power_config_enhance_description">MIUI će nastojati smanjiti aktivnost aplikacija u pozadini</string>
+  <string name="power_config_enhance_title">Poboljšana energija</string>
   <string name="power_config_event_delete">Izbriši</string>
   <string name="power_config_idle_notification_summary">Prikaži samo prvu obavijest aplikacije</string>
   <string name="power_config_idle_notification_title">Prikaži samo prvu obavijest</string>
@@ -85,11 +89,16 @@
   <string name="power_config_lcd_mode_title">LCD način</string>
   <string name="power_config_location_summary">"Dopusti aplikaciji prikaz lokacije vašeg uređaja"</string>
   <string name="power_config_location_title">Pristup lokaciji</string>
+  <string name="power_config_mode_title">Kontrola razine energije aplikacija u pozadini</string>
+  <string name="power_config_normal_description">U skladu s konfiguracijom aplikacija, MIUI će ograničiti aplikacije u pozadini i pozicioniranje mreže</string>
+  <string name="power_config_normal_title">Standardna energija</string>
   <string name="power_config_phone_charging_title">Punjenje</string>
   <string name="power_config_phone_idle_title">Mirovanje</string>
   <string name="power_config_select_apps_empty">Dodirnite za odabir aplikacija</string>
   <string name="power_config_select_apps_title">Aplikacija</string>
   <string name="power_config_title">Postavke</string>
+  <string name="power_config_ultimate_description">MIUI će nastojati zamrznuti aplikacije u pozadini</string>
+  <string name="power_config_ultimate_title">Ultimativna energija</string>
   <string name="power_configure_screen_brightness_enable">Postavite osvjetljenje zaslona</string>
   <string name="power_customize_giveup_change">Odbaciti promjene?</string>
   <string name="power_dialog_cancel">Odustani</string>

@@ -89,6 +89,7 @@
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+  <string name="hybrid_provider">Web stranicu pruža %1$s .</string>
   <string name="label">MIUI SDK</string>
   <string name="license_host_unreachable">"Nije moguće povezivanje s mrežom. 
 Da biste vidjeli ove informacije, 
@@ -140,6 +141,7 @@ idite na: %s."</string>
   <string name="name">Ime</string>
   <string name="nickname">Prezime</string>
   <string name="night">PM</string>
+  <string name="no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="no_sim">Nema SIM kartice</string>
   <string name="noon">PM</string>
   <string name="note">Bilješka</string>
@@ -258,6 +260,7 @@ idite na: %s."</string>
   <string name="web_sso_login_fail">Morate se prijaviti ponovo</string>
   <string name="web_sso_login_message">Prijava…</string>
   <string name="website">Web stranica</string>
+  <string name="webview_reload">Pokušaj ponovo</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>

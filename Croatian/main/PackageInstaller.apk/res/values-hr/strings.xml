@@ -65,6 +65,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="message_appstore_verify_has_new_version">Novija verzija ove aplikacije dostupna je u našoj App Store. Želite li je instalirati?</string>
   <string name="message_appstore_verify_inconsistent">"Ova aplikacija ima potpis različit od onog u App Store, sigurnije će biti instalirati aplikaciju od tamo."</string>
   <string name="message_appstore_verify_ok">Verzija ove aplikacije na App Store je prošla naše sigurnosne testove, preporučujemo da instalirate aplikaciju od tamo.</string>
+  <string name="message_install_in_market">Preporučujemo vam da instalirate aplikaciju iz AppStore</string>
   <string name="message_security_scaning">Skeniranje…</string>
   <string name="ok">U redu</string>
   <string name="other_relative">Ostala dopuštenja</string>

@@ -93,7 +93,7 @@
         <item quantity="one">Izbriši kontakt</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d ljudi</item>
+        <item quantity="other">%d osoba</item>
         <item quantity="one">1 osoba</item>
     </plurals>
     <plurals name="device_import_done_toast">
@@ -113,20 +113,24 @@
         <item quantity="other">Zvoni (%d) puta</item>
         <item quantity="one">Zvoni (%d) puta</item>
     </plurals>
+	<plurals name="voip_contacts_count">
+        <item quantity="other">%1$d osoba</item>
+        <item quantity="one">%1$d osoba</item>
+    </plurals>
 	<plurals name="contacts_count">
         <item quantity="other">Kontakata %1$d</item>
         <item quantity="one">%1$d kontakt</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"Ovoliko kontakata (%d) nije sinkr."</item>
-        <item quantity="one">"1 kontakt nije sinkroniziran"</item>
+        <item quantity="other">"Ovoliko kontakata/fotografija (%d) nije sinkr."</item>
+        <item quantity="one">"1 kontakt/fotografija nije sinkroniziran"</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
-        <item quantity="other">Blokirati ove brojeve telefona (%1$d)?</item>
+        <item quantity="other">Blokirati ove (%1$d) brojeve telefona?</item>
         <item quantity="one">Blokirati ovaj broj telefona?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Odblokirati ove brojeve telefona (%1$d)?</item>
+        <item quantity="other">Odblokirati ove (%1$d) brojeve telefona?</item>
         <item quantity="one">Odblokirati ovaj broj telefona?</item>
     </plurals>
 </resources> 

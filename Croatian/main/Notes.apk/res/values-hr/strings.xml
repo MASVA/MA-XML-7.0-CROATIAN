@@ -22,6 +22,7 @@
   <string name="button_new_note">"Nova bilješka"</string>
   <string name="call_record_folder_name">Bilješke poziva</string>
   <string name="default_folder_name">"Mapa bez naziva"</string>
+  <string name="dlg_delete_message">Brisanje…</string>
   <string name="dlg_desc_confirm_alarm_silent">Aktivni alarmi neće zvoniti kada je ton zvona utišan.</string>
   <string name="dlg_info_creating_message">Izrada poruke…</string>
   <string name="dlg_title_confirm_alarm_silent">Utišaj alarme</string>
@@ -71,6 +72,7 @@
   <string name="pref_title_common">"Dodatne postavke"</string>
   <string name="pref_title_font_size">Veličina fonta</string>
   <string name="pref_title_note_style">Stil bilješke</string>
+  <string name="pref_title_recover_help">Obnovi bilješke</string>
   <string name="redo">Ponovi</string>
   <string name="search">Bilješke</string>
   <string name="search_hint">Pretraži Bilješke</string>

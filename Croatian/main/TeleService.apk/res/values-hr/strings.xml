@@ -1137,7 +1137,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sim_label_emergency_calls">Hitni pozivi</string>
   <string name="sim_ndp_dismiss_text">Odbaci</string>
   <string name="sim_ndp_unlock_text">Otključaj</string>
-  <string name="sim_no_activated">"Ne mogu potvrditi SIM karticu 2"</string>
+  <string name="sim_no_activated">"Ne mogu potvrditi SIM karticu"</string>
   <string name="sim_unknown">Nepoznato</string>
   <string name="sim_unlock_failed">SIM zahtjev otključavanja neuspješan.</string>
   <string name="sim_unlock_success">SIM otključavanje uspješno.</string>

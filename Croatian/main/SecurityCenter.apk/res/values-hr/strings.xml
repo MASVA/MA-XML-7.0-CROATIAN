@@ -498,6 +498,7 @@
   <string name="preferred_app_entries_music">Glazba</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
+  <string name="prompt_input_time_illegal">"Ne mogu postaviti ovo vrijeme, promijenite ga i pokušajte ponovno"</string>
   <string name="protection_category_dangerous_title">Rizika (%d)</string>
   <string name="protection_category_recommend_title">Preporučene promjene (%d)</string>
   <string name="protection_category_security_title">Očisti (%d)</string>

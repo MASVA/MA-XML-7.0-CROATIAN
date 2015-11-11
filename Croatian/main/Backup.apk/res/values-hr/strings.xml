@@ -28,11 +28,14 @@
   <string name="backup_empty">Nema Sig. kopija!</string>
   <string name="backup_empty_info">" Napravite Sig. kopiju vaših podataka, 
   postavki i aplikacija"</string>
+  <string name="backup_empty_info_onpad">" Napravite Sig. kopiju vaših podataka, 
+  postavki i aplikacija"</string>
   <string name="backup_error">"Ne mogu napraviti Sig. kopiju"</string>
   <string name="backup_failed">Ne mogu napraviti Sig. kopiju"</string>
   <string name="backup_file_error">Ne mogu napraviti Sig. kopiju"</string>
   <string name="backup_finished">Sig. kopija uspješno završena</string>
   <string name="backup_hint">"Držite vaš uređaj uključenim</string>
+  <string name="backup_hint_onpad">Držite vaš uređaj uključenim</string>
   <string name="backup_is_running">Izrada Sig. kopije uređaja</string>
   <string name="backup_items_app_tailer">" x podaci aplikacija"</string>
   <string name="backup_items_sysdata_tailer">" x podaci sustava,"</string>
@@ -70,6 +73,7 @@
   <string name="compute_delete_contact_info">Prikupljanje informacija…</string>
   <string name="contact_title">Kontakti</string>
   <string name="current_account">Trenutan račun: %s</string>
+  <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">Telefon</string>
   <string name="current_sim">Trenutna SIM kartica</string>
   <string name="custom_progress">%d stavaka</string>
