@@ -2190,7 +2190,7 @@ i pokrenite ga."</string>
   <string name="print_service_security_warning_title">Želite li upotrijebiti uslugu %1$s?</string>
   <string name="print_settings">Ispis</string>
   <string name="print_settings_title">Usluge ispisa</string>
-  <string name="priority_storage_app_settings">Podaci biti će spremljeni na %1$s</string>
+  <string name="priority_storage_app_settings">Podaci će biti spremljeni u %1$s</string>
   <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, vaši podaci će biti spremljeni na unutarnju pohranu vašeg uređaja automatski</string>
   <string name="priority_storage_summary">Odaberite gdje će se spremati vaši podaci</string>
   <string name="priority_storage_title">Postavke pohrane</string>
@@ -2562,7 +2562,7 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="security_keyguard_category_name">Zaključan zaslon</string>
   <string name="security_password_category_name">Zaklj. zaslona</string>
   <string name="security_passwords_title">Zaporke</string>
-  <string name="security_patch">Sigurnosna zakrpa Android razine</string>
+  <string name="security_patch">Sigurnosna zakrpa</string>
   <string name="security_privacy_settings_title">Privatnost</string>
   <string name="security_relative">Sigurnost</string>
   <string name="security_settings_billing_desc">Ova aplikacija može naplaćivati upotrebu:</string>

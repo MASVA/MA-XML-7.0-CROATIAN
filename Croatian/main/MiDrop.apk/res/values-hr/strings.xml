@@ -25,6 +25,7 @@
   <string name="notif_send_progress">Prijenos na %1$s…</string>
   <string name="notif_send_success">Pošalji %1$s</string>
   <string name="notif_send_success_multi">Pošalji %1$d osoba</string>
+  <string name="receiver_accept">Prihvaćam</string>
   <string name="receiver_apk_file_current">Primanje %2$d​ od %1$s</string>
   <string name="receiver_apk_file_num">%2$d​ od %1$s</string>
   <string name="receiver_audio_file_current">Primanje %2$d​ od %1$s​​…</string>

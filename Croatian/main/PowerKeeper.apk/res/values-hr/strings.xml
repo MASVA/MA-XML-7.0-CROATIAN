@@ -77,7 +77,7 @@
   <string name="power_config_data_connect_summary">Dopusti Aplikacijama povezivanje na mrežu u pozadini</string>
   <string name="power_config_data_connect_title">Podatkovna veza</string>
   <string name="power_config_disable_description">MIUI će ograničiti funkcionalnost aplikacija u pozadini</string>
-  <string name="power_config_disable_title">Onemogući</string>
+  <string name="power_config_disable_title">Onemogućeno</string>
   <string name="power_config_enhance_description">MIUI će nastojati smanjiti aktivnost aplikacija u pozadini</string>
   <string name="power_config_enhance_title">Poboljšana energija</string>
   <string name="power_config_event_delete">Izbriši</string>
