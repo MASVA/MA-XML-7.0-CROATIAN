@@ -120,8 +120,8 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_all_sub_2_intl_sms">"2 međunarodne SMS poruke biti će poslane za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera."</string>
   <string name="micloud_all_sub_2_sms">"2 redovite SMS poruke biti će poslane za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera."</string>
   <string name="micloud_all_sub_resend_sms">"Kada uključite "Pronađi uređaj", SMS aktivacije može biti poslan nakon što promjenite SIM kartice."</string>
-  <string name="micloud_battery_low_notification_message">Napunite i sinkr. ponovo</string>
-  <string name="micloud_battery_low_notification_title">Baterija je previše slaba</string>
+  <string name="micloud_battery_low_notification_message">Priključite punjač da sinkr.</string>
+  <string name="micloud_battery_low_notification_title">Slaba baterija</string>
   <string name="micloud_buy_member">Račun</string>
   <string name="micloud_check_sim_notify_text">"Izgleda da ste promijenili SIM kartice. Prijavite se
 na vaš Mi Račun za aktiviranje Mi Clouda."</string>
@@ -132,7 +132,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_confusion_account_name">"ID Mi Računa: "</string>
   <string name="micloud_confusion_account_notify_text">Vaš Mi Račun je izmijenjen s drugog uređaja.</string>
   <string name="micloud_confusion_account_notify_title">Provjera računa</string>
-  <string name="micloud_confusion_account_question">Da li ovaj ID Mi Računa: %s pripada vama?</string>
+  <string name="micloud_confusion_account_question">Da li ovaj ID Mi Računa %s pripada vama?</string>
   <string name="micloud_confusion_account_title">ID Mi Računa</string>
   <string name="micloud_confusion_alert_message">Informacije vašeg Mi Računa su izmijenjena s %s.</string>
   <string name="micloud_confusion_alert_negative">Kasnije</string>
@@ -142,9 +142,9 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_confusion_check_account_title">Aktivirajte ponovo Mi Cloud</string>
   <string name="micloud_confusion_entrance_hint">"Da ga održite sigurnim, ne pristupajte podacima koje ste pohranili na Mi Cloud korištenjem zajedničkih uređaja."</string>
   <string name="micloud_confusion_entrance_notify_text">Dodirnite za prikaz detalja.</string>
-  <string name="micloud_confusion_entrance_notify_title">Vaš Mi Cloud je izmijenjen</string>
+  <string name="micloud_confusion_entrance_notify_title">Sadržaj Mi Clouda je izmijenjen</string>
   <string name="micloud_confusion_entrance_question">Jeste li se prijavili i napravili izmjene na podacima u vašem Mi Cloudu korištenjem %s?</string>
-  <string name="micloud_confusion_entrance_title">Vaš Mi Cloud je izmijenjen</string>
+  <string name="micloud_confusion_entrance_title">Sadržaj Mi Clouda je izmijenjen</string>
   <string name="micloud_confusion_finish_hint">"Promjene koje napravite na ovom uređaju biti će sinkronizirane na svim vašim uređajima. Da bi zaštitili vaš račun, preporučujemo da isključite sinkronizaciju na drugim uređajima kada ih ne koristite."</string>
   <string name="micloud_confusion_finish_message">Uvjerite se da nijedan od vaših starih i neaktivnih uređaja ne vrši sinkronizaciju s vašim Mi Cloudom.</string>
   <string name="micloud_confusion_finish_title">Račun provjeren</string>
