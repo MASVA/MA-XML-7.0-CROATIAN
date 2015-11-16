@@ -64,6 +64,7 @@
   <string name="category_zip">Arhive</string>
   <string name="choose_send_type">Odaberite način</string>
   <string name="choose_upload_location">Pošalji na KuaiPan mapu</string>
+  <string name="clean_hint">Dodirnite da oslobodite prostor</string>
   <string name="clean_message">Oslobođeno %1$s prostora.</string>
   <string name="clean_title">Brisanje datoteka starije preko 30 dana.</string>
   <string name="clean_trash_box">Isprazni smeće</string>
@@ -80,9 +81,15 @@
   <string name="connection_error">"Ne mogu se povezati"</string>
   <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Stavi na početni zaslon</string>
-  <string name="create_new_folder_desctiption">Stvaranje mape…</string>
-  <string name="create_new_folder_failed">Neuspješno stvaranje mape</string>
-  <string name="create_share_link_description">Stvori vezu za dijeljenje…</string>
+  <string name="create_new_folder_desctiption">Izrada mape…</string>
+  <string name="create_share_link_description">Napravi vezu za dijeljenje…</string>
+  <string name="create_new_folder_failed">""Ne mogu napraviti mapu"</string>
+  <string name="create_shortcut_cancel">Ne hvala</string>
+  <string name="create_shortcut_checkbox_hint">"Ne prikazuj ponovo"</string>
+  <string name="create_shortcut_confirm">Napravi</string>
+  <string name="create_shortcut_message">Često koristite aplikaciju Datoteke. Napraviti prečac na početnom zaslonu za brže upravljanje datotekama?</string>
+  <string name="create_shortcut_success">Prečac napravljen</string>
+  <string name="create_shortcut_title">Napravi prečac</string>
   <string name="cution">Savjeti</string>
   <string name="data_capacity">Podaci %1$s</string>
   <string name="data_consumption_cancel">Izlaz</string>
@@ -227,6 +234,7 @@
   <string name="menu_item_search">Traži</string>
   <string name="menu_item_sort">Poredaj po</string>
   <string name="menu_item_sort_add_time">"Izrađeno "</string>
+  <string name="menu_item_sort_by_added_time">Dodano</string>
   <string name="menu_item_sort_date">Datumu izmjene</string>
   <string name="menu_item_sort_name">Po nazivu</string>
   <string name="menu_item_sort_size">Po veličini</string>
@@ -306,10 +314,12 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Obavijesti</string>
   <string name="notification_summary">"%1$s još ne podržava ovu značajku"</string>
-  <string name="notification_title">Obavijesti kada su nove datoteke dodane u %1$s</string>
+  <string name="notification_title">Kada %1$s izradi datoteku</string>
   <string name="notification_wechat_expired_empty">WeChat je već izbrisao ove videozapise.</string>
-  <string name="notification_wechat_title">Obavijesti WeChat videozapisa</string>
-  <string name="notify_private_folder_msg">Dodirnite da naučite više.</string>
+  <string name="notification_wechat_sticker_hint">Prikaži obavijest kada su dostupne nove WeChat naljepnice</string>
+  <string name="notification_wechat_sticker_switch_title">Dnevne obavijesti novih naljepnica</string>
+  <string name="notification_wechat_title">Obavijesti kada će WeChat videozapisi isteći</string>
+  <string name="notify_private_folder_msg">Dodirnite da saznate više.</string>
   <string name="notify_private_folder_title">Napravite skrivene mape</string>  
   <string name="online_not_support">"Ne mogu prikazati ovu datoteku online u ovom trenutku."</string>
   <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena, mogli bi:
@@ -371,6 +381,9 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="port_range">Port mora biti između 1024–65535</string>
   <string name="private_files">Skriveno</string>
   <string name="private_folder">Skrivena mapa</string>
+  <string name="private_toast_hint1">Dodirnite za dodavanje datoteka u skrivene mape</string>
+  <string name="private_toast_hint2">Da skrijete datoteku, pritisnite i zadržite je, a zatim je dodajte u skrivenu mapu.</string>
+  <string name="private_toast_hint3">Povucite prema dolje za otvaranje skrivenih mapa</string>
   <string name="promot_enctypt_password">Unesite zaporku koja se koristi za otključavanje uređaja ili za isključivanje Dječjeg načina</string>
   <string name="pull_to_signin">Povucite dolje za prijavu.</string>
   <string name="qq_not_installed">"QQ nije instaliran"</string>

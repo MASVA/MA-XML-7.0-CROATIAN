@@ -160,4 +160,12 @@
         <item quantity="few">%1$d datoteka od WeChat privremenih videozapisa će biti izbrisani. Izraditi sigurnosnu kopiju?</item>
         <item quantity="many">%1$d datoteka od WeChat privremenih videozapisa će biti izbrisani. Izraditi sigurnosnu kopiju?</item>
     </plurals>
+	<plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d novih WeChat naljepnica danas</item>
+        <item quantity="zero">%1$d novih WeChat naljepnica danas</item>
+        <item quantity="one">%1$d novih WeChat naljepnica danas</item>
+        <item quantity="two">%1$d novih WeChat naljepnica danas</item>
+        <item quantity="few">%1$d novih WeChat naljepnica danas</item>
+        <item quantity="many">%1$d novih WeChat naljepnica danas</item>
+    </plurals>
 </resources> 

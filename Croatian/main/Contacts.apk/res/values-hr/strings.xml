@@ -1240,6 +1240,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="toast_making_personal_copy">Stvaranje osobne kopije…</string>
   <string name="toast_text_copied">"Tekst kopiran"</string>
   <string name="today">Danas</string>
+  <string name="transfer_accounts">Prijenos kontakata</string>
   <string name="type_incoming">Dolazni poziv</string>
   <string name="type_missed">Propušteni poziv</string>
   <string name="type_mx_msg">Mi Poruke</string>
