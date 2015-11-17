@@ -286,7 +286,7 @@
   <string name="never_notify_network_connect">Zapamti postavke</string>
   <string name="new_folder_name">Mapa bez naziva</string>
   <string name="new_function">Skrivene mape</string>
-  <string name="new_function_info">"Da napravite skrivenu mapu, prijeđite prstom prema dolje od vrha zaslona do prvog reda ikona na početnoj stranici."</string>
+  <string name="new_function_info">"Da napravite skrivenu mapu, povucite prstom prema dolje od vrha zaslona do prvog reda ikona na početnoj stranici."</string>
   <string name="new_function_str">"WeChat naljepnice sada mogu biti prikupljene automatski.
 Preuzmite ih kada želite
 i nikad ne propustite nove cool naljepnice!"</string>

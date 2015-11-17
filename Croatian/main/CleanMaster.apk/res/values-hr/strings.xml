@@ -63,6 +63,7 @@
   <string name="cache_title_empty_folder">Prazna mapa (%d)</string>
   <string name="cache_title_empty_folder2">Prazna mapa</string>
   <string name="cache_title_system_cache">Predmemorija</string>
+  <string name="cached_garbage">Predmemorija</string>
   <string name="cancel">Odustani</string>
   <string name="clean_content_all">Sve</string>
   <string name="clean_content_one">1 stavku</string>
@@ -108,11 +109,13 @@
   <string name="empty_title_installed_apps">Prazno</string>
   <string name="empty_title_large_files">Prazno</string>
   <string name="empty_title_residual">Nema ostataka</string>
+  <string name="flow_rank_title">Uporaba podataka</string>
   <string name="garbage_clean_detail">Detalji</string>
   <string name="garbage_cleanup_detail">%1$d puta, očišćeno %2$s</string>
   <string name="garbage_month">Očišćeno %s ovaj mjesec</string>
   <string name="go_to">Nastavi</string>
   <string name="goto_set">Postavi</string>
+  <string name="grabage_rank_title">Očišćeno danas</string>
   <string name="harass_detail">Blokirano %1$d SMS-a i %2$d poziva</string>
   <string name="header_optimizer">Korištenjem ove značajke, pristajete na %s.</string>
   <string name="hint_bar_select_image">Odabrano: %d</string>
@@ -249,7 +252,7 @@
   <string name="privacy_clipboard_type">Međuspremnik</string>
   <string name="privacy_search_desc">Povijest pretraživanja</string>
   <string name="privacy_search_type">Google pretraživanje</string>
-  <string name="promotion">"Odabir urednika"</string>
+  <string name="promotion">Reklama</string>
   <string name="recommended">Istaknuto</string>
   <string name="safety_check_detail">%1$d puta, dobiveno %2$d poena</string>
   <string name="safety_rank">Ispred %d%% MIUI korisnika u pogledu sigurnosti</string>
@@ -314,7 +317,9 @@
   <string name="toast_selecte_group_restore_succeed">Fotografije vraćene</string>
   <string name="toast_uninstall_success">Deinstaliranje završeno</string>
   <string name="total_clean">Ukupno očišćeno: %s</string>
+  <string name="total_clean_text">Očisti</string>
   <string name="traffic_top">TOP 5 aplik. potrošača podataka</string>
+  <string name="unlike">Ne hvala</string>
   <string name="virus_scan">Skeniranje</string>
   <string name="white_list_ad_header">Reklama: %d</string>
   <string name="white_list_apk_header">Instal. aplik.: %d</string>

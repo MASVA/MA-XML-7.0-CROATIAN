@@ -741,8 +741,12 @@
         <item>Sve mreže</item>
     </string-array>
 	<string-array name="install_non_market_app_entries">
-        <item>Traži dopuštenje za rizične aplikacije</item>
-        <item>Dopusti</item>
+        <item>Uključi (preporučeno)</item>
+        <item>"Ne koristiti (opasno)"</item>
+    </string-array>
+	<string-array name="install_non_market_app_contents">
+        <item>Uključi</item>
+        <item>Ne koristiti</item>
     </string-array>
 	<string-array name="lock_screen_secure_after_timeout_entries">
         <item>Odmah</item>
@@ -773,10 +777,6 @@
         <item>Svaki dan</item>
         <item>Radnim danom</item>
         <item>Vlastito</item>
-    </string-array>
-	<string-array name="install_non_market_app_contents">
-        <item>Traži dopuštenje</item>
-        <item>Dopusti</item>
     </string-array>
 	<string-array name="screen_resolution_entries">
         <item>Ultrahigh (2K)</item>

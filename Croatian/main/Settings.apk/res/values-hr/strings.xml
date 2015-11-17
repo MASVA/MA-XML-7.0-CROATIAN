@@ -1407,8 +1407,8 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="input_settings">Postavke unosa</string>
   <string name="install_all_warning">Vaše uređaj i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Prihvaćate isključivu odgovornost za svu štetu nastalu na uređaju ili gubitak podataka uzrokovan upotrebom tih aplikacija.</string>
   <string name="install_applications">Nepoznati izvori</string>
-  <string name="install_no_market_app_summary">Dopusti instalaciju aplikacija iz drugih izvora osim App Store</string>
-  <string name="install_no_market_app_title">Nepoznati izvori</string>
+  <string name="install_no_market_app_summary">Skeniraj aplikacije iz drugih izvora za virusima prije instaliranja</string>
+  <string name="install_no_market_app_title">Skeniranje aplikacija iz drugih izvora</string>
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
   <string name="install_applications_title">Dopusti sve izvore aplikacija</string>
   <string name="install_text">"Instaliraj"</string>
@@ -1602,6 +1602,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="lock_settings_picker_settings">Postavite zaključavanje zaslona</string>
   <string name="lock_settings_picker_title">Odaberite zaključavanje zaslona</string>
   <string name="lock_settings_title">Sigurnost zaslona</string>
+  <string name="lock_settings_with_fingerprint">Zaklj. zaslon &amp; zaporka</string>
   <string name="lock_setup">Postavljanje je završeno.</string>
   <string name="lock_sounds_enable_title">Zvukovi zaključavanja zaslona</string>
   <string name="lockpassword_cancel_label">Odustani</string>

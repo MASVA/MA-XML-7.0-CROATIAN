@@ -176,7 +176,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_find_device_finish">Gotovo</string>
   <string name="micloud_find_device_guide_button">Uključi Pronađi uređaj</string>
-  <string name="micloud_find_device_guide_content">Kada promjenite vašu SIM karticu, poruka će biti poslana automatski\u0009o za ponovno aktiviranje ove značajke.</string>
+  <string name="micloud_find_device_guide_content">Kada promjenite vašu SIM karticu, poruka će biti poslana automatski za ponovno aktiviranje ove značajke.</string>
   <string name="micloud_find_device_guide_fail_reopen">Uključi Pronađi uređaj na Mi Cloudu</string>
   <string name="micloud_find_device_guide_fail_sub_net">Provjerite mrežnu vezu i pokušajte ponovo.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Veza je istekla. Pokušajte ponovno kasnije.</string>

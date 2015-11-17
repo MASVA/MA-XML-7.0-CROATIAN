@@ -97,6 +97,9 @@
   <string name="menu_new_contact">Novi kontakt</string>
   <string name="menu_unlock">Odznači</string>
   <string name="menu_yellowpage">Prikaži %s</string>
+  <string name="message_block_confirmation">Potvrditi da ne primate poruke?</string>
+  <string name="message_block_processing">Obrada</string>
+  <string name="message_block_reminder">Podsjetnik</string>
   <string name="message_failed">Nije uspjelo</string>
   <string name="message_pending">Slanje</string>
   <string name="message_readed">Pročitano</string>
