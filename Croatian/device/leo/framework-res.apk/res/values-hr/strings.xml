@@ -1541,11 +1541,11 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="volume_alarm">Glasnoća alarma</string>
   <string name="volume_bluetooth_call">Glasnoća značajke Bluetooth tijekom poziva</string>
   <string name="volume_call">Glasnoća poziva</string>
-  <string name="volume_icon_description_bluetooth">Glasnoća Bluetootha</string>
-  <string name="volume_icon_description_incall">Glasnoća poziva</string>
-  <string name="volume_icon_description_media">Glasnoća medija</string>
-  <string name="volume_icon_description_notification">Glasnoća obavijesti</string>
-  <string name="volume_icon_description_ringer">Glasnoća melodije zvona</string>
+  <string name="volume_icon_description_bluetooth">Bluetooth</string>
+  <string name="volume_icon_description_incall">Poziv</string>
+  <string name="volume_icon_description_media">Medija</string>
+  <string name="volume_icon_description_notification">Obavijesti</string>
+  <string name="volume_icon_description_ringer">Zvono</string>
   <string name="volume_music">Glasnoća medija</string>
   <string name="volume_music_hint_playing_through_bluetooth">Reprodukcija kroz Bluetooth</string>
   <string name="volume_music_hint_silent_ringtone_selected">Postavljena bešumna melodija zvona</string>
