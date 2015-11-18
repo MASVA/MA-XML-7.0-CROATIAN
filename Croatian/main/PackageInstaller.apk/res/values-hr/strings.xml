@@ -20,7 +20,7 @@ Dozvoliti sada i ubuduće?"</string>
   <string name="btn_text_install_security_version_in_appstore">Zamijeni sa sigurnom verzijom</string>
   <string name="btn_text_scaning">Skeniranje…</string>
   <string name="btn_text_security_install">Zamijeni sa sigurnom verzijom</string>
-  <string name="btn_text_security_scan">Sigurnosno skeniranje</string>
+  <string name="btn_text_security_scan">Potupno skeniranje</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_delete">Izbriši</string>
   <string name="button_text_delete_timer">Izbriši (%d)</string>
@@ -61,12 +61,12 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="low_risk_perms">Dopuštenja niskog rizika</string>
   <string name="manage_applications">Upravljanje aplikacijama</string>
   <string name="manage_device_administrators">Upravljanje administratorima uređaja</string>
-  <string name="message_apk_checking">Provjera Apk…</string>
+  <string name="message_apk_checking">Brzo skeniranje…</string>
   <string name="message_appstore_verify_has_new_version">Novija verzija ove aplikacije dostupna je u našoj App Store. Želite li je instalirati?</string>
   <string name="message_appstore_verify_inconsistent">"Ova aplikacija ima potpis različit od onog u App Store, sigurnije će biti instalirati aplikaciju od tamo."</string>
   <string name="message_appstore_verify_ok">Verzija ove aplikacije na App Store je prošla naše sigurnosne testove, preporučujemo da instalirate aplikaciju od tamo.</string>
   <string name="message_install_in_market">Preporučujemo vam da instalirate aplikaciju iz AppStore</string>
-  <string name="message_security_scaning">Skeniranje…</string>
+  <string name="message_security_scaning">Potpuno skeniranje…</string>
   <string name="ok">U redu</string>
   <string name="other_relative">Ostala dopuštenja</string>
   <string name="out_of_space_dlg_text">"Nema dovoljno prostora za pohranu na uređaju za instaliranje %1$s."</string>

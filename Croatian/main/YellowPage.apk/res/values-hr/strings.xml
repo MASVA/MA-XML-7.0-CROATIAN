@@ -268,6 +268,7 @@ Provjerite broj za praćenje."</string>
   <string name="no_price">Nema informacija o cijeni</string>
   <string name="notify_connect_summary">Prikaži obavijest prilikom povezivanja na internet</string>
   <string name="notify_connect_title">Obavijest povezivanja na internet</string>
+  <string name="open_installed_app">Otvori</string>
   <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
   <string name="order_date_label">Datum narudžbe: %1$s</string>

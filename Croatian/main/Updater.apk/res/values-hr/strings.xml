@@ -28,6 +28,8 @@
   <string name="button_text_update">Ažuriraj</string>
   <string name="cancel_download">Zaustaviti preuzimanje ažuriranja?</string>
   <string name="cancel_download_buton_text">Odustani</string>
+  <string name="check_local_package_validate_error_button">U redu</string>
+  <string name="check_local_package_validate_error_msg">"Ne mogu provjeriti paket ažuriranja."</string>
   <string name="check_new_version">Provjeri</string>
   <string name="check_update_policy">Postavke</string>
   <string name="check_update_when_wifi_available">Provjeri koristeći samo WLAN</string>

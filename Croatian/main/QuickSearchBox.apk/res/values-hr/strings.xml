@@ -3,7 +3,7 @@
   <string name="app_name">Pretraži</string>
   <string name="apps_search_activity"/>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-  <string name="clear_history">Izbriši povijest zapisa</string>
+  <string name="clear_history">Izbriši povijest</string>
   <string name="clear_shortcuts">Izbriši prečac</string>
   <string name="clear_shortcuts_agree">Izbriši prečace</string>
   <string name="clear_shortcuts_disagree">"Ne brisati prečace"</string>
@@ -31,7 +31,7 @@
   <string name="google_search_hint">Google pretraživanje</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google pretraživanje</string>
-  <string name="hot_search">Česta pretraživanja</string>
+  <string name="hot_search">Popularno</string>
   <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="loading">Samo tren…</string>
   <string name="menu_help">Pomoć</string>
@@ -39,8 +39,8 @@
   <string name="recently_shortcut_label">Nedavni prečaci</string>
   <string name="remove_from_history">Uklanjanje stavke iz povijesti</string>
   <string name="remove_from_history_failed">"Ne mogu ukloniti stavku iz povijesti"</string>
-  <string name="search_history">Pretraži povijest</string>
-  <string name="search_in_app_store">Pretraži na marketu</string>
+  <string name="search_history">Povijest</string>
+  <string name="search_in_app_store">Pretraži na Mi App Store</string>
   <string name="search_in_web">Pretraži na Internetu</string>
   <string name="search_settings">Postavke pretraživanja</string>
   <string name="search_sources">Stavke pretraživanja</string>
@@ -51,7 +51,7 @@
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
-  <string name="voice_search_hint_title">Pokušajte reći:</string>
+  <string name="voice_search_hint_title">"Pokušajte reći "</string>
   <string name="xiaomi_hint" />
   <string name="xiaomi_hot_query" />
   <string name="xiaomi_search_label">Rezultati</string>
