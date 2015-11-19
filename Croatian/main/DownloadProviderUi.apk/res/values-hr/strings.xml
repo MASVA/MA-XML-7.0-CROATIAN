@@ -163,6 +163,7 @@
   <string name="pref_download_revert_default">Zadano</string>
   <string name="pref_download_settings_title">Ograničenje veličine preuzimanja</string>
   <string name="pref_download_storage_path">Izradi novu mapu za preuzimanja</string>
+  <string name="pref_sniff_shortcut">Izradi prečac</string>
   <string name="pref_summary_any_bytes_popup">Uvijek čekaj WLAN vezu za preuzimanje datoteka</string>
   <string name="pref_summary_enable_max_bytes_popup">"Prikaži skočnu obavijesti kada se koristi mobilna podatkovna veza za preuzimanje sadržaja"</string>
   <string name="pref_summary_max_bytes_limit_format">Pričekaj WLAN, ako veličina datoteke premaši za %s</string>
@@ -229,6 +230,13 @@ i pokušajte ponovno."</string>
   <string name="sniff_result_website_intro">Ukupno&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; stavki | Izvor: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Veličina: %1$s</string>
   <string name="sniff_search_install">Instaliraj</string>
+  <string name="sniff_shortcut_cloudconfig_btn">Svaćam</string>
+  <string name="sniff_shortcut_cloudconfig_context">Ažuriranje izvora…</string>
+  <string name="sniff_shortcut_cloudconfig_title">Samo tren…</string>
+  <string name="sniff_shortcut_create">Prečac napravljen</string>
+  <string name="sniff_shortcut_name">Pronađi izvor</string>
+  <string name="sniff_shortcut_tip">Dodajte prečace da brže pronađete izvore.</string>
+  <string name="sniff_shortcut_tip2">Pronađite izvore za preuzimanja sa svog početnog zaslona.</string>
   <string name="sniff_sniffing_btn_text">Traženje izvora…</string>
   <string name="sniff_terms_agree">Prihvaćam</string>
   <string name="sniff_terms_msg">Trebali bi prihvatiti \"Uvjeti korištenja\" da počnete koristiti drugu tražilicu.</string>
@@ -276,6 +284,22 @@ Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="web_dialog_cancel">Odustani</string>
   <string name="web_dialog_confirm">U redu</string>
   <string name="xiaomi_account_not_exist_message">"Taj Mi Račun ne postoji"</string>
+  <string name="xl_annual_vip_open">Godišnje članstvo (%1$s Mi Kredita ili %2$s mjesečno)</string>
+  <string name="xl_annual_vip_renew">Obnovite za 1 godinu (%1$s Mi Kredita ili %2$s mjesečno)</string>
+  <string name="xl_bind_account">Dodaj postojeći Xunlei Račun</string>
+  <string name="xl_highway_autoopen">Kanal velike brzine</string>
+  <string name="xl_highway_autoopen_info">Uključi kanal velike brzine automatski</string>
+  <string name="xl_highway_title">Kanal velike brzine:   </string>
+  <string name="xl_month_vip_open">Mjesečno članstvo (%1$s Mi Kredita)</string>
+  <string name="xl_month_vip_renew">Obnovite za 1 godinu (%1$s Mi Kredita)</string>
+  <string name="xl_privilege_play">Reproduciraj</string>
+  <string name="xl_privilege_play_info">Streamajte nedovršena preuzimanja na više uređaja</string>
+  <string name="xl_privilege_speedup">Ubrzanje preuzimanja</string>
+  <string name="xl_privilege_speedup_info">Kanal velike brzine i podrška za izvanmrežna preuzimanja</string>
+  <string name="xl_privilege_storage">Online pohrana</string>
+  <string name="xl_privilege_storage_info">"Nema dovoljno prostora za sva vaša preuzimanja"</string>
+  <string name="xl_privilege_title">Xunlei članstvo</string>
+  <string name="xl_validate_title">Vrijedi do:  </string>
   <string name="xunlei_account_has_unbind_message">Xunlei Račun uklonjen</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>

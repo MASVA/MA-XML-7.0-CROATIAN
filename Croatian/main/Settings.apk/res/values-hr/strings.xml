@@ -723,6 +723,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="confirm_action">U redu</string>
   <string name="confirm_download_cancelation_dialog_message">Otkazati preuzimanje ažuriranja?</string>
   <string name="confirm_erase">U redu</string>
+  <string name="confirm_fingerprint_msg">Stavite prst na skener otisak prsta</string>
   <string name="confirm_new_backup_pw_prompt">Ovdje ponovo unesite novu zaporku za potpunu sigurnosnu kopiju</string>
   <string name="connect_to_internet">Poveži se na internet</string>
   <string name="connected_wifi">Povezano</string>
