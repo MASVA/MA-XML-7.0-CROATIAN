@@ -1757,7 +1757,7 @@ Držite Mi Band i telefon udaljenim najmanje 5m."</string>
   <string name="weight_settings_merge_tips">Spoji unose koji su snimljeni na manje od 30 sekundi</string>
   <string name="weight_settings_merge_title">Spoji dvostruke unose</string>
   <string name="weight_test_dynamic_detail">Težina: %1$s%2$s</string>
-  <string name="weight_tip_bmi_content">Body mass index (BMI) Indeks tjelesne mase je najčešće korištena metoda mjerenja pretilosti.</string>
+  <string name="weight_tip_bmi_content">Indeks tjelesne mase (BMI) je najčešće korištena metoda mjerenja pretilosti.</string>
   <string name="weight_tip_bmi_name">Što je to BMI?</string>
   <string name="weight_tip_fat_content">BMI indeks tjelesne mase je najčešće korištena metoda mjerenja pretilosti. Izračunava se kao težina u kilogramima podijeljena s kvadratom visine u metrima.</string>
   <string name="weight_tip_fat_name">Izgled može varati</string>
