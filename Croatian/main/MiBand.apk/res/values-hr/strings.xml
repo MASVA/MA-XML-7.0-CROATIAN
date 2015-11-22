@@ -169,7 +169,7 @@ Povezivanje nije moguće"</string>
   <string name="bmi_item_tips">BMI: %1$s (%2$s)</string>
   <string name="body">Vrat</string>
   <string name="body_figure">Tip</string>
-  <string name="body_standard_ref"/>
+  <string name="body_standard_ref">Referenca težine</string>
   <string name="bohee_subtitle">Dodirnite da saznate više.</string>
   <string name="bohee_title">Program mršavljenja je dostupan</string>
   <string name="bracelet_disconnect_tips">Veza sa Mi Bandom je prekinuta</string>
@@ -381,12 +381,12 @@ ustajanje</string>
   <string name="dynamic_tip_step_unsynced">Nije ažurirano</string>
   <string name="dynamic_tip_sync_progress">Sinkr. %d%%</string>
   <string name="dynamic_tip_sync_time">Zadnja sinkr. %s</string>
-  <string name="dynamic_tip_unweared">Bez Mi Banda</string>
+  <string name="dynamic_tip_unweared">Nema podataka</string>
   <string name="dynamic_title_bracelet_unbind">Mi Band nije uparen</string>
   <string name="dynamic_title_sleep">Prethodna noć</string>
   <string name="dynamic_title_step">Danas</string>
   <string name="dynamic_title_weight">Težina</string>
-  <string name="dynamic_title_weight_not_nearby">Nema vaga u blizini</string>
+  <string name="dynamic_title_weight_not_nearby">"Ne mogu pronaći vagu"</string>
   <string name="dynamic_title_weight_unbind">Raspari vagu</string>
   <string name="edit">Uredi</string>
   <string name="enable_bluetooth">Uključi Bluetooth</string>
@@ -400,11 +400,11 @@ ustajanje</string>
   <string name="exceed_user_percentage">Nadmašeno %1$s korisnika</string>
   <string name="exit_app">Izlaz</string>
   <string name="exit_app_continue">Nastavi</string>
-  <string name="exit_app_tips">Vaš trenutni Mi Band će biti neuparen.</string>
+  <string name="exit_app_tips">Vaš trenutni Mi Band neće biti uparen.</string>
   <string name="exit_login">Odjava…</string>
   <string name="exit_login_1">Odjaviti se iz Mi Računa?</string>
   <string name="failed_enable_bt">Uključite Bluetooth</string>
-  <string name="family_member">Obitelj</string>
+  <string name="family_member">Korisnik</string>
   <string name="family_member_info">Obitelj</string>
   <string name="feedback">Povratna informacija</string>
   <string name="feedback_empty">Upišite pov. informaciju u polje iznad.</string>
@@ -498,34 +498,34 @@ Koristite Mi Vagu da spremite težinu vašeg djeteta"</string>
   <string name="host_change_success">Adresa uspješno promijenjena</string>
   <string name="hot_des">Energija</string>
   <string name="hour_1">" "</string>
-  <string name="hr_battery_low">手环电量低于10%</string>
-  <string name="hr_dialog_ble">保持手机和手环蓝牙连接</string>
-  <string name="hr_dialog_go">立即出发</string>
-  <string name="hr_dialog_pace">手环连接后可显示步频</string>
-  <string name="hr_dialog_title">跑步中查看心率变化</string>
-  <string name="hr_dialog_wear">带紧手环，避免晃动，测量更精准</string>
+  <string name="hr_battery_low">Manje od 10% baterije preostalo</string>
+  <string name="hr_dialog_ble">Držite Mi Band povezanim s vašim uređajem putem Bluetootha</string>
+  <string name="hr_dialog_go">Start</string>
+  <string name="hr_dialog_pace">Povežite Mi Band za prikaz tempa</string>
+  <string name="hr_dialog_title">Pratite kako se vaš broj otkucaja srca mijenja za vrijeme sesije</string>
+  <string name="hr_dialog_wear">Vežite Mi Band čvrsto da povećate točnost podataka</string>
   <string name="hr_empty_data">--</string>
   <string name="hr_item_date">MM/dd HH:mm</string>
-  <string name="hr_not_wear_bracelet">手环未佩戴</string>
-  <string name="hr_tips1">"跑步前，开启蓝牙，连接手环； 
-跑步中，保持蓝牙连接。"</string>
-  <string name="hr_tips10">无氧运动，消耗糖供能</string>
-  <string name="hr_tips11">运动强度较低（跑得慢）时，以有氧运动为主，此时心率相对较低，身体主要靠消耗脂肪供能。</string>
-  <string name="hr_tips12">有氧运动，消耗脂肪供能</string>
-  <string name="hr_tips2">连接小米手环光感版，检测心率</string>
-  <string name="hr_tips3">建议跑步时将心率控制在略低于最大有氧心率，可有效避免受伤的风险，同时得到健身减脂的效果。例如：华米神童的年龄为25岁，经常加班，缺乏运动；则其对应的最大有氧心率为180-25-5=150（单位：次/分）。建议跑步心率控制在140到150之间。</string>
-  <string name="hr_tips4">有氧跑步，避免受伤，健身减脂</string>
-  <string name="hr_tips5">"第一步，基础数值=180-年龄（单位：次/分）。
-第二步，将基础数值配合最近身体状态进行调整。
-1、如果最近得过重大疾病；基础数值-10。
-2、受伤，状态不好，长期不锻炼；基础数值-5。
-3、坚持运动超过2年，每周4次；基础数值+5。
-温馨提示：超过65岁老人及不满16岁青少年不适用以上公式，需按照自身身体状况而定。"</string>
-  <string name="hr_tips6">计算最大有氧心率</string>
-  <string name="hr_tips7">每个人都有各自的最大有氧心率。跑步时，将心率控制在略低于最大有氧心率来训练，能提升有氧运动效率，提高燃烧脂肪的机能。如果高于该心率，无氧运动的比例会显著增加，身体将增加糖的消耗，降低脂肪消耗。</string>
-  <string name="hr_tips8">最大有氧心率</string>
-  <string name="hr_tips9">运动强度较高（跑得快）时，无氧运动的比例会提升，心率相对较高，身体会增加糖的消耗来供能，降低脂肪消耗。</string>
-  <string name="hr_unit_label">心率（次/分）</string>
+  <string name="hr_not_wear_bracelet">Stavite Mi Band</string>
+  <string name="hr_tips1">"Uključite Bluetooth i povežite tenisice prije početka trčanja.
+Držite Bluetooth uključenim dok trčite."</string>
+  <string name="hr_tips10">Anaerobne vježbe troše više šećera.</string>
+  <string name="hr_tips11">Ako trčite sporije, vaše tijelo ostaje u aerobnom načinu i troši više masnoća, održavajući brzinu otkucaja vašeg srca na relativno niskoj razini.</string>
+  <string name="hr_tips12">Anaerobne vježbe troše više masnoće.</string>
+  <string name="hr_tips2">Povežite Mi Band Pulse da izmjerite broj otkucaja srca.</string>
+  <string name="hr_tips3">"Preporučljivo je da držite broj otkucaja srca nešto ispod Vašeg maksimalnog aerobne razine dok trčite prikazivati. Prosječni Huami korisnik  ima 25 godina, radi puno, a nedostaje mu fizičke aktivnosti. Maksimalni broj otkucaja srca u ovom slučaju će biti 180-25-5=150 BPM. Dakle, bolje ga je držati na 140-150 BPM tijekom trčanja."</string>
+  <string name="hr_tips4">Dišite duboko da izbjegnete moguća oštećenja i učinkovitije izgubite kalorije.</string>
+  <string name="hr_tips5">"1. Osnovni broj otkucaja srca = 180-Godine (BPM).
+2. Prilagodite osnovni broj otkucaja srca prema Vašoj trenutnoj situaciji.
+a) Ako ste imali većih bolesti u zadnje vrijeme, oduzmite 10.
+b) Ako ste imali ozljeda, niste se osjećali dobro ili vam nedostaje fizičke aktivnosti, oduzmite 5.
+c) Ako ste imali 4 tjelovježbe tjedno u posljednje 2 godine, dodajte 5.
+Napomena: Ove upute vrijede za osobe između 16 i 65 godina."</string>
+  <string name="hr_tips6">Izračunajte maksimalan aerobni broj otkucaja srca</string>
+  <string name="hr_tips7">Maksimalan aerobni broj otkucaja srca varira za različite ljude. Držite vaše stvarni broj otkucaja srca malo ispod maksimalne razine da povećate učinak treninga i izgubite više kalorija. Ako je vaš broj otkucaja srca iznad maksimalnog, vaše tijelo će se prebaciti na anaerobni način rada, tako da će konzumirati više šećera nego masnoća.</string>
+  <string name="hr_tips8">Maksimalan aerobni broj otkucaja srca</string>
+  <string name="hr_tips9">Ako trčite brže, vaše tijelo će se prebaciti na anaerobni način rada, što zahtijeva konzumiranje više šećera nego masnoća.</string>
+  <string name="hr_unit_label">Broj otkucaja srca (BPM)</string>
   <string name="hug_baby_weight">Izvažite dijete u naručju</string>
   <string name="in"/>
   <string name="incoming_call_notify">Dolazni pozivi</string>
@@ -1019,8 +1019,8 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="running_help_foot_suggest6">Trčite kao da rotirate vrući kotač sa svojim stopalima.</string>
   <string name="running_help_foot_suggest7">Radite manje korake kada povećavate brzinu trčanja.</string>
   <string name="running_help_foot_suggest8">Povežite tenisice i pobrinite se da se dočekate sa svojim prednjim dijelom stopala.</string>
-  <string name="running_help_foot_suggest9">"跑步前，开启蓝牙，连接跑鞋；
-跑步中，保持蓝牙连接。"</string>
+  <string name="running_help_foot_suggest9">"Uključite Bluetooth i povežite tenisice prije početka trčanja.
+Držite Bluetooth uključenim dok trčite."</string>
   <string name="running_help_pace_freq">Tempo</string>
   <string name="running_help_pace_freq_illustra">Tempo je broj koraka koje napravite po minuti kada trčite.</string>
   <string name="running_help_pace_freq_label">"Što je tempo?"</string>
@@ -1035,11 +1035,12 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
   <string name="running_help_pre_mid_foot">Doček prednim/srednjim djelom stopala</string>
   <string name="running_help_pros_cons">Za i protiv</string>
   <string name="running_help_slow_run">Kod laganog trčanja, većina ljudi se prirodno dočekuje na sredinu stopala ili pete. Kada se povećava brzina trčanja, većina ljudi dodiruje zemlju sa prednjim dijelom stopala. Na primjer, većina sprintera dodiruje zemlju sa prednjim dijelom stopala kod trčanja.</string>
-  <string name="running_help_slow_run_suggest">二者各有利弊，中后掌着地时，脚跟受到落地冲击，对膝盖的冲击较大。而前掌着地对膝盖冲击较小，但是对跟腱和小腿肌肉素质要求较高。</string>
-  <string name="running_helper">Praćenje rute</string>
+  <string name="running_help_slow_run_suggest">Dočekivanje na sredinu stopala ili pete snažno utječe na koljena. Udaranje u tlo sa prednjim dijelom stopala zahtijeva jače nožne mišiće i Ahilove tetive
+  <string name="running_helper">Asistent</string>
   <string name="running_history">Povijest</string>
   <string name="running_history_child_date_format">%1$d</string>
-  <string name="running_history_date" formatted="false">%d/%d/%d</string>
+  <string name="running_history_date" formatted="false">"%d/%d
+%d"</string>
   <string name="running_history_group_distance">%1$.2fkm</string>
   <string name="running_history_group_distance_br">%1$.2fmile</string>
   <string name="running_history_group_time_format">yyyy MM</string>
@@ -1056,18 +1057,18 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
   <string name="running_hour_min" formatted="false">%dh %dm</string>
   <string name="running_hour_min_sec" formatted="false">%dh %dm %ds</string>
   <string name="running_hour_sec" formatted="false">%dh %ds</string>
-  <string name="running_hr">心率</string>
-  <string name="running_hr_check">心率检测</string>
-  <string name="running_hr_disabled_tips">请在设置中开启心率检测功能</string>
-  <string name="running_hr_unit_desc">心率(次/分)</string>
-  <string name="running_kg">kg</string>
+  <string name="running_hr">Broj otkucaja srca</string>
+  <string name="running_hr_check">Izmjerite broj otkucaja srca</string>
+  <string name="running_hr_disabled_tips">Uključite senzor broja otkucaja srca u Postavkama</string>
+  <string name="running_hr_unit_desc">Broj otkucaja srca (BPM)</string>
+  <string name="running_kg">Kal</string>
   <string name="running_kilometer">km</string>
   <string name="running_kilometers">km</string>
   <string name="running_kilometers_per_hour">km/h</string>
   <string name="running_label_hint">Unesite ime</string>
   <string name="running_lable_km_slowest">Najsporiji Km</string>
-  <string name="running_lable_mile_fastest">英里最快</string>
-  <string name="running_lable_mile_slowest">英里最慢</string>
+  <string name="running_lable_mile_fastest">Najbrža milja</string>
+  <string name="running_lable_mile_slowest">Najbrža milja</string>
   <string name="running_lable_miles_fastest">Najbrži Km</string>
   <string name="running_long_press_to_pause">Dugi pritisak za pauzu</string>
   <string name="running_main_avoid_use_indoor">Nemojte koristiti unutar zgrade</string>
@@ -1148,10 +1149,10 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
   <string name="running_synchronous">Sinkr.</string>
   <string name="running_time_desc">Vrijeme</string>
   <string name="running_tip_conn_shoes">Uparite tenisice da biste vidjeli tempo</string>
-  <string name="running_tip_hr_ble_content">手环连接后，可显示心率</string>
-  <string name="running_tip_hr_bracelet_content">可检测心率</string>
-  <string name="running_tip_hr_bracelet_label">使用小米手环光感版</string>
-  <string name="running_tip_known">Kužim</string>
+  <string name="running_tip_hr_ble_content">Povežite Mi Band za prikaz broja otkucaja srca</string>
+  <string name="running_tip_hr_bracelet_content">Dostupni podaci broja otkucaja srca</string>
+  <string name="running_tip_hr_bracelet_label">Koristite Mi Band Pulse</string>
+  <string name="running_tip_known">Shvaćam</string>
   <string name="running_tip_open_ble_content">Uparite Mi Band da biste vidjeli tempo</string>
   <string name="running_tip_open_ble_label">Uključi Bluetooth</string>
   <string name="running_tip_use_bracelet_content">Pratite vaš tempo u realnom vremenu</string>
@@ -1305,10 +1306,11 @@ Potrošeno %3$s cal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
   <string name="shoes_bind_change_text" formatted="false">Povezani ste s %s, sigurno se želite povezati s %s?</string>
   <string name="shoes_bind_prompt">"Protresite Huami jezgru modula
 a zatim stavite QR kod unutar dosega skeniranja"</string>
-  <string name="shoes_bind_failed">Povezivanje nije uspjelo</string>
-  <string name="shoes_bind_first">Prvo povežite</string>
+  <string name="shoes_bind_success">Upareno</string>
+  <string name="shoes_bind_title">Uparite tenisice</string>
+  <string name="shoes_binded">Upareno</string>
   <string name="shoes_binding">Uparivanje…</string>
-  <string name="shoes_brand">Lining Zhi</string>
+  <string name="shoes_brand">LN Rider Smart</string>
   <string name="shoes_bt_disable_lable">Bluetooth isključen</string>
   <string name="shoes_buy">Kupite</string>
   <string name="shoes_calibrate_bind_first">Prvo uparite tenisice</string>
@@ -1555,7 +1557,7 @@ Logo okrenite prema gore"</string>
   <string name="tag_connection">Povezivanje Mi Banda</string>
   <string name="tag_connection_f">Povezivanje nije uspjelo, pokušajte ponovo</string>
   <string name="tag_connection_f1">Držite Mi Band u blizini</string>
-  <string name="tag_data_collecting">Učitavanje podataka, molimo pričekajte…</string>
+  <string name="tag_data_collecting">Učitavanje podataka…</string>
   <string name="tag_doing_label">%s…</string>
   <string name="tag_error_notice">"Mi Band je odspojen.
 Držite Mi Band i telefon udaljenim najmanje 5m."</string>
@@ -1582,7 +1584,7 @@ Držite Mi Band i telefon udaljenim najmanje 5m."</string>
   <string name="title_activity_weight_tips">Fitness Savjeti</string>
   <string name="title_add_friend">Dodaj u kontakte</string>
   <string name="title_friend_detail">Detalji</string>
-  <string name="title_friend_list">Obitelj&amp;Prijatelji</string>
+  <string name="title_friend_list">Prijatelji</string>
   <string name="title_health_link_service">Health Care Service</string>
   <string name="title_heart_list">Heart Rate</string>
   <string name="title_message">Poruka</string>
