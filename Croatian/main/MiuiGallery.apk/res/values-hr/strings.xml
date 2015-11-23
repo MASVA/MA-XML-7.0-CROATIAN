@@ -173,14 +173,14 @@
   <string name="cloudfolder_cannot_start_with">"Naziv Albuma ne može počinjati s '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Naziv Albuma ne može sadržavati '%s'"</string>
   <string name="cloudfolder_fail_to_load_data">Nije uspjelo učitavanje podataka iz nepoznatog razloga, pokušajte ponovo</string>
-  <string name="cloudfolder_loading_data">(Učitavanje…)</string>
+  <string name="cloudfolder_loading_data">Samo tren…</string>
   <string name="cloudfolder_name_cannot_empty">Unesi naziv Albuma.</string>
   <string name="cloudfolder_name_reserved">Naziv Albuma je rezerviran.</string>
   <string name="comfirm_delete_current_album">Izbrisati ovaj album?</string>
   <string name="comma">, </string>
   <string name="confirm">U redu</string>
   <string name="confirm_delete">Izbrisati fotografije (%s)?</string>
-  <string name="confirm_delete_init_message">Fotografije će biti izbrisane s ovog uređaja i s MiClouda. Ako ih želite izbrisati samo s uređaja, prijeđite na karticu \"Izvanmrežno\".</string>
+  <string name="confirm_delete_init_message">"Fotografija će biti izbrisana iz unutarnje memorije uređaja te iz Mi Clouda. Za brisanje fotografija iz unutarnje pohrane vašeg uređaja i čuvanju fotografija na Mi Cloudu, idite na karticu \"Izvanmrežno\".</string>
   <string name="confirm_delete_init_title">Izbriši fotografiju</string>
   <string name="confirm_download">Morate preuzeti %s.</string>
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>

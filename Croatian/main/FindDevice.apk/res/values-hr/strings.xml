@@ -14,7 +14,7 @@
   <string name="find_device_error_password_changed">Zaporka računa je nedavno promijenjena.</string>
   <string name="find_device_error_server">Pogreška poslužitelja</string>
   <string name="find_device_error_unknown">Nepoznata pogreška.</string>
-  <string name="find_device_noise_title">Zvuk lociranja uređaja</string>
+  <string name="find_device_noise_title">Alarm lociranja uređaja</string>
   <string name="find_device_notice_p1">Idite na</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">" da pronađete, zaključate, ili poništite svoj uređaj na daljinu.
@@ -39,6 +39,6 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="unlock_error_unknown">"Ne mogu se prijaviti"</string>
   <string name="unlock_error_user_name">Pogrešno korisničko ime</string>
   <string name="unlock_wrong_captcha">Uneseni kôd nije ispravan</string>
-  <string name="unlocking">Aktivacija...</string>
+  <string name="unlocking">Aktivacija…</string>
   <string name="verify_password_failed">"Ne mogu potvrditi ID Mi Računa. %s."</string>
 </resources>

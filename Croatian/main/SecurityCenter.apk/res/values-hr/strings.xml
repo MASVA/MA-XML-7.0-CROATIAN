@@ -109,7 +109,7 @@
   <string name="button_text_cancel_optimize">Odustani</string>
   <string name="button_text_cleanup">Očistiti</string>
   <string name="button_text_clear">Očistiti</string>
-  <string name="button_text_create_shortcut">Napravi prečac</string>
+  <string name="button_text_create_shortcut">Napravi prečac na Početnom zaslonu</string>
   <string name="button_text_fix">Popravi</string>
   <string name="button_text_ignore">Zanemari</string>
   <string name="button_text_ignore_alert_title">Zanemariti ovo upozorenje?</string>
@@ -121,7 +121,7 @@
   <string name="button_text_reject_timer">Odbij (%d)</string>
   <string name="button_text_security">U redu</string>
   <string name="button_text_start_optimize">Skeniraj</string>
-  <string name="button_text_uninstall_shortcut">Ukloni</string>
+  <string name="button_text_uninstall_shortcut">Ukloni prečac s Početnog zaslona</string>
   <string name="button_text_view">Optimiziraj</string>
   <string name="button_text_view_power">Prikaži</string>
   <string name="cache_header_title">Obrisano %1$d datoteka memorije za oslobođenje %2$s</string>
