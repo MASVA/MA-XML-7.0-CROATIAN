@@ -4,6 +4,7 @@
  To može potrajati nekoliko minuta</string>
   <string name="action_mode_deselect_all">Poništi odabir</string>
   <string name="action_mode_select_all">Odaberi sve</string>
+  <string name="add_private">Dodaj datoteke u skrivene mape</string>
   <string name="add_private_files">Dodaj datoteke</string>
   <string name="add_task">Dodaj zadatak</string>
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
@@ -77,7 +78,7 @@
   <string name="confirm_clean">Očisti</string>
   <string name="confirm_know">U redu</string>
   <string name="connect_network_setting_des">Pitaj za povezivanje s internetom</string>
-  <string name="copy_failed">"Ne mogu kopirati"</string>
+  <string name="copy_failed">"Ne mogu kopirati, izgleda da je pohrana puna"</string>
   <string name="connection_error">"Ne mogu se povezati"</string>
   <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Stavi na početni zaslon</string>
@@ -141,6 +142,7 @@
   <string name="encrypt_error">"Ne mogu sakriti datoteke, pokušajte ponovo"</string>
   <string name="encrypt_prefix">SKRIVENO</string>
   <string name="encrypt_success">Sve datoteke su skrivene</string>
+  <string name="encrypt_success_first_five">"Uspješno šifrirano. Povucite prema dolje na početnoj stranici aplik. Datoteka za pregled datoteka."</string>
   <string name="encrypting">Šifriranje…</string>
   <string name="error_filename_too_long">Naziv je predugačak.</string>
   <string name="error_info_cant_send_folder">"Ne mogu slati ovu vrstu datoteke."</string>
@@ -381,6 +383,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="port_range">Port mora biti između 1024–65535</string>
   <string name="private_files">Skriveno</string>
   <string name="private_folder">Skrivena mapa</string>
+  <string name="private_folder_no_file_hints">Držite datoteku ili mapu da ju sakrijete.</string>
+  <string name="private_folder_update">Ažuriranje skrivenih mapa</string>
   <string name="private_toast_hint1">Dodirnite za dodavanje datoteka u skrivene mape</string>
   <string name="private_toast_hint2">Da skrijete datoteku, pritisnite i zadržite je, a zatim je dodajte u skrivenu mapu.</string>
   <string name="private_toast_hint3">Povucite prema dolje za otvaranje skrivenih mapa</string>
@@ -394,7 +398,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="repair_done">Obnovljeno</string>
   <string name="repair_error">"Ne mogu obnoviti"</string>
   <string name="repair_file">Obnovi šifrirane datoteke</string>
-  <string name="reset_password">Resetiranje zaporke</string>
+  <string name="reset_password">Promjena zaporke</string>
   <string name="restoring">Obnavljam…</string>
   <string name="rlv_last_refreshing_time">Ažurirano %1$s</string>
   <string name="rlv_loading_more">Samo tren…</string>

@@ -19,7 +19,7 @@
         <item quantity="other">Izbrisati stavke (%s) s Mi Clouda ?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">Odabrane stavke (%s) su fotografije u Mi Cloudu, izbrisati ih ?</item>
+        <item quantity="other">Izbrisati fotografije (%s) sa Mi Clouda ?</item>
         <item quantity="one">Izbrisati ovu fotografiju s Mi Clouda ?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
@@ -49,12 +49,12 @@
         <item quantity="one">Izbrisati ovaj videozapis ?</item>
     </plurals>
 	 <plurals name="confirm_delete_video_from_many_albums">
-	    <item quantity="other">Izbrisati %1$d videozapisa iz %2$d albuma</item>
-        <item quantity="one">Izbrisati ovaj videozapis iz %2$d albuma</item>
+	    <item quantity="other">Izbrisati %1$d videozapisa iz %2$d albuma ?</item>
+        <item quantity="one">Izbrisati ovaj videozapis iz %2$d albuma ?</item>
     </plurals>
 	<plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">Izbrisati %1$d fotografija iz %2$d albuma</item>
-        <item quantity="one">Izbrisati ovu fotografiju iz %2$d albuma</item>
+        <item quantity="other">Izbrisati %1$d fotografija iz %2$d albuma ?</item>
+        <item quantity="one">Izbrisati ovu fotografiju iz %2$d albuma ?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">"Odabrano: %1$d"</item>
