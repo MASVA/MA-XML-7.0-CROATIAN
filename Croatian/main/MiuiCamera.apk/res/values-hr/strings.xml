@@ -419,8 +419,13 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_skinToneEnhancement_title">Poboljšanje boje kože</string>
   <string name="pref_camera_sound_entry_off">Isključeno</string>
   <string name="pref_camera_sound_entry_on">Uključeno</string>
-  <string name="pref_camera_snap_enable_summary">Kada je zaslon isključen, pritisnite &amp; držite tipku Glasnoća dolje za ulazak u Quick snap način. Pritisnite ponovno za snimanje fotografije.</string>
   <string name="pref_camera_snap_enable_title">Quick snap način</string>
+  <string name="pref_camera_snap_entry_off">Isklj.</string>
+  <string name="pref_camera_snap_entry_take_movie">Kada je zaslon isključen, pritisnite &amp; držite tipku Glasnoća dolje za početak snimanja videozapisa. Otpustite ga za prestanak.</string>
+  <string name="pref_camera_snap_entry_take_picture">Kada je zaslon isključen, pritisnite &amp; držite tipku Glasnoća dolje za početak brzog snimanja fotografija. Otpustite ga za prestanak.</string>
+  <string name="pref_camera_snap_value_off">Isklj.</string>
+  <string name="pref_camera_snap_value_take_movie">Film</string>
+  <string name="pref_camera_snap_value_take_picture">Slika</string>
   <string name="pref_camera_sound_title">Zvukovi kamere</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>

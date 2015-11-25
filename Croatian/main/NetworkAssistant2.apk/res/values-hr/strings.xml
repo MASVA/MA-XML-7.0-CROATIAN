@@ -113,7 +113,7 @@ Za više informacija provjerite poruku koju ste dobili od svog operatera"</strin
   <string name="firewall_network_restrict_notify_message">Dodirnite za promjenu postavki.</string>
   <string name="firewall_network_restrict_notify_mobile">2G/3G</string>
   <string name="firewall_network_restrict_notify_title">"%1$s ne može koristiti %2$s."</string>
-  <string name="firewall_restrict_android_dialog_content">"Ako ne dopustite Androidu povezivanje s internetom, neke ključne značajke mogu biti time pogođene kao što je WLAN hotspot."</string>
+  <string name="firewall_restrict_android_dialog_content">"Da budete sigurni da uređaj radi normalno, nekoliko aplikacija sustava Android i dalje će se povezivati na internet. Te aplikacije će koristiti mobilnu podatkovnu vezu i mogu vam napraviti manje troškove."</string>
   <string name="firewall_restrict_android_dialog_title">Pažnja</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Međunarodni roaming</string>
@@ -202,7 +202,6 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="megabyte_per_second">Mb/s</string>
   <string name="mi_service_app_detail">Detalji usluge uporabe podataka</string>
   <string name="mi_service_framework">Mi Service Framework</string>
-  <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
   <string name="mian_page_primary_txt">Međunarodni roaming</string>
   <string name="miuishare_title_more">Više</string>
@@ -538,10 +537,10 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_msg_today">Ušteđeno danas</string>
   <string name="traffic_saving_need_optimize">Može biti optimizirano</string>
   <string name="traffic_saving_notification_button_start">Aktiviraj</string>
-  <string name="traffic_saving_notify_no_apps_saving">Nema aplik. koje koriste uštedu</string>
+  <string name="traffic_saving_notify_no_apps_saving">Smanji uporabu podataka</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Dodirnite za uključivanje uštede.</string>
   <string name="traffic_saving_notify_start_content">Ušteđeno ovaj mjesec %s</string>
-  <string name="traffic_saving_notify_start_title">Vaša uporaba podataka je smanjena</string>
+  <string name="traffic_saving_notify_start_title">Uporaba podataka je smanjena</string>
   <string name="traffic_saving_one_key_optimize">Optimiziraj za uštedu podataka</string>
   <string name="traffic_saving_optimized">Već optimizirano</string>
   <string name="traffic_saving_pic_compress_orig">Original</string>
@@ -555,7 +554,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
   <string name="traffic_saving_title">Ušteda podataka</string>
   <string name="traffic_saving_toast_start_mobile">Ušteda podataka uključena</string>
-  <string name="traffic_saving_toast_start_none_mobile">Ušteda počinje prilikom korištenja mobilnih podataka</string>
+  <string name="traffic_saving_toast_start_none_mobile">Ušteda će SE aktivirati kad god koristite mobilne podatke</string>
   <string name="traffic_saving_toast_start_unreachable">"Ne mogu pokrenuti uštedu"</string>
   <string name="traffic_saving_toast_stop">Ušteda podataka isključena</string>
   <string name="traffic_saving_whitelist_btn_add">Dodaj</string>
