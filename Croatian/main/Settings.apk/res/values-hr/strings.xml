@@ -1691,6 +1691,9 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="manageapplications_settings_title">Upravljanje aplikacijama</string>
   <string name="managed_device_admin_title">Posao</string>
   <string name="managed_profile_device_admin_info">Da biste onemogućili pristup aplikacije %1$s radnom profilu, uklonite profil u odjeljku Postavke &gt; Računi</string>
+  <string name="managed_profile_location_category">Radni profil</string>
+  <string name="managed_profile_location_switch_lockdown">Isključen od strane vaše tvrtke</string>
+  <string name="managed_profile_location_switch_title">Lokacija za radni profil</string>
   <string name="managed_profile_not_available_label">Radni profil još nije dostupan</string>
   <string name="managed_user_title">Radni profil</string>
   <string name="manually_add_network">Dodaj mrežu</string>
@@ -2563,7 +2566,7 @@ Da biste upotrebljavali prikvačivanje zaslona:
   <string name="security_keyguard_category_name">Zaključan zaslon</string>
   <string name="security_password_category_name">Zaklj. zaslona</string>
   <string name="security_passwords_title">Zaporke</string>
-  <string name="security_patch">Sigurnosna zakrpa</string>
+  <string name="security_patch">Android Sigurnosna zakrpa</string>
   <string name="security_privacy_settings_title">Privatnost</string>
   <string name="security_relative">Sigurnost</string>
   <string name="security_settings_billing_desc">Ova aplikacija može naplaćivati upotrebu:</string>
