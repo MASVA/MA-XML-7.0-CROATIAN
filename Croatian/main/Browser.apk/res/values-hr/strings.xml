@@ -226,8 +226,8 @@
   <string name="download_filter_video">Videozapisi</string>
   <string name="download_in_process">Preuzimanje…</string>
   <string name="download_list_open_xl_ok">U redu</string>
-  <string name="download_memory_info_avai">" dostupno %s|"</string>
-  <string name="download_memory_info_total">" ukupno ​%s"</string>
+  <string name="download_memory_info_avai">"Dostupno %s|"</string>
+  <string name="download_memory_info_total">"Ukupno ​%s"</string>
   <string name="download_no_application_title">"Ne mogu pronaći datoteku. Jeste li je premjestili ili izbrisali?"</string>
   <string name="download_no_sdcard_dlg_msg">USB pohrana potrebna za preuzimanje %s.</string>
   <string name="download_no_sdcard_dlg_title">USB pohrana nedostupna</string>
@@ -239,7 +239,7 @@
   <string name="download_status_failed">"Ne mogu preuzeti"</string>
   <string name="download_status_pending">Na čekanju</string>
   <string name="download_success">Gotovo</string>
-  <string name="download_title">Peuzimanja</string>
+  <string name="download_title">Preuzimanja</string>
   <string name="download_wait_connect">Čeka se povezivanje</string>
   <string name="edit">Uredi</string>
   <string name="edit_bookmark">Uredi oznaku</string>
