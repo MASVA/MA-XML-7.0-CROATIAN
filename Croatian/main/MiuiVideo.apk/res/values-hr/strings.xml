@@ -211,6 +211,10 @@
   <string name="no_longer_tips">"Ne prikazuj ponovo"</string>
   <string name="no_sdcard_no_download">Nema dovoljno prostora za pohranu, ne mogu zahtjevati preuzimanje.</string>
   <string name="not_login">Prijavite se</string>
+  <string name="notification_default_title">Izvanmrežni videozapis</string>
+  <string name="notification_sub_title">Završeno ukupno %d zadataka preuzimanja</string>
+  <string name="notification_ticker_text">Završeno preuzimanje Izvanmrežnog videozapisa</string>
+  <string name="notification_title">\"%s\" preuzimanja završeno</string>
   <string name="nowifi_alert_dialog_continue">Shvaćam</string>
   <string name="nowifi_alert_dialog_exit">Izađi</string>
   <string name="nowifi_alert_dialog_message">Korištenje vaše mobilne podatkovne veze za gledanje videa će povećati upotrebu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš operater vam može naplatiti dodatne troškove.</string>

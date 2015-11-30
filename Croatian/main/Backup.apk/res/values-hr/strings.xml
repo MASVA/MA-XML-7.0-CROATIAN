@@ -244,9 +244,20 @@
   <string name="trans_detail_category_sysdata">Podaci sustava</string>
   <string name="trans_detail_category_userdata">Aplikacije</string>
   <string name="trans_device_disconnected">Uređaj nije povezan</string>
+  <string name="trans_generate_qr_code_failed">"Nije moguće izraditi QR kod"</string>
   <string name="trans_main_tutor">Prenesite kontakte, povijest poziva, poruke, raspored početnog zaslona, aplikacije, postavke, itd. na novi uređaj</string>
   <string name="trans_my_device">Moj uređaj</string>
   <string name="trans_one_key_migrate">Prijenos</string>
+  <string name="trans_operate_new_phone_tips">"Skenirajte QR koda koristeći novi uređaj
+Idite na Postavke &gt; Dodatne Postavke &gt; Premjesti u Prijenos
+ Dodirnite [Ja sam primatelj] da izradite QR kod"</string>
+  <string name="trans_operate_old_phone_tips1">"Metoda A
+1. Instalirajte aplikaciju Premjesti u Prijenos na vašem drugom uređaju
+2. Otvorite aplikaciju i odaberite [Ja sam pošiljatelj]
+3. Skenirajte QR kod s vašim drugim uređajem"</string>
+  <string name="trans_operate_old_phone_tips2">"Metoda B
+Idite na Postavke &gt; Dodatne Postavke &gt; Premjesti u Prijenos
+ Dodirnite [Ja sam pošiljatelj]"</string>
   <string name="trans_progress_subdescript_br_receiver">Primanje %s</string>
   <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %s</string>
   <string name="trans_progress_subdescript_transing_receiver">Primanje %s</string>
@@ -258,6 +269,8 @@
   <string name="trans_receiving_completed">Podaci primljeni</string>
   <string name="trans_restoring">Vraćanje…</string>
   <string name="trans_restoring_no_items">Sinkr. stavaka</string>
+  <string name="trans_scan_invalid_qrcode">Nevažećii QR kod</string>
+  <string name="trans_scan_qr_code_tips">Skenirajte QR kod s vašim novim uređajem</string>
   <string name="trans_select_device_receive">Odaberite jedan uređaj za primanje podataka.</string>
   <string name="trans_select_device_send">Odaberite jedan uređaj za prijenos podataka.</string>
   <string name="trans_sender">"Ja sam pošiljatelj"</string>
@@ -266,6 +279,7 @@
   <string name="trans_sender_searching_ensurance">"Pobrinite se da je drugi uređaj uključen
 Čekanje povezivanja drugog uređaja…"</string>
   <string name="trans_sending_completed">Podaci poslani</string>
+  <string name="trans_show_qr_code_tips">Skenirajte QR kod s vašim starim uređajem</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_remained">, spreman</string>
   <string name="trans_waiting_ensurance">"Pobrinite se da je drugi uređaj uključen

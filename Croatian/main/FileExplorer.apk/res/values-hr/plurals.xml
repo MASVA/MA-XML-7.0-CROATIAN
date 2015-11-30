@@ -168,4 +168,12 @@
         <item quantity="few">%1$d novih WeChat naljepnica danas</item>
         <item quantity="many">%1$d novih WeChat naljepnica danas</item>
     </plurals>
+	<plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Pohranjeno %1$d WeChat videozapisa.</item>
+        <item quantity="zero">Pohranjeno %1$d WeChat videozapisa.</item>
+        <item quantity="one">Pohranjen 1 WeChat videozapis.</item>
+        <item quantity="two">Pohranjeno %1$d WeChat videozapisa.</item>
+        <item quantity="few">Pohranjeno %1$d WeChat videozapisa.</item>
+        <item quantity="many">Pohranjeno %1$d WeChat videozapisa.</item>
+    </plurals>
 </resources> 
