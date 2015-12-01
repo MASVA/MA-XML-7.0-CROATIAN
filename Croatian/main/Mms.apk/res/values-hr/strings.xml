@@ -281,6 +281,13 @@
   <string name="mx_activate_int_hint_malformed_info">Vaš operater vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
   <string name="mx_activate_int_hint_server">Vaš operater vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
   <string name="mx_activate_int_hint_sim_change">Izgleda da ste promijenili SIM kartice. Vaš operater vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka."</string>
+  <string name="mx_activate_status_desc_activating_now">Aktiviranje…</string>
+  <string name="mx_activate_status_desc_check_net_connection">"Ne mogu se povezati na mrežu"</string>
+  <string name="mx_activate_status_desc_fail">"Ne mogu aktivirati Mi Poruke"</string>
+  <string name="mx_activate_status_desc_prepare_sending_sms">Šaljem SMS aktivacije…</string>
+  <string name="mx_activate_status_desc_query_activte_info">Provjeravam detalje SIM kartice…</string>
+  <string name="mx_activate_status_desc_request_activation_sms_phone_error">Broj telefona koji ste unijeli nije važeći</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">"Ne mogu aktivirati Mi Poruke"</string>
   <string name="mx_and_voip_enable">Mi Poruka &amp; Voice</string>
   <string name="mx_and_voip_enable_popup_msg">"Šaljite poruke i upućivajte pozive drugim MIUI korisnicima bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
   <string name="mx_and_voip_enable_popup_msg2">Pravila o Privatnosti</string>
@@ -302,6 +309,10 @@
   <string name="mx_enable">Mi Poruka</string>
   <string name="mx_enable_ex">Mi Poruka &amp; Voice</string>
   <string name="mx_enable_popup_msg">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka troškova</string>
+  <string name="mx_filter_message_from_stranger">Blokiraj Mi Poruke od nepoznatih brojeva</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"I dalje ćete moći primati redovite SMS poruke od nepoznatih brojeva. Možete uključiti/isključiti ovu značajku  u bilo kojem trenutku u Poruke &gt; Postavke."</string>
+  <string name="mx_filter_message_from_stranger_dialog_title">Blokiraj Mi Poruke od nepoznatih brojeva</string>
+  <string name="mx_filter_message_from_stranger_summary">"I dalje ćete moći primati redovite SMS poruke od nepoznatih brojeva"</string>
   <string name="mx_msg">Mi Poruke</string>
   <string name="mx_offline">Bez mreže</string>
   <string name="mx_on_sim_1">Mi Poruka sa SIM utora 1</string>
@@ -349,6 +360,7 @@
   <string name="pref_edit_smsc_address">Broj telefona SMS centra</string>
   <string name="pref_forward_title">Proslijedi</string>
   <string name="pref_key_mx_feedback">Povratna informacija</string>
+  <string name="pref_message_recovery_introduction_title">Poruka oporavka</string>
   <string name="pref_messages_to_save">Podesi broj poruka za spremanje</string>
   <string name="pref_mms_settings_title">Postavke MMS-a</string>
   <string name="pref_notification_settings_title">Postavke obavijesti</string>

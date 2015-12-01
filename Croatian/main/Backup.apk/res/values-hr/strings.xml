@@ -249,14 +249,14 @@
   <string name="trans_my_device">Moj uređaj</string>
   <string name="trans_one_key_migrate">Prijenos</string>
   <string name="trans_operate_new_phone_tips">"Skenirajte QR koda koristeći novi uređaj
-Idite na Postavke &gt; Dodatne Postavke &gt; Premjesti u Prijenos
+Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
  Dodirnite [Ja sam primatelj] da izradite QR kod"</string>
   <string name="trans_operate_old_phone_tips1">"Metoda A
-1. Instalirajte aplikaciju Premjesti u Prijenos na vašem drugom uređaju
+1. Instalirajte aplikaciju Prijenos na vašem drugom uređaju
 2. Otvorite aplikaciju i odaberite [Ja sam pošiljatelj]
 3. Skenirajte QR kod s vašim drugim uređajem"</string>
   <string name="trans_operate_old_phone_tips2">"Metoda B
-Idite na Postavke &gt; Dodatne Postavke &gt; Premjesti u Prijenos
+Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
  Dodirnite [Ja sam pošiljatelj]"</string>
   <string name="trans_progress_subdescript_br_receiver">Primanje %s</string>
   <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %s</string>

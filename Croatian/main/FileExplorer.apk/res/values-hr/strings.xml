@@ -142,7 +142,7 @@
   <string name="enable_sd_card">Umetnite SD karticu ili onemogućite USB masovnu pohranu.</string>
   <string name="encrypt_error">"Ne mogu sakriti datoteke, pokušajte ponovo"</string>
   <string name="encrypt_prefix">SAKRIVENO</string>
-  <string name="encrypt_success">Sve datoteke su sakrivene</string>
+  <string name="encrypt_success">Uspješno sakriveno</string>
   <string name="encrypt_success_first_five">"Šifrirano i datotkeka sakrivena. Možete vidjeti sakrivene datoteke povlačenjem prema dolje na početnoj stranici aplik. Datoteke."</string>
   <string name="encrypting">Šifriranje…</string>
   <string name="error_filename_too_long">Naziv je predugačak.</string>

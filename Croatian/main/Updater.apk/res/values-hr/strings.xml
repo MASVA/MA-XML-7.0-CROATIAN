@@ -28,8 +28,14 @@
   <string name="button_text_update">Ažuriraj</string>
   <string name="cancel_download">Zaustaviti preuzimanje ažuriranja?</string>
   <string name="cancel_download_buton_text">Odustani</string>
+  <string name="check_local_package_update_btn">Ponovno pokreni i ažuriraj</string>
+  <string name="check_local_package_update_msg">"Spremate se ažurirati na MIUI verziju %s. Telefon će automatski ponovno pokrenuti tijekom ažuriranja."</string>
+  <string name="check_local_package_update_title">Ažuriraj</string>
   <string name="check_local_package_validate_error_button">U redu</string>
   <string name="check_local_package_validate_error_msg">"Ne mogu provjeriti paket ažuriranja."</string>
+  <string name="check_local_package_wipe_btn">Izbriši i Ažuriraj</string>
+  <string name="check_local_package_wipe_msg">"Spremate se promjeniti na MIUI verziju %s, koja je starija od trenutne verzije. Vaši osobni podaci će biti izbrisani. Provjerite jeste li napravili sigurnosnu kopiju svih važnih stvari prije nego što započnete proces."</string>
+  <string name="check_local_package_wipe_title">Izbriši podatke</string>
   <string name="check_new_version">Provjeri</string>
   <string name="check_update_policy">Postavke</string>
   <string name="check_update_when_wifi_available">Provjeri koristeći samo WLAN</string>
@@ -42,6 +48,9 @@
   <string name="comment_upload_hint">Hvala vam za vaše mišljenje!</string>
   <string name="comment_upload_not_logined">Morate se prvo prijaviti u vaš Mi Račun</string>
   <string name="comment_upload_success">Poslano</string>
+  <string name="confirm_local_package_wipe_btn">Izbriši i Ažuriraj</string>
+  <string name="confirm_local_package_wipe_msg">Vaši osobni podaci će biti izbrisani. Provjerite jeste li napravili sigurnosnu kopiju svih važnih stvari prije nego što započnete proces.</string>
+  <string name="confirm_local_package_wipe_title">Izbrisati podatke?</string>
   <string name="daily_build">Dnevno izdanje</string>
   <string name="download_again">Pokušaj ponovno</string>
   <string name="download_cancel">Odustani</string>

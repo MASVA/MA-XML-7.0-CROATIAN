@@ -104,13 +104,13 @@
         <item>Ventilator</item>
     </string-array>
     <string-array name="question">
-        <item>"Phone can't detect devices on Wi-Fi network?"</item>
-        <item>"Can't change modes or temp on A/C?"</item>
-        <item>Do Mi 3, Mi 2, and Redmi support infrared control for TV, A/C, and other devices?</item>
+        <item>"Telefon ne može otkriti uređaje na WLAN mreži?"</item>
+        <item>"Ne možete mijenjati način rada ili temperaturu na A/C?"</item>
+        <item>Da li Mi 3, Mi 2 i Redmi podržavaju infracrveni upravljač za TV, A/C i druge uređaje?</item>
     </string-array>
     <string-array name="answer">
-        <item>"You're device can only pair with Mi TV, Mi Box, and a handful of other Android devices using Wi-Fi."</item>
-        <item>"Make sure you've selected A/C in the pairing process. Follow the prompts on your device until the pairing process is complete."</item>
-        <item>Unfortunately, only Mi 4 supports infrared control at the moment.</item>
+        <item>"Vaš se uređaj može upariti samo sa Mi TV, Mi Box i pregršt drugih Android uređaja koristeći WLAN."</item>
+        <item>"Provjerite jeste li odabrali A/C u procesu uparivanja. Slijedite upute na uređaju dok postupak uparivanja nije dovršen."</item>
+        <item>Ne. Trenutno možete koristiti Mi 4, Mi 4c i Redmi Note 2 kao daljinski upravljač.</item>
     </string-array>
 </resources>

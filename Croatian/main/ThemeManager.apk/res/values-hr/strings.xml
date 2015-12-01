@@ -270,12 +270,12 @@
   <string name="resource_title_rank">Najljepše</string>
   <string name="resource_title_select_ringtone">Odaberite melodiju zvona</string>
   <string name="resource_title_subject">Istaknuto</string>
-  <string name="resource_trial_days">Probni period : %1$d dana）</string>
-  <string name="resource_trial_days_hours">Probni period :%1$d dana %2$d h</string>
+  <string name="resource_trial_days">(Probni period : %1$dd)</string>
+  <string name="resource_trial_days_hours">Probni period :%1$dd %2$dh</string>
   <string name="resource_trial_end_message">Probni period za %1$s je istekao. Ako vam se tema sviđa, kupite je.</string>
   <string name="resource_trial_end_purchase">Plaćanje</string>
   <string name="resource_trial_end_restore">Kraj probnog perioda</string>
-  <string name="resource_trial_end_time">（Probni period do %1$s）</string>
+  <string name="resource_trial_end_time">(Probni period do %1$s)</string>
   <string name="resource_trial_end_time_format">hh:mma MMM d</string>
   <string name="resource_trial_end_title">Probni period istekao</string>
   <string name="resource_trial_fail_cancel">U redu</string>
@@ -283,8 +283,8 @@
   <string name="resource_trial_fail_message">Provjerite je li vaš sat sustava postavljen na točno vrijeme.</string>
   <string name="resource_trial_fail_title">"Nije bilo moguće postaviti probni period"</string>
   <string name="resource_trial_hours">Probni period : %1$d h</string>
-  <string name="resource_trial_hours_minutes">Probni period :%1$d h %2$d min.）</string>
-  <string name="resource_trial_minutes">Probni period : %1$d min.）</string>
+  <string name="resource_trial_hours_minutes">(Probni period :%1$dh %2$dm)</string>
+  <string name="resource_trial_minutes">(Probni period : %1$d m)</string>
   <string name="resource_unknow_error">Došlo je do nepoznate pogreške</string>
   <string name="resource_update">Ažuriraj</string>
   <string name="resource_user_know">U redu</string>
