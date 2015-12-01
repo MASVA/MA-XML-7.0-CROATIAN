@@ -243,7 +243,7 @@
   <string name="match_data_error_tips">"没有获取到可用数据，十分抱歉
 +如需继续使用，请返回"</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
-  <string name="match_direction_default">Da li tipke za kretanje rade?</string>
+  <string name="match_direction_default">Da li navigacijske tipke rade?</string>
   <string name="match_dvd_intro_pause">Otpustite kada se DVD reprodukcija pauzira</string>
   <string name="match_dvd_intro_play">Otpustite kada započne DVD reprodukcija</string>
   <string name="match_dvd_intro_stop">>Otpustite kada se DVD reprodukcija zaustavi</string>
@@ -262,7 +262,7 @@
 Otpustite kada %1$s odgovori"</string>
   <string name="match_mibox_first">    Mi TV otkriven</string>
   <string name="match_mibox_sencond">    ·Kontrolirajte vaš Mi TV sa ovim uređajem.</string>
-  <string name="match_mibox_third">    · Upari ostale Mi uređaje automatski</string>
+  <string name="match_mibox_third">    ·Upari ostale Mi uređaje automatski</string>
   <string name="match_name_power">Energija</string>
   <string name="match_number_default">Da li rade brojčane tipke?</string>
   <string name="match_stb_intro_left">Otpustite kada se pokazivač pomakne ulijevo</string>
@@ -318,15 +318,15 @@ pričekajte trenutak nakon radnje"</string>
   <string name="network_diagnosis">Testiraj mrežu</string>
   <string name="network_no_connection">"Ne može se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno."</string>
   <string name="network_ok">Nema otkrivenih problema</string>
-  <string name="network_unstable"> · Imate stabilnu vezu</string>
+  <string name="network_unstable"> ·Imate stabilnu vezu</string>
   <string name="next_step">Sljedeći korak</string>
   <string name="no">Ne</string>
   <string name="no_brand_service">Nema informacije o marci</string>
   <string name="no_current_play">"Reproducira se: - "</string>
   <string name="no_data">Nema podataka</string>
   <string name="no_introduction">Nema opisa</string>
-  <string name="no_ir_other_support">I dalje možete koristiti svoj uređaj za kontrolu Mi TV-a ili Mi Box-a putem Wi-Fi-ja.</string>
-  <string name="no_ir_support">Infracrvena nije podržana</string>
+  <string name="no_ir_other_support">I dalje možete koristiti svoj uređaj za kontrolu Mi TV-a ili Mi Box-a putem WLAN-a.</string>
+  <string name="no_ir_support">Infracrveno nije podržana</string>
   <string name="no_network">"· Da ste povezani na internet"</string>
   <string name="no_program">Nema sadržaja.</string>
   <string name="no_qq">"QQ nije instaliran na ovom uređaju."</string>
@@ -484,17 +484,17 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="play_on_tv">Repproducraj na TV</string>
   <string name="please_enter">"Polje ne može biti prazno"</string>
   <string name="pm_2.5">PM2.5:</string>
-  <string name="power">Energija</string>
+  <string name="power">Uklj./Isklj.</string>
   <string name="press_to_continue_match">Dodirnite za nastavak</string>
   <string name="press_to_match">Dodirnite za uparivanje</string>
-  <string name="privacy_content">"Korištenjem ovog proizvoda, suglasni ste s našim "&lt;u&gt;Pravila o privatnosti&lt;/u&gt; and &lt;u&gt;Uvjeti korištenja usluge&lt;/u&gt;. Mi Remote treba povezivanje na internet za normalan rad.</string>
+  <string name="privacy_content">"Korištenjem ovog proizvoda, slažete se s našim "&lt;u&gt;Pravila o Privatnosti&lt;/u&gt; i &lt;u&gt;Uvjeti pružanja usluge&lt;/u&gt;. Mi Remote treba povezivanje s internetom za normalan rad.</string>
   <string name="privacy_nohit">"Ne prikazuj ponovo"</string>
   <string name="privacy_title">Uvjeti i Odredbe</string>
   <string name="projection_failed_for_disconnect">Nije upareno</string>
   <string name="province">Pokrajina</string>
   <string name="pull_down_refresh">Povucite dolje za osvježiti</string>
   <string name="pull_up_refresh">Povucite gore za osvježiti</string>
-  <string name="push_add">发现一个分享的遥控器</string>
+  <string name="push_add">Pronađite dijeljeni daljinski upravljač</string>
   <string name="push_add_desc">是否使用它来遥控附近的%1$s</string>
   <string name="rc">Upravljač</string>
   <string name="rc_name">Upravljač</string>
@@ -529,7 +529,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="search_no_result">Nema rezultata.</string>
   <string name="search_video_app_hint">Pretraži</string>
   <string name="select_area">Odaberite lokaciju</string>
-  <string name="select_brand">Odabrano %s</string>
+  <string name="select_brand">Odabrano: %s</string>
   <string name="select_dvb_carrier">Odaberite operatera</string>
   <string name="service_info">Servisne informacije</string>
   <string name="setting_airkan">BEŽIČNI ZASLON</string>
