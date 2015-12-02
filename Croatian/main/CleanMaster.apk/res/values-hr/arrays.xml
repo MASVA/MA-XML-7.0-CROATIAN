@@ -32,9 +32,8 @@
         <item>Očisti</item>
         <item>Datoteka</item>
         <item>Iznimka</item>
-		</string-array>
 	<item>Dodaj datoteku u iznimke</item>
-    <item>Dodaj aplik. u iznimke</item>
+        <item>Dodaj aplik. u iznimke</item>
     </string-array>
     <string-array name="trash_clean_menu">
         <item>Očisti</item>
