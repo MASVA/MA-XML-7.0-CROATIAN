@@ -1280,6 +1280,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="force_stop">Prisilno zaustavi</string>
   <string name="force_stop_dlg_text">Ako silom zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
   <string name="force_stop_dlg_title">Prisilno zaustaviti?</string>
+  <string name="forget_password_button_text">&lt;u&gt;Zaboravljena zaporka&lt;/u&gt;</string>
   <string name="forget">ZABORAVI</string>
   <string name="forget_wifi_message">Vaš uređaj će prestati s automatskim povezivanjem na ovu mrežu.</string>
   <string name="found_new_version">Pronađena je nova verzija</string>
@@ -2359,6 +2360,7 @@ i pokrenite ga."</string>
  Nećete izgubiti podatke nijedne aplikacije."</string>
   <string name="reset_app_preferences_title">Poništiti željene postavke aplikacija?</string>
   <string name="reset_legacy_password_settings_preface_text">Morate resetirati vašu zaporku za zaključavanje zaslona.</string>
+  <string name="resolver_settings_label">Sortiraj</string>
   <string name="resource_ringtone_volume_mute">Ton zvona je isključen</string>
   <string name="restore_default_apn">Vraćanje zadanih APN postavki</string>
   <string name="restore_default_apn_completed">Vraćanje zadanih postavki APN-a dovršeno.</string>

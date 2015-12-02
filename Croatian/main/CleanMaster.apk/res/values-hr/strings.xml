@@ -80,6 +80,11 @@
   <string name="deepclean_cache_content">Izbriši podatke generirane od strane aplikacija</string>
   <string name="deepclean_cache_header_left">Podaci datoteka: %d</string>
   <string name="deepclean_large_content">Izbriši datoteke veće od 10MB</string>
+  <string name="deepclean_list_item_from_app">Trgovina aplik.</string>
+  <string name="deepclean_list_item_from_dcim_thumbnails">Minijature</string>
+  <string name="deepclean_list_item_from_download">Preuzimanje</string>
+  <string name="deepclean_list_item_from_gallery">Galerija</string>
+  <string name="deepclean_list_item_from_sdcard">Sd kartica</string>
   <string name="deepclean_similar_ignore">Ignoriraj</string>
   <string name="deepclean_title_large_file">Izbriši velike datoteke</string>
   <string name="deepclean_title_uninstall_apps">Rijetko korištene aplikacije</string>
@@ -126,6 +131,7 @@
   <string name="hints_app_uninstall_residual">Očistiti ostatke deinstaliranih datoteka?</string>
   <string name="hints_cache_header_left">Predmemorija</string>
   <string name="hints_cleanfinish">Čišćenje je završeno</string>
+  <string name="hints_deepclean_list_item_from">Od %s</string>
   <string name="hints_deepclean_scanning">Skeniranje %s</string>
   <string name="hints_finish_quick_cleanup">Gotovo</string>
   <string name="hints_finish_quick_cleanup_title">Očišćeno %s otpada</string>

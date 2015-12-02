@@ -100,8 +100,10 @@
   <string name="callrecordview_item_op_time_rejected">"Odbijeno"</string>
   <string name="callrecordview_item_op_time_short_incoming">"Dolazno: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Odlazno: "</string>
+  <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Dodaj bilješka poziva</string>
   <string name="callrecordview_menu_batch_delete">Izbriši seriju</string>
+  <string name="callrecordview_menu_conference">Konferencijski poziv</string>
   <string name="callrecordview_menu_delete">"Izbriši povijest poziva"</string>
   <string name="callrecordview_menu_delete_accepted">Očisti odgovorene pozive</string>
   <string name="callrecordview_menu_delete_all">Izbriši povijest poziva</string>
@@ -675,6 +677,11 @@ Razlog: \"%s\""</string>
   <string name="missing_name">"(Bez imena)"</string>
   <string name="more_call_logs">Pogledajte detaljnu povijest poziva na i.mi.com</string>
   <string name="move_and_resize">Premjesti i promjeni veličinu</string>
+  <string name="multi_number_menu_call">Poziv</string>
+  <string name="multi_number_menu_delete">Izbriši</string>
+  <string name="multi_number_menu_group">Nova grupa</string>
+  <string name="multi_number_menu_message">Poruka</string>
+  <string name="multi_number_title">Konferencijski poziv</string>
   <string name="multipleContactDeleteConfirmation">Brisanjem ovog kontakta izbrisat ćete podatke s više računa.</string>
   <string name="multipleContactDeleteConfirmationDetail">Brisanje kontakta \"%s\" će izbrisati informacije sa više računa.</string>
   <string name="my_in_call_show">Moj videozapis</string>
@@ -1121,6 +1128,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="search_settings_description">Nazivi vaših kontakata</string>
   <string name="searching_vcard_message">"Pretraživanje vCard podataka u pohrani…"</string>
   <string name="select_all">"Odaberi sve"</string>
+  <string name="select_done">Sve je odabrano</string>
   <string name="select_groups">Odaberi grupe</string>
   <string name="select_new_photo_from_photo_package">Pregledaj mape</string>
   <string name="select_none">Ništa nije odabrano</string>
@@ -1267,6 +1275,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="vcard_import_will_start_message">"Datoteka %s će uskoro biti uvezena."</string>
   <string name="vcard_import_will_start_message_with_default_name">"Datoteka će uskoro biti uvezena."</string>
   <string name="vcard_unknown_filename">"kontakt"</string>
+  <string name="video_call">Videopoziv</string>
   <string name="video_chat">"Video chat"</string>
   <string name="viewContactDesription">"Prikaži kontakt"</string>
   <string name="viewContactTitle">Pojedinosti kontakta</string>

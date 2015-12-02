@@ -25,5 +25,6 @@
   <string name="upgrade_out_of_memory_notification_text">Dodirnite da biste dovršili nadogradnju.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Za nadogradnju kontakata potrebno je više memorije.</string>
   <string name="upgrade_out_of_memory_notification_title">Nadogradnja pohrane za kontakte</string>
+  <string name="video_call">Videopoziv</string>
   <string name="voicemail_from_column">Govorna pošta od </string>
 </resources>

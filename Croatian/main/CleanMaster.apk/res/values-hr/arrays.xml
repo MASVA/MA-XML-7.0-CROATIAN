@@ -33,6 +33,13 @@
         <item>Datoteka</item>
         <item>Iznimka</item>
 		</string-array>
+	<item>Dodaj datoteku u iznimke</item>
+    <item>Dodaj aplik. u iznimke</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Očisti</item>
+        <item>Datoteka</item>
+        <item>Dodaj datoteku u iznimke</item>
 	<string-array name="empty_floder_clean_menu">
         <item>Očisti</item>
     </string-array>
@@ -41,12 +48,6 @@
         <item>Datoteka</item>
         <item>Iznimka</item>
         <item>Instaliraj</item>
-    </string-array>
-    <string-array name="app_clean_menu">
-        <item>Detalji</item>
-        <item>Datoteka</item>
-        <item>Napravi Sig. kopiju i deinstaliraj</item>
-        <item>Deinstaliraj</item>
     </string-array>
 	<string-array name="auto_alert_apps_time">
         <item>Svakih 7 dana</item>

@@ -36,6 +36,8 @@
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s komponenta je spremna</string>
   <string name="app_update_background">Ažuriraj aplikaciju u pozadini</string>
+  <string name="app_upgrade_hint">Kliknite da gledate punu polimerizaciju, HD online video.</string>
+  <string name="app_upgrade_title">Mi Video je ažuriran na posljednju verziju.</string>
   <string name="app_upgrade_version">Nova verzija</string>
   <string name="app_version">Verzija</string>
   <string name="app_wifi_mode">Autom. ažuriraj preko WLAN-a</string>
