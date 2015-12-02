@@ -28,7 +28,7 @@
         <item>Ne prikazuj</item>
         <item>Prikaži kasnije</item>
     </string-array>
-	<string-array name="cache_clean_menu">
+    <string-array name="cache_clean_menu">
         <item>Očisti</item>
         <item>Datoteka</item>
         <item>Iznimka</item>
@@ -39,7 +39,8 @@
         <item>Očisti</item>
         <item>Datoteka</item>
         <item>Dodaj datoteku u iznimke</item>
-	<string-array name="empty_floder_clean_menu">
+     </string-array>    
+     <string-array name="empty_floder_clean_menu">
         <item>Očisti</item>
     </string-array>
     <string-array name="apk_clean_menu">
@@ -48,7 +49,7 @@
         <item>Iznimka</item>
         <item>Instaliraj</item>
     </string-array>
-	<string-array name="auto_alert_apps_time">
+    <string-array name="auto_alert_apps_time">
         <item>Svakih 7 dana</item>
         <item>Svakih 15 dana</item>
         <item>Svakih 30 dana</item>
