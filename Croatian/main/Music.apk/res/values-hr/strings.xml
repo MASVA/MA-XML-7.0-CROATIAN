@@ -3,12 +3,12 @@
   <string name="account">Račun</string>
   <string name="account_and_cloud">Račun</string>
   <string name="action_item_add">Dodaj</string>
-  <string name="action_item_add_song">Dodaj na popis pjesama</string>
+  <string name="action_item_add_song">Dodaj pjesme</string>
   <string name="action_item_add_to_current_playlist">Trenutan popis pjesama</string>
   <string name="action_item_add_to_favorite_playlist">Popis pjesama favorita</string>
   <string name="action_item_add_to_new_playlist">Novo</string>
   <string name="action_item_cancel">Odustani</string>
-  <string name="action_item_delete">Izbrisati</string>
+  <string name="action_item_delete">Izbriši</string>
   <string name="action_item_download">Preuzimanje</string>
   <string name="action_item_favorite">Favorit</string>
   <string name="action_item_follow">Slijedi</string>
@@ -245,7 +245,7 @@
   <string name="lyric_setting">Postavke teksta</string>
   <string name="male_artist">Muški izvođači</string>
   <string name="max_sleep_time">90</string>
-  <string name="message_delete_playlist">Izbrisati popis pjesama %s ?</string>
+  <string name="message_delete_playlist">Izbrisati popis pjesama %s?</string>
   <string name="metered_alert">Upozorenje uporabe podataka</string>
   <string name="metered_alert_msg">"Korištenje vaše mobilne mreže za slušanje glazbe će povećati vašu uporabu podataka. Ako prekoračite vaše mjesečno ograničenje, to može dovesti do visokih dodatnih troškova."</string>
   <string name="metered_allow">Stream</string>

@@ -218,7 +218,7 @@
   "lyric_setting": "Postavke teksta",
   "male_artist": "Muški izvođači",
   "max_sleep_time": "90",
-  "message_delete_playlist": "Izbrisati popis pjesama %s ?",
+  "message_delete_playlist": "Izbrisati ${v}?",
   "metered_alert": "Upozorenje uporabe podataka",
   "metered_alert_msg": "Korištenje vaše mobilne mreže za slušanje glazbe će povećati vašu uporabu podataka. Ako prekoračite vaše mjesečno ograničenje, to može dovesti do visokih dodatnih troškova.",
   "metered_allow": "Stream",

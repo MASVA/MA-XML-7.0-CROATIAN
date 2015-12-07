@@ -283,5 +283,4 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="screen_overlay_button">Otvori postavke</string>
   <string name="screen_overlay_message">Za promjenu postavke dopuštenja, prvo morate isključiti Prekrivanje zaslona u Postavke &gt; Aplikacije</string>
   <string name="screen_overlay_title">Otkriveno Prekrivanje zaslona</string>
- <string name="static_cache_db_md5">d3bcc85e9ff1f1f8f1e641ea19e7b30f</string>
 </resources>
