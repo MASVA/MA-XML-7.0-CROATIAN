@@ -213,6 +213,7 @@ i pokušajte ponovno."</string>
   <string name="setting_debug_fail">"Ne mogu ući u Debug način"</string>
   <string name="setting_open_debug">Debug način je isključen. Dodirnite ovdje 6 puta da uključite Debug način.</string>
   <string name="show_more">Prikaži %s više</string>
+  <string name="sniff_associate_text">Dodirnite ključnu riječ ispod da bi pronašli više izvora</string>
   <string name="sniff_bt_text">Torrent</string>
   <string name="sniff_btn_text">Pronađi izvor</string>
   <string name="sniff_connect_error_page_tips">"Ne mogu otvoriti poveznicu"</string>
@@ -223,6 +224,7 @@ i pokušajte ponovno."</string>
   <string name="sniff_find_some_suffix">stavki</string>
   <string name="sniff_finding_resource_prompt">Traženje izvora…</string>
   <string name="sniff_no_network_tip">Provjerite mrežnu vezu i pokušajte ponovo</string>
+  <string name="sniff_no_result_text">Nema pronađenih rezultata</string>
   <string name="sniff_result_empty_prompt">"Ne mogu pronaći izvor"</string>
   <string name="sniff_result_num_prefix">Pronađeno</string>
   <string name="sniff_result_num_video_suffix">stavki</string>
@@ -234,7 +236,7 @@ i pokušajte ponovno."</string>
   <string name="sniff_shortcut_cloudconfig_context">Ažuriranje izvora…</string>
   <string name="sniff_shortcut_cloudconfig_title">Samo tren…</string>
   <string name="sniff_shortcut_create">Prečac napravljen</string>
-  <string name="sniff_shortcut_name">Pronađi izvor</string>
+  <string name="sniff_shortcut_name">Pronađi Izvor</string>
   <string name="sniff_shortcut_tip">Dodajte prečace da brže pronađete izvore.</string>
   <string name="sniff_shortcut_tip2">Pronađite izvore za preuzimanja sa svog početnog zaslona.</string>
   <string name="sniff_sniffing_btn_text">Traženje izvora…</string>
@@ -286,7 +288,7 @@ Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="xiaomi_account_not_exist_message">"Taj Mi Račun ne postoji"</string>
   <string name="xl_annual_vip_open">Godišnje članstvo (%1$s Mi Kredita ili %2$s mjesečno)</string>
   <string name="xl_annual_vip_renew">Obnovite za 1 godinu (%1$s Mi Kredita ili %2$s mjesečno)</string>
-  <string name="xl_bind_account">Dodaj postojeći Xunlei Račun</string>
+  <string name="xl_bind_account">Dodaj postojeći Xunlei Račun </string>
   <string name="xl_highway_autoopen">Kanal velike brzine</string>
   <string name="xl_highway_autoopen_info">Uključi kanal velike brzine automatski</string>
   <string name="xl_highway_title">Kanal velike brzine:   </string>

@@ -24,6 +24,7 @@
   <string name="apply_action">Primjeni</string>
   <string name="apply_as_lock_screen">Zaklj. zaslon</string>
   <string name="apply_as_lock_wallpaper_message">Postaviti i za pozadinu zaklj. zaslona?</string>
+  <string name="apply_as_lockwallpaper_action">Zaklj. zaslon</string>
   <string name="apply_as_wallpaper">Početni zaslon</string>
   <string name="apply_both">Postavi oboje</string>
   <string name="apply_negative_action">"Ne postavljaj"</string>

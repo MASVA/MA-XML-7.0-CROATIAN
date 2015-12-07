@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Samo tren…</string>
-  <string name="app_name">Sig. kopija Apk​</string>
+  <string name="app_name">Mi Cloud Sig. kopija</string>
+  <string name="as_new_device">Zamijenite prethodni Početni zaslon i postavke</string>
+  <string name="as_new_device_summary">Izbriši prethodne Mi Cloud Sig. kopije</string>
   <string name="back_up_task_in_process">Izrada u tijeku…</string>
   <string name="back_up_task_unfinished">Sig. kopija nije završena</string>
   <string name="backing_up_to_micloud">Izrada u tijeku…</string>
-  <string name="backup_fail">"Ne mogu izraditi Sig. kopiju aplikacija Početnog zaslona"</string>
+  <string name="backup_fail">"Ne mogu izraditi Sig. kopiju"</string>
   <string name="backup_size">Veličina: %s</string>
-  <string name="backup_success">Sig. kopija aplikacija Početnog zaslona napravljena</string>
+  <string name="backup_success">Sig. kopija uspješno napravljena</string>
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_delete">Izbriši</string>
@@ -18,7 +20,7 @@
   <string name="cloud_app_check_data">Razgovor sa Mi Cloudom…</string>
   <string name="cloud_app_current_device">Trenutan uređaj</string>
   <string name="cloud_app_dont_restore">"Postavi kao novi uređaj"</string>
-  <string name="cloud_app_no_data">Nema otkrivenih prethodno instaliranih aplikacija</string>
+  <string name="cloud_app_no_data">Nema otkrivenih Sig. kopija</string>
   <string name="cloud_app_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="cloud_app_other_devices">Ostali uređaji</string>
   <string name="cloud_app_restore_app_and_data">Postavite svoj uređaj</string>
@@ -26,10 +28,40 @@
   <string name="cloud_app_restore_error">"Ne mogu vratiti"</string>
   <string name="cloud_app_restore_success">Aplikacije vraćene</string>
   <string name="cloud_app_restore_wifi_prompt">Da vratite Sig. kopiju iz Mi Clouda, morate se povezati s WLAN mrežom.</string>
+  <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
+  <string name="cloud_back_up_detail_discription">"Sig. kopija podataka će biti pohranjena na vašem Mi Cloudu kada je uređaj povezan na WLAN: 
+*\u0009\u0009\u0009\u0009Aplikacije i izgled početnog zaslona
+*\u0009\u0009\u0009\u0009Melodije, slike pozadine i fontovi 
+*\u0009\u0009\u0009\u0009Postavke alarma i vremena 
+*\u0009\u0009\u0009\u0009Postavke obavijesti
+*\u0009\u0009\u0009\u0009Postavke Ne ometaj
+*\u0009\u0009\u0009\u0009MIUI i postavke sustava 
+Napomena: Podaci za aplikacije koje ste instalirali neće biti spremljene na Mi Cloud."</string>
+  <string name="cloud_back_up_frequence_choice_title">Raspored Sig. kopije</string>
+  <string name="cloud_back_up_frequence_long">Svakih 7 dana</string>
+  <string name="cloud_back_up_frequence_short">Svakodnevno</string>
+  <string name="cloud_back_up_interval_long">7 dana</string>
+  <string name="cloud_back_up_interval_short">Svaki dan day</string>
+  <string name="cloud_back_up_no_network_warn">"Ne mogu se povezati na mrežu"</string>
+  <string name="cloud_back_up_ok_btn">U redu</string>
+  <string name="cloud_back_up_opening">Samo tren…</string>
+  <string name="cloud_back_up_share_activity_confirm">Nadogradi</string>
+  <string name="cloud_back_up_share_activity_discription">Dobijte više prostora za pohranu, dnevnih Sig. kopija i više.</string>
+  <string name="cloud_back_up_share_activity_title">Nadogradi Mi Račun</string>
   <string name="cloud_back_up_task">Izrada Sig. kopije…</string>
+  <string name="cloud_backup_detail_frequence">Raspored Sig. kopije</string>
+  <string name="cloud_backup_detail_frequence_day">%1$s napravljea Sig. kopija jednom</string>
+  <string name="cloud_backup_detail_manage">Upravljanje Sig. kopijama</string>
+  <string name="cloud_backup_detail_manage_summary">%1$s Sig. kopija, zauzima veličinu:%2$s</string>
+  <string name="cloud_backup_detail_state">Mi Cloud Sig. kopija</string>
+  <string name="cloud_backup_detail_state_summary">Aplikacije, Početni zaslon i postavke sustava</string>
+  <string name="cloud_backup_detail_time">, Vrieme izrade:%1$s</string>
   <string name="cloud_restore_from_other_device">"Zaustaviti vraćanje %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
   <string name="cloud_restore_task">Vraćanje…</string>
   <string name="cloud_task_in_process">"Zaustaviti %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
+  <string name="confirm_restore">Vrati</string>
+  <string name="confirm_restore_summary">Početni zaslon će se ponovno pokrenuti i aplikacije će se automatski preuzeti kada je povezano na WLAN mrežu</string>
+  <string name="confirm_restore_title">Vrati</string>
   <string name="customization">&lt;u&gt;Prilagodi&lt;/u&gt;</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarm</string>
@@ -57,6 +89,9 @@
   <string name="open_wifi_description">Poveži se na WLAN mrežu za vraćanje aplikacije</string>
   <string name="open_wifi_setting">WLAN postavke</string>
   <string name="process_whole_recovery">Vraćanje \"%s\"</string>
+  <string name="query_restore_back_view">Mi Cloud backup</string>
+  <string name="query_restore_description">Vrati aplikacije i postavke Poč. zaslona pomoću ove Sig. kopije. To će prebrisati podatke aplikacije za dvostruke aplikacije već instalirane na uređaju. Aplikacije koje nisu uključene u Sig. kopiju bit će premještene na posljednji Početni zaslon.</string>
+  <string name="query_restore_summary">Pronađena je Sig. kopija na Mi Cloudu za ovaj uređaj. Vratiti aplikacije i postavke Poč. zaslona ili koristiti kao novi uređaj i izbrisati prethodne Sig. kopije na Mi Cloudu?</string>
   <string name="recover_from_micloud">Vrati Sig. kopiju iz Mi Clouda</string>
   <string name="recover_home_settings">Vrati postavke Poč. zaslona</string>
   <string name="recover_miui_settings">Vrati postavke sustava</string>
@@ -64,13 +99,17 @@
   <string name="recovering">Vraćanje %s</string>
   <string name="remove_task_in_process">Uklanjanje…</string>
   <string name="remove_task_unfinished">Uklanjanje nije završeno</string>
+  <string name="restore_data_summary">Ova značajka zahtijeva internetsku vezu.</string>
   <string name="restore_from_cloud">Vrati Sig. kopiju iz Mi Clouda</string>
+  <string name="restore_from_this_device">Vrati koristeći ovu Sig. kopiju</string>
+  <string name="restore_home_screen_apps">Vrati iz Sig. kopiju na Mi Cloudu</string>
   <string name="restoreing_file_tile">Vraćanje datoteka (%d)</string>
   <string name="retry">Pokušaj ponovo</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="settings_backup">Postavke sustava</string>
   <string name="start_backup_to_micloud">Napravi Sig. kopiju aplikacija na MiCloud</string>
   <string name="start_recover">Vraćanje %s</string>
+  <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>
   <string name="wait_icon_download">Preuzimanje ikone aplikacija</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

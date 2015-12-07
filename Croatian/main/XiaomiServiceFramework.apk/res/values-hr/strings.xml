@@ -20,6 +20,7 @@
   <string name="activate_phone_success_notif_title_msim">SIM kartica %s aktivirana</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Pokušavam ponovo</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Pokušavam ponovo</string>
+  <string name="activate_popup_confirm_error_device_id">Pokušavam ponovo</string>
   <string name="activate_popup_confirm_failed_phone_error">Pokušavam ponovo</string>
   <string name="activate_popup_confirm_failed_query_info">Pošalji ponovo</string>
   <string name="activate_popup_confirm_failed_receive_sms">Pokušavam ponovo</string>
@@ -31,6 +32,7 @@
 Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate %s"</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Ne mogu poslati SMS aktivacije. Provjerite je li vaša SIM kartica aktivirana.
 Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate %s"</string>
+  <string name="activate_popup_desc_error_device_id">Unesite *#06# za provjeru IMEI</string>
   <string name="activate_popup_desc_failed_phone_error">Broj telefona koji ste unijeli nije ispravan.</string>
   <string name="activate_popup_desc_failed_query_info">"Ne mogu pronaći vaš broj telefona. Provjerite je li vaša SIM kartica aktivirana."</string>
   <string name="activate_popup_desc_failed_receive_sms">Provjerite je li broj telefona koji ste unijeli ispravan i da je vaša SIM kartica aktivirana.</string>
@@ -54,6 +56,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_popup_desc_voip_privacy_prefix">"VOIP Usluga je podržana od strane Weihui. Prikaži Weihui "</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">"Ne mogu pronaći broj telefona"</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">"Ne mogu poslati SMS aktivacije"</string>
+  <string name="activate_popup_title_error_device_id">Nevažeći IMEI</string>
   <string name="activate_popup_title_failed_query_info">"Ne mogu pronaći broj"</string>
   <string name="activate_popup_title_failed_receive_sms">"Nije dobiven odgovor od poslužitelja"</string>
   <string name="activate_popup_title_failed_send_sms">"Ne mogu poslati SMS"</string>
@@ -67,6 +70,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_status_desc_checking_xiaomi_account">Provjera Mi Računa…</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju pri provjeri Mi Računa</string>
   <string name="activate_status_desc_completed_with_sms_sent">SMS poslan za aktiviranje SIM-a</string>
+  <string name="activate_status_desc_device_id_error">Nevažeći IMEI</string>
   <string name="activate_status_desc_failed_getting_gateway">Neuspjelo dobivanje SMS-a s pristupnika</string>
   <string name="activate_status_desc_getting_gateway">Dobivanje SMS-a s pristupnika</string>
   <string name="activate_status_desc_prepare_sending_sms">Priprema slanja aktivacijskog SMS-a pristupniku</string>

@@ -395,6 +395,7 @@
   <string name="vp_download_connect_fail">"Ne mogu pronaći poveznicu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="vp_download_file_fail">"Ne mogu preuzeti datoteku. Pobrinite se da ima dovoljno prostora na unutarnjoj 
   pohrani vašeg uređaja ili SD kartici."</string>
+  <string name="vp_downloading_apk_title">Preuzimanje %1$s</string>
   <string name="vp_exit">Izlaz</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Reproduciraj u punom zaslonu</string>
@@ -406,7 +407,7 @@
   <string name="vp_install">Instalirati aplikaciju HD komponenti?</string>
   <string name="vp_install_title">Instaliraj HD</string>
   <string name="vp_loading">Preuzimanje</string>
-  <string name="vp_loading_download">Preuzimanje …</string>
+  <string name="vp_loading_download">Preuzimanje…</string>
   <string name="vp_loading_video">Učitavanje…</string>
   <string name="vp_low_definition">NISKO</string>
   <string name="vp_maintitlearea">Preuzmite i uživajte u HD videozapisima</string>
@@ -425,6 +426,7 @@
   <string name="vp_mplayer_error_timed_out">Operation timed out</string>
   <string name="vp_newest_ep">Najnovije</string>
   <string name="vp_next_ci">Dalje</string>
+  <string name="vp_notify_apk_installed">Aplikacija %1$s uspješno instalirana</string>
   <string name="vp_offline">Izvanmrežno</string>
   <string name="vp_offline_status_done">Dovršeno</string>
   <string name="vp_offline_status_dowloading">Preuzimanje</string>

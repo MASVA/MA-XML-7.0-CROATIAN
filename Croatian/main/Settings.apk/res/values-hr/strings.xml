@@ -691,6 +691,10 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="clear_failed_dlg_text">Brisanje podataka za aplikaciju nije uspjelo.</string>
   <string name="clear_failed_dlg_title">Izbriši podatke</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
+  <string name="cloud_backup_section_title">Sig. kopija na Mi Cloudu</string>
+  <string name="cloud_backup_settings_section_title">Postavke Sig. kopije</string>
+  <string name="cloud_restore_section_summary">Vrati aplikacije, izgled Početnog zaslona i postavke sustava</string>
+  <string name="cloud_restore_section_title">Vrati sa Mi Clouda</string>
   <string name="close_dialog">U redu</string>
   <string name="cmcc_dm_settings_disable_summary">Onemogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_enable_summary">Omogući autom. pokretanje</string>
@@ -1305,6 +1309,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="free_wifi_user_agreement_allow">Dopusti</string>
   <string name="free_wifi_user_agreement_title">Upozorenje privatnosti</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
+  <string name="free_xiaomi_wifi_connect_summary">Dodirni za povezivanje s %1$s.</string>
   <string name="frequently_fragment_delete">Ukloni</string>
   <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
   <string name="gadget_bluetooth">Bluetooth</string>

@@ -29,15 +29,14 @@
         <item>Prikaži kasnije</item>
     </string-array>
     <string-array name="cache_clean_menu">
-        <item>Očisti</item>
-        <item>Datoteka</item>
-        <item>Iznimka</item>
-	<item>Dodaj datoteku u iznimke</item>
+        <item>Očisti ovu datoteku</item>
+        <item>"Prikaži lokaciju datoteke"</item>
+	    <item>Dodaj datoteku u iznimke</item>
         <item>Dodaj aplik. u iznimke</item>
     </string-array>
     <string-array name="trash_clean_menu">
-        <item>Očisti</item>
-        <item>Datoteka</item>
+        <item>Očisti ovu datoteku</item>
+        <item>"Prikaži lokaciju datoteke"</item>
         <item>Dodaj datoteku u iznimke</item>
      </string-array>    
      <string-array name="empty_floder_clean_menu">
@@ -45,8 +44,8 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Očisti</item>
-        <item>Datoteka</item>
-        <item>Iznimka</item>
+        <item>"Prikaži lokaciju aplikacije"</item>
+        <item>Dodaj aplik. u iznimke</item>
         <item>Instaliraj</item>
     </string-array>
     <string-array name="auto_alert_apps_time">

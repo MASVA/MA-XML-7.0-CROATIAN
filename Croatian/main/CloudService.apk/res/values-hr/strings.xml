@@ -31,18 +31,19 @@ Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
   <string name="click_to_enabled">Dodirni za sinkr.</string>
   <string name="cloud_back_up_button_ok">Prisilno zaustavi</string>
   <string name="cloud_back_up_close_info">Dodirni za izradu Sig. kopije</string>
-  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_dialog_content">"Zaustaviti izradu Sig. kopije u tijeku? Ako zaustavite sada, nećete biti u mogućnosti koristiti ovu Sig. kopiju za vraćanje aplikacija."</string>
-  <string name="cloud_back_up_interval_long">7 dana</string>
-  <string name="cloud_back_up_interval_short">1 dan</string>
   <string name="cloud_back_up_network_unavailable">"Ne mogu ukloniti. Povežite se na WLAN i pokušajte ponovno."</string>
   <string name="cloud_back_up_open_info">"Napravi Sig. kopiju kada je povezano na WLAN svakih %1$s 
 Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Napravi Sig. kopiju kada je povezano na WLAN svakih %1$s</string>
   <string name="cloud_back_up_remove_success">Sig. kopija je izbrisana</string>
-  <string name="cloud_back_up_title">Sig. kopija aplikacija</string>
+  <string name="cloud_back_up_summary">Napravi Sig. kopiju ka je povezano na WLAN</string>
+  <string name="cloud_back_up_title">Napravi Sig. kopiju uređaja</string>
   <string name="cloud_backup_dialog_title">Napravi Sig. kopiju s Mi Cloudom</string>
+  <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Mi Cloudu</string>
+  <string name="cloud_backup_select_recover">Odaberi Sig. kopiju sa Mi Clouda</string>
   <string name="cloud_find_device">Pronađi Uređaj</string>
+  <string name="cloud_restore_title">Vrati iz Sig. kopije</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %s GB na vaš cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za pohranu"</string>
   <string name="cloud_space_upgrade_title">Više prostora za Mi Cloud</string>
@@ -103,8 +104,10 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Oko RMB 143 godišnje</string>
+  <string name="header_cloud_backup_settings">Napravi Sig. kopiju i vrati</string>
+  <string name="header_cloud_restore_summary">Ponovno instaliraj aplikacije i vrati izgled Poč. zaslona i postavke sustava iz Sig. kopije na Mi Cloudu</string>
   <string name="header_data_and_synchronization">Podaci &amp; sink.</string>
-  <string name="header_other_settings">Dodatne postavke</string>
+  <string name="header_find_device_settings">Pronađi uređaj</string>
   <string name="i_know">U redu</string>
   <string name="input_password_hint">Unesite zaporku</string>
   <string name="internet_access_dspt">Ovoj je aplikaciji potrebno povezivanje s internetom za normalan rad.</string>
