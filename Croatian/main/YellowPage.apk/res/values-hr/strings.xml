@@ -16,6 +16,8 @@
   <string name="account_yellowpage_followed">Provjereni Računi</string>
   <string name="account_yellowpage_recent">Prikaži povijest</string>
   <string name="agree">Slažem se</string>
+  <string name="agree_to_continue">Nastavi</string>
+  <string name="agree_to_turn_on">Slažem se s omogućivanjem ove značajke</string>
   <string name="all_resources">Sve</string>
   <string name="all_services">Sve</string>
   <string name="allow">Dopusti</string>
@@ -215,6 +217,7 @@ Provjerite broj za praćenje."</string>
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(Nema predmeta)</string>
   <string name="hms_notification">Poruke</string>
+  <string name="homepage_barcode_prompt">Skeniraj za ulaz na moju početnu stranicu.</string>
   <string name="info_divider">|</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati resurse"</string>
@@ -296,7 +299,7 @@ Provjerite broj za praćenje."</string>
   <string name="payment_failed_common_problems">Došlo je do pogreške prilikom plaćanja.</string>
   <string name="payment_unknown_status_summary">Provjerite svoju mrežnu vezu i pokušajte ponovno.</string>
   <string name="payment_unknown_status_title">"Ne mogu potvrditi status plaćanja"</string>
-  <string name="phone_event_setting_notice_text">"Yellow Pages žele prenijeti verificirane brojeve usluga (kao vaš operatera) na MI poslužitelje, tako da možete primati ažuriranja vezana uz usluge."</string>
+  <string name="phone_event_setting_notice_text">"Ova značajka vam može pomoći u prepoznati čudne brojeve u pozivanju i porukama. Dopustiti provjerenoj MIUI javnoj usluzi da za vas pošalje poruke da se osjećate bezbrižno nakon što spustite slušalicu. Ako se slažete, mi se brinemo za %1$s i %2$s."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d ukupno</string>
   <string name="quick_yellow_page_tab_call_log">Povijest poziva</string>
@@ -519,6 +522,10 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="toast_finish_delete_call_log">Povijest poziva je izbrisana</string>
   <string name="toast_text_copied">Tekst kopiran</string>
   <string name="try_again">Pokušaj ponovno</string>
+  <string name="turn_off_hint_title">Savjet</string>
+  <string name="turn_off_phone_event_hint">Jeste li sigurni da želite isključiti ne primanje poruka nakon što završite poziv?</string>
+  <string name="turn_off_smart_antispam_hint">Jeste li sigurni da želite isključiti zaštitu kod poziva stranaca?</string>
+  <string name="turn_on_phone_event_dialog_title">Ažuriraj uvjete identifikacijskog broja</string>
   <string name="turn_on_phone_event_summary">Pošaljite telefonski status brojeva usluga</string>
   <string name="turn_on_phone_event_title">Primanje informacije o usluzi</string>
   <string name="turn_on_smart_antispam_hint">"Identificiraj pozive nepoznatih brojeva pomoću Xiaomi oznake imenika"</string>

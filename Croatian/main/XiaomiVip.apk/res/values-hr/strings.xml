@@ -55,6 +55,22 @@
   <string name="limit_task_format" formatted="false">%d/%d</string>
   <string name="millis">%d ms</string>
   <string name="minutes">%d m</string>
+  <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
+  <string name="miuishare_account_activate_ok">Aktiviraj</string>
+  <string name="miuishare_account_login_cancel">Odustani</string>
+  <string name="miuishare_account_login_confirmation">Potrebna je prijava</string>
+  <string name="miuishare_account_login_ok">Prijavite se</string>
+  <string name="miuishare_account_need_activate">"Dodajte svoj Weibo račun trenutnom Mi Računu za dijeljenje. Izgleda da vaš Mi Račun nije aktiviran. Aktivirati ga sada?"</string>
+  <string name="miuishare_account_need_login">"Dodajte svoj Weibo račun trenutnom Mi Računu za dijeljenje. Prijaviti se sada?"</string>
+  <string name="miuishare_app_name">MIUI Share</string>
+  <string name="miuishare_no_network">"Ne mogu se povezati na mrežu."</string>
+  <string name="miuishare_publish">Pošalji</string>
+  <string name="miuishare_share_done">Uspješno podijeljeno.</string>
+  <string name="miuishare_share_editor_title">Dijeli</string>
+  <string name="miuishare_title_more">Više</string>
+  <string name="miuishare_title_share">Dijeli</string>
+  <string name="miuishare_wechat_timeline_title">Wechat trenuci</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="my_award">Moje nagrade</string>
   <string name="no_achievements">Prazno.</string>
   <string name="no_app">Instalirajte prvo Mi VIP aplikaciju</string>

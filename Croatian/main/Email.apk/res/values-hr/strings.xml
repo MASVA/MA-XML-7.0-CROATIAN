@@ -122,6 +122,7 @@
   <string name="account_setup_failed_dlg_server_message_fmt">"Povezivanje s poslužiteljem nije moguće.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">"Ne mogu postaviti račun"</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Nepoznata pogreška.</string>
   <string name="account_setup_failed_ioerror">"Ne mogu otvoriti vezu s poslužiteljem."</string>
   <string name="account_setup_failed_protocol_unsupported">Unijeli ste pogrešnu adresu poslužitelja ili poslužitelj traži verziju protokola koju E-pošta ne podržava.</string>
   <string name="account_setup_failed_security">Otvaranje veze s poslužiteljem nije bilo moguće zbog sigurnosne pogreške.</string>
@@ -176,6 +177,7 @@
   <string name="account_setup_options_mail_window_auto">Automatski</string>
   <string name="account_setup_options_mail_window_default">Rabi zadanu post. računa</string>
   <string name="account_setup_options_mail_window_label">Sinkr. e-poštu iz</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Spremi za</string>
   <string name="account_setup_options_notify_label">Obavijesti me kad stigne e-pošta</string>
   <string name="account_setup_options_sync_calendar_label">Sinkroniziraj kalendar s ovog računa</string>
   <string name="account_setup_options_sync_contacts_label">Sinkroniziraj kontakte s ovog računa.</string>
@@ -282,12 +284,7 @@
   <string name="bottom_bar_no_quickreply_toast">Nema brzih odgovora</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Podsjeti</string>
-  <string name="calendar_remind_gridview_month_later">Mjesec kasnije</string>
-  <string name="calendar_remind_gridview_nextweek">Drugi tjedan</string>
   <string name="calendar_remind_gridview_pick_date">Odaberi datum</string>
-  <string name="calendar_remind_gridview_tomorrow">Sutra</string>
-  <string name="calendar_remind_gridview_tonight">Večeras</string>
-  <string name="calendar_remind_gridview_weekend">Vikend</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_action">Odustani</string>
   <string name="cancel_attachment">Odustani</string>
@@ -342,7 +339,7 @@
   <string name="contact_edit_set_black_list_from">Premjesti sve poruke tog pošiljatelja u Smeće</string>
   <string name="contact_edit_set_black_list_receive">Premjesti poštu tog primatelja u Smeće (samo nove poruke)</string>
   <string name="contact_edit_set_black_list_receive_summary">Izbriši poštu koja sadrži ovog primatelja u polju Prima ili Kopija</string>
-  <string name="contact_edit_set_black_list_title">Postavi listu blokiranih</string>
+  <string name="contact_edit_set_black_list_title">Dodaj na listu blokiranih</string>
   <string name="contact_edit_set_phone_contact">Uredi kontakte telefona</string>
   <string name="contact_edit_set_pop_up_tips">Savjeti skoč. prozora</string>
   <string name="contact_edit_set_unread_top">Prikaži najprije nepročitanu e-poštu</string>
@@ -350,7 +347,7 @@
   <string name="contact_edit_title_permission">"Dopuštenja kontakata"</string>
   <string name="contact_edit_title_phone_contact">Popis kontakata telefona</string>
   <string name="contact_in_filter_call_phone_str">Poziv od %s</string>
-  <string name="contact_in_filter_title">" od ove osobe."</string>
+  <string name="contact_in_filter_title">Pošiljatelj</string>
   <string name="contact_content_provider">Kontaktirajte davatelja sadržaja</string>
   <string name="contact_info_string">Prikaži podatke o kontaktu za %1$s</string>
   <string name="contact_info_string_default">Prikaži podatke o kontaktu</string>
@@ -406,6 +403,7 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">ZADANE POSTAVKE</string>
   <string name="default_signature">Poslano s mog Mi Telefona</string>
+  <string name="del_account_questionnair_hint">"Možete li nam reći zašto brišete ovaj račun?"</string>
   <string name="delete">Izbriši</string>
   <string name="delete_conversation_hint_message">%1$d %2$s izbrisano</string>
   <string name="deleted">Izbrisano</string>
@@ -415,9 +413,9 @@
   <string name="device_admin_label">E-pošta</string>
   <string name="device_not_activiey_lint1">Upravitelj uređaja nije aktiviran</string>
   <string name="device_not_activiey_lint2">Usluga E-pošte ne radi s Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Ne mogu primati nove poruke. Sinkronizacija je isključena."</string>
-  <string name="dialog_auto_download_failed">"Ne mogu preuzeti automatski."</string>
-  <string name="dialog_auto_sync_setting_no_open">"Ne mogu primati nove poruke. Sinkronizacija je isključena."</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Ne mogu automatski primati nove poruke. Sinkronizacija je isključena."</string>
+  <string name="dialog_auto_sync_setting_no_open">"Ne mogu automatski primati nove poruke. Sinkronizacija je isključena."</string>
+  <string name="dialog_change_sync_lookback">Poruka e-pošte primljena prije %s će automatski biti izbrisana. Dodirnite za promjenu.</string> 
   <string name="dialog_gmail_proxy_server_is_error">Pogreška Gmail proxy poslužitelja.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Nedovoljno prostora za preuzimanje privitaka za %s.</string>
   <string name="dialog_insufficient_space_on_external">"Ne mogu preuzeti privitak. Nema dovoljno prostora na vanjskoj pohrani."</string>
@@ -497,10 +495,11 @@
   <string name="folder_junk_name_cn0">垃圾邮件</string>
   <string name="folder_junk_name_cn1">垃圾箱</string>
   <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
-  <string name="folder_junk_name_en0">Smeće</string>
+  <string name="folder_junk_name_en0">Spam</string>
   <string name="folder_junk_name_en1">Neželjena pošta</string>
   <string name="folder_junk_name_en2">Smeće</string>
   <string name="folder_junk_name_en3">Smeće</string>
+  <string name="folder_junk_name_en4">Smeće</string>
   <string name="folder_list_display_all">Prikaži sve mape</string>
   <string name="folder_list_display_only_import">Prikaži samo važne mape</string>
   <string name="folder_picker_title">Odabir mapa</string>
@@ -568,7 +567,6 @@
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Odgovori svima</string>
-  <string name="ignore_spam_warning">Zanemari, poruka je pouzdana</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Pogrešna zaporka dolaznog poslužitelja</string>
   <string name="inbox_folders_heading">Pristigla pošta</string>
@@ -605,7 +603,7 @@
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
   <string name="mailbox_name_display_drafts">Skice</string>
   <string name="mailbox_name_display_inbox">Pristigla pošta</string>
-  <string name="mailbox_name_display_junk">Smeće</string>
+  <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Izlazna pošta</string>
   <string name="mailbox_name_display_sent">Poslano</string>
   <string name="mailbox_name_display_starred">Označeno zvjezdicom</string>
@@ -861,6 +859,15 @@ Kopija: %4$s
   <string name="push_wps_confirm_message">Pokušajte koristiti WPS Office za otvaranje ovog privitka</string>
   <string name="push_wps_confirm_title">Isprobajte WPS Office</string>
   <string name="push_wps_no_response_app">Nema pronađene aplikacije za izvršenje ove radnje</string>
+  <string name="questionnair_body_invisibility">"Poruke nisu prikazane"</string>
+  <string name="questionnair_confirm_delete">Izbriši</string>
+  <string name="questionnair_instability">Nestabilna aplikacija, često se ruši</string>
+  <string name="questionnair_not_send">"Ne mogu poslati e-poštu"</string>
+  <string name="questionnair_not_sync">Nestabilna sinkr.</string>
+  <string name="questionnair_other_reasons">Ostali razlozi</string>
+  <string name="questionnair_title">Brisanje računa</string>
+  <string name="questionnair_ui_not_pretty">"Ne sviđa mi se dizajn"</string>
+  <string name="questionnair_waste_resource">Brisanje možda oslobodi nešto prostora za pohranu</string>
   <string name="quick_1">Hvala!</string>
   <string name="quick_2">Izvrsno!</string>
   <string name="quick_3">Pročitat ću to kasnije i javiti vam se.</string>
@@ -912,8 +919,6 @@ Kopija: %4$s
   <string name="remote_search">Pošt. sandučić na poslužitelju</string>
   <string name="remote_search_result">%s rezultata na poslužitelju</string>
   <string name="remove_account">Ukloni račun</string>
-  <string name="remove_account_confirm">\"%1$s\" će biti uklonjen iz Pošte.</string>
-  <string name="remove_account_confirm_title">Ukloni račun</string>
   <string name="remove_folder">Ukloni iz %1$s</string>
   <string name="remove_star">Odznači</string>
   <string name="reply">Odgovor</string>
@@ -972,9 +977,9 @@ Kopija: %4$s
 \u0009 (Provjerite dal je 'Auto sink. vremena' uključena u Postavkama.)"</string>
   <string name="ser_resp_err_map_connect_err">Pogreška mrežne veze. Pokušajte drugu mrežu</string>
   <string name="ser_resp_err_map_nouser">"Korisnik ne postoji"</string>
-  <string name="ser_resp_err_map_or">ili</string>
+  <string name="ser_resp_err_map_or">%1$s ili %2$s</string>
   <string name="ser_resp_err_map_pserr">Netočno korisničko ime ili zaporka</string>
-  <string name="ser_resp_err_map_serclosed">Poslužitelj je zatvoren</string>
+  <string name="ser_resp_err_map_serclosed">Poslužitelj %s je zatvoren</string>
   <string name="ser_resp_err_map_serclosed_url_tag">Kako to riješiti?</string>
   <string name="ser_resp_err_map_ssl">"Odaberite 'SSL/TLS (Prihvati sve certifikate)' u 'Vrsta sigurnosti'"</string>
   <string name="set_network">Postavljanje mreže</string>

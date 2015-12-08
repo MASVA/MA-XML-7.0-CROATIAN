@@ -136,4 +136,12 @@
         <item>\#</item>
         <item>∅</item>
     </string-array>
+	<string-array name="calendar_remind_string_array">
+        <item>Večeras</item>
+        <item>Sutra</item>
+        <item>Vikend</item>
+        <item>Sljedeći tjedan</item>
+        <item>Sljedeći mjesec</item>
+        <item>Odaberite datum</item>
+    </string-array>
 </resources>

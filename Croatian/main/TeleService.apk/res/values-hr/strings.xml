@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Result_title">Kontakti SIM kartice</string>
   <string name="active_phone_fail_nochoice">"Ne mogu provjeriti SIM karticu"</string>
   <string name="active_phone_fail_toast">"Ne mogu provjeriti SIM karticu %1$s"</string>
   <string name="active_phone_sim_absent">Umetnite SIM karticu sada</string>
@@ -163,6 +164,7 @@
   <string name="calling_via_template">Pozivanje putem %s</string>
   <string name="callwait_open_hint">\"Poziv na čekanju\" je značajka koju pruža vaš operater. Ako dobijete obavijest o pogrešci, obratite se svom davatelju usluga kako bi bili sigurni da je ova značajka podržana.</string>
   <string name="can_not_use_for_not_data_sim">"(Ne mogu koristiti: Mora biti postavljeno kao zadana SIM kartica za podatke)"</string>
+  <string name="can_not_call_self">"Ne možete birati vlastiti broj"</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_call">Odustani</string>
   <string name="card_title_MOcall_forwarding">Odlazni poziv je proslijeđen</string>
@@ -229,6 +231,8 @@
   <string name="china_mobile">China Mobile</string>
   <string name="china_telecom">China Telecom</string>
   <string name="china_unicom">China Unicom</string>
+  <string name="chose_product_summary">Nazovite jeftinije</string>
+  <string name="chose_product_title">Paket nadoplate</string>
   <string name="clir_choices_hide_number">Sakrij broj</string>
   <string name="clir_choices_network_default">Mreža određuje</string>
   <string name="clir_choices_show_number">Pokaži broj</string>
@@ -619,8 +623,9 @@ Super cheap international calls over the Internet"</string>
   <string name="livetalk_version">Top-up Package Version 0.9 | Beta</string>
   <string name="livetalk_white_list_number_title">Call without using top-up package</string>
   <string name="load_networks_progress">Pretraživanje…</string>
+  <string name="loading_product">Samo tren…</string>
   <string name="load_rates_failed">"Ne mogu učitati"</string>
-  <string name="loading">Sam tren…</string>
+  <string name="loading">Samo tren…</string>
   <string name="loading_recent_failed">"Ne mogu učitati."</string>
   <string name="local_disable">Lokalne vijesti su isključene</string>
   <string name="local_enable">Lokalne vijesti su uključene</string>

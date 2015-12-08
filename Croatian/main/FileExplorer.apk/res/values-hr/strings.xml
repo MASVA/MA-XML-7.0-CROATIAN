@@ -231,6 +231,9 @@
   <string name="login_reg_content">Pohranite datoteke i sinkronizirajte ih na više uređaja.</string>
   <string name="login_reg_content0">Koristite KuaiPan iz bilo kojeg mjesta.</string>
   <string name="make_private">Sakrij</string>
+  <string name="make_private_msg_1">Sakriti ovu datoteku?</string>
+  <string name="make_private_msg_2">Sakriti ove datoteke?</string>
+  <string name="make_private_msg_3">Sve datoteke u ovoj mapi biti će sakrivene.</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Čišćenje</string>
   <string name="menu_item_ftp">FTP</string>
