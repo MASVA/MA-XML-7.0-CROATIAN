@@ -1301,7 +1301,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="voip_contacts_entry_header">Mi Poruka i Voice</string>
   <string name="voip_loading_contact">Samo tren…</string>
   <string name="voip_name">Mi Voice</string>
-  <string name="voip_recommend_msg">Mi Voice</string>
+  <string name="voip_recommend_msg">Dodirnite za korištenje Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
   <string name="websiteLabelsGroup">"Web-lokacija"</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
