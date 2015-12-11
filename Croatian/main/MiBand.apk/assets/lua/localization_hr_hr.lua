@@ -179,15 +179,15 @@ localization_hr_rHR_table = {
 
     welcome_use="Dobrodošli",
     last_week_walked_format='Prošli tjedan prohodali ste %d koraka.',
-    last_week_walked_info_format='Prohodano %d km, potrošeno %d kal.',
+    last_week_walked_info_format='Prohodano  %s, potrošeno %d kal.',
     last_month_walked_format='Prošli mjesec prohodali ste %d koraka.',
-    last_month_walked_info_format='Prohodano %d km, potrošeno %d kal.',
+    last_month_walked_info_format='Prohodano %s, potrošeno %d kal.',
 
     get_over_format=", oko %d grama ili masti.",
     click_to_get_help="Naučite više o Mi Bandu",
     take_a_walk="Prošetajte s vašim Mi Bandom",
     take_a_walk_info="Vaš Mi Band evidentira svaki vaš napravljeni korak tijekom dana.",
-    unlock_hint="Otključajte svoj telefon!",
+    unlock_hint="Sezame, otvori se!",
     unlock_hint_info="Koristite svoj Mi Band da otključate uređaj automatski.",
     unlock_password_hint="Koristite Mi Band da otključate ovaj uređaj",
     unlock_password_hint_info="Postavite zaključavanje zaslona da osigurate svoj uređaj.",
