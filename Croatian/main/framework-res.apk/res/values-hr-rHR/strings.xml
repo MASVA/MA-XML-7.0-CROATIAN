@@ -258,11 +258,8 @@ koristeći %s"</string>
   <string name="eventTypeCustom">Prilagođeno</string>
   <string name="eventTypeOther">Drugo</string>
   <string name="expires_on">Istječe dana:</string>
-  <string name="ext_media_badremoval_notification_message">Isključite USB memoriju na siguran način prije uklanjanja kako biste izbjegli gubitak podataka.</string>
-  <string name="ext_media_badremoval_notification_title">Memorija USB nenadano uklonjena</string>
-  <string name="ext_media_browse_action">Istraži</string>
-  <string name="ext_media_checking_notification_message">Traženje pogrešaka.</string>
-  <string name="ext_media_checking_notification_title">Pripremanje memorije USB</string>
+  <string name="ext_media_badremoval_notification_message">Isključite uređaj %s prije uklanjanja da ne biste izgubili podatke</string>
+  <string name="ext_media_badremoval_notification_title">Uređaj %s iznenada je uklonjen</string>
   <string name="ext_media_browse_action">Istraži</string>
   <string name="ext_media_checking_notification_message">Traženje pogrešaka</string>
   <string name="ext_media_checking_notification_title">Priprema uređaja %s</string>
@@ -331,7 +328,7 @@ koristeći %s"</string>
   <string name="floating_toolbar_close_overflow_description">Zatvori dodatni izbornik</string>
   <string name="floating_toolbar_open_overflow_description">Više opcija</string>
   <string name="format_error">Brisanje USB pohrane nije uspjelo.</string>
-  <string name="force_close">U red</string>
+  <string name="force_close">U redu</string>
   <string name="forward_intent_to_owner">Ovu aplikaciju upotrebljavate izvan svog radnog profila</string>
   <string name="forward_intent_to_work">Upotrebljavate tu aplikaciju u radnom profilu</string>
   <string name="gadget_host_error_inflating">Widget nije moguće dodati.</string>
@@ -524,12 +521,6 @@ Pokušajte ponovo za %d s."</string>
   <string name="loading">Učitavanje…</string>
   <string name="location_usage_restricted_body">Dodirnite za uklanjanje ograničenja.</string>
   <string name="location_usage_restricted_title">Pozadinsko lociranje je ograničeno</string>
-  <string name="lock_to_app_exit">Zaslon je otkvačen</string>
-  <string name="lock_to_app_start">Zaslon je pričvršćen</string>
-  <string name="lock_to_app_toast_locked">Zaslon je pričvršćen. Vaša organizacija ne dopušta otkvačivanje.</string>
-  <string name="lock_to_app_unlock_password">Traži zaporku radi otkvačivanja</string>
-  <string name="lock_to_app_unlock_pattern">Traži uzorak za otključavanje radi otkvačivanja</string>
-  <string name="lock_to_app_unlock_pin">Traži PIN radi otkvačivanja</string>
   <string name="lock_to_app_description">"Kvačenje zaslona zaključava zaslon u jednom prikazu.
 
 Da otkvačite, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanje\"."</string>
