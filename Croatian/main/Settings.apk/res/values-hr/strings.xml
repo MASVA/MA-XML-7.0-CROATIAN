@@ -2077,6 +2077,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="music_dirac_mode_general_inear">Općenite In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
+  <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac isključen</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
@@ -2419,6 +2420,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="print_blocked_state_title_template">Pisač je blokirao %1$s</string>
   <string name="print_cancel">Odustani</string>
   <string name="print_cancelling_state_title_template">Otkazivanje zadatka %1$s</string>
+  <string name="print_enable">Omogući ispis</string>
   <string name="print_failed_state_title_template">Pogreška pisača %1$s</string>
   <string name="print_feature_state_off">Isključeno</string>
   <string name="print_feature_state_on">Uključeno</string>
@@ -2433,6 +2435,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="print_print_job">Zadatak ispisa</string>
   <string name="print_print_jobs">Zadaci ispisa</string>
   <string name="print_printing_state_title_template">Ispisivanje zadatka %1$s</string>
+  <string name="print_remind">Omogućite prvo ispis</string>
   <string name="print_restart">Ponovo pokreni</string>
   <string name="print_search_box_hidden_utterance">Okvir za pretraživanje je sakriven</string>
   <string name="print_search_box_shown_utterance">Okvir za pretraživanje je prikazan</string>

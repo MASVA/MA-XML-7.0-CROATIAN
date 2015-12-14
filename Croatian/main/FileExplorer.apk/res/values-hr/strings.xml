@@ -73,6 +73,7 @@
   <string name="cleaning">Čišćenje…</string>
   <string name="close">Zatvori</string>
   <string name="compress_fail">"Ne mogu sažeti. Datoteka s istim imenom već postoji."</string>
+  <string name="compress_fail_unknown">"Ne mogu sažeti. Prostor za pohranu je pun ili je došlo do nepoznate pogreške."</string>
   <string name="compress_message">Sažimanje na…</string>
   <string name="compress_title">Sažimanje</string>
   <string name="confirm">U redu</string>
@@ -103,7 +104,7 @@
   <string name="decompress_confirm">Raspakiraj</string>
   <string name="decompress_destination_error">"Ne mogu raspakirati datoteke na ovom mjestu."</string>
   <string name="decompress_encrypted_rar_not_supported">Šifrirana RAR datoteka nije podržana.</string>
-  <string name="decompress_fail">"Ne mogu raspakirati datoteke. Datoteka s istim imenom već postoji ili je arhiva oštećena."</string>
+  <string name="decompress_fail">"Ne mogu raspakirati datoteke. Prostor za pohranu je pun ili je došlo do nepoznate pogreške."</string>
   <string name="decompress_input_password">Unesite zaporku</string>
   <string name="decompress_password_error">Pogrešna zaporka. Pokušajte ponovo…</string>
   <string name="decompress_success">Raspakiranje završeno</string>
@@ -253,7 +254,9 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"Ne mogu izrezati"</string>
+  <string name="move_icon_to_desktop_hint">Napravi prečac aplik. Datoteke na Poč. zaslonu za učinkovitije upravljanje datotekama.</string>
   <string name="move_to">Premjesti u…</string>
+  <string name="move_to_confirm">Napravi</string>
   <string name="msg_set_password">Postavite prvo zaporku</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="my_app">Podaci aplik.</string>

@@ -76,6 +76,8 @@
   <string name="close_music_time">"Preostalo vremena: "</string>
   <string name="cloud_enable">Sinkr. glazbu s Mi Cloud</string>
   <string name="cloud_settings">Postavke sinkronizacije</string>
+  <string name="cloud_space_full">Nema dovoljno prostora za pohranu</string>
+  <string name="cloud_space_full_message">Nema dovoljno prostora na vašem Mi Cloud za dodavanje pjesama. Da biste dobili više prostora, nadogradite vaš Mi Račun.</string>
   <string name="confirm_download">Preuzmi</string>
   <string name="cp_info_first">Streaming uslugu pruža Ultimate Inc.</string>
   <string name="create_playlist">Izradi novi popis pjesama</string>
@@ -103,6 +105,7 @@
   <string name="dialog_title_remove_tracks">Ukloni</string>
   <string name="dialog_title_track_picker">Odaberi pjesme</string>
   <string name="disallow_add_to_personal_radio">Osobni Radio je čitanje samo</string>
+  <string name="do_not_remind_again">"Ne prikazuj ponovo"</string>
   <string name="done">Gotovo</string>
   <string name="download">Preuzmi</string>
   <string name="download_all_song">Preuzmi sve</string>
@@ -319,6 +322,7 @@
   <string name="no_song_downloaded">"Ne mogu se povezati na poslužitelj"</string>
   <string name="normal_quality">Dobro</string>
   <string name="not_login">Niste prijavljeni</string>
+  <string name="not_now">Ne sada</string>
   <string name="not_selected">Odaberi pjesmu</string>
   <string name="nowplaying_menu_item_delete">Izbriši</string>
   <string name="ok">"U redu"</string>
@@ -477,6 +481,7 @@
   <string name="upgrade">Nadogradnja:</string>
   <string name="upgrade_force">"Obustavljamo našu trenutnu streaming uslugu zbog pitanja autorskih prava. Ažurirajte na najnoviju verziju aplikacije Glazba za slušanje glazbe visoke kvalitete."</string>
   <string name="upgrade_immediate">Ažuriraj sada</string>
+  <string name="upgrade_membership">Nabavite više prostora</string>
   <string name="upgrade_nobeta">"Obustavljamo našu trenutnu streaming uslugu, dok ne riješimo probleme oko autorskih prava. Žao nam je zbog neugodnosti :("</string>
   <string name="upgrade_remind">Dostupno je ažuriranje</string>
   <string name="upgrade_services">Ažuriranja</string>

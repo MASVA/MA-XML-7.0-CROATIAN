@@ -27,34 +27,43 @@
         <item>Prašnjavo</item>
         <item>Sumaglica</item>
         <item>Ledena kiša</item>
-        <item>Nema podataka</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Najslabiji</item>
         <item>Slab</item>
         <item>Srednji</item>
         <item>Jak</item>
-        <item>Najjači</item>
     </string-array>
+	<string-array name="indices_sport">
+        <item>Pogodno</item>
+        <item>Nepogodno</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Pogodno</item>
+        <item>Nepogodno</item>
+     </string-array>		    
     <string-array name="wind_direction">
-        <item>Vjetar S</item>
-        <item>Vjetar SI</item>
-        <item>Vjetar I</item>
-        <item>Vjetar JI</item>
-        <item>Vjetar J</item>
-        <item>Vjetar JZ</item>
-        <item>Vjetar Z</item>
-        <item>Vjetar SZ</item>
+        <item>S</item>
+        <item>SI</item>
+        <item>I</item>
+        <item>JI</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
 	</string-array>	
-    <string-array name="moon_desc">
-        <item>Novi mjesec</item>
-        <item>Povećanje srpa</item>
-        <item>Prva četvrtina</item>
-        <item>Mlađak</item>
-        <item>Puni mjesec</item>
-        <item>Mlađak</item>
-        <item>Zadnja četvrtina</item>
-        <item>Smanjenje srpa</item>
-        <item>Tamni mjesec</item>
-    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+    </string-array>		  
 </resources>

@@ -44,5 +44,21 @@
         <item quantity="two">%1$d pregleda</item>
         <item quantity="few">%1$d pregleda</item>
         <item quantity="many">%1$d pregleda</item>
-     </plurals>		    
+     </plurals>		
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Možete izbrisati nevažne podatke za %d aplik.</item>
+        <item quantity="one">Možete izbrisati nevažne podatke za %d aplik.</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">Instalirano %d aplik., možete izbrisati rijetko korištene aplikacije</item>
+        <item quantity="one">Instalirana %d app aplik., ovu možete izbrisati</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Pronađeno %d velikih datoteka, možete izbrisati nevažne</item>
+        <item quantity="one">Pronađena %d velika datoteka, ovu možete izbrisati</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Pronađeno %d fotografija, možete izbrisati duplikate ili suvišne</item>
+        <item quantity="one">Pronađena %d fotografija, možete izbrisati duplikate ili suvišne </item>
+    </plurals>	 
 </resources>

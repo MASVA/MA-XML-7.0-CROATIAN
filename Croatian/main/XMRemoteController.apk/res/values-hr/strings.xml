@@ -88,6 +88,9 @@
   <string name="control_vol_by_cellphone">Koristite uređaj za kontrolu glasnoće</string>
   <string name="controller_list">Moj daljinski</string>
   <string name="cool_mode">Klima uređaj</string>
+  <string name="create_shortcut_cancel">Ne hvala</string>
+  <string name="create_shortcut_confirm">Napravi</string>
+  <string name="create_shortcut_done">Uspješno napravljeno</string>
   <string name="current_place">Trenutni položaj:</string>
   <string name="current_play">Reproducira se: </string>
   <string name="current_stb">"Trenutno: "</string>
@@ -95,6 +98,7 @@
   <string name="current_version_latest">Nema dostupnih ažuriranja.</string>
   <string name="data_request_error">"Ne mogu dobiti informacije"</string>
   <string name="day">Dan</string>
+  <string name="day_string">Dan</string>
   <string name="delete">Izbriši</string>
   <string name="delete_confirm">Raspariti uređaj?</string>
   <string name="delete_desc">Nećete biti u mogućnosti upravljati “%s” pomoću Mi Remote.</string>
@@ -122,15 +126,26 @@
   <string name="edit_controller">Uredi kontrole daljinskog</string>
   <string name="edit_ir_device">Uredi naziv daljinskog</string>
   <string name="eject">Izbaci</string>
+  <string name="empty_name_tip">遥控器还没有名字哦~</string>
+  <string name="epg_all_channels">全部频道</string>
+  <string name="epg_bookable">预约</string>
+  <string name="epg_booked">已预约</string>
   <string name="epg_booked_str">Planirano</string>
   <string name="epg_bottom_subtitle_textview_str">Uparite set-top box kako biste vidjeli više detalja</string>
   <string name="epg_bottom_subtitle_textview_str2">Dodirnite za prikaz daljinskog</string>
   <string name="epg_bottom_title_textview_str">Dodirnite za uparivanje s set-top box</string>
+  <string name="epg_change_channel">换台</string>
   <string name="epg_channel_group_open">Prikaži sve</string>
   <string name="epg_detail_title_text">Opis</string>
+  <string name="epg_details_episode">第%1$s集</string>
   <string name="epg_episode_open">Prikaži sve</string>
+  <string name="epg_fav_channels">频道收藏</string>
+  <string name="epg_hot_channels">热门频道</string>
+  <string name="epg_hot_programs">热门节目</string>
+  <string name="epg_loading_hint">手机控制机顶盒一键换台</string>
   <string name="epg_name">TV serije</string>
   <string name="epg_status_playing_text">Reprodukcija…</string>
+  <string name="epg_status_playing_text_v5">直播中</string>
   <string name="epg_unbooked_str">Nije planirano</string>
   <string name="episode_intro_title_text">Sažetak epizode</string>
   <string name="episode_title">Ep. %1$d</string>
@@ -163,6 +178,7 @@
   <string name="gesture_pad_sencond_line_tips">"Za prikaz izbornika, pritisnite &amp; držite s jednim prstom na prazno područje na zaslonu. Za podešavanje glasnoće na zaslonu, povucite prstom prema gore ili dolje."</string>
   <string name="gesture_pad_vol_tips">Pritisnite tipke glasnoće na uređaju za podešavanje izlazne glasnoće</string>
   <string name="get_info_failed">"Ne mogu dobiti informacije"</string>
+  <string name="get_location_fail_tip">自动获取位置失败，请手动选择城市</string>
   <string name="guid_one">· Povežite se na istu Wi-Fi mrežu kao i ciljni uređaj.</string>
   <string name="guid_three">"· Neke kontrole možda neće biti dostupne ako vaš TV ili set-up box ne podržava Android."</string>
   <string name="guid_two">· Isključite AP Isolation routera</string>
@@ -213,6 +229,7 @@
   <string name="ir_device_tv">TV</string>
   <string name="ir_device_wifi">Wi-Fi daljinski</string>
   <string name="jump_to_mivideo">Pogledaj na mobilnom uređaju</string>
+  <string name="just_now">Upravo sada</string>
   <string name="just_used">Upravo korišten</string>
   <string name="key_press_vibrate">Vibriraj kod dodira</string>
   <string name="last_use_frame">Zadnje korištenje prije %1$s dana</string>
@@ -240,8 +257,8 @@
   <string name="match_count_frame">Upari %1$d/%2$d daljinski</string>
   <string name="match_count_tip_frame">Testne tipke (%1$d/%2$d)</string>
   <string name="match_data">Pojedinosti uparivanja</string>
-  <string name="match_data_error_tips">"没有获取到可用数据，十分抱歉
-+如需继续使用，请返回"</string>
+  <string name="match_data_error_tips">"Ne mogu dobiti informacije
+Vratite se za nastavak"</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Da li navigacijske tipke rade?</string>
   <string name="match_dvd_intro_pause">Otpustite kada se DVD reprodukcija pauzira</string>
@@ -258,7 +275,7 @@
   <string name="match_guide_sub_frame">Upareno %1$d tipaka</string>
   <string name="match_intro_power">Otpustite kada se uređaj uključi</string>
   <string name="match_is_respond">Da li se ovo podudara?</string>
-  <string name="match_main_tip_frame">"Usmjerite daljinski na %1$s i zadržite tipku
+  <string name="match_main_tip_frame">"Usmjerite daljinski na %1$s i pritisnite tipku
 Otpustite kada %1$s odgovori"</string>
   <string name="match_mibox_first">    Mi TV otkriven</string>
   <string name="match_mibox_sencond">    ·Kontrolirajte vaš Mi TV sa ovim uređajem.</string>
@@ -313,6 +330,8 @@ pričekajte trenutak nakon radnje"</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Control Verzija: %1$s</string>
   <string name="mode">Način rada</string>
+  <string name="month">Mjesec</string>
+  <string name="month_day_format">MMM dd</string>
   <string name="more">Više</string>
   <string name="mute">Utišaj</string>
   <string name="network_diagnosis">Testiraj mrežu</string>
@@ -481,21 +500,22 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Prijava na vaš Mi Račun zahtijeva internetsku vezu. Osim toga, pristup lokaciji, Mi Cloud i Mi VIP će se uključiti automatski.</string>
   <string name="place_frame">Lokacija:</string>
-  <string name="play_on_tv">Repproducraj na TV</string>
+  <string name="play_on_tv">Reproduciraj na TV</string>
+  <string name="playing_time">播出时间</string>
   <string name="please_enter">"Polje ne može biti prazno"</string>
   <string name="pm_2.5">PM2.5:</string>
   <string name="power">Uklj./Isklj.</string>
   <string name="press_to_continue_match">Dodirnite za nastavak</string>
   <string name="press_to_match">Dodirnite za uparivanje</string>
-  <string name="privacy_content">"Korištenjem ovog proizvoda, slažete se s našim "&lt;u&gt;Pravila o Privatnosti&lt;/u&gt; i &lt;u&gt;Uvjeti pružanja usluge&lt;/u&gt;. Mi Remote treba povezivanje s internetom za normalan rad.</string>
+  <string name="privacy_content">"Pročitajte Xiaomi "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Pravila o Privatnosti&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Korisnički Sporazum&lt;/a&gt; prije korištenja Mi Remote. Aplikaciji je potreban pristup Internetu i usluga lociranja da radi normalno.</string>
   <string name="privacy_nohit">"Ne prikazuj ponovo"</string>
   <string name="privacy_title">Uvjeti i Odredbe</string>
   <string name="projection_failed_for_disconnect">Nije upareno</string>
   <string name="province">Pokrajina</string>
   <string name="pull_down_refresh">Povucite dolje za osvježiti</string>
   <string name="pull_up_refresh">Povucite gore za osvježiti</string>
-  <string name="push_add">Pronađite dijeljeni daljinski upravljač</string>
-  <string name="push_add_desc">是否使用它来遥控附近的%1$s</string>
+  <string name="push_add">Pronađen dijeljeni daljinski upravljač</string>
+  <string name="push_add_desc">Upravljati sa %1$s pomoću ovog daljinskog?</string>
   <string name="rc">Upravljač</string>
   <string name="rc_name">Upravljač</string>
   <string name="refreshing">Osvježavanje…</string>
@@ -568,6 +588,8 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="share_title_to_mitalk_ellipsis">…</string>
   <string name="share_title_to_sina_weibo">Podijeli putem Sina Weibo</string>
   <string name="share_to_others">Podijeli</string>
+  <string name="shortcut_pop_desc">Izgleda da vrlo često koristite Mi Remote. Napraviti prečac na Početnom zaslonu?</string>
+  <string name="shortcut_pop_title">Prečac</string>
   <string name="similar">Povezano</string>
   <string name="somthing_wrong">Imate poteškoća?</string>
   <string name="sorry">Žao nam je</string>
@@ -596,6 +618,8 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="to_qq">Otvorite QQ i pridružite se grupi</string>
   <string name="to_qq_maintext">Pridružite se našoj QQ grupi i podijelite povratne informacije.</string>
   <string name="to_qq_subtext">QQ grupa: 259685862</string>
+  <string name="today">Danas</string>
+  <string name="tomorrow">Sutra</string>
   <string name="tv_broadcast">TV</string>
   <string name="tv_mirror">Prikaži kontrole</string>
   <string name="tv_mirror_intro">Prikaži kontrole u vodoravnom položaju</string>
@@ -634,6 +658,11 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="video_play_count_label">"Pregleda: "</string>
   <string name="virtual_keyhboard">Koristite tipkovnicu uređaja</string>
   <string name="virtual_keyhboard_intro">Koristite tipkovnicu uređaja za unos na zaslonu</string>
+  <string name="voice_download_tips">未检测到科大讯飞语音服务，点击\"确认\"下载...</string>
+  <string name="voice_download_title">提示</string>
+  <string name="voice_engine_ifly_fail">启动讯飞语音识别失败</string>
+  <string name="voice_record_start">开始录制语音</string>
+  <string name="voice_resolving">正在进行语音识别</string>
   <string name="volume">Glasnoća</string>
   <string name="weather_out">Vanjska temperatura:</string>
   <string name="wind_direct">Smjer</string>
@@ -646,5 +675,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="wind_speed_low">Nisko</string>
   <string name="wind_speed_medium">Srednje</string>
   <string name="wind_sweep">Udar</string>
+  <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Da</string>
+  <string name="yesterday">Jučer</string>
 </resources>
