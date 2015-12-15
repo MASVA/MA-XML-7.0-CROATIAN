@@ -217,7 +217,7 @@ Provjerite broj za praćenje."</string>
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(Nema predmeta)</string>
   <string name="hms_notification">Poruke</string>
-  <string name="homepage_barcode_prompt">Skeniraj za ulaz na moju početnu stranicu.</string>
+  <string name="homepage_barcode_prompt">Skeniraj za otvaranje početne stranice.</string>
   <string name="info_divider">|</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati resurse"</string>

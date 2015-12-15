@@ -29,7 +29,7 @@
   <string name="cloud_app_restore_success">Aplikacije vraćene</string>
   <string name="cloud_app_restore_wifi_prompt">Da vratite Sig. kopiju iz Mi Clouda, morate se povezati s WLAN mrežom.</string>
   <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Sig. kopija podataka će biti pohranjena na vašem Mi Cloudu kada je uređaj povezan na WLAN: 
+  <string name="cloud_back_up_detail_discription">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na WLAN: 
 *\u0009\u0009\u0009\u0009Aplikacije i izgled početnog zaslona
 *\u0009\u0009\u0009\u0009Melodije, slike pozadine i fontovi 
 *\u0009\u0009\u0009\u0009Postavke alarma i vremena 

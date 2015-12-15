@@ -50,7 +50,7 @@
   <string name="button_confirm">Dopusti</string>
   <string name="button_exit">Izlaz</string>
   <string name="button_not_allow">Odustani</string>
-  <string name="daily_forcast_drawer_on_bottom">Uvuci</string>
+  <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
   <string name="daily_forcast_drawer_on_top">Prikaži ostale dane</string>
   <string name="daily_forcast_no_wind">Nema vjetra</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
@@ -95,7 +95,7 @@
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Vidljivost</string>
-  <string name="information_manager">Učitaj samo na WLAN-u</string>
+  <string name="information_manager">Učitaj kad je povezano na WLAN</string>
   <string name="information_menu_title"/>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>

@@ -26,7 +26,7 @@
   <string name="input_pin_code">Unesite PIN</string>
   <string name="input_puk_code">Unesite PUK</string>
   <string name="invalid_confirm_pin_hint">"PIN-ovi se ne podudaraju"</string>
-  <string name="invalid_sim_pin_hint">Unesite PIN koji ima od 4 do 8 brojeva</string>
+  <string name="invalid_sim_pin_hint">PIN treba imati od 4 do 8 brojeva</string>
   <string name="invalid_sim_puk_hint">PUK kod treba imati 8 brojeva ili više</string>
   <string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, držite gumb za uključivanje</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>

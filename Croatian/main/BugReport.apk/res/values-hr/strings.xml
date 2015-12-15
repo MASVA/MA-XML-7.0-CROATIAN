@@ -57,6 +57,7 @@
   <string name="hot_problem">Prikaži uobičajene greške</string>
   <string name="hot_problem_empty">Prazno</string>
   <string name="loading_apps">Učitavanje popisa…</string>
+  <string name="logo_title">Centar prijave grešaka</string>
   <string name="loading_hot_problem">Učitavanje…</string>
   <string name="loading_problem_list">Učitavanje popisa…</string>
   <string name="menu_copy">Kopiraj</string>

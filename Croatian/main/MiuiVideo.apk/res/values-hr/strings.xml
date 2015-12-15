@@ -130,6 +130,7 @@
   <string name="download_start_message">%1$s komponenta će se preuzeti i instalirati</string>
   <string name="download_task_with">%d zadataka</string>
   <string name="download_url_waiting">Čeka se dohvaćanje poveznice</string>
+  <string name="download_url_waiting_no_wifi">Čekanje na WLAN nije dostupno</string>
   <string name="download_with">Preuzimanje %1$s/%2$s</string>
   <string name="downloading_app_plugin">Preuzimanje komponenata (%1$s)</string>
   <string name="edit">Uredi</string>
