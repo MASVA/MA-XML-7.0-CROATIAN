@@ -731,6 +731,6 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
 "</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?"
 "</string>
-  <string name="waiting_close_airplane_mode">Samo tren…</string>
+  <string name="waiting_close_airplane_mode">Samo trenutak…</string>
   <string name="wild_prompt_str">Zamijeni zamjenski znak s</string>
 </resources>

@@ -410,7 +410,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="reset_password">Promjena zaporke</string>
   <string name="restoring">Obnavljam…</string>
   <string name="rlv_last_refreshing_time">Ažurirano %1$s</string>
-  <string name="rlv_loading_more">Samo tren…</string>
+  <string name="rlv_loading_more">Samo trenutak…</string>
   <string name="rlv_pull_to_refresh">Povuci za osvježavanje</string>
   <string name="rlv_refreshing">Skeniranje datoteka…</string>
   <string name="rlv_release_to_refresh">Pusti za osvježavanje</string>
@@ -485,7 +485,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoje mrežno povezivanje."</string>
   <string name="signin_success">"Prijavljeni ste!
 Dodano %1$s slobodnog prostora"</string>
-  <string name="smb_loading">Samo tren…</string>
+  <string name="smb_loading">Samo trenutak…</string>
   <string name="space_info">KuaiPan: %1$s dostupno, %2$s ukupno</string>
   <string name="space_usage">Iskorišten prostor</string>
   <string name="start_server">Pokreni FTP poslužitelj</string>

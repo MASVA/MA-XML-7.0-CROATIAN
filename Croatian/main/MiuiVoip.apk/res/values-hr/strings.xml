@@ -15,10 +15,10 @@
   <string name="cur_activated_number_tag">%s (trenutni broj)</string>
   <string name="engine_activate_successfully">Mi Voice aktiviran</string>
   <string name="engine_activate_unsuccessfully">"Ne mogu aktivirati Mi Voice"</string>
-  <string name="engine_activating">Samo tren…</string>
+  <string name="engine_activating">Samo trenutak…</string>
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Za pregled ove informacije, 
 idite na %s"</string>
-  <string name="loading">Samo tren…</string>
+  <string name="loading">Samo trenutak…</string>
   <string name="msim_sim1">"SIM 1 "</string>
   <string name="msim_sim2">"SIM 2 "</string>
   <string name="mx_activate_dlg_title">Aktivirajte Mi Voice</string>

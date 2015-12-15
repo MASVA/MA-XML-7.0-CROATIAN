@@ -200,7 +200,7 @@ Unesite kôd za provjeru u e-pošti"</string>
   <string name="input_captcha_hint">Unesite kôd</string>
   <string name="input_password_hint">Unesite zaporku</string>
   <string name="input_vcode_hint">Unesite kôd za provjeru</string>
-  <string name="just_a_second">Samo tren…</string>
+  <string name="just_a_second">Samo trenutak…</string>
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_micloud_sync_data">Učitavanje…</string>
@@ -455,7 +455,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="user_agreement_p6">"Suglasni ste s
   "</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
-  <string name="user_avatar_uploading">Samo tren…</string>
+  <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="vcode">Kôd za provjeru</string>
   <string name="vcode_notification_title">Provjera nije potpuna</string>
   <string name="vcode_prompt_long">Unesite kôd za provjeru</string>

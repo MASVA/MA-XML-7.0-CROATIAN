@@ -742,6 +742,10 @@
   <string name="clear_failed_dlg_text">Brisanje podataka za aplikaciju nije uspjelo.</string>
   <string name="clear_failed_dlg_title">Izbriši podatke</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
+  <string name="cloud_backup_section_title">Mi Cloud Sig. kopija</string>
+  <string name="cloud_backup_settings_section_title">Postavke Sig. kopije</string>
+  <string name="cloud_restore_section_summary">Vrati aplikacije, izgled početnog zaslona i postavke sustava</string>
+  <string name="cloud_restore_section_title">Vrati iz Mi Clouda</string>
   <string name="close_dialog">U redu</string>
   <string name="cmcc_dm_settings_disable_summary">Onemogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_enable_summary">Omogući autom. pokretanje</string>
@@ -3120,7 +3124,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_screen_key_recent_apps">Nedavne aplikacije</string>
   <string name="status_bar_settings">Obavijesti</string>
   <string name="status_bar_settings_advanced">"Dodatne postavke"</string>
-  <string name="status_bar_settings_all_app_display_loading">Samo tren…</string>
+  <string name="status_bar_settings_all_app_display_loading">Samo trenutak…</string>
   <string name="status_bar_settings_basic_settings">Osnovne postavke</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Uredi naziv operatera</string>

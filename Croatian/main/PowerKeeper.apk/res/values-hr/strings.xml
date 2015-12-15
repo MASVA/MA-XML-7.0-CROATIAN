@@ -140,7 +140,7 @@
   <string name="set_cpu_powermode">Korištenje CPU-a</string>
   <string name="set_cpufreq_max">Maks. CPU frekvencija</string>
   <string name="set_lcd_mode">Način zaslona</string>
-  <string name="settings_safetylegal_activity_loading">Samo tren…</string>
+  <string name="settings_safetylegal_activity_loading">Samo trenutak…</string>
   <string name="still">Slika</string>
   <string name="ui">Standardno</string>
   <string name="user_define_mode">Naziv</string>

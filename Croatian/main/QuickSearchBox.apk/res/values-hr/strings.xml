@@ -33,7 +33,7 @@
   <string name="google_settings_category_title">Google pretraživanje</string>
   <string name="hot_search">Popularno</string>
   <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
-  <string name="loading">Samo tren…</string>
+  <string name="loading">Samo trenutak…</string>
   <string name="menu_help">Pomoć</string>
   <string name="menu_settings">Postavke pretraživanja</string>
   <string name="recently_shortcut_label">Nedavni prečaci</string>

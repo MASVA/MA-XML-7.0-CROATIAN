@@ -623,9 +623,9 @@ Super cheap international calls over the Internet"</string>
   <string name="livetalk_version">Top-up Package Version 0.9 | Beta</string>
   <string name="livetalk_white_list_number_title">Call without using top-up package</string>
   <string name="load_networks_progress">Pretraživanje…</string>
-  <string name="loading_product">Samo tren…</string>
+  <string name="loading_product">Samo trenutak…</string>
   <string name="load_rates_failed">"Ne mogu učitati"</string>
-  <string name="loading">Samo tren…</string>
+  <string name="loading">Samo trenutak…</string>
   <string name="loading_recent_failed">"Ne mogu učitati."</string>
   <string name="local_disable">Lokalne vijesti su isključene</string>
   <string name="local_enable">Lokalne vijesti su uključene</string>
@@ -1209,7 +1209,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="t9_indexing_method_pinyin">Latinica</string>
   <string name="t9_indexing_method_title">T9 pretraživanje unosa</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin fonetski zapis</string>
-  <string name="t9_indexing_rebuilding_message">Samo tren…</string>
+  <string name="t9_indexing_rebuilding_message">Samo trenutak…</string>
   <string name="technology_news_disable">Vijesti iz tehnologije su isključene</string>
   <string name="technology_news_enable">Vijesti iz tehnologije su uključene</string>
   <string name="telephony_setting">Telefon</string>

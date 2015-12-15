@@ -141,8 +141,8 @@
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
   <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
-  <string name="loading_desktop">Samo tren…</string>
-  <string name="loading_wallpaper">Samo tren…</string>
+  <string name="loading_desktop">Samo trenutak…</string>
+  <string name="loading_wallpaper">Samo trenutak…</string>
   <string name="local_wallpaper">Preuzeto</string>
   <string name="lock_screen_failed_message">"Ne mogu postaviti pozadinu zaklj. zaslona"</string>
   <string name="lock_screen_success_message">Postavljeno za pozadinu zaklj. zaslona</string>

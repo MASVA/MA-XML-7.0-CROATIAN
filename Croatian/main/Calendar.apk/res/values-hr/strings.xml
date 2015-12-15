@@ -340,7 +340,7 @@
   <string name="travel_item_weather_now">Vrijeme odredišta</string>
   <string name="travel_load_failed">"Ne mogu učitati"</string>
   <string name="travel_loaded">Powered by Veryzhun</string>
-  <string name="travel_loading">Samo tren…</string>
+  <string name="travel_loading">Samo trenutak…</string>
   <string name="travel_local">Odredište</string>
   <string name="travel_notice_message">Kalendar treba povezivanje s internetom i pristup lokaciji kako bi mogao prikazivati informacije o putovanju.</string>
   <string name="travel_seat_number_text">Sjedalo</string>

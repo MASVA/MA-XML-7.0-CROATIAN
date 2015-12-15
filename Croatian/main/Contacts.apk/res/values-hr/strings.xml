@@ -159,7 +159,7 @@
   <string name="cloud_antispam_title">Prepoznaj nepoznate brojeve</string>
   <string name="cloud_recommend_msg">Dodirnite za sinkr. kontakata s Mi Cloud.</string>
   <string name="cloud_state_disabled">Sinkronizacija s Mi Cloud je isključena</string>
-  <string name="cloud_state_loading">Samo tren…</string>
+  <string name="cloud_state_loading">Samo trenutak…</string>
   <string name="cloud_state_sync_finished">Sinkronizirano s Mi Cloud</string>
   <string name="cloud_state_syncing">Sinkronizirano s Mi Cloud</string>
   <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
@@ -559,10 +559,10 @@ Razlog: \"%s\""</string>
   <string name="list_filter_phones">"Svi kontakti s telefonskim brojevima"</string>
   <string name="list_filter_single">"Kontakt"</string>
   <string name="loading">Učitavanje…</string>
-  <string name="loading_accounts">Samo tren…</string>
-  <string name="loading_group_members">Samo tren…</string>
-  <string name="loading_groups">Samo tren…</string>
-  <string name="loading_recent">Samo tren…</string>
+  <string name="loading_accounts">Samo trenutak…</string>
+  <string name="loading_group_members">Samo trenutak…</string>
+  <string name="loading_groups">Samo trenutak…</string>
+  <string name="loading_recent">Samo trenutak…</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati"</string>
   <string name="loading_resource_detail_info">Učitavanje…</string>
   <string name="local_invisible_directory">Drugo</string>
@@ -1299,7 +1299,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_contacts_entry_header">Mi Poruka i Voice</string>
-  <string name="voip_loading_contact">Samo tren…</string>
+  <string name="voip_loading_contact">Samo trenutak…</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Dodirnite za korištenje Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>

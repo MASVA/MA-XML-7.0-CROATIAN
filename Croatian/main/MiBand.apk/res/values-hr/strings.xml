@@ -709,7 +709,7 @@ cilj."</string>
   <string name="label_more">Više</string>
   <string name="label_my_qrcode">Moj QR kod</string>
   <string name="label_no_care_time_by_me">Prazno</string>
-  <string name="label_preparing_share_image">Samo tren…</string>
+  <string name="label_preparing_share_image">Samo trenutak…</string>
   <string name="label_pull_to_load">Povucite za učitati više</string>
   <string name="label_pull_to_refresh">Povucite za osvježiti</string>
   <string name="label_qrcode_error">Pogreška QR koda!</string>

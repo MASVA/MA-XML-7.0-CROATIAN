@@ -149,7 +149,7 @@
   <string name="descx_finish_scan_system">Završavanje skeniranje zaštite sustava</string>
   <string name="descx_quick_scan_cancel">Skeniranje otkazano</string>
   <string name="descx_quick_scan_done">Završeno</string>
-  <string name="descx_quick_scan_preparation">Samo tren…</string>
+  <string name="descx_quick_scan_preparation">Samo trenutak…</string>
   <string name="descx_scanning_item">Skeniranje %s</string>
   <string name="descx_start_cleanup_cache">Pokreni Optimiziranje predmemorije</string>
   <string name="descx_start_cleanup_memory">Pokreni Optimiziranje memorije</string>
@@ -288,7 +288,7 @@
   <string name="month_report_network_dialog_title">"Ne mogu dobiti detalje izvješća"</string>
   <string name="month_report_result_share">Dijeli</string>
   <string name="month_report_share_img_fail">"Ne mogu podijeliti"</string>
-  <string name="month_report_share_loading">Samo tren…</string>
+  <string name="month_report_share_loading">Samo trenutak…</string>
   <string name="month_report_warning_dialog_description">"Za prikaz mjesečnih izvješća, uključite ovu značajku u postavkama aplikacije Sigurnost."</string>
   <string name="month_report_warning_dialog_positive">Uključi</string>
   <string name="month_report_warning_dialog_title">Mjesečna izvješća sigurnosti</string>
