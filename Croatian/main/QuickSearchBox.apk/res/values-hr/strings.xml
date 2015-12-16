@@ -21,6 +21,7 @@
   <string name="cta_declaration_negative_text">Izlaz</string>
   <string name="cta_declaration_positive_text">Dopusti</string>
   <string name="cta_declaration_title">Uvjeti Pružanja Usluge</string>
+  <string name="default_hint">Traži aplikacije, glazbu, videozapise, knjige…</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="default_search_domain">.google.com</string>

@@ -292,6 +292,8 @@
   <string name="search">Traži</string>
   <string name="search_hint">Traži online videozapise</string>
   <string name="search_result_empty_text">"Ništa nije pronađeno"</string>
+  <string name="search_snack_more">Više informacija</string>
+  <string name="search_snack_sniff">Sniffing preuzimanje</string>
   <string name="second"> Drugo</string>
   <string name="see_all_count_comment">%d još komentara</string>
   <string name="select_all">Odaberi sve</string>

@@ -12,7 +12,7 @@
   "action_item_share":"Dijeli",
   "action_item_multiple":"Uredi",
   "action_item_play_all":"Reproduciraj sve",
-  "action_item_remove_from_favorite":"Odznači iz favorite",
+  "action_item_remove_from_favorite":"Odznači iz favorita",
   "fragment_title_recommend":"ISTAKNUTO",
   "fragment_title_artist_album":"ALBUMI",
   "preset_music_playlist":"Popis pjesama Mi Glazbe",

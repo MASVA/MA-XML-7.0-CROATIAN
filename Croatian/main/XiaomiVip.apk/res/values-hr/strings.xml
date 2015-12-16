@@ -103,7 +103,7 @@
   <string name="task_begin">U tijeku…</string>
   <string name="task_completed">Završeno</string>
   <string name="task_done">Završeno</string>
-  <string name="task_limit">Nema preostalih izazova za danas. Vidimo se sutra!</string>
+  <string name="task_limit">Nema preostalih izazova za danas.</string>
   <string name="task_not_completed">Nije završeno</string>
   <string name="task_ongoing">U tijeku</string>
   <string name="task_score">Bodova %d</string>

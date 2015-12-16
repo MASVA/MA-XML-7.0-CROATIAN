@@ -29,6 +29,7 @@
   <string name="action_text_today">Danas</string>
   <string name="add_account">Dodavanje računa</string>
   <string name="add_calendar">Dodaj kalendar</string>
+  <string name="add_card">Dodaj kartice</string>
   <string name="add_topic_success">Dodano \"%s\"</string>
   <string name="add_topic_unsuccess">Dodavanje \"%s\" nije uspjelo</string>
   <string name="agenda_today">DANAS, %1$s</string>
@@ -56,6 +57,8 @@
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">rođendan</string>
+  <string name="book_card_free">免费</string>
+  <string name="book_card_rating_text">|   %1$s 条评论</string>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
   <string name="button_week">T</string>
@@ -65,6 +68,8 @@
   <string name="can_not_modify_allday_event">"Ne mogu promijeniti cjelodnevni događaj"</string>
   <string name="can_not_modify_event">"Ne mogu promijeniti događaj"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Ne mogu promijeniti ponavljanje događaja i događaj prijelaznih dana"</string>
+  <string name="card_manager">卡片管理</string>
+  <string name="card_title_change">换一换</string>
   <string name="change_response_title">Promijenite odgovor</string>
   <string name="chongsha"/>
   <string name="copy_db">Pošalji bazu podataka</string>
@@ -151,14 +156,21 @@
   <string name="hint_description">Opis</string>
   <string name="hint_what">Naziv događaja</string>
   <string name="hint_where">Lokacija</string>
+  <string name="horoscope_card_comprehensive">综合运势：</string>
+  <string name="horoscope_card_financial">财富运势：</string>
+  <string name="horoscope_card_love">爱情运势：</string>
+  <string name="horoscope_card_working">事业运势：</string>
+  <string name="horoscope_select_activity_label">选择星座</string>
   <string name="holiday_label">Praznik</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label"/>
   <string name="internet_connection_notification">Obavijest povezivanja s internetom</string>
   <string name="internet_connection_notification_descrip">Prikaži obavijest povezivanja s internetom svaki put kada otvorite Kalendar</string>
+  <string name="joke_card_icon_text">|  %1$s 人笑过</string>
   <string name="jump_date">Skoči</string>
   <string name="jump_date_full">Skoči na datum</string>
+  <string name="jump_text">%1$s &gt;</string>
   <string name="label_recent_events">Nedavni događaji</string>
   <string name="loading">"Učitavanje…"</string>
   <string name="local_calendar_display_name">Lokalni kalendar</string>
@@ -309,6 +321,11 @@
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index" formatted="false">Događaj %1$s od %2$s</string>
   <string name="text_year">Godina</string>
+  <string name="ticket_card_date">%1$s月%2$s日</string>
+  <string name="ticket_card_description">今日可预定</string>
+  <string name="ticket_card_dialog_positive_button_text">安装</string>
+  <string name="ticket_card_lunar">%1$s的火车票</string>
+  <string name="ticket_card_phase">- 第%1$s期</string>
   <string name="time_zone">Vremenska zona</string>
   <string name="timezone_label">Vremenska zona</string>
   <string name="today">Danas</string>

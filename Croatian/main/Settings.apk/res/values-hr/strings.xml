@@ -3604,8 +3604,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="usb_label_installer_cd">Instaliraj alate za prijenos datoteka</string>
   <string name="usb_media_format_button_text">Izbriši USB memoriju</string>
   <string name="usb_media_format_desc">Izbrisati USB memoriju? Izgubiti će te &lt;b&gt;all&lt;/b&gt; sve podatke s memorije!</string>
-  <string name="usb_media_format_final_desc">"Izbrisati USB memoriju, brisanje svih datoteka pohranjenih na njoj? Ne možete poništiti tu radnju!"</string>
-  <string name="usb_media_format_gesture_explanation">Morate nacrtati svoj uzorak za otključavanje da potvrdite da želite izbrisati USB memoriju.</string>
+  <string name="usb_media_format_final_desc">"Sve datoteke pohranjene na USB memoriji će se trajno izbrisati"</string>
+  <string name="usb_media_format_gesture_explanation">Morate nacrtati svoj uzorak za otključavanje da potvrdite brisanje USB memorije.</string>
   <string name="usb_media_format_summary">Briše sve podatke na USB memoriji</string>
   <string name="usb_media_format_title">Izbriši USB memoriju</string>
   <string name="usb_midi_summary">Omogućuje aplikacijama omogućenima za MIDI rad putem USB-a uz MIDI softver na računalu.</string>
