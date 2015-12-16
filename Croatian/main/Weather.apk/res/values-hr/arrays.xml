@@ -28,7 +28,7 @@
         <item>Sumaglica</item>
         <item>Ledena kiša</item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
+    <string-array name="indices_uv_level">
         <item>Slab</item>
         <item>Srednji</item>
         <item>Jak</item>
