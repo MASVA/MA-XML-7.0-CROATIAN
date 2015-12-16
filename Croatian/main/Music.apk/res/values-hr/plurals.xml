@@ -2,17 +2,17 @@
 <resources>
     <plurals name="Ntracks_search_result">
         <item quantity="other">Pjesama: %d</item>
-        <item quantity="one">1 pjesma</item>
-    </plurals>
-    <plurals name="Nexpired_remind">
-        <item quantity="other">Preostalo (%d) dana</item>
-        <item quantity="one">Preostao 1 dan</item>
+        <item quantity="one">%d pjesma</item>
     </plurals>
 	<plurals name="Nalert_msg_vip_songs_for_download_upgrade">
         <item quantity="other">"Možete preuzeti %d Premium pjesama ovog mjeseca. Nadogradite Premium pretplatu da biste preuzeli više."</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
         <item quantity="other">"Možete preuzeti %d Premium pjesama ovog mjeseca. Preuzeti odabrane pjesme?"</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">Preostalo (%d) dana</item>
+        <item quantity="one">Preostao %d dan</item>
     </plurals>
     <plurals name="NTrackstoDownload">
         <item quantity="other">Preuzeto će biti (%d) pjesama</item>
@@ -76,7 +76,7 @@
     </plurals>
 	<plurals name="Nnew_local_audios">
        <item quantity="other">Dodano (%d) pjesama</item>
-	   <item quantity="one">Dodana %d pjesma</item>
+	   <item quantity="one">%d pjesma dodana</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">Odabrano stavaka %d</item>

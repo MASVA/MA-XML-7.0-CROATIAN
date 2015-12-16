@@ -24,6 +24,15 @@
   <string name="alaka_required">"Ova pjesma nije dostupna."</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
+  <string name="alert_msg_vip_song_for_download">Nabavite Premium pretplatu da preuzmete ovu pjesmu.</string>
+  <string name="alert_msg_vip_song_for_download_upgrade">"Dosegli ste ograničenje vaših preuzimanja za ovaj mjesec. Ažurirajte Premium pretplatu da biste preuzeli više."</string>
+  <string name="alert_msg_vip_song_for_stream">Nabavite Premium pretplatu za slušanje ove pjesme.</string>
+  <string name="alert_msg_vip_songs_for_download">Nabavite Premium pretplatu za preuzimanje svih pjesama.</string>
+  <string name="alert_msg_vip_songs_for_download_upgrade">Iskoristili ste svoju kvotu preuzimanja za ovaj mjesec. Nadogradite Premium pretplatu da biste preuzeli više.</string>
+  <string name="alert_msg_vip_songs_for_stream">Neke pjesme mogu se reproducirati samo s Premium pretplatom.</string>
+  <string name="alert_title_vip_song">Premium pjesme</string>
+  <string name="alert_title_vip_songs">Premium pretplata</string>
+  <string name="alert_title_vip_songs_upgrade">Nadogradite vašu Premium pretplatu</string>
   <string name="all_artist">Svi izvođači</string>
   <string name="all_music">Sve pjesme</string>
   <string name="all_tracks">Sve pjesme</string>
@@ -34,15 +43,6 @@
   <string name="artist_is_empty">Ime Izvođača ne može biti prazno.</string>
   <string name="artist_name">Izvođač</string>
   <string name="artist_search_title">Izvođač</string>
-  <string name="alert_msg_vip_song_for_download">Nabavite Premium pretplatu da preuzmete ovu pjesmu.</string>
-  <string name="alert_msg_vip_song_for_download_upgrade">"Dosegli ste ograničenje vaših preuzimanja za ovaj mjesec. Ažurirajte Premium pretplatu da biste preuzeli više."</string>
-  <string name="alert_msg_vip_song_for_stream">Nabavite Premium pretplatu za slušanje ove pjesme.</string>
-  <string name="alert_msg_vip_songs_for_download">Nabavite Premium pretplatu za preuzimanje svih pjesama.</string>
-  <string name="alert_msg_vip_songs_for_download_upgrade">Iskoristili ste svoju kvotu preuzimanja za ovaj mjesec. Nadogradite Premium pretplatu da biste preuzeli više.</string>
-  <string name="alert_msg_vip_songs_for_stream">Neke pjesme mogu se reproducirati samo s Premium pretplatom.</string>
-  <string name="alert_title_vip_song">Premium pjesme</string>
-  <string name="alert_title_vip_songs">Premium pretplata</string>
-  <string name="alert_title_vip_songs_upgrade">Nadogradite vašu Premium pretplatu</string>
   <string name="artist_view">Izvođač</string>
   <string name="atmd_music">Ultimativno</string>
   <string name="audio_picker_title">Odaberi pjesmu</string>
@@ -79,6 +79,7 @@
   <string name="cloud_space_full">Nema dovoljno prostora za pohranu</string>
   <string name="cloud_space_full_message">Nema dovoljno prostora na vašem Mi Cloud za dodavanje pjesama. Da biste dobili više prostora, nadogradite vaš Mi Račun.</string>
   <string name="confirm_download">Preuzmi</string>
+  <string name="confirm_to_renew">Obnovi</string>
   <string name="cp_info_first">Streaming uslugu pruža Ultimate Inc.</string>
   <string name="create_playlist">Izradi novi popis pjesama</string>
   <string name="create_playlist_failure">"Ne mogu izraditi popis pjesama"</string>
@@ -104,6 +105,10 @@
   <string name="dialog_title_name_playlist">Naziv popisa pjesama</string>
   <string name="dialog_title_remove_tracks">Ukloni</string>
   <string name="dialog_title_track_picker">Odaberi pjesme</string>
+  <string name="disable_auto_payment_fail">"Ne mogu isključiti"</string>
+  <string name="disable_auto_payment_fail_message">"Ne mogu isključiti autom. obnovu"</string>
+  <string name="disable_auto_payment_success">Isključeno</string>
+  <string name="disable_auto_payment_success_message">"Autom. obnova isključena. Nakon što vaša trenutna pretplata istekne, morat ćete se ponovo pretplatiti za preuzimanje pjesama."</string>
   <string name="disallow_add_to_personal_radio">Osobni Radio je čitanje samo</string>
   <string name="do_not_remind_again">"Ne prikazuj ponovo"</string>
   <string name="done">Gotovo</string>
@@ -114,7 +119,6 @@
   <string name="download_auto_after_favorite_title">Preuzimanje favorita</string>
   <string name="download_auto_cancel">Preuzimanje favorita je isključeno</string>
   <string name="download_auto_message">"Pjesme koje ste označili favoritima preuzet će se automatski kada ste povezani na WLAN. Možete isključiti ovu značajku bilo kada u Postavkama."</string>
-  <string name="download_auto_quality_alert_title">Kvaliteta preuzete glazbe</string>
   <string name="download_auto_when_all_network">Koristi mobilnu mreže i WLAN</string>
   <string name="download_auto_when_free_network">Koristi samo WLAN</string>
   <string name="download_auto_when_free_network_summary">Dodatne postavke za pjesme koje su vam favoriti</string>
@@ -136,6 +140,10 @@
   <string name="empty_page_no_artist">Nema izvođača.</string>
   <string name="empty_page_no_document">Nema datoteka sa zvukom.</string>
   <string name="empty_page_no_track">Nema pjesama.</string>
+  <string name="enable_auto_payment_fail">"Ne mogu uključiti"</string>
+  <string name="enable_auto_payment_fail_message">"Ne mogu uključiti autom. obnovu"</string>
+  <string name="enable_auto_payment_success">Obnovi automatski</string>
+  <string name="enable_auto_payment_success_message">Autom. obnova uključena. Sljedeće plaćanje dospijeva %s.</string>
   <string name="enabled">Omogućeno</string>
   <string name="english_female">Ženski izvođači (US/Europe)</string>
   <string name="english_group">Bendovi (US/Europe)</string>
@@ -209,7 +217,6 @@
   <string name="i_know">U redu</string>
   <string name="i_know_it">U redu</string>
   <string name="impunity_declaration_content1">"Dodirom Slažem se, pristajete na uvjete navedenim u našem "</string>
-  <string name="impunity_declaration">Ova aplikacija treba povezivanje s internetom.</string>
   <string name="impunity_declaration_content2">Korisnički Sporazum</string>
   <string name="impunity_declaration_content3">" i "</string>
   <string name="impunity_declaration_content4">Pravila o Privatnosti</string>
@@ -248,7 +255,7 @@
   <string name="lyric_setting">Postavke teksta</string>
   <string name="male_artist">Muški izvođači</string>
   <string name="max_sleep_time">90</string>
-  <string name="message_delete_playlist">Izbrisati popis pjesama %s?</string>
+  <string name="message_delete_playlist">Izbrisati %s?</string>
   <string name="metered_alert">Upozorenje uporabe podataka</string>
   <string name="metered_alert_msg">"Korištenje vaše mobilne mreže za slušanje glazbe će povećati vašu uporabu podataka. Ako prekoračite vaše mjesečno ograničenje, to može dovesti do visokih dodatnih troškova."</string>
   <string name="metered_allow">Stream</string>
@@ -339,7 +346,6 @@
   <string name="pay_now">Plati sada</string>
   <string name="payment_fail">Plaćanje nije uspjelo</string>
   <string name="payment_success">Plaćanje završeno</string>
-  <string name="period_format">%1$s-%2$s</string>
   <string name="play_all_song">Reproduciraj sve</string>
   <string name="playback_failed_no_title_by_bad_file">"Format ove pjesme nije podržan ili datoteka ne postoji."</string>
   <string name="playlist_deleted_message">Popis pjesama izbrisan.</string>
@@ -490,8 +496,14 @@
   <string name="upgrade_vip">Nadogradi Premium</string>
   <string name="upgrade_waringing">"Moći ćete samo slušati glazbu pohranjenu na vašem uređaju."</string>
   <string name="valid_period">"Vrijedi do: "</string>
-  <string name="vip_expiration_message">"Nakon što istekne vaše članstvo, biti će te samo u mogućnosti na streaming glazbe od 128Kbps. Zbog zakonskih ograničenja, neke pjesme nće biti dostupne za preuzimanje."</string>
-  <string name="vip_expiration_title">Članstvo uskoro istječe</string>
+  <string name="vip_auto_renew_message">Vaša pretplata će biti obnovljena automatski večeras. Pobrinite se da imate dovoljno Mi Kredita na računu za dovršetak ovog plaćanja.</string>
+  <string name="vip_auto_renew_notification_message">Dodajte Mi Kredite da obnovite vašu glazbenu pretplatu.</string>
+  <string name="vip_auto_renew_notification_title">Plaćanje pretplate</string>
+  <string name="vip_auto_renew_title">Subscription renewal</string>
+  <string name="vip_renew_message">"Nećete biti u mogućnosti streamati visokokvalitetni zvuk, ali neke pjesme će biti dostupne u redovitoj kvaliteti."</string>
+  <string name="vip_renew_notification_message">"Nećete biti u mogućnosti streamati visokokvalitetni zvuk nakon što istekne pretplata."</string>
+  <string name="vip_renew_notification_title">Pretplata istječe sutra</string>
+  <string name="vip_renew_title">Pretplata istekla</string>
    <string name="vip_required">Nabavite Premium pretplatu za reprodukciju ove pjesme.</string>
   <string name="vip_required_with_song">Nabavite Premium pretplatu za reprodukciju “%s”.</string>
 </resources>
