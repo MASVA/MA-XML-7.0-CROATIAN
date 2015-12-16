@@ -231,7 +231,6 @@
   <string name="is_loading_data">Učitavanje još traje. Pričekajte minutu/dvije i pokušajte ponovo.</string>
   <string name="is_scanning">Provjera prostora za pohranu…</string>
   <string name="is_scanning_support_online">"Provjera prostora za pohranu…
-  
   (U međuvremenu, možete slušati glazbu online)"</string>
   <string name="japan_korea_female">Ženski izvođači (Japan/Koreja)</string>
   <string name="japan_korea_group">Bendovi (Japan/Koreja)</string>
@@ -499,7 +498,7 @@
   <string name="vip_auto_renew_message">Vaša pretplata će biti obnovljena automatski večeras. Pobrinite se da imate dovoljno Mi Kredita na računu za dovršetak ovog plaćanja.</string>
   <string name="vip_auto_renew_notification_message">Dodajte Mi Kredite da obnovite vašu glazbenu pretplatu.</string>
   <string name="vip_auto_renew_notification_title">Plaćanje pretplate</string>
-  <string name="vip_auto_renew_title">Subscription renewal</string>
+  <string name="vip_auto_renew_title">Obnova pretplate</string>
   <string name="vip_renew_message">"Nećete biti u mogućnosti streamati visokokvalitetni zvuk, ali neke pjesme će biti dostupne u redovitoj kvaliteti."</string>
   <string name="vip_renew_notification_message">"Nećete biti u mogućnosti streamati visokokvalitetni zvuk nakon što istekne pretplata."</string>
   <string name="vip_renew_notification_title">Pretplata istječe sutra</string>
