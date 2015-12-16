@@ -76,8 +76,6 @@
   <string name="close_music_time">"Preostalo vremena: "</string>
   <string name="cloud_enable">Sinkr. glazbu s Mi Cloud</string>
   <string name="cloud_settings">Postavke sinkronizacije</string>
-  <string name="cloud_space_full">Nema dovoljno prostora za pohranu</string>
-  <string name="cloud_space_full_message">Nema dovoljno prostora na vašem Mi Cloud za dodavanje pjesama. Da biste dobili više prostora, nadogradite vaš Mi Račun.</string>
   <string name="confirm_download">Preuzmi</string>
   <string name="confirm_to_renew">Obnovi</string>
   <string name="cp_info_first">Streaming uslugu pruža Ultimate Inc.</string>
@@ -110,7 +108,6 @@
   <string name="disable_auto_payment_success">Isključeno</string>
   <string name="disable_auto_payment_success_message">"Autom. obnova isključena. Nakon što vaša trenutna pretplata istekne, morat ćete se ponovo pretplatiti za preuzimanje pjesama."</string>
   <string name="disallow_add_to_personal_radio">Osobni Radio je čitanje samo</string>
-  <string name="do_not_remind_again">"Ne prikazuj ponovo"</string>
   <string name="done">Gotovo</string>
   <string name="download">Preuzmi</string>
   <string name="download_all_song">Preuzmi sve</string>
@@ -197,7 +194,7 @@
   <string name="filter_by_size_min">0KB</string>
   <string name="filter_by_size_prefix">"Sakrij datoteke manje od "</string>
   <string name="filter_by_size_summary">Sakrij male audio datoteke"</string>
-  <string name="find_music">Traži pjesme~</string>
+  <string name="find_music">Traži pjesme</string>
   <string name="format_not_support">"Ovaj format nije podržan.</string>
   <string name="format_unsupported_or_corrupted">"Ovaj format nije podržan ili je datoteka oštećena"</string>
   <string name="fragment_more">Više</string>
@@ -328,7 +325,6 @@
   <string name="no_song_downloaded">"Ne mogu se povezati na poslužitelj"</string>
   <string name="normal_quality">Dobro</string>
   <string name="not_login">Niste prijavljeni</string>
-  <string name="not_now">Ne sada</string>
   <string name="not_selected">Odaberi pjesmu</string>
   <string name="nowplaying_menu_item_delete">Izbriši</string>
   <string name="ok">"U redu"</string>
@@ -355,7 +351,7 @@
   <string name="please_select_song">Odaberite jednu pjesmu</string>
   <string name="preset_music_playlist">Mi Glazba popis pjesama</string>
   <string name="presonal_center">Postavke računa</string>
-  <string name="price">Cijena:</string>
+  <string name="price">"Cijena: "</string>
   <string name="priority_storage">Koristi vanjsku SD karticu</string>
   <string name="priority_storage_summary">Automatsko preuzimanje na vanjsku SD karticu ako je dostupna</string>
   <string name="project_device">Mi Telefon</string>
@@ -366,7 +362,7 @@
   <string name="remove">Ukloni</string>
   <string name="renew">Obnovi:</string>
   <string name="renew_1">Obnovi</string>
-  <string name="renew_period">Period obnove:</string>
+  <string name="renew_period">"Ističe: "</string>
   <string name="repeat_all_notif">Ponovi sve pjesme.</string>
   <string name="repeat_current_notif">Ponovi trenutnu pjesmu.</string>
   <string name="retry">Pokušaj ponovno</string>

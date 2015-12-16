@@ -14,7 +14,7 @@
   "action_item_play_all":"Reproduciraj sve",
   "action_item_remove_from_favorite":"Odznaèi iz favorite",
   "fragment_title_recommend":"ISTAKNUTO",
-  "fragment_title_artist_album":"ALBUMi",
+  "fragment_title_artist_album":"ALBUMI",
   "preset_music_playlist":"Popis pjesama Mi Glazbe",
   "my_playlist":"Moj popis pjesama",
   "create_playlist":"Izradi novi popis pjesama",
