@@ -295,7 +295,7 @@ niz"</string>
   <string name="daily_sport_report">Dnevni rezultat</string>
   <string name="daily_sport_report_contintue_info">"%1$s preostalo dana odmora,
  osobni rekord je %2$s dana"</string>
-  <string name="daily_sport_report_notify">Prohodano danas %s!</string>
+  <string name="daily_sport_report_notify">Prohodano %s koraka danas!</string>
   <string name="daily_sport_report_notify_content">Dodirni za prikaz detalja.</string>
   <string name="daily_sport_report_notify_hurry">"Potrebno još %1$s koraka za otvarenje današnjeg cilja!"</string>
   <string name="daily_sport_report_week_info">"Prohodano %1$s koraka.
@@ -363,7 +363,7 @@ Dosegli ste svoj cilj."</string>
   <string name="dynamic_pull_not_sync_today">Danas nema sinkr.</string>
   <string name="dynamic_pull_pull_to_sync">Povucite za sinkr.</string>
   <string name="dynamic_pull_release_to_sync">Otpustite za sinkr.</string>
-  <string name="dynamic_pull_sync_after_connected">Sinkr. s bandom…</string>
+  <string name="dynamic_pull_sync_after_connected">Sinkr. Mi Band…</string>
   <string name="dynamic_pull_sync_error">"Ne mogu sinkronizirati"</string>
   <string name="dynamic_pull_syncing">Sinkronizacija…</string>
   <string name="dynamic_pull_syncing_progress">Sinkroniziram (%s%%)</string>
@@ -517,13 +517,17 @@ Koristite Mi Vagu da spremite težinu vašeg djeteta"</string>
   <string name="hr_dialog_title">Pratite kako se vaš broj otkucaja srca mijenja za vrijeme sesije</string>
   <string name="hr_dialog_wear">Vežite Mi Band čvrsto da povećate točnost podataka</string>
   <string name="hr_empty_data">--</string>
-  <string name="hr_fast">Broj otkucaja srca je visok</string>
+  <string name="hr_fast">Broj otkucaja srca je ubrzan</string>
+  <string name="hr_fast_label">Ubrzano</string>
   <string name="hr_in">"Sudjelovali ste u %s"</string>
   <string name="hr_item_date">MM/dd HH:mm</string>
+  <string name="hr_me">Moj broj otkucaja srca</string>
   <string name="hr_normal">Broj otkucaja srca je normalan</string>
+  <string name="hr_normal_label">Normalan</string>
   <string name="hr_not_wear_bracelet">Stavite Mi Band</string>
   <string name="hr_reminder">Upozorenje Broja otkucaja srca</string>
-  <string name="hr_slow">Broj otkucaja srca je nizak</string>
+  <string name="hr_slow">Broj otkucaja srca je usporen</string>
+  <string name="hr_slow_label">Usporeno</string>
   <string name="hr_sports">Tjelesna aktivnost</string>
   <string name="hr_tips1">"Uključite Bluetooth i povežite cipele prije početka trčanja.
 Držite Bluetooth uključenim dok trčite."</string>
@@ -532,6 +536,9 @@ Držite Bluetooth uključenim dok trčite."</string>
 60%-80% od maksim. broja otkucaja srca (220-godine)"</string>
   <string name="hr_tips2">Povežite Mi Band Pulse da izmjerite broj otkucaja srca.</string>
   <string name="hr_tips3" formatted="false">Na primjer: MASVA ima 20 godina, njegov idealan broj otkucaja srca tijekom vježbanja je 120-160 bpm (60%-80% od 200=220-20).</string>
+  <string name="hr_tips_180">180 koraka/min</string>
+  <string name="hr_tips_age">Godine</string>
+  <string name="hr_tips_arrange">Idealan broj otkucaja srca kod vježbanja (BPM)</string>
   <string name="hr_unit">BPM</string>
   <string name="hr_unit_label">Broj otkucaja srca (BPM)</string>
   <string name="hug_baby_weight">Izvažite dijete u naručju</string>
@@ -1055,7 +1062,7 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
 %d"</string>
   <string name="running_history_group_distance">%1$.2fkm</string>
   <string name="running_history_group_distance_br">%1$.2fmile</string>
-  <string name="running_history_group_time_format">yyyy MM</string>
+  <string name="running_history_group_time_format">MM/yyyy</string>
   <string name="running_history_no_data">Nema podataka</string>
   <string name="running_history_no_data_refresh">Osvježi</string>
   <string name="running_history_no_data_refreshing">Osvježavanje…</string>
@@ -1466,13 +1473,13 @@ Logo okrenite prema gore"</string>
   <string name="stat_step_walk_duration">Vrijeme šetanja</string>
   <string name="stat_step_walk_duration_average">Prosj. Vr. Šetanja</string>
   <string name="state_bind_failed">"Ne mogu dodati račun"</string>
-  <string name="state_binded">Prijavljeno</string>
+  <string name="state_binded">Upareno</string>
   <string name="state_binded_nickname">Dodan QQ Račun %s</string>
   <string name="state_binded_nickname_weibo">Dodan Weibo Račun %s</string>
   <string name="state_close">Isključeno</string>
   <string name="state_open">Uključeno</string>
   <string name="state_unbind_success">Uklonjen QQ Račun</string>
-  <string name="state_unbinded">Odjavljeno</string>
+  <string name="state_unbinded">Neupareno</string>
   <string name="statistic">Statistika</string>
   <string name="statistic_day_average">Dnevni prosjek</string>
   <string name="statistic_detail">Detalji</string>
@@ -1674,7 +1681,7 @@ Držite Mi Band i telefon udaljenim najmanje 5m."</string>
   <string name="weight_help_title_4">Kako se ponovo povezati s vagom?</string>
   <string name="weight_history_dynamic_detail">Sinkr. podatke iz %1$s u %2$s</string>
   <string name="weight_history_dynamic_detail_oneday">Sink. podatke s %1$s</string>
-  <string name="weight_history_dynamic_title">Ažuriranje: %1$s</string>
+  <string name="weight_history_dynamic_title">Ažuriranje %1$s</string>
   <string name="weight_less_than_tips">Prema BMI dobivenim informacijama, vaša težina bi trebala biti %1$s.</string>
   <string name="weight_low_battery">Slaba baterija, promijenite je.</string>
   <string name="weight_match_no_suitable_user">"Ne mogu usporediti težinu s postojećim korisnikom"</string>

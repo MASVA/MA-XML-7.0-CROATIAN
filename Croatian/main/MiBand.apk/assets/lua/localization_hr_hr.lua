@@ -1,6 +1,6 @@
 -------------------------
 -- Croatian Localization String resources
--- www.miui.website (2014)
+-- MIUI Adria (2014)
 -- MASVA
 -------------------------
 localization_hr_rHR_table = {
@@ -199,7 +199,7 @@ localization_hr_rHR_table = {
     not_binded_hint_info="Možete upariti Mi Vagu u postavkama",
     new_record_info="Postigli ste novi rekord.",
     new_record_format="%d koraka, %s %d",
-    today_goal_reached="Postigli ste svoj cilj za danas!",
+    today_goal_reached="Danas ste postigli svoj cilj!",
     today_goal_reached_click_info="Doditnite za prikaz detalja.",
     week_continue_reach_goal="Vi",
 
@@ -207,7 +207,7 @@ localization_hr_rHR_table = {
     personal_best_format="Vaš najveći rekord je %d dana!",
     continue_with_skips_title="Niste postigli svoj cilj jučer. Nazovimo ga danom odmora;)",
     continue_with_skips_title_today="Niste postigli svoj cilj danas. Nazovimo ga danom odmora ;)",
-    personal_best_with_skips_format="Preostalo vam je %d dana odmora ;)",
+    personal_best_with_skips_format="Preostalo vam je %d dana odmora :)",
     continue_used_n_skips_format="Postigli ste svoj cilj %d dana za redom! Još imate %d dana odmora ",
     continue_used_0_skips_format="Postigli ste svoj cilj %d dana za redom! Nemate više preostalih dana odmora.",
     personal_best_on_skip_day_title="%d dan post. cilja! Zaslužili ste dan odmora!",
@@ -234,7 +234,7 @@ localization_hr_rHR_table = {
     activity_rope_skipping_format="%s Uže preskočeno %d puta",
     activity_situp_format="%s %d trbušnjaka",
     activity_consumed_format="Potrošeno %d Kal %s",
-    activity_activity_format="%s Vježbano %s %s",
+    activity_activity_format="%s Vježbano %s, %s",
     activity_activity_format_run="%s Vježbano %s, trčano %s",
     last_night_sleeped_good_format="Prošle noći spavali ste %s.",
     last_night_sleeped_normal_format="Prošle noći spavali ste %s.",
@@ -261,7 +261,7 @@ localization_hr_rHR_table = {
     welcome_use_weight_scale = "Vaga uspješno uparena",
     welcome_use_weight_scale = "Dobrodošli u korištenje vage!",
     welcome_use_weight_scale_not_bind = "Dodirnite da povežete vage",
-    welcome_use_mi_health="Dobrodošli u korištenje Mi Banda",
+    welcome_use_mi_health="Dobrodošli u Mi Band",
 
     select_devices="Odaberite uređaje za uparivanje",
     daily_steps_not_comlete = "Preostalo %s koraka",
