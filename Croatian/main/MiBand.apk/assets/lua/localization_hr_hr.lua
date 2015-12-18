@@ -179,9 +179,9 @@ localization_hr_rHR_table = {
 
     welcome_use="Dobrodošli",
     last_week_walked_format='Prošli tjedan prohodali ste %d koraka.',
-    last_week_walked_info_format='Prohodano  %s, potrošeno %d kal.',
+    last_week_walked_info_format='Prohodano %s, potrošeno %d Kal.',
     last_month_walked_format='Prošli mjesec prohodali ste %d koraka.',
-    last_month_walked_info_format='Prohodano %s, potrošeno %d kal.',
+    last_month_walked_info_format='Prohodano %s, potrošeno %d Kal.',
 
     get_over_format=", oko %d grama ili masti.",
     click_to_get_help="Naučite više o Mi Bandu",

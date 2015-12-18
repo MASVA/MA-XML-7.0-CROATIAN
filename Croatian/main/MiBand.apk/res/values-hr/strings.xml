@@ -133,8 +133,8 @@ Iznad navedeni postupak može se koristiti samo za utvrđivanje je li težina dj
   <string name="bind_mi_weight_howto_tips">Kako koristiti Mi Vagu</string>
   <string name="bind_new_mili">Dodaj novi Mi Band</string>
   <string name="bind_qq">Dodaj QQ</string>
-  <string name="bind_qq_health">Sink. s QQ Health</string>
-  <string name="bind_qq_health_tip">"Sink. informacije o koracima i spavanju s QQ Health,
+  <string name="bind_qq_health">Sinkr. s QQ Health</string>
+  <string name="bind_qq_health_tip">"Sinkr. informacije o koracima i spavanju s QQ Health,
 aplikacija treba mrežnu vezu za to."</string>
   <string name="bind_qq_health_tip_another_qq">Prijavite se na QQ i provjerite svoj napredak u Zdravstvenom centru.</string>
   <string name="bind_qq_health_tip_init">Prijavite se u QQ Health.</string>
@@ -973,7 +973,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="run_hr_instruct">(Asistent kod trčanja#)</string>
   <string name="runed">Trčanje</string>
   <string name="running_altitude">Nadmorska visina</string>
-  <string name="running_auto_pause">Automatski zaustavi</string>
+  <string name="running_auto_pause">Pauza</string>
   <string name="running_auto_pause_desc">Automatski zaustaviti snimanje rute za vrijeme pauze vožnje</string>
   <string name="running_average_speed">Prosječno</string>
   <string name="running_backgroud_notification">Trčanje…</string>
@@ -1023,7 +1023,7 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="running_gps_main_continue_btn_text">Nastavi</string>
   <string name="running_gps_main_finish_btn_text">Gotovo</string>
   <string name="running_gps_main_statistics_cost_time_disc">Vrijeme</string>
-  <string name="running_gps_main_statistics_pace_freq">Frek. tempa (p/min)</string>
+  <string name="running_gps_main_statistics_pace_freq">Koraka (kor./min)</string>
   <string name="running_gps_main_statistics_speed_disc">Brzina (min/km)</string>
   <string name="running_gps_main_statistics_speed_disc_br">Brzina (min/milja)</string>
   <string name="running_gps_poor_signal">Slabi signal GPS-a. Pobrinite se da imate nesmetan pogled na nebo</string>
@@ -1089,7 +1089,7 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
   <string name="running_lable_mile_fastest">Najbrža milja</string>
   <string name="running_lable_mile_slowest">Najbrža milja</string>
   <string name="running_lable_miles_fastest">Najbrži Km</string>
-  <string name="running_long_press_to_pause">Dugi pritisak za pauzu</string>
+  <string name="running_long_press_to_pause">Zadrži za pauzu</string>
   <string name="running_main_avoid_use_indoor">Nemojte koristiti unutar zgrade</string>
   <string name="running_main_back_button_in_dialog">Natrag</string>
   <string name="running_main_continue_button_in_dialog">Nastavi</string>
@@ -1111,7 +1111,7 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
   <string name="running_no_bracelet_tips">Povežite Mi Band za postavljanje</string>
   <string name="running_no_gps">Uključite GPS da povećate točnost vaše rute.</string>
   <string name="running_no_track_desc">"Otkazati trčanje?"</string>
-  <string name="running_normal_mode">Regularni način</string>
+  <string name="running_normal_mode">Normalno</string>
   <string name="running_num_unknown">--</string>
   <string name="running_pace">Tempo</string>
   <string name="running_pace_detail">%s/km</string>
@@ -1129,8 +1129,8 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
   <string name="running_sec">%ds</string>
   <string name="running_set_dist">Upozorenje Udaljenosti</string>
   <string name="running_set_goal">Upozorenje na cilj</string>
-  <string name="running_set_pace">Nastavi tempo</string>
-  <string name="running_set_pace_desc">Mi Band će zavibrirati ako je vaš tempo sporiji od postavljenog</string>
+  <string name="running_set_pace">Upozorenje tempa</string>
+  <string name="running_set_pace_desc">Mi Band će zavibrirati ako trčite sporije</string>
   <string name="running_set_speed">Postavite brzinu</string>
   <string name="running_settings">Postavke</string>
   <string name="running_settings_speed">(%1$smin/km)</string>
@@ -1280,10 +1280,10 @@ Zaspao u %5$s, Probudio se u %6$s"</string>
   <string name="share_sleep_title">Prošla noć</string>
   <string name="share_sleep_title_average">Pros. sna</string>
   <string name="share_sleep_title_daily">Spavanje</string>
-  <string name="share_step_description">"Prohodano %1$s, potrošeno %2$s kal.
+  <string name="share_step_description">"Prohodano %1$s, potrošeno %2$s Kal.
 "</string>
   <string name="share_step_description_monthly">"%1$s, %2$s.
- Potrošeno %3$s kal, uštedjeli ste %4$s litara benzina. Prethodni rekord je bio %6$s koraka, postavljen %5$s."</string>
+ Potrošeno %3$s Kal, uštedjeli ste %4$s litara benzina. Prethodni rekord je bio %6$s koraka, postavljen %5$s."</string>
   <string name="share_step_description_monthly_run">"%1$s, trčano %2$s
  %3$s, uštedjeli ste %4$s litara benzina. Prethodni rekord je bio %6$s koraka, postavljen %5$s."</string>
   <string name="share_step_description_run">"Prohodano %1$s, pretrčano %2$s.
@@ -1381,7 +1381,7 @@ Logo okrenite prema gore"</string>
   <string name="shoes_guangsu">Guang Su</string>
   <string name="shoes_home_tips_bind_miband">Nema uparenog Mi Banda, uparite ga</string>
   <string name="shoes_home_tips_connect_failed">Povezivanje modula nije uspjelo</string>
-  <string name="shoes_home_tips_sync_failed_retry">Neuspješna sink., povucite za ponovni pokušaj</string>
+  <string name="shoes_home_tips_sync_failed_retry">Neuspješna Sinkr., povucite za ponovni pokušaj</string>
   <string name="shoes_introduction">Predstavljanje</string>
   <string name="shoes_mile_unit">%1$s milja</string>
   <string name="shoes_not_binded">Tenisice nisu povezane</string>
@@ -1680,7 +1680,7 @@ Držite Mi Band i telefon udaljenim najmanje 5m."</string>
   <string name="weight_help_title_3">Je li vaga uparena s drugim uređajem?</string>
   <string name="weight_help_title_4">Kako se ponovo povezati s vagom?</string>
   <string name="weight_history_dynamic_detail">Sinkr. podatke iz %1$s u %2$s</string>
-  <string name="weight_history_dynamic_detail_oneday">Sink. podatke s %1$s</string>
+  <string name="weight_history_dynamic_detail_oneday">Sinkr. podatke s %1$s</string>
   <string name="weight_history_dynamic_title">Ažuriranje %1$s</string>
   <string name="weight_less_than_tips">Prema BMI dobivenim informacijama, vaša težina bi trebala biti %1$s.</string>
   <string name="weight_low_battery">Slaba baterija, promijenite je.</string>
