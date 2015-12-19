@@ -164,9 +164,9 @@ localization_hr_rHR_table = {
         {str="≈ McD Big Tasty", calories=850},
     },
 
-    ok='U redu',
+    ok="U redu",
 
-    hour='sati',
+    hour="sati",
     minute=" min",
     month="mjesec",
     day="dan",
