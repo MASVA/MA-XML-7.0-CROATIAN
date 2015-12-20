@@ -932,7 +932,6 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
   <string name="pre_measure">Prethodni rezultat</string>
   <string name="prepare_log">Samo trenutak…</string>
   <string name="prev_step">Natrag</string>
-  <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">Povuci za osvježiti</string>
   <string name="pull_to_refresh_from_bottom_release_label">Povuci za osvježiti</string>
   <string name="pull_to_refresh_pull_label">Povuci za osvježiti</string>
@@ -1068,12 +1067,12 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
   <string name="running_kilometers">km</string>
   <string name="running_kilometers_per_hour">km/h</string>
   <string name="running_label_hint">Unesite ime</string>
-  <string name="running_lable_avg_hr">Average heart rate (BPM)</string>
+  <string name="running_lable_avg_hr">Prosječan broj otkucaja srca (BPM)</string>
   <string name="running_lable_mile_fastest">Najbrža milja</string>
   <string name="running_lable_mile_slowest">Najbrža milja</string>
   <string name="running_lable_pace">Prosjek tempa (min)</string>
   <string name="running_long_press_to_pause">Zadrži za pauzu</string>
-  <string name="running_main_avoid_use_indoor">Izbjegavajte korištenje GPS-a zatvorenom prostoru</string>
+  <string name="running_main_avoid_use_indoor">Izbjegavajte korištenje GPS-a u gzatvorenom prostoru</string>
   <string name="running_main_back_button_in_dialog">Natrag</string>
   <string name="running_main_continue_button_in_dialog">Nastavi</string>
   <string name="running_main_go_now">Kreni</string>
@@ -1083,7 +1082,7 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
   <string name="running_main_mileage">%1$d/%2$dkm</string>
   <string name="running_main_mileage_one">%1$skm</string>
   <string name="running_main_startup_subtitle1">Koristite GPS zajedno sa vašim Mi Bandom</string>
-  <string name="running_main_startup_subtitle2">Učinite podatke vaše trčanja još točnijima</string>
+  <string name="running_main_startup_subtitle2">Učinite podatke vašeg trčanja još točnijima</string>
   <string name="running_main_startup_title1">Idite van, idite trčati</string>
   <string name="running_main_title">Trčanje</string>
   <string name="running_map_mode">Mapa</string>
