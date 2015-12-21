@@ -11,6 +11,8 @@
   <string name="cit_accelermeter_sensor_check_summary">"Pomičite uređaj brzo u jednom smjeru. X，Y，Z koordinatne vrijednosti se prikazuju u nastavku. (kada je telefon u pokretu: X predstavlja lijevo/desno, y predstavlja ispred/iza, z predstavlja gore i dolje).
 Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_accelermeter_sensor_check_title">Akcelerometar</string>
+  <string name="cit_apk_signature_failed">APK potpis NEUSPJEŠNO</string>
+  <string name="cit_apk_signature_passed">APK potpis USPJEŠNO</string>
   <string name="cit_aud_spkcal">Kalibriraj</string>
   <string name="cit_audio_cali_done">Kalibriranje završeno!</string>
   <string name="cit_audio_cali_failed">Kalibriranje nije uspjelo, pokušajte ponovo!</string>
@@ -70,6 +72,8 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_bluetooth_scanning_bluetooth_done">"Gotovo. Nema pronađenih Bluetooth uređaja u blizini."</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Došlo je do pogreške tijekom skeniranja Bluetooth uređaja.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Otvaranje Bluetooth uređaja…</string>
+  <string name="cit_build_finger_failed">Spremanje otiska prsta NEUSPJEŠNO</string>
+  <string name="cit_build_finger_passed">Spremanje otiska prsta USPJEŠNO</string>
   <string name="cit_button_light_off">Osvjetljene tipaka isklj.</string>
   <string name="cit_button_light_on">Osvjetljene tipaka uklj.</string>
   <string name="cit_calibration_fail">Kalibriranje nije uspjelo</string>
@@ -112,6 +116,7 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
 3. Kliknite na gumb "U redu" sustava kamere, sustav će automatski spremiti sliku
 4. Pregledajte sliku, kada ste zadovoljni, možete je izbrisati."</string>
   <string name="cit_front_camera_check_title"> Test prednje kamere (prednja kamera)</string>
+  <string name="cit_get_signature_failed">Dobivanje potpisa NEUSPJEŠNO</string>
   <string name="cit_gps_check_summary">Ovaj test će prikazati informacije GPS-a</string>
   <string name="cit_gps_check_title">Testiranje GPS-a</string>
   <string name="cit_gps_disabled">"GPS nije omogućen, 
@@ -191,6 +196,8 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_pressure_sensor_check_title">Senzor tlaka</string>
   <string name="cit_proximity_sensor_check_summary">"Pokrijte senzor udaljenosti (nalazi se na vrhu telefona u blizini prijemnika) rukom, a zatim udaljite ruku. Vrijednost se treba povećati od 0,0 kada udaljite svoje ruke od uređaja.
 Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (npr. zaštitni zaslon ili rukavice)."</string>
+  <string name="cit_recovery_signature_failed">Recovery potpis NEUSPJEŠNO</string>
+  <string name="cit_recovery_signature_passed">Recovery potpis USPJEŠNO</string>
   <string name="cit_proximity_sensor_check_title">Senzor blizine</string>
   <string name="cit_reset_check_summary">Ovo testiranje će ponovno pokrenuti uređaj. Svi dosadašnji podaci testiranja će biti izgubljeni.</string>
   <string name="cit_reset_check_title">Testiranje Ponovnog pokretanja</string>
@@ -208,6 +215,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_sd_plugout_check_title">SD kartica (uklanjanje)</string>
   <string name="cit_sd_unmount">Uklonite SD karticu</string>
   <string name="cit_sd_unmount_sucess">SD kartica uklonjena</string>
+  <string name="cit_signature_check_label">Provjera potpisa:</string>
   <string name="cit_sim_check_summary">Uvjerite se da se informacije i status SIM kartice prikazuju ispravno.</string>
   <string name="cit_sim_check_title">SIM kartica</string>
   <string name="cit_sim_error_unknown">Nepoznato</string>
