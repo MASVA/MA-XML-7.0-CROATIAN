@@ -4,6 +4,9 @@
   <string name="app_name">Pronaði uređaj</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne mogu otključati. %s."</string>
+  <string name="default_lock_msg_words">Bok! Izgubio sam mobitel. Kontaktirati ću vas kasnije. Hvala na razumijevanju!</string>
+  <string name="default_lock_msg_words_with_phone">Bok! Izgubio sam mobitel. Možete li,molim vas kontaktirati? Hvala!</string>
+  <string name="device_lost">Ovaj uređaj je izgubljen!</string>
   <string name="disable_find_device_error">"Ne mogu isključiti Pronađi uređaj. %1$s"</string>
   <string name="disable_find_device_success">Pronađi Uređaj je isključen.</string>
   <string name="enable_find_device_error">"Ne mogu uključiti Pronađi uređaj. %1$s"</string>
@@ -22,6 +25,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="find_device_stop_noise">Dodirnite U redu da utišate</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
   <string name="i_know">U redu</string>
+  <string name="lock_msg_phone">Kontakt informacije: %s</string>
   <string name="login_failed">"Ne mogu se prijaviti"</string>
   <string name="password">Zaporka</string>
   <string name="phone_locked">Ovaj je uređaj možda povezan s postojećim Mi Računom (%s). Prijavite se da aktivirate ovaj uređaj.</string>

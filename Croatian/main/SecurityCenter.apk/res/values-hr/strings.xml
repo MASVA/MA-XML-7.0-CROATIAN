@@ -131,6 +131,7 @@
   <string name="cmcc_app_check_dialog_negative">Kasnije</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno pokreni</string>
   <string name="cmcc_app_check_dialog_title">Sustav je popravljen</string>
+  <string name="confirm_reject_all_permission">Ograničiti svim aplikacijama korištenje ove značajke?</string>
   <string name="confirm_auto_cleaner">U redu</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
@@ -502,6 +503,7 @@
   <string name="protection_category_dangerous_title">Rizika (%d)</string>
   <string name="protection_category_recommend_title">Preporučene promjene (%d)</string>
   <string name="protection_category_security_title">Očisti (%d)</string>
+  <string name="reject_all">Ograniči svima</string>
   <string name="risk_list_header_title">Otkriveno (%d) sumnjivih aplikacija</string>
   <string name="root_apply_step_1">Odobriti %s ROOT pristup?</string>
   <string name="root_apply_step_2">Odobravanje ROOT pristupa stranim aplikacijama može uzrokovati nestabilnost sustava</string>

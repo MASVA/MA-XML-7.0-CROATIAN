@@ -225,7 +225,7 @@
   <string name="load_err">"Ne mogu učitati"</string>
   <string name="load_more">Prikaži više</string>
   <string name="loading">Učitavam…</string>
-  <string name="local_image">Fotografije</string>
+  <string name="local_image">Slike</string>
   <string name="local_music">Glazba</string>
   <string name="local_sticker_str">Izvanmrežno</string>
   <string name="local_video">Videozapisi</string>
@@ -459,9 +459,9 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="search_title">Traži</string>
   <string name="search_title_hint">Traži</string>
   <string name="select_dest_folder">Odaberi mapu</string>
-  <string name="select_image">Odaberi fotografiju</string>
-  <string name="select_music">Odaberi pjesmu</string>
-  <string name="select_video">Odaberi videozapis</string>
+  <string name="select_image">Slike</string>
+  <string name="select_music">Glazba</string>
+  <string name="select_video">Videozapisi</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Ova vrsta datoteke nije podržana.</string>
   <string name="send_to_qq">Pošalji na QQ</string>

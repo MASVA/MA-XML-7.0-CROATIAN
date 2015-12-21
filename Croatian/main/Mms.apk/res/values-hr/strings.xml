@@ -485,6 +485,7 @@
   <string name="select_link_title">Odabir radnje</string>
   <string name="select_local_audio">Odaberi lokalni zvuk</string>
   <string name="select_local_video">Odaberi lokalni videozapis</string>
+  <string name="select_message_send_sim">Odaberi SIM karticu</string>
   <string name="select_recipient">Odaberi primatelje</string>
   <string name="select_top_text">Tekst pri vrhu</string>
   <string name="send">Pošalji</string>

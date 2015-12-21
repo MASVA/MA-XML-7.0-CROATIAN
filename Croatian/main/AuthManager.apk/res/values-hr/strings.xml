@@ -80,7 +80,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_AudioRecorder_Hint">Ovoliko (%1$s) aplikacija može snimati zvuk i tel. pozive</string>
   <string name="HIPS_Perm_AutoStart">Pokreni kod pokretanja sustava</string>
   <string name="HIPS_Perm_AutoStart_Desc">pokrenuti kod pokretanja sustava</string>
-  <string name="HIPS_Perm_AutoStart_Hint">Ovoliko(%1$s)aplikacija može se pokrenuti kod pokretanja sustava</string>
+  <string name="HIPS_Perm_AutoStart_Hint">Ovoliko (%1$s) aplikacija može se pokrenuti kod pokretanja sustava</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Promjena Bluetooth povezivosti</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">uključiti/isključiti Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">Ovoliko (%1$s) aplikacija može uključiti Bluetooth</string>
@@ -257,7 +257,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="Privacy_App_Uninstall">Deinstaliraj</string>
   <string name="Privacy_Perm_Count">%1$d dopušteno | %2$d odbijeno</string>
   <string name="Su_Enable_Dialog">%1$s traži ROOT pristup.</string>
-  <string name="Su_Package_Forbidden">"Ovoliko (%1$s) aplikacija nema ROOT pristup."</string>
+  <string name="Su_Package_Forbidden">"Ova (%1$s) aplikacija nema ROOT pristup."</string>
   <string name="Su_Unavailable">ROOT pristup nije dostupan u ovoj MIUI verziji. Instalirajte MIUI developer verziju za dobivanje ROOT pristupa.</string>
   <string name="SysOpt_Boost_AutoStart">Dopuštenja autom. pokretanja</string>
   <string name="SysOpt_Boost_AutoStart_Group">Automatsko pokretanje</string>
