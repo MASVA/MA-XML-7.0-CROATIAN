@@ -48,6 +48,7 @@
   <string name="account_user_using_qq_avatar">Upotrijebi QQ fotografiju profila</string>
   <string name="account_user_using_weibo_avatar">Upotrijebi Sina Weibo fotografiju profila</string>
   <string name="account_xiaomi_service">Usluge</string>
+  <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="account_vip_level">Račun</string>
   <string name="account_vip_task">Napredak</string>
   <string name="activate_desc_2_intl_sim_cards">2 međunarodna SMS-a će biti poslana za aktiviranje SIM kartice</string>
@@ -144,6 +145,7 @@
   <string name="btn_return">Natrag</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_unbind">Prekini vezu</string>
+  <string name="change_activate_email">Promjena adrese e-pošte</string>
   <string name="change_email_address">Promjena adrese e-pošte</string>
   <string name="change_password">Promjena zaporke</string>
   <string name="change_phone_number">Promjena broja telefona</string>
@@ -154,8 +156,7 @@
   <string name="cloud_service_dspt">Sinkronizirajte vaše fotografije, kontakte, bilješke, aplikacije i više između svih vaših uređaja.</string>
   <string name="completed">Završeno</string>
   <string name="confirm">U redu</string>
-  <string name="confirm_email_address_dialog_message">Kod za provjeru će biti poslan na: %s.</string>
-  <string name="confirm_email_address_dialog_title">Potvrdi adresu e-pošte</string>
+  <string name="confirm_activate_email">Potvrđeno</string>
   <string name="confirm_phone_number_dialog_message">Kod za provjeru će biti poslan na: %s.</string>
   <string name="confirm_phone_number_dialog_title">Potvrdi broj telefona</string>
   <string name="confirm_unbind">Prekinuti vezu s ovim računom?</string>
@@ -173,8 +174,6 @@
   <string name="device_list_title">Moji uređaji</string>
   <string name="device_trust_info">Pouzdani uređaji</string>
   <string name="email_or_id_hint_text">Adresa E-pošte ili ID Mi Računa</string>
-  <string name="email_send_verify_code_prompt">"E-pošta poslana na %s
-Unesite kôd za provjeru u e-pošti"</string>
   <string name="empty_device_list_notice">Nema uređaja</string>
   <string name="error_device_id">"Ne mogu dobiti IMEI"</string>
   <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Mi Računom.</string>
@@ -194,8 +193,8 @@ Unesite kôd za provjeru u e-pošti"</string>
   <string name="forget_password">Zaboravljena zaporka</string>
   <string name="get_back_pwd">Dohvaćanje zaporke računa</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
-  <string name="get_email_verifycode_exceed_limit">Previše poslanih kodova za provjeru na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovo.</string>
-  <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za provjeru na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovo.</string>
+  <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovo.</string>
+  <string name="input_email_address_notice">"Ova adresa e-pošte će biti korištena za potvrdu vašeg računa"</string>
   <string name="hide_mibi_info">Podaci Mi Kredita su sakriveni</string>
   <string name="input_captcha_hint">Unesite kôd</string>
   <string name="input_password_hint">Unesite zaporku</string>
@@ -425,12 +424,15 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="removing_account">Odjava…</string>
   <string name="rename_current_device">"Promjeni naziv uređaja"</string>
   <string name="replace_binded_phone">Zamjeni telefon</string>
+  <string name="resend_active_email">Pošalji ponovo</string>
+  <string name="resend_email_reach_limit_message">"Zatražili ste previše provjere putem e-pošte. Provjerite da e-pošta za provjeru nije u Spam mapi."</string>
+  <string name="resend_email_reach_limit_title">"Ne mogu poslati e-poštu"</string>
+  <string name="resend_email_success">Pošalji e-poštu ponovo</string>
   <string name="restart_action">Ponovno pokreni</string>
-  <string name="restart_email_bind_message">E-pošta s kodom za potvrdu će biti poslana na ovu adresu</string>
-  <string name="restart_email_bind_title">Promjeni e-poštu za oporavak</string>
-  <string name="restart_phone_bind_message">SMS s kodom za potvrdu će biti poslan na ovj broj</string>
+  <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS poruke, promjeniti telefon za oporavak?</string>
   <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
   <string name="scan_barcode_title">Da se prijavite u svoj Mi Račun, skenirajte QR kod</string>
+  <string name="send_email_activate_message">Pošalji provjeru putem e-pošte</string>
   <string name="service_error">Pogreška usluge</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>

@@ -88,12 +88,13 @@
   <string name="indices_title_Precip1hr">Oborine 1hr</string>
   <string name="indices_title_car_wash">Pranje auta</string>
   <string name="indices_title_feel">Stvarni osjećaj</string>
-  <string name="indices_title_humidity">Vlažnost</string>
+  <string name="indices_title_humidity">Vlaga</string>
   <string name="indices_title_pressure">Tlak</string>
   <string name="indices_title_restriction">Ograničenje</string>
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Vidljivost</string>
+  <string name="information_manager_information">Informacije o vremenu</string>
   <string name="information_manager">Učitaj kad je povezano na WLAN</string>
   <string name="information_menu_title"/>
   <string name="information_time_source">%1$s | %2$s</string>

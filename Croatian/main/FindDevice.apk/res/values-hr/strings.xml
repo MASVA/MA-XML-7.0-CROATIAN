@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activate_xiaomi_account">Aktiviraj ovaj uređaj</string>
-  <string name="app_name">Pronaði uređaj</string>
+  <string name="app_name">Pronađi uređaj</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne mogu otključati. %s."</string>
   <string name="default_lock_msg_words">Bok! Izgubio sam mobitel. Kontaktirati ću vas kasnije. Hvala na razumijevanju!</string>

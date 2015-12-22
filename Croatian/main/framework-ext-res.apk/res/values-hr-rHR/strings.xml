@@ -21,6 +21,10 @@
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="force_exit_message">Uspješno zatvorena aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Možete se vratiti na početni zaslon pritiskom na tipku Početna. Možete odabrati tu radnju samo jednim dodirom. Prilagodite vašu tipku Početna u Postavke &gt; Dodatne postavke &gt; Tipke.</string>
+  <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne hvala</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Prilagodi</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Prilagodi tipku Početna</string>
   <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>
