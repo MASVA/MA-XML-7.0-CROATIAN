@@ -94,7 +94,7 @@
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Vidljivost</string>
   <string name="information_manager_information">Informacije o vremenu</string>
-  <string name="information_manager">Učitaj kad je povezano na WLAN</string>
+  <string name="information_manager_wlan">Učitaj kad je povezano na WLAN</string>
   <string name="information_menu_title"/>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>

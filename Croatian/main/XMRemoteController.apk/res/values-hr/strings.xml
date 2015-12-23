@@ -350,6 +350,7 @@ pričekajte trenutak nakon radnje"</string>
   <string name="no_program">Nema sadržaja.</string>
   <string name="no_qq">"QQ nije instaliran na ovom uređaju."</string>
   <string name="no_save_brand_service">Trebate dodati daljinski upravljač koji je podržan</string>
+  <string name="none">Ništa</string>
   <string name="not_respond">Nema odgovora</string>
   <string name="notification_found_shared_remote_text">Dodirnite da ga kontrolirate</string>
   <string name="notification_found_shared_remote_title">Pronađeno %1$s u blizini</string>
@@ -500,6 +501,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Prijava na vaš Mi Račun zahtijeva internetsku vezu. Osim toga, pristup lokaciji, Mi Cloud i Mi VIP će se uključiti automatski.</string>
   <string name="place_frame">Lokacija:</string>
+  <string name="play_in_phone">Reproduciraj na mobitelu</string>
   <string name="play_on_tv">Reproduciraj na TV</string>
   <string name="playing_time">播出时间</string>
   <string name="please_enter">"Polje ne može biti prazno"</string>
@@ -666,7 +668,9 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="volume">Glasnoća</string>
   <string name="weather_out">Vanjska temperatura:</string>
   <string name="wind_direct">Smjer</string>
+  <string name="wind_direct_automatic">Autom.</string>
   <string name="wind_direct_down">Dolje</string>
+  <string name="wind_direct_manual">Ručno</string>
   <string name="wind_direct_middle">Srednje</string>
   <string name="wind_direct_up">Gore</string>
   <string name="wind_speed">Brzina</string>

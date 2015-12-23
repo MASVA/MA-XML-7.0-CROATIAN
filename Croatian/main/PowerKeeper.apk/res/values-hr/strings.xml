@@ -62,6 +62,11 @@
   <string name="normal">Zadani način</string>
   <string name="operation_create_group">Naziv</string>
   <string name="operation_create_group_message">Unesite novi naziv grupe</string>
+  <string name="power_checker_recent_btn_title">Postavke energije</string>
+  <string name="power_checker_recent_group_title">Nedavno</string>
+  <string name="power_checker_running_btn_title">Zaustavi proces</string>
+  <string name="power_checker_running_group_title">Izvodi se</string>
+  <string name="power_checker_title">PowerChecker</string>
   <string name="power_chooser_user_define_title">Novi način</string>
   <string name="power_config_alarm_sync_summary">Dopusti aplikaciji alarm u pozadini</string>
   <string name="power_config_alarm_sync_title">Alarm</string>

@@ -283,6 +283,8 @@
   <string name="geolocation_settings_page_summary_allowed">Ova stranica trenutno ima pristup vašoj lokaciji</string>
   <string name="geolocation_settings_page_summary_not_allowed">"Ova stranica trenutno nema pristup vašoj lokaciji"</string>
   <string name="geolocation_settings_page_title">Izbriši pristup lokaciji</string>
+  <string name="go_supermarket_button">Kreni</string>
+  <string name="go_supermarket_title">Više aplikacija, veća brzina i manja potrošnja podataka u App Store</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na početni zaslon</string>
   <string name="history_saved_webpage">Spremi stranicu</string>

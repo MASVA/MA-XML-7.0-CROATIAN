@@ -22,6 +22,7 @@
   <string name="incorrect_pincode_remaining_attempts">Netočan PIN, preostalo pokušaja %d</string>
   <string name="incorrect_pukcode">Netočan PUK</string>
   <string name="incorrect_pukcode_remaining_attempts">Netočan PUK, preostalo pokušaja %d</string>
+  <string name="input_password_after_boot_msg">"Morati ćete unijeti zaporku nakon što se uređaj ponovno pokrene."</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
   <string name="input_pin_code">Unesite PIN</string>
   <string name="input_puk_code">Unesite PUK</string>

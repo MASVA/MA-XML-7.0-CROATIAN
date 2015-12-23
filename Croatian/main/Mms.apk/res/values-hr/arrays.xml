@@ -36,6 +36,10 @@
         <item>SMS</item>
         <item>Mi Poruke</item>
     </string-array>
+	<string-array name="wild_msg_sync_options">
+         <item>Sinkr. sve poruke</item>
+         <item>Sinkr. poruke s odabranih SIM kartica</item>
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 sekunda</item>
         <item>2 sekunde</item>

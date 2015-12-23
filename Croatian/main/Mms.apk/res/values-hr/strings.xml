@@ -54,6 +54,7 @@
   <string name="cannot_resend_audio">"Ne mogu poslati snimku"</string>
   <string name="cannot_send_message">"Ne mogu poslati ovu poruku""</string>
   <string name="cannot_send_message_reason">Poruka nema važećeg primatelja.</string>
+  <string name="card_insert_to_contact">Uvezi kontakt</string>
   <string name="change_duration_activity">Promjena trajanja</string>
   <string name="check_all">Odaberite sve</string>
   <string name="chenghu_disable_mms">Nije moguće koristiti nadimke u MMS-u</string>
@@ -179,6 +180,7 @@
   <string name="found_old_messages_title">Pošalji poruke</string>
   <string name="found_wild_messages_guide_cloud_desc">Da sinkronizirate poruke s Mi Clouda, prijavite se na svoj Mi Račun i uključite sinkronizaciju SMS-a.</string>
   <string name="found_wild_messages_guide_settings_desc">Sinkronizacija SMS poruka s Mi Clouda u postavkama Poruka.</string>
+  <string name="found_wild_messages_guide_sync_not_started">Sinkronizacija nije još započela</string>
   <string name="found_wild_messages_title">Sinkronizacija poruka s Mi Clouda</string>
   <string name="from_label">"Šalje: "</string>
   <string name="group_message">Grupne poruke</string>
@@ -618,6 +620,8 @@ Provedeni pokušaj: %s."</string>
   <string name="voip_enable_popup_msg2">Pravila o Privatnosti</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Pošalji za %ds</string>
+  <string name="wild_msg_processing">Obrada…</string>
+  <string name="wild_msg_title">Omoguči cloud sinkr.</string>
   <string name="xiaomi_service_number">Broj usluge</string>
   <string name="yellowpage_recommend_msg">"Isprobajte značajke MIUI SMS poruke"</string>
   <string name="yes">U redu</string>
