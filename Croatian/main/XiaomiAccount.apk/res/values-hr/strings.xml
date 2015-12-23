@@ -427,12 +427,12 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="resend_active_email">Pošalji ponovo</string>
   <string name="resend_email_reach_limit_message">"Zatražili ste previše provjere putem e-pošte. Provjerite da e-pošta za provjeru nije u Spam mapi."</string>
   <string name="resend_email_reach_limit_title">"Ne mogu poslati e-poštu"</string>
-  <string name="resend_email_success">Pošalji e-poštu ponovo</string>
-  <string name="restart_action">Ponovno pokreni</string>
-  <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS poruke, promjeniti telefon za oporavak?</string>
+  <string name="resend_email_success">E-pošta poslana ponovo</string>
+  <string name="restart_action">Započni ispočetka</string>
+  <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS poruke. Svejedno započeti ispočetka?</string>
   <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
   <string name="scan_barcode_title">Da se prijavite u svoj Mi Račun, skenirajte QR kod</string>
-  <string name="send_email_activate_message">Pošalji provjeru putem e-pošte</string>
+  <string name="send_email_activate_message">E-pošta provjere poslana</string>
   <string name="service_error">Pogreška usluge</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
