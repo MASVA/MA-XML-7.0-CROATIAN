@@ -32,6 +32,7 @@
   <string name="device_charge_times">Napunjeno puta</string>
   <string name="device_unlock_screen_times">Zaslon otključan</string>
   <string name="device_usage_data">Uporaba telefona</string>
+  <string name="download_fail">"Ne mogu preuzeti aplikaciju: %s"</string>
   <string name="download_message">Preuzeti %s?</string>
   <string name="download_progress">%d%%</string>
   <string name="download_title">Preuzeti ovu aplikaciju?</string>

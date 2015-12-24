@@ -113,7 +113,7 @@
   <string name="not_open">Ne sada</string>
   <string name="notification_auto_reboot_seccess_title">Uređaj je automatski ažuriran</string>
   <string name="notification_downloading">Preuzimanje ažuriranja…</string>
-  <string name="notification_fail_msg">Pokušajte preuzeti cijeli ROM</string>
+  <string name="notification_fail_msg">Pokušajte preuzeti ROM u cijelosti</string>
   <string name="notification_load_body_alpha">Nabavite najnovija ažuriranja za vaš uređaj.</string>
   <string name="notification_load_body_dev">Nabavite najnovija ažuriranja za vaš uređaj</string>
   <string name="notification_load_title_alpha">Prijavite se u vaš Mi Račun</string>
