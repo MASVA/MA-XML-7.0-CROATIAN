@@ -369,6 +369,14 @@
         <item>Žuto na plavom</item>
         <item>Prilagođeno</item>
     </string-array>
+	    <string-array name="color_picker">
+        <item>Tirkiznoplava</item>
+        <item>Plava</item>
+        <item>Indigo</item>
+        <item>Ljubičasta</item>
+        <item>Ružičasta</item>
+        <item>Crvena</item>
+     </string-array>
     <string-array name="select_runtime_titles">
         <item>Dalvik</item>
         <item>ART</item>

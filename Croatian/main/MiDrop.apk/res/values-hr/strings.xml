@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Connect">Poveži</string>
+  <string name="Disconnect">Prekini vezu</string>
+  <string name="Start">Start</string>
+  <string name="Stop">Stop</string>
+  <string name="TestReceiver">Test primatelja</string>
+  <string name="TestSender">Test pošiljatelja</string>
+  <string name="action_settings">Postavke</string>
   <string name="app_name">Mi Drop</string>
   <string name="cancel_confirm">Odustani</string>
   <string name="cancel_confirm_title">"Prijenos nije dovršen, odustati sada?"</string>
@@ -16,6 +23,7 @@
   <string name="intro_page2_click_to_send">Dodirnite \"Pošalji\"</string>
   <string name="intro_page3_choose_midrop">Odaberite \"Mi Drop\"</string>
   <string name="intro_page3_choose_midrop2">Datoteke se šalju odmah!</string>
+  <string name="newText">Nova poruka</string>
   <string name="notif_receive_cancel">Neposlanih datoteka: %1$s</string>
   <string name="notif_receive_lockscreen">Dodirnite za prikaz detalja</string>
   <string name="notif_receive_progress">Primanje: %1$s…</string>
@@ -29,12 +37,12 @@
   <string name="receiver_apk_file_current">Primanje %2$d​ od %1$s</string>
   <string name="receiver_apk_file_num">%2$d​ od %1$s</string>
   <string name="receiver_audio_file_current">Primanje %2$d​ od %1$s​​…</string>
-  <string name="receiver_audio_file_num">%2$d​ od %1$s</string> 
+  <string name="receiver_audio_file_num">%2$d​ od %1$s</string>
   <string name="receiver_cancel">Odustani</string>
   <string name="receiver_clean">Oslobodite prostor</string>
   <string name="receiver_file_cancel">Prijenos %1$s prekinut</string>
   <string name="receiver_file_current">Primanje %2$d od %1$s…</string>
-  <string name="receiver_file_num">%2$d od %1$s</string>  
+  <string name="receiver_file_num">%2$d od %1$s</string>
   <string name="receiver_in_progress_summary">Morate pričekati da se trenutna datoteka pošalje</string>
   <string name="receiver_in_progress_title">Slanje…</string>
   <string name="receiver_insufficient_storage">Nedovoljno memorije</string>
@@ -72,5 +80,6 @@
   <string name="sender_wait">Čekanje</string>
   <string name="sender_wait_queue">Čekanje</string>
   <string name="transfer_interrupt">Prijenos prekinut</string>
+  <string name="transmission_click_send">Pošalji</string>
   <string name="transmission_connect">"Ne mogu pronaći primatelja​"</string>
 </resources>

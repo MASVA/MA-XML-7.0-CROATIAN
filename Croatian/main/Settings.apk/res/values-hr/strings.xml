@@ -96,6 +96,7 @@
   <string name="add_fingerprint_instruction_dialog_msg">"Da dodate svoj otisak prsta, stavite prst na senzor.Provjerite da li vaš prst pokriva unutarnji rub senzora"</string>
   <string name="add_fingerprint_instruction_msg">Otključajte uređaj ili potvrdite plaćanje s vašim otiskom prsta</string>
   <string name="add_fingerprint_instruction_title">Postavite prst na skener otiska prsta</string>
+  <string name="add_fingerprint_move_finger_title">Odoberte prst</string>
   <string name="add_fingerprint_put_finger_edge_msg">Nakon pritiska na senzor, maknite prst i ponovite.</string>
   <string name="add_fingerprint_put_finger_msg">Nakon pritiska na senzor, maknite prst i ponovite.</string>
   <string name="add_fingerprint_put_finger_title">Stavite i maknite prst</string>
@@ -394,7 +395,7 @@
   <string name="battery_msg_unaccounted">Upotreba baterije procjena je potrošnje energije i ne uključuje sve izvore potrošnje baterije. Vrijednost \"razno\" odnosi se na razliku između obračunate procijenjene potrošnje energije i stvarne potrošnje izmjerene na bateriji.</string>
   <string name="battery_saver">Štednja baterije</string>
   <string name="battery_saver_turn_on_automatically_never">Nikada</string>
-  <string name="battery_saver_turn_on_automatically_pct">Na %1$s baterije</string>
+  <string name="battery_saver_turn_on_automatically_pct">pri %1$d%% baterije</string>
   <string name="battery_saver_turn_on_automatically_title">Uključi automatski</string>
   <string name="battery_settings">Baterija</string>
   <string name="battery_settings_title">Baterija</string>
@@ -3272,6 +3273,7 @@ Ure&amp;#273;aj ^1 formatiran je tako da funkcionira samo na ovom ure&amp;#273;a
   <string name="storage_uicc">UICC pohrana</string>
   <string name="storage_unmount_failure">Sigurno izbacivanje nije uspjelo: %1$s</string>
   <string name="storage_unmount_success">Sigurno izbacivanje uspjelo: %1$s</string>
+  <string name="storage_usb">USB pohrana</string>
   <string name="storage_usb_settings">Pohrana i USB</string>
   <string name="storage_used">Upotrijebljena pohrana</string>
   <string name="storage_volume_summary">Upotrijebljeno %1$s od %2$s</string>

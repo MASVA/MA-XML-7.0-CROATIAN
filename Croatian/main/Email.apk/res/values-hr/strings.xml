@@ -335,6 +335,7 @@
   <string name="confirm_send_message_with_no_body">"Nema teksta u tijelu poruke."</string>
   <string name="confirm_send_message_with_no_subject">"Ova poruka nema predmet."</string>
   <string name="confirm_send_title">Poslati poruku?</string>
+  <string name="contact_content_provider">Kontaktirajte davatelja sadržaja</string>
   <string name="contact_edit_set_black_list_filtering">Filtriranje…</string>
   <string name="contact_edit_set_black_list_from">Premjesti sve poruke tog pošiljatelja u Smeće</string>
   <string name="contact_edit_set_black_list_receive">Premjesti poštu tog primatelja u Smeće (samo nove poruke)</string>
@@ -348,7 +349,6 @@
   <string name="contact_edit_title_phone_contact">Popis kontakata telefona</string>
   <string name="contact_in_filter_call_phone_str">Poziv od %s</string>
   <string name="contact_in_filter_title">Pošiljatelj</string>
-  <string name="contact_content_provider">Kontaktirajte davatelja sadržaja</string>
   <string name="contact_info_string">Prikaži podatke o kontaktu za %1$s</string>
   <string name="contact_info_string_default">Prikaži podatke o kontaktu</string>
   <string name="contact_list_add_btn">Dodaj</string>
@@ -415,7 +415,7 @@
   <string name="device_not_activiey_lint2">Usluga E-pošte ne radi s Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">"Ne mogu automatski primati nove poruke. Sinkronizacija je isključena."</string>
   <string name="dialog_auto_sync_setting_no_open">"Ne mogu automatski primati nove poruke. Sinkronizacija je isključena."</string>
-  <string name="dialog_change_sync_lookback">Poruka e-pošte primljena prije %s će automatski biti izbrisana. Dodirnite za promjenu.</string> 
+  <string name="dialog_change_sync_lookback">Poruka e-pošte primljena prije %s će automatski biti izbrisana. Dodirnite za promjenu.</string>
   <string name="dialog_gmail_proxy_server_is_error">Pogreška Gmail proxy poslužitelja.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Nedovoljno prostora za preuzimanje privitaka za %s.</string>
   <string name="dialog_insufficient_space_on_external">"Ne mogu preuzeti privitak. Nema dovoljno prostora na vanjskoj pohrani."</string>
@@ -548,8 +548,8 @@
   <string name="gmail_acceleration">Koristi proxy poslužitelj za Gmail Račun</string>
   <string name="gmail_login_confirm_to_use_proxy">Koristiti proxy poslužitelj za pristup Gmail Računu?</string>
   <string name="gmail_login_failed_non_proxy_title">"Ne mogu pristupiti Gmail poslužitelju"</string>
-  <string name="gmail_server_authorization_deleted">"Ne mogu potvrditi autentičnost računa. Pokušajte ponovno dodati ovaj račun."</string>
   <string name="gmail_login_verify">Dodaj Gmail Račun</string>
+  <string name="gmail_server_authorization_deleted">"Ne mogu potvrditi autentičnost računa. Pokušajte ponovno dodati ovaj račun."</string>
   <string name="gmail_web_login_go">U redu</string>
   <string name="gmail_web_login_required_message">Prijavite se u Gmail</string>
   <string name="head_only_enable_dialog_message">Preuzmi samo naslov poruke (umjesto cijele poruke), kod uporabe mobilnih podataka.</string>
@@ -753,6 +753,7 @@ Kopija: %4$s
   <string name="outbox_alert_description_provision_error">Pogreška Odredaba s poslužitelja tijekom izlazne sinkronizacije</string>
   <string name="outbox_alert_description_reject_by_server">Odbijeno od %s</string>
   <string name="outbox_alert_description_sent_failed">"Veličina privitka prelazi ograničenje poslužitelja."</string>
+  <string name="outbox_alert_description_time_out">Povezivanje s mrežom je isteklo</string>
   <string name="outbox_alert_duplicate_click">"Šaljem…"</string>
   <string name="outbox_alert_edit_resend">Uredi i ponovo pošalji</string>
   <string name="outbox_alert_failed_edit_resend">"Ne mogu poslati. Uredi i pokušaj ponovo."</string>
@@ -760,7 +761,6 @@ Kopija: %4$s
   <string name="outbox_alert_rw_io_error">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="outbox_alert_select_operation">Odaberite radnju</string>
   <string name="outbox_alert_title_sent_failed">"Ne mogu poslati e-poštu"</string>
-  <string name="outbox_alert_description_time_out">Povezivanje s mrežom je isteklo</string>
   <string name="outbox_no_mails">Prazno</string>
   <string name="parase_setup_data">Dobivanje podataka…</string>
   <string name="password_changed_prompt">"Ne mogu se prijaviti."</string>
@@ -928,6 +928,10 @@ Kopija: %4$s
   <string name="replyto_heading">"Odgovori: "</string>
   <string name="report">Prijavi</string>
   <string name="report_phishing">Prijavite krađu identiteta</string>
+  <string name="report_rendering_improvement">Izgleda dobro</string>
+  <string name="report_rendering_improvement_desc">Ova poruka izgleda dobro.</string>
+  <string name="report_rendering_problem">Izgleda loše</string>
+  <string name="report_rendering_problem_desc">Ova poruka izgleda loše.</string>
   <string name="report_spam">Prijavite neželjenu poštu</string>
   <string name="request_entity_large">Datoteka je prevelika</string>
   <string name="require_manual_sync_message">Sinkronizacija za ovaj račun je isključena u roamingu.</string>

@@ -85,6 +85,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="perm_privacy_app_trust_summary">Pitaj me kada ova aplikacija pokušava pristupiti drugim dijelovima sustava</string>
   <string name="perm_sysopt_boost_auto_start">Dopuštenja automatskog pokretanja</string>
   <string name="perm_sysopt_boost_auto_start_summary">Ova se aplikacija može pokrenuti automatski</string>
+  <string name="permdesc_togglePermissions">Nositelju omogućuje pokretanje korisničkog sučelja za prebacivanjem dopuštenja aplikacija. Ne bi smjelo biti potrebno za normalne aplikacije..</string>
   <string name="permission_action_accept">Dopusti</string>
   <string name="permission_action_prompt">Pitaj</string>
   <string name="permission_action_reject">Odbij</string>
@@ -94,6 +95,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="permission_group_title_privacy_related">Privatnost</string>
   <string name="permission_group_title_settings_related">Postavke</string>
   <string name="permission_send_sms_descx">Aplikacija može slati SMS i MMS</string>
+  <string name="permlab_togglePermissions">dopuštešnje prečaca</string>
   <string name="privacy_relative">Privatnost</string>
   <string name="reboot_time">Priprema za ponovno pokretanje…(%1$s)</string>
   <string name="safe_guard_support">Tehničku podršku vam pruža %1$s</string>
@@ -117,6 +119,8 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
   <string name="unknown_apps_dlg_text">Vaš telefon i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Suglasni ste da ste isključivo sami odgovorni za gubitak podataka ili bilo kakvu štetu nastalu na vašem uređaju koja može proizaći korištenjem ove aplikacije. Možete isključiti ovu obavijest u Postavkama.</string>
   <string name="unknown_apps_dlg_title">Instaliranje je blokirano</string>
   <string name="unknown_installer">Nepoznat PC alat</string>
+  <string name="v7_preference_off">ISKLJ.</string>
+  <string name="v7_preference_on">UKLJ.</string>
   <string name="virus_scan_caller_unknown">Nepoznato</string>
   <string name="virus_scan_clear">Ukloni</string>
   <string name="virus_scan_install">Instaliraj svejedno</string>

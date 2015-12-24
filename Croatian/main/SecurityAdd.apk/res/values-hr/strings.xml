@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Plugin Usluge Sigurnosti</string>
+  <string name="app_not_installed_toast">"Aplikacija nije instalirana na vašem uređaju."</string>
   <string name="cancel_button">Odustani</string>
   <string name="empty">" "</string>
   <string name="main_toolbar_purchase">Nadoplata</string>
@@ -8,6 +9,23 @@
   <string name="miuishare_title_share">Podijeli</string>
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="month_report_activity_label">Mjesečno izvješće</string>
+  <string name="month_report_click_reconnect_network">Pokušaj ponovo</string>
+  <string name="month_report_disconnect_tip">"Ne mogu se povezati na mrežu"</string>
+  <string name="month_report_follow_service_negative">Ne hvala</string>
+  <string name="month_report_follow_service_positive">Slijedi</string>
+  <string name="month_report_follow_service_summary">"Ostanite u toku sa sigurnosnim vijestima i informacijama slijedeći službeni račun aplikacije MIUI Sigurnost."</string>
+  <string name="month_report_follow_service_title">Sigurnosna ažuriranja</string>
+  <string name="month_report_history_activity_label">Povijest izvješća</string>
+  <string name="month_report_network_dialog_description">Dopustiti ovoj aplikaciji povezivanje na internet za dobivanje detalje izvješća?</string>
+  <string name="month_report_network_dialog_positive">Dopusti</string>
+  <string name="month_report_network_dialog_title">"Ne mogu dobiti detalje izvješća"</string>
+  <string name="month_report_result_share">Dijeli</string>
+  <string name="month_report_share_img_fail">"Ne mogu podijeliti"</string>
+  <string name="month_report_share_loading">Samo tren…</string>
+  <string name="month_report_warning_dialog_description">"Za pregled mjesečnog izvješća, uključite ovu značajku u postavkama aplikacije Sigurnost."</string>
+  <string name="month_report_warning_dialog_positive">Uključi</string>
+  <string name="month_report_warning_dialog_title">Mjesečno izvješće sigurnosti</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="no_network_btn">Pokušaj ponovo</string>
   <string name="ok_button">U redu</string>

@@ -123,6 +123,8 @@ Prihvaćate li datoteku?"</string>
   <string name="pbap_session_key_dialog_title">Upiši šifru sesije za %1$s</string>
   <string name="permdesc_bluetoothShareManager">Aplikaciji omogućuje pristup upravitelju za Bluetooth Dijeljenje i njegovu upotrebu za prijenos datoteka.</string>
   <string name="permdesc_bluetoothWhitelist">Omogućuje aplikaciji privremeno stavljanje Bluetooth uređaja na popis dopuštenih uređaja, čime mu omogućuje da šalje datoteke na ovaj uređaj bez potvrde korisnika.</string>
+  <string name="permdesc_bluetoothAvrcpDataManager">Aplikaciji omogućuje pristup upravitelju za BluetoothAvrcpData i koristiti ga za prikaz na UI.</string>
+  <string name="permlab_bluetoothAvrcpDataManager">Pristup avrcp metadata.</string>
   <string name="permdesc_handoverStatus">Omogućuje primanje informacija o statusu prijenosa s Bluetooth uređaja.</string>
   <string name="permlab_bluetoothMap">Pristup Bluetooth Message Access Profile davatelju sadržaja.</string>
   <string name="permlab_bluetoothShareManager">Pristupite upravitelju za preuzimanje.</string>
