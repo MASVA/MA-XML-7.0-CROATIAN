@@ -32,12 +32,12 @@
   <string name="close_alarm">Zatvori alarm</string>
   <string name="common_settings">Postavke</string>
   <string name="confirm_abort">Odbaci</string>
-  <string name="control_set_alarm">Podesi alarm</string>
-  <string name="control_set_alarm_with_existing">Alarm podešen: %s</string>
+  <string name="control_set_alarm">Postavi alarm</string>
+  <string name="control_set_alarm_with_existing">Alarm postavljen: %s</string>
   <string name="day">1 dan</string>
   <string name="day_concat">". "</string>
   <string name="days">%s dana</string>
-  <string name="default_alarm_alert">Podesi zadani zvuk alarma</string>
+  <string name="default_alarm_alert">Postavi zadani zvuk alarma</string>
   <string name="default_alarm_title">Zadani zvuk alarma</string>
   <string name="default_label">Alarm</string>
   <string name="delelte_selected_timezone">Izbrisati odabranu vremensku zonu?</string>
@@ -79,7 +79,7 @@
   <string name="remind_ringtone">Melodija zvona</string>
   <string name="reset">Resetiraj</string>
   <string name="revert">Obnovi</string>
-  <string name="set_alarm">Podesi alarm</string>
+  <string name="set_alarm">Postavi alarm</string>
   <string name="settings">Postavke</string>
   <string name="shutdown_alarm_disable_summary">Isključeno gašenje alarma</string>
   <string name="shutdown_alarm_enable_summary">Uključeno gašenje alarma</string>
@@ -117,7 +117,7 @@
   <string name="turn_off_this_repeat_alarm">Isključi ovaj ponavljajući alarm</string>
   <string name="vibrate_pref_summary">Vibriraj kada se oglasi alarm</string>
   <string name="vibrate_when_ringing">Vibriraj kod poziva</string>
-  <string name="volume_button_setting_summary">Podešavaje tipaka glasnoće tijekom trajanja alarma</string>
+  <string name="volume_button_setting_summary">Funkcija tipaka glasnoće tijekom trajanja alarma</string>
   <string name="volume_button_setting_title">Tipke za glasnoću</string>
   <string name="workday_alarm_clock">Alarm u radne dane</string>
   <string name="worldclock_empty_text">Nema svjetskih satova</string>

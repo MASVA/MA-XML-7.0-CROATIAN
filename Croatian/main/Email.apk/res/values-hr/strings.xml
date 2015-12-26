@@ -928,10 +928,6 @@ Kopija: %4$s
   <string name="replyto_heading">"Odgovori: "</string>
   <string name="report">Prijavi</string>
   <string name="report_phishing">Prijavite krađu identiteta</string>
-  <string name="report_rendering_improvement">Izgleda dobro</string>
-  <string name="report_rendering_improvement_desc">Ova poruka izgleda dobro.</string>
-  <string name="report_rendering_problem">Izgleda loše</string>
-  <string name="report_rendering_problem_desc">Ova poruka izgleda loše.</string>
   <string name="report_spam">Prijavite neželjenu poštu</string>
   <string name="request_entity_large">Datoteka je prevelika</string>
   <string name="require_manual_sync_message">Sinkronizacija za ovaj račun je isključena u roamingu.</string>
