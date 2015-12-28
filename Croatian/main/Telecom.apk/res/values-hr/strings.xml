@@ -10,6 +10,7 @@
   <string name="notification_missedCallTicker">Propušten poziv od %s</string>
   <string name="notification_missedCallTitle">Propušten poziv</string>
   <string name="notification_missedCall_call_back">Uzvrati poziv</string>
+  <string name="notification_missedCall_call_back_miui">Poziv</string>
   <string name="notification_missedCall_message">Poruka</string>
   <string name="notification_missedCallsMsg">Propušteni pozivi: %s</string>
   <string name="notification_missedCallsTitle">Propušteni pozivi</string>

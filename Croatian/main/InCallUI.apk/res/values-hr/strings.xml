@@ -139,6 +139,7 @@
   <string name="confCall">Konferencijski poziv</string>
   <string name="conference_call_description" formatted="false">%s,%s itd. ukupno %s</string>
   <string name="conference_call_number">Osoba: %s</string>
+  <string name="conference_call_single_description" formatted="false">%s itd. ukupno %s</string>
   <string name="confirmPin2Label">Potvrdi novi PIN2</string>
   <string name="confirmPinLabel">Potvrdi novi PIN</string>
   <string name="connect_later">Ne mogu se povezati na ovu mrežu trenutno. Pokušajte ponovno.</string>
