@@ -392,10 +392,12 @@
   <string name="battery_info_voltage_label">Napon baterije:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Razina baterije</string>
+  <string name="battery_light_summary">LED svjetli tijekom punjenja</string>
+  <string name="battery_light_title">LED svojetlo</string>
   <string name="battery_msg_unaccounted">Upotreba baterije procjena je potrošnje energije i ne uključuje sve izvore potrošnje baterije. Vrijednost \"razno\" odnosi se na razliku između obračunate procijenjene potrošnje energije i stvarne potrošnje izmjerene na bateriji.</string>
   <string name="battery_saver">Štednja baterije</string>
   <string name="battery_saver_turn_on_automatically_never">Nikada</string>
-  <string name="battery_saver_turn_on_automatically_pct">pri %1$d%% baterije</string>
+  <string name="battery_saver_turn_on_automatically_pct">pri %1$s baterije</string>
   <string name="battery_saver_turn_on_automatically_title">Uključi automatski</string>
   <string name="battery_settings">Baterija</string>
   <string name="battery_settings_title">Baterija</string>
@@ -1138,11 +1140,13 @@
   <string name="dndm_vip_call_summary_contact">"Svi"</string>
   <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_none">Dodirni za konfiguriranje</string>
+  <string name="dndm_vip_list_all">Sve</string>
   <string name="dndm_vip_list_contact">"Svi kontakti"</string>
   <string name="dndm_vip_list_custom">Iznimke</string>
   <string name="dndm_vip_list_custom_group">Iznimke</string>
   <string name="dndm_vip_list_group">Popis iznimaka</string>
   <string name="dndm_vip_user_setting_title">Popis iznimaka</string>
+  <string name="dndm_vip_list_starred_contact">Svi označeni kontakti</string>
   <string name="dndm_wristband">Mi Band</string>
   <string name="dndm_wristband_detailed">"Uključite Ne ometaj ako Mi Band otkrije da spavate u roku od sat vremena prije zakazanog vremena početka"</string>
   <string name="dndm_wristband_detailed2">"Isključite Ne ometaj ako Mi Band otkrije da Mi Band otkrije da ste budni se u roku od sat vremena prije zakazanog vremena završetka"</string>
@@ -1212,9 +1216,9 @@
   <string name="edge_mode_back_summary">Dvaput dodirnite rub telefona za natrag</string>
   <string name="edge_mode_clean">Brisanje predmemorije sustava</string>
   <string name="edge_mode_clean_summary">Kliznite na oba ruba istovremeno da izbrišete predmemoriju sustava</string>
-  <string name="edge_mode_guide_title">Touch the highlighted area to use edge controls</string>
-  <string name="edge_mode_notification_summary">Tap to learn more.</string>
-  <string name="edge_mode_notification_title">Use edge controls</string>
+  <string name="edge_mode_guide_title">Dodirnite označeno područje da koristite rubne kontrole</string>
+  <string name="edge_mode_notification_summary">Dodirnite da bi saznali više.</string>
+  <string name="edge_mode_notification_title">Koristi rubne kontrole</string>
   <string name="edge_mode_photo">Snimanje fotografije</string>
   <string name="edge_mode_photo_summary">Dok ste u sučelju kamere, dodirnite dvaput rub telefona da snimite fotografiju</string>
   <string name="edge_mode_screenshot">Snimka zaslona</string>
@@ -1608,7 +1612,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="join_many_items_last">%1$s i %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s i %2$s</string>
-  <string name="keep_legacy_fingerprint">Čuvaj</string>
+  <string name="keep_legacy_fingerprint">Zadrži</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="kernel_version">Verzija jezgre</string>
@@ -1721,7 +1725,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="locale_settings">Lokalno</string>
   <string name="location_access_off">Isklj.</string>
   <string name="location_access_on">Uklj.</string>
-  <string name="location_access_summary">Omogućite da aplikacije koje su tražile vaše dopuštenje upotrebljavaju informacije o vašoj lokaciji</string>
+  <string name="location_access_summary">Aplikacije mogu dobiti informacije o vašoj lokaciji</string>
   <string name="location_access_title">Pristup mojoj lokaciji</string>
   <string name="location_agps_apn_choose_dialog_title">Vrsta APN-a</string>
   <string name="location_agps_apn_summary">Odaberite željenu vrstu APN-a</string>
@@ -2373,7 +2377,6 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="power_charging_duration_ac">%1$d%% – %2$s do napunjenosti putem utičnice</string>
   <string name="power_charging_duration_usb">%1$d%% – %2$s do napunjenosti putem USB-a</string>
   <string name="power_charging_duration_wireless">%1$d%% – %2$s do napunjenosti bežičnim putem</string>
-  <string name="power_discharge_remaining">Preostalo je %1$s</string>
   <string name="power_discharging_duration">%1$d%% – još približno %2$s</string>
   <string name="power_flashlight">Svjetiljka</string>
   <string name="power_hide_mode_summary">"Uštedite bateriju ograničavanjem pojedinačnih procesa aplikacija u pozadini, WLAN-a, mobilne podatkovne veze i korištenja GPS-a"</string>

@@ -119,7 +119,7 @@
   <string name="notification_load_title_alpha">Prijavite se u vaš Mi Račun</string>
   <string name="notification_load_title_dev">Prijavite se u vaš Mi Račun</string>
   <string name="notification_reboot_btn">Ponovno pokreni</string>
-  <string name="notification_reboot_seccess_des">Dodirnite za dijeljenje detalja ažuriranja.</string>
+  <string name="notification_reboot_seccess_des">Dodirnite za prikaz detalja ažuriranja.</string>
   <string name="notification_reboot_seccess_title">Uređaj je ažuriran</string>
   <string name="notification_reboot_summary_hm">Dodirnite da ponovo pokrenete vaš uređaj.</string>
   <string name="notification_reboot_title">Ponovno pokrenite da primjenite ažuriranje</string>

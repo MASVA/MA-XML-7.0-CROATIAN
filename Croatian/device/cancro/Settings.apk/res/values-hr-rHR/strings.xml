@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="battery_saver_turn_on_automatically_pct">Na %1$s baterije</string>
-     <string name="power_charging_duration">%1$d%% – %2$s do napunjenosti</string>
-     <string name="power_charging_duration_ac">%1$d%% – %2$s do napunjenosti putem utičnice</string>
-     <string name="power_charging_duration_usb">%1$d%% – %2$s do napunjenosti putem USB-a</string>
-     <string name="power_charging_duration_wireless">%1$d%% – %2$s do napunjenosti bežičnim putem</string>
+     <string name="power_charging_duration">%1$s – %2$s do napunjenosti</string>
+     <string name="power_charging_duration_ac">%1$s – %2$s do napunjenosti putem utičnice</string>
+     <string name="power_charging_duration_usb">%1$s – %2$s do napunjenosti putem USB-a</string>
+     <string name="power_charging_duration_wireless">%1$s – %2$s do napunjenosti bežičnim putem</string>
      <string name="power_discharge_remaining">Preostalo je %1$s</string>
-     <string name="power_discharging_duration">%1$d%% – još približno %2$s</string>
+     <string name="power_discharging_duration">%1$s – još približno %2$s</string>
 	 <string name="process_stats_total_duration">Iskorišteno %1$s od %2$s tijekom %3$s</string>
      <string name="process_stats_total_duration_percentage">Iskorišteno %1$s RAM-a tijekom %2$s</string>
 

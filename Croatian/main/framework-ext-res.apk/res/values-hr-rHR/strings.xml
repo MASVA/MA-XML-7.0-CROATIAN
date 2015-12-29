@@ -3,10 +3,17 @@
   <string name="all_call_livetalk_enable">Korištenje paketa nadoplate za domaće i međunarodne pozive</string>
   <string name="all_call_livetalk_remain_mins">Preostalo minuta: %1$s domaći | %2$s međunarodni</string>
   <string name="alwaysUsePrompt">"Zapamti moj izbor"</string>
-  <string name="auto_start_warning_allow">Dopusti</string>
   <string name="apply_password_action">Postavi zaporku</string>
   <string name="apply_password_confirm_dlg_msg">Potrebna zaporka za %s​?</string>
   <string name="apply_password_confirm_dlg_title">Ova zaporka će se koristiti za %s</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Tipke zaslona onemogućene, dvaput kliknite bilo koju tipku za izlaz</string>
+  <string name="auto_disable_screenbuttons_enable_toast_text">Tipke zaslona omogućene</string>
+  <string name="auto_disable_screenbuttons_float_text">Dodirnite za onemogućavanje tipke zaslona</string>
+  <string name="auto_disable_screenbuttons_prompts_message">Dvaput kliknite bilo koji tipku za izlaz iz načina rada onemogućivanja i izvođenje radnje ove tipke.</string>
+  <string name="auto_disable_screenbuttons_prompts_not_show_again">Ne prikazuj ponovo ovaj upit</string>
+  <string name="auto_disable_screenbuttons_prompts_ok">U redu</string>
+  <string name="auto_disable_screenbuttons_prompts_title">Automatski onemogući tipke zaslona</string>
+  <string name="auto_start_warning_allow">Dopusti</string>
   <string name="auto_start_warning_deny">Odbij</string>
   <string name="auto_start_warning_title">Dopustiti %s autom. pokretanje?</string>
   <string name="call_record_or">" Ili "</string>
@@ -15,6 +22,7 @@
   <string name="cancel_action">Odustani</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
+  <string name="default_name">Zadano</string>
   <string name="fc_dialog_body">Poslati izvještaj o pogreškama Mi za analizu? Ovo izvješće može sadržavati osobne podatke. Vaše će se izvješće koristiti za pomoć rješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>
   <string name="fc_dialog_jump_to_preview">Prikaži izvještaj</string>
   <string name="first_back_long_press_message">"Dugi pritisak na tipku "Natrag" će zaustaviti trenutni proces i njegove pozadinske usluge. Za omogućavanje ove funkcije, idite na Postavke &gt; Sustav &gt; Tipke</string>
@@ -38,7 +46,6 @@
   <string name="handy_mode_summary">Da zatvorite, dodirnite tamno područje zaslona</string>
   <string name="handy_mode_title">Rad jednom rukom</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Stavite vaš prst na gumb Početna</string>
-  <string name="default_name">Zadano</string>
   <string name="internal_livetalk_enable">Koristite nadoplatu paketa za domaće pozive</string>
   <string name="international_livetalk_enable">Koristite nadoplatu paketa za međunarodne pozive</string>
   <string name="key_btn_ok">U redu</string>

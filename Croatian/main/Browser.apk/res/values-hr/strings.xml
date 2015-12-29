@@ -49,7 +49,7 @@
   <string name="add_bookmark_group">Dodaj grupu</string>
   <string name="add_new_bookmark">Dodaj oznaku</string>
   <string name="add_new_quicklink">Dodaj na početnu stranicu</string>
-  <string name="add_ql_bm_title">Dodaj</string>
+  <string name="add_ql_bm_title">Spremi</string>
   <string name="add_quicklink_to_popular">Dodaj na početnu stranicu</string>
   <string name="add_quicklinks">Dodaj na početnu stranicu</string>
   <string name="add_to_bookmark">Oznake</string>
@@ -521,6 +521,9 @@ Napustiti ovu stranicu?"</string>
   <string name="profiler_no_storage_toast">Nije moguće pokrenuti profiler jer vanjska pohrana nije spremna</string>
   <string name="profiler_started_toast">Profiler se pokrenuo</string>
   <string name="profiler_stopped_toast">Profiler je završio. Rezultati spremljeni u %1$s.</string>
+  <string name="pull_to_refresh_pull_label">Povuci za osvježiti…</string>
+  <string name="pull_to_refresh_refreshing_label">Samo trenutak…</string>
+  <string name="pull_to_refresh_release_label">Otpustite za odlazak na Preporučeno i osvježiti</string>
   <string name="progress_dialog_setting_wallpaper">Podešavanje slike pozadine…</string>
   <string name="qr_code_title">QR Kod</string>
   <string name="quicklink_bookmark_save">LOKACIJA OZNAKA</string>
