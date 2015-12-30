@@ -64,7 +64,7 @@
   <string name="allow">Dopusti</string>
   <string name="alwaysUse">Koristi se kao zadana postavka za ovu lokaciju.</string>
   <string name="android_preparing_apk">Pripremanje %1$s.</string>
-  <string name="android_start_title">Pokretanje Androida...</string>
+  <string name="android_start_title">Pokretanje Androida…</string>
   <string name="android_system_label">Sustav Android</string>
   <string name="android_upgrading_apk">Optimiziranje aplikacije %1$d od %2$d.</string>
   <string name="android_upgrading_complete">Završetak inicijalizacije.</string>
@@ -279,7 +279,7 @@ koristeći %s"</string>
   <string name="ext_media_ready_notification_message">Za prijenos fotografija i medija</string>
   <string name="ext_media_status_bad_removal">Uklonjeno na nesiguran način</string>
   <string name="ext_media_status_checking">Provjeravanje…</string>
-  <string name="ext_media_status_ejecting">Izbacivanje...</string>
+  <string name="ext_media_status_ejecting">Izbacivanje…</string>
   <string name="ext_media_status_formatting">Formatiranje…</string>
   <string name="ext_media_status_missing">Nije umetnut</string>
   <string name="ext_media_status_mounted">Spreman</string>
@@ -483,7 +483,7 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="kg_invalid_sim_puk_hint">PUK kôd treba imati 8 brojeva ili više.</string>
   <string name="kg_login_account_recovery_hint">"Zaboravili ste korisničko ime ili zaporku?
 Posjetite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
-  <string name="kg_login_checking_password">Provjera računa...</string>
+  <string name="kg_login_checking_password">Provjera računa…</string>
   <string name="kg_login_instructions">Za otključavanje prijavite se Google računom.</string>
   <string name="kg_login_invalid_input">Nevažeće korisničko ime ili zaporka.</string>
   <string name="kg_login_password_hint">Zaporka</string>
@@ -613,9 +613,9 @@ Pokušajte ponovo za %d s."</string>
   <string name="managed_profile_label">Posao</string>
   <string name="managed_profile_label_badge">%1$s za posao</string>
   <string name="me">Ja</string>
-  <string name="media_bad_removal">Kartica SD uklonjena je prije isključivanja.</string>
-  <string name="media_checking">Memorija USB trenutačno se provjerava.</string>
-  <string name="media_removed">Kartica SD uklonjena je.</string>
+  <string name="media_bad_removal">SD Kartica uklonjena je prije isključivanja.</string>
+  <string name="media_checking">USB Memorija se trenutačno provjerava.</string>
+  <string name="media_removed">SD Kartica je uklonjena.</string>
   <string name="media_route_button_content_description">Medijski izlaz</string>
   <string name="media_route_chooser_extended_settings">Postavke</string>
   <string name="media_route_chooser_searching">Traženje uređaja…</string>
@@ -1605,7 +1605,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="storage_internal">Interna pohrana</string>
   <string name="storage_phone">Prostor za pohranu telefona</string>
   <string name="storage_sd_card">SD kartica</string>
-  <string name="storage_sd_card_label">%s SD card</string>
+  <string name="storage_sd_card_label">%s SD kartica</string>
   <string name="storage_uicc">UICC pohrana</string>
   <string name="storage_usb">USB pohrana</string>
   <string name="storage_usb_drive">USB pogon</string>
@@ -1700,7 +1700,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="vpn_title">VPN aktiviran</string>
   <string name="vpn_title_long">Aplikacija %s aktivirala je VPN</string>
   <string name="wait">Pričekaj</string>
-  <string name="wallpaper_binding_label">Pozadinska slika</string>
+  <string name="wallpaper_binding_label">Slika pozadine</string>
   <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
   <string name="web_user_agent_target_content">"Mobilno "</string>
   <string name="webpage_unresponsive">"Stranica ne reagira.

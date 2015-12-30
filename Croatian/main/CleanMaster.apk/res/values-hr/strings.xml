@@ -171,8 +171,8 @@
   <string name="hints_latest_garbage_cleanup_today">Zadnje čišćenje: Danas</string>
   <string name="hints_latest_garbage_cleanup_yesterday">Zadnje čišćenje: Jučer</string>
   <string name="hints_list_item_clean">Očisti</string>
-  <string name="hints_list_item_keep">Čuvaj</string>
-  <string name="hints_list_item_lock">Čuvaj</string>
+  <string name="hints_list_item_keep">Zadrži</string>
+  <string name="hints_list_item_lock">Zadrži</string>
   <string name="hints_list_item_unlock">Očisti</string>
   <string name="hints_loading_text">Učitavanje…</string>
   <string name="hints_memory_header_left">Memorija</string>

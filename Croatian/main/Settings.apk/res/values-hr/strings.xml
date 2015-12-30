@@ -96,7 +96,7 @@
   <string name="add_fingerprint_instruction_dialog_msg">"Da dodate svoj otisak prsta, stavite prst na senzor.Provjerite da li vaš prst pokriva unutarnji rub senzora"</string>
   <string name="add_fingerprint_instruction_msg">Otključajte uređaj ili potvrdite plaćanje s vašim otiskom prsta</string>
   <string name="add_fingerprint_instruction_title">Postavite prst na skener otiska prsta</string>
-  <string name="add_fingerprint_move_finger_title">Odoberte prst</string>
+  <string name="add_fingerprint_move_finger_title">Maknite prst</string>
   <string name="add_fingerprint_put_finger_edge_msg">Nakon pritiska na senzor, maknite prst i ponovite.</string>
   <string name="add_fingerprint_put_finger_msg">Nakon pritiska na senzor, maknite prst i ponovite.</string>
   <string name="add_fingerprint_put_finger_title">Stavite i maknite prst</string>
