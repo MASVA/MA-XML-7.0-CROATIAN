@@ -8,11 +8,11 @@
   <string name="activation_page_btn_txt">Aktiviraj</string>
   <string name="activation_page_info">Prijavite se na vaš Mi Račun da aktivirate Osiguranu prijavu</string>
   <string name="add_account_menu_item">Dodaj račun</string>
-  <string name="app_name">MiAuth</string>
+  <string name="app_name">Xiaomi Authenticator</string>
   <string name="app_name_lockpattern">Uzorak zaključavanja</string>
-  <string name="app_name_short">MiAuth</string>
-  <string name="authenticator_invalid_tip">Možete zatvoriti aplikaciju ili generirati novi kod za provjeru</string>
-  <string name="authenticator_invalid_title">Račun: %1$s sigurnosni token je istekao.</string>
+  <string name="app_name_short">Authenticator</string>
+  <string name="authenticator_invalid_tip">Možda ste isključili ovu značajku koristeći vaš preglednik na radnoj površini ili aktivirali drugi Mi Sigurnosni Token.</string>
+  <string name="authenticator_invalid_title">Račun: %1$s Sigurnosni Token je istekao.</string>
   <string name="authenticator_page_reactivation">Ponovna aktivacija</string>
   <string name="button_add_account">Dodaj račun</string>
   <string name="button_add_account_manual_entry">Ručno dodaj račun</string>
@@ -27,12 +27,12 @@
   <string name="check_code">Da biste provjerili je li ispravna vrijednost ključa za %1$s potvrdite da vrijednost ovdje odgovara vrijednosti provjere cjelovitosti dobivene od poslužitelja:&lt;br/&gt;</string>
   <string name="check_code_menu_item">Provjerite vrijednost ključa</string>
   <string name="check_code_title">Vrijednost provjere cjelovitosti</string>
-  <string name="continue_btn">Dalje</string>
+  <string name="continue_btn">Nastavi</string>
   <string name="copy_to_clipboard">Kopiraj u međuspremnik</string>
   <string name="correct_enter_password">Zaporka koju ste unijeli je ispravna</string>
   <string name="correct_enter_update_password">Zaporka koju ste unijeli je ispravna</string>
   <string name="counter_pin">Nabavite kod</string>
-  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Vaš podaci su uspješno uvezeni iz zastarjele MiAuth aplikacije. Sada je sigurno deinstalirati prethodnu verziju aplikacije klikom u nastavku.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Vaš podaci su uspješno uvezeni iz zastarjele Authenticator aplikacije. Sada je sigurno deinstalirati prethodnu verziju aplikacije klikom u nastavku.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Uvoz uspješan</string>
   <string name="decoding_exception">Iznimka dekodiranja</string>
   <string name="details_patternforgotten">"Ponovna aktivacija:
@@ -70,7 +70,7 @@ Prijavite se na account.xiaomi.com, i kliknite na Aktiviraj ponovno"</string>
   <string name="lockpassword_confirm_your_pattern_header">Potvrdite uzorak</string>
   <string name="lockpassword_input_your_pattern_header">Potvrdite uzorak</string>
   <string name="lockpattern_confirm_button_text">Potvrdite</string>
-  <string name="lockpattern_continue_button_text">Dalje</string>
+  <string name="lockpattern_continue_button_text">Nastavi</string>
   <string name="lockpattern_need_to_confirm">Iscrtajte uzorak ponovno za potvrdu</string>
   <string name="lockpattern_need_to_confirm_wrong">Ne podudara se s prethodnim unosom, unesite ponovno:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
@@ -104,9 +104,9 @@ Prijavite se na account.xiaomi.com, i kliknite na Aktiviraj ponovno"</string>
   <string name="original_pattern_tip">Unesite uzorak otključavanja</string>
   <string name="password_error">Zaporka koju ste unijeli nije točna</string>
   <string name="password_forget">Zaboravljena zaporka?</string>
-  <string name="password_hint">Unesite zaporku za Mi Račun</string>
+  <string name="password_hint">Unesite zaporku Mi Računa</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
-  <string name="privacy_preference_title">Izjava o privatnosti</string>
+  <string name="privacy_preference_title">Pravila o privatnosti</string>
   <string name="progress_loading">Učitavanje…</string>
   <string name="remove_Xiaomi_account_dialog_message">Uklanjanjem ovog računa će &lt;b&gt;se maknuti mogućnost&lt;/b&gt; generiranja kodova, međutim, to će &lt;b&gt;not&lt;/b&gt; isključiti provjeru u 2 koraka. To vas može spriječiti da se prijavite na svoj ​​račun. &lt;p&gt; Prije uklanjanja: &lt;ul&gt; &lt;li&gt;Isključite provjeru u 2 koraka za taj račun ili si&lt;/li&gt; &lt;li&gt;Osigurajte si alternativni mehanizam za generiranje kodova.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account">Ukloni račun</string>
@@ -129,13 +129,13 @@ Prije uklanjanja:
   <string name="success_copy_to_clipboard">Kopirano u međuspremnik</string>
   <string name="success_reset_password">Zaporka je uspješno resetirana</string>
   <string name="success_set_password">Zaporka napravljena</string>
-  <string name="summary_lockpattern">Potreban jedinstveni uzorak zaključavanja za MiKredite</string>
+  <string name="summary_lockpattern">Potreban jedinstveni uzorak zaključavanja za Mi Kredite</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Uvjeti pružanja usluge</string>
   <string name="timesync_about_feature_preference_title">O ovoj značajki</string>
-  <string name="timesync_about_feature_screen_details">"Ako kliknete &amp;quot;Sinkroniziraj sad&amp;quot;, MiAuth će jednom pokušati sinkronizirati svoj ​​unutarnji sat s Googleovim poslužiteljima. Postavke datuma i vremena uređaja neće se mijenjati. &lt;p&gt; MiAuth neće davati nikakve osobne podatke i podatke o računu tijekom same sinkronizacije svog internog sata s Googleovim poslužiteljima. &lt;p&gt; &lt;b&gt;Zašto je to korisno&lt;/b&gt; &lt;p&gt; MiAuth-a generira provjeru kodova u 2 koraka na temelju 1) trenutnog vremena, i 2) tajnog broja poznatog aplikaciji i poslužitelju. &lt;p&gt; Ako se MiAuth-a i poslužitelj ne slože o točnom vremenu, kodovi koje aplikacija generira ne mogu se prihvatiti kod pokušaja prijave. &lt;p&gt; Po zadanome, MiAuth-a koristi postavke datuma i vremena uređaja, a u većini slučajeva ćete biti u mogućnosti generirati valjane kodove tako da se osigura i ispravno konfigurira vaše vrijeme, datum i vremenska zona . Međutim, kada se vremena neusklađenosti javljaju, one se teško mogu otkloniti (pogotovo ako koristite vrijeme pruženo od mreže ili vremenske zone)."</string>
+  <string name="timesync_about_feature_screen_details">"Ako kliknete &amp;quot;Sinkroniziraj sada&amp;quot;, Authenticator će jednom pokušati sinkronizirati svoj ​​unutarnji sat s Googleovim poslužiteljima. Postavke datuma i vremena uređaja neće se mijenjati. &lt;p&gt; Authenticator neće davati nikakve osobne podatke i podatke o računu tijekom same sinkronizacije svog internog sata s Googleovim poslužiteljima. &lt;p&gt; &lt;b&gt;Zašto je to korisno&lt;/b&gt; &lt;p&gt; Authenticator generira provjeru kodova u 2 koraka na temelju 1) trenutnog vremena, i 2) tajnog broja poznatog aplikaciji i poslužitelju. &lt;p&gt; Ako se Authenticator i poslužitelj ne slože o točnom vremenu, kodovi koje aplikacija generira ne mogu se prihvatiti kod pokušaja prijave. &lt;p&gt; Po zadanome, Authenticator koristi postavke datuma i vremena uređaja, a u većini slučajeva ćete biti u mogućnosti generirati valjane kodove tako da se osigura i ispravno konfigurira vaše vrijeme, datum i vremenska zona . Međutim, kada se vremena neusklađenosti javljaju, one se teško mogu otkloniti (pogotovo ako koristite vrijeme pruženo od mreže ili vremenske zone)."</string>
   <string name="timesync_about_feature_screen_title">O ovoj značajki</string>
-  <string name="timesync_preference_screen_summary">"Sinkronizacija internog sata MiAuth-a s poslužiteljima"</string>
+  <string name="timesync_preference_screen_summary">"Sinkronizacija internog sata Authenticatora s poslužiteljima"</string>
   <string name="timesync_preference_screen_title">Korekcija vremena za kodove</string>
   <string name="timesync_sync_now_connectivity_error_dialog_details">"Postoji problem tijekom spajanja na poslužitelj. Molimo provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="timesync_sync_now_connectivity_error_dialog_title">Sinkr. sada</string>
@@ -143,9 +143,9 @@ Prije uklanjanja:
   <string name="timesync_sync_now_progress_dialog_details">Povezivanje na poslužitelj…</string>
   <string name="timesync_sync_now_progress_dialog_title">Sinkr. sada</string>
   <string name="timesync_sync_now_screen_title">Sinkr. sada</string>
-  <string name="timesync_sync_now_time_already_correct_dialog_details">"Interni sat MiAuth-a nije podešen jer izgleda da je već sinkroniziran s poslužiteljima."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"Interni sat Authenticatora nije podešen jer izgleda da je već sinkroniziran s poslužiteljima."</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Vrijeme već ispravljeno</string>
-  <string name="timesync_sync_now_time_corrected_dialog_details">"Interni sat MiAuth-a je podešen tako da odgovara vremenu koje pruža poslužitelj.
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Interni sat Authenticatora je podešen tako da odgovara vremenu koje pruža poslužitelj.
 
 Postavke datuma i vremena na ovom uređaju nisu promjenjeni."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Vrijeme ispravljeno</string>
@@ -162,14 +162,14 @@ Postavke datuma i vremena na ovom uređaju nisu promjenjeni."</string>
   <string name="title_nopassword_dialog">Dnevni limit</string>
   <string name="title_password">Zaporka</string>
   <string name="title_password_threshold">Dnevni limit = ￥%1$s</string>
-  <string name="title_patternforgotten">"Zaboravili ste uzorak?
+  <string name="title_patternforgotten">"Zaboravili ste zaporku?
 Možete: "</string>
   <string name="title_updatepattern">Promijeniti zaporku</string>
   <string name="title_visible_pattern">Učiniti uzorak vidljivim</string>
   <string name="type_prompt">Vrsta ključa</string>
   <string name="update_pattern_jump">&lt;u&gt;Ukloni zaporku&lt;/u&gt;</string>
   <string name="version_preference_title">Verzija</string>
-  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Ako izbrišete vaš Mi Security Token, nećete biti u mogućnosti prijaviti se na svoj račun."</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Ako izbrišete vaš Mi Sigurnosni Token, nećete biti u mogućnosti prijaviti se na svoj račun."</string>
   <string name="welcome_page_details">"— Držite svoj račun sigurnim.
 — Spriječite neželjene goste od korištenja vašeg uređaja za prijavu na vaš račun."</string>
   <string name="welcome_page_title">Koristi za Osiguranu prijavu</string>

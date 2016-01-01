@@ -189,7 +189,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="sogou_uninstall_title">Kompatibilnost tipkovnice</string>
   <string name="space_not_enough_msg">"Vaš uređaj je previše pun za preuzimanje ovog ažuriranja. Očistite prostor za pohranu na uređaju i pokušajte ponovno."</string>
   <string name="space_not_enough_title">Nema dovoljno prostora za pohranu</string>
-  <string name="stable_build">Stabilno</string>
+  <string name="stable_build">Stabilna</string>
   <string name="submit">Pošalji</string>
   <string name="submit_fail">"Ne mogu poslati"</string>
   <string name="submit_progress">Slanje…</string>

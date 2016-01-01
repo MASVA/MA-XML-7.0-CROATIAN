@@ -3111,7 +3111,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="ssl_ca_cert_settings_button">Provjeri pouzdane vjerodajnice</string>
   <string name="ssl_ca_cert_warning">Mreža se možda nadzire</string>
   <string name="ssl_ca_cert_warning_message">"Treća je strana u mogućnosti pratiti vašu mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</string>
-  <string name="stable_build">" | Stabilno"</string>
+  <string name="stable_build">" | Stabilna"</string>
   <string name="starting_android">Pokretanje Androida</string>
   <string name="status_awaiting_tap">Dodirnite oznaku da zapišete podatke…</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
