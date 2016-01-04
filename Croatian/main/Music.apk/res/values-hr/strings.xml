@@ -82,6 +82,7 @@
   <string name="create_playlist">Izradi novi popis pjesama</string>
   <string name="create_playlist_failure">"Ne mogu izraditi popis pjesama"</string>
   <string name="current_services">Trenutno</string>
+  <string name="current_version">Trenutna verzija</string>
   <string name="data_usage_warning">Uporaba podataka</string>
   <string name="data_usage_warning_summary">Korištenje vaše mobilne podatkovne veze za streaming visoko kvalitetne glazbe može povećati troškove uporabe podataka.</string>
   <string name="delete">Izbriši</string>
@@ -293,6 +294,8 @@
   <string name="music_filter">Filtriraj audio datoteke</string>
   <string name="music_quality">Kvaliteta glazbe</string>
   <string name="music_settings">Glazba</string>
+  <string name="music_traffic">Podatkovni plan za glazbu</string>
+  <string name="music_traffic_summary">Slušajte i preuzmite pjesme bez korištenja podataka</string>
   <string name="my_account">Mi Račun</string>
   <string name="my_music">Moja glazba</string>
   <string name="my_music_empty_goto_online">Nema pronađenih pjesama</string>
@@ -326,6 +329,12 @@
   <string name="normal_quality">Dobro</string>
   <string name="not_login">Niste prijavljeni</string>
   <string name="not_selected">Odaberi pjesmu</string>
+  <string name="notification_des_next_song">Sljedeća pjesma: %s</string>
+  <string name="notification_des_no_song">Mi Glazba. Svakodnevno nova glazba.</string>
+  <string name="notification_headset_custom">Odbaci</string>
+  <string name="notification_headset_info">Dodirnite za prikaz postavki.</string>
+  <string name="notification_headset_settings">Slušalice priključene</string>
+  <string name="notification_title_no_song">"Provjerite što drugi slušaju!"</string>
   <string name="nowplaying_menu_item_delete">Izbriši</string>
   <string name="ok">"U redu"</string>
   <string name="one_month">1 mmjesec</string>
@@ -398,6 +407,8 @@
   <string name="set_lyric_successful">Tekst je spremljen</string>
   <string name="set_ringtones_failed">Ne mogu postaviti zvuk zvona.</string>
   <string name="set_ringtones_successful">%s postavljen za zvuk zvona.</string>
+  <string name="settings_notification_text">Prikaži widget glazbe u panelu obavijesti</string>
+  <string name="settings_notification_title">Widget panela obavijesti</string>
   <string name="share_append_text">Od @MIUI</string>
   <string name="share_chooser_title">Dijeli putem</string>
   <string name="share_description">Od Mi Glazba</string>
@@ -448,13 +459,14 @@
   <string name="title_online_recommend">Istaknuti popisi pjesama</string>
   <string name="title_online_release">Novo</string>
   <string name="title_online_song">Popularne pjesme</string>
-  <string name="title_online_suggest">Moglo bi vas se svidjeti</string>
+  <string name="title_online_suggest">Moglo bi vam se svidjeti</string>
   <string name="title_search_history">Povijest pretraživanja</string>
   <string name="title_search_hot">Popularno</string>
   <string name="to_mi_pay">Mi Krediti</string>
   <string name="toast_cancel_download">Preuzimanje otkazano</string>
   <string name="toast_download_error_by_count_limit">"Dosegli ste ograničenje vaših preuzimanja za ovaj mjesec."</string>
   <string name="toast_download_error_by_vip_required">Nabavite Premium pretplatu da preuzmete ovu pjesmu.</string>
+  <string name="toast_download_in_process">Preuzimanje u tijeku</string>
   <string name="toast_normal_songs_for_download">Kvaliteta preuzimanja je postavljena na standardno</string>
   <string name="toast_normal_songs_for_stream">Kvaliteta streaminga je postavljena na standardno</string>
   <string name="toast_stream_normal">Reproducira se u standarnoj kvaliteti. Nabavite Premium pretplatu da slušate u visokoj kvaliteti zvuka.</string>
@@ -473,6 +485,7 @@
   <string name="track_main_fragment_tab_track">Pjesme</string>
   <string name="track_search_title">Pjesma</string>
   <string name="track_view">Pjesma</string>
+  <string name="traffic_free_to_play">Koristi podatkovni plan za glazbu</string>
   <string name="trigger_to_scan_media_library_finish">Osvježeno</string>
   <string name="trigger_to_scan_media_library_processing">Još traje osvježavanje…</string>
   <string name="trigger_to_scan_media_library_start">Osvježavanje…</string>
@@ -491,6 +504,7 @@
   <string name="upgrade_vip">Nadogradi Premium</string>
   <string name="upgrade_waringing">"Moći ćete samo slušati glazbu pohranjenu na vašem uređaju."</string>
   <string name="valid_period">"Vrijedi do: "</string>
+  <string name="version_info">Verzija</string>
   <string name="vip_auto_renew_message">Vaša pretplata će biti obnovljena automatski večeras. Pobrinite se da imate dovoljno Mi Kredita na računu za dovršetak ovog plaćanja.</string>
   <string name="vip_auto_renew_notification_message">Dodajte Mi Kredite da obnovite vašu glazbenu pretplatu.</string>
   <string name="vip_auto_renew_notification_title">Plaćanje pretplate</string>
