@@ -621,7 +621,7 @@ Provedeni pokušaj: %s."</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Pošalji za %ds</string>
   <string name="wild_msg_processing">Obrada…</string>
-  <string name="wild_msg_title">Omoguči cloud sinkr.</string>
+  <string name="wild_msg_title">Odaberite broj telefona za sinkr.</string>
   <string name="xiaomi_service_number">Broj usluge</string>
   <string name="yellowpage_recommend_msg">"Isprobajte značajke MIUI SMS poruke"</string>
   <string name="yes">U redu</string>

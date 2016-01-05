@@ -98,6 +98,7 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_external_sd_check_summary">Ovaj test će provjeriti status SD kartice</string>
   <string name="cit_external_sd_check_title">Testiranje SD kartice</string>
   <string name="cit_fail">Nije uspjelo</string>
+  <string name="cit_finger_check_title">Test otiska prsta (FPC)</string>
   <string name="cit_fm_audio_path">Postavljanje putanje zvuka</string>
   <string name="cit_fm_audio_path_headset">Slušalice</string>
   <string name="cit_fm_audio_path_speaker">Zvučnici</string>
@@ -108,7 +109,11 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_fm_open_1">Start FM - 88.5</string>
   <string name="cit_fm_open_2">Start FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Otvaranje Bluetootha…</string>
-  <string name="cit_fm_start_service">Start zvuka</string>
+  <string name="cit_fm_start_service">Pokreni zvuk</string>
+  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="cit_fpc_selftest">SELF-TEST</string>
+  <string name="cit_fpc_sensor_check_summary">Test FPC senzora, pritisnete tipku i odgovarajući tekst na zaslonu bi trebao postati zelene boje.</string>
+  <string name="cit_fpc_sensor_check_title">FPC senzor otiska prsta</string>
   <string name="cit_front_camera_check_summary">"Upute za testiranje:
 
 1. Kliknite tipku kamere za otvaranje fotoaparata

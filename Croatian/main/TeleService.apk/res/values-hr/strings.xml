@@ -662,6 +662,7 @@ Super cheap international calls over the Internet"</string>
   <string name="load_networks_progress">Pretraživanje…</string>
   <string name="load_rates_failed">"Ne mogu učitati"</string>
   <string name="loading">Samo trenutak…</string>
+  <string name="loading_order">Samo trenutak…</string>
   <string name="loading_product">Samo trenutak…</string>
   <string name="loading_recent_failed">"Ne mogu učitati."</string>
   <string name="local_disable">Lokalne vijesti su isključene</string>

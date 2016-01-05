@@ -115,6 +115,7 @@
   <string name="dismiss_all_label">Odbaci sve</string>
   <string name="do_not_check">NE provjeravaj -&gt;</string>
   <string name="does_not_repeat">Jednokratni događaj</string>
+  <string name="download">Preuzmi</string>
   <string name="done">Dalje</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>
   <string name="edit_event_calendar_label">Kalendar</string>
@@ -308,6 +309,7 @@
   <string name="select_synced_calendars_button">Kalendari za sinkronizaciju</string>
   <string name="select_synced_calendars_title">Kalendari za sinkronizaciju</string>
   <string name="select_visible_calendars_title">Kalendari za prikaz</string>
+  <string name="set_as_wallpaper">Postavi za sliku pozadine</string>
   <string name="setting_wifi_mode">Sinkr. samo preko WLAN-a</string>
   <string name="show_controls">Pokaži kontrole</string>
   <string name="show_day_view">Pokaži dan</string>
