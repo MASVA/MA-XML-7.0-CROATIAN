@@ -1602,7 +1602,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="storage_external_usb">Vanjski USB prostor za pohranu</string>
   <string name="storage_ic_usb1">Vanjska IC-USB pohrana1</string>
   <string name="storage_ic_usb2">Vanjska IC-USB pohrana2</string>
-  <string name="storage_internal">Interna pohrana</string>
+  <string name="storage_internal">Unutarnja pohrana</string>
   <string name="storage_phone">Prostor za pohranu telefona</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_sd_card_label">%s SD kartica</string>

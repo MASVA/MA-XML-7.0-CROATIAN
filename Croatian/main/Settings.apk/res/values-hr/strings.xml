@@ -1357,10 +1357,10 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_enroll_button_next">Dalje</string>
   <string name="fingerprint_identificating_msg">Skeniranje otiska prsta…</string>
   <string name="fingerprint_identify_input_password_msg">Unesite zaporku</string>
-  <string name="fingerprint_identify_msg">Scanning fingerprint…</string>
+  <string name="fingerprint_identify_msg">Skeniranje otiska prsta…</string>
   <string name="fingerprint_identify_try_again_msg">"Nije moguće skenirati, pokušajte ponovo"</string>
   <string name="fingerprint_last_delete_confirm">Da, ukloni</string>
-  <string name="fingerprint_last_delete_message">Nećete moći upotrebljavati otiske prstiju za otključavanje telefona, autorizaciju kupnji ili prijavljivanje na aplikacije.</string>
+  <string name="fingerprint_last_delete_message">Nećete moći upotrebljavati otiske prstiju za otključavanje telefona, autorizaciju kupovina ili prijavljivanje na aplikacije.</string>
   <string name="fingerprint_last_delete_title">Želite ukloniti sve otiske prstiju?</string>
   <string name="fingerprint_list_title">Otisak prsta</string>
   <string name="fingerprint_manage_category_title">Otisci prstiju</string>
@@ -1533,7 +1533,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Skriveni SSID:</string>
   <string name="high_performance_notif_summary">"Uređaj se može jače zagrijati tijekom dužeg korištenja."</string>
-  <string name="high_performance_notif_title">Način Performasnse je uključen</string>
+  <string name="high_performance_notif_title">Način Performanse je uključen</string>
   <string name="high_performance_title">"Izgleda kao da provodite benchmark testiranje. Postavite upravljanje napajanjem na \"Performanse\" za bolje rezultate."</string>
   <string name="high_power_apps">Optimizacija baterije</string>
   <string name="high_power_desc">Ne primjenjuje se optimizacija baterije. Baterija će se možda brže isprazniti.</string>
@@ -1604,7 +1604,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="internal_media_format_title">Izbriši unutarnju pohranu</string>
   <string name="internal_memory">Unutarnja pohrana</string>
   <string name="internal_storage">Unutarnja pohrana</string>
-  <string name="internal_storage_sentence">interna pohrana</string>
+  <string name="internal_storage_sentence">unutarnja pohrana</string>
   <string name="invalid_location">Lokacija instalacije nije važeća.</string>
   <string name="invalid_size_value">Nije moguće izračunati veličinu paketa.</string>
   <string name="ipaddr_label">IPaddr:</string>
@@ -1784,7 +1784,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="location_title">Moja lokacija</string>
   <string name="lock_after_timeout">Automatsko zaključavanje</string>
   <string name="lock_after_timeout_summary">%1$s nakon mirovanja</string>
-  <string name="lock_after_timeout_summary_with_exception">%1$s nakon mirovanja, osim kad ga %2$s drži oključanim</string>
+  <string name="lock_after_timeout_summary_with_exception">%1$s nakon mirovanja, osim kada ga %2$s drži otključanim</string>
   <string name="lock_immediately_summary_with_exception">Odmah nakon mirovanja, osim kada ga %1$s drži otključanim</string>
   <string name="lock_intro_message">"Možete zaštititi svoj telefon od neovlaštene uporabe s osobnom gestom za otključavanje zaslona. Povežite na sljedećem zaslonu prstom u bilo kojem redoslijedu. Povežite najmanje četiri točke. Kada ste spremni za početak, dodirnite Dalje."</string>
   <string name="lock_screen_notifications_interstitial_message">Kada je uređaj zaključan, kako želite da se obavijesti prikazuju?</string>
@@ -3272,7 +3272,7 @@ Ure&amp;#273;aj ^1 formatiran je tako da funkcionira samo na ovom ure&amp;#273;a
   <string name="storage_summary_format">%2$s, iskorišteno %1$s</string>
   <string name="storage_title_usb">Povezivanje USB-a i računala</string>
   <string name="storage_type_external">Vanjska pohrana</string>
-  <string name="storage_type_internal">Interna pohrana</string>
+  <string name="storage_type_internal">Unutarnja pohrana</string>
   <string name="storage_uicc">UICC pohrana</string>
   <string name="storage_unmount_failure">Sigurno izbacivanje nije uspjelo: %1$s</string>
   <string name="storage_unmount_success">Sigurno izbacivanje uspjelo: %1$s</string>

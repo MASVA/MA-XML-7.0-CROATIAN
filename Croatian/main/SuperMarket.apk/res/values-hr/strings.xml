@@ -69,7 +69,7 @@
   <string name="completed">Završeno</string>
   <string name="confirm">U redu</string>
   <string name="connect_fail">Neuspjelo preuzimanje: Izgubljena mrežna veza</string>
-  <string name="connect_no_enough_space">"Interna memorija telefona je previše puna"</string>
+  <string name="connect_no_enough_space">"Unutarnja memorija telefona je previše puna"</string>
   <string name="connect_no_enough_space_message">"Memorija vašeg telefona je previše puna."</string>
   <string name="connect_no_fit_fail">Preuzimanje nije potpuno. Nema dostupnog instalacijskog paketa za vaš uređaj.</string>
   <string name="connecting">Povezivanje…</string>
