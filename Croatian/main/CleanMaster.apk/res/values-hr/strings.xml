@@ -5,6 +5,7 @@
   <string name="activity_title_brightness_image">Ispod i preeksponirano</string>
   <string name="activity_title_cache">Predmemorija</string>
   <string name="activity_title_cache_data">Podaci aplik.</string>
+  <string name="activity_title_deep_apk">Izbriši aplik.</string>
   <string name="activity_title_deep_clean">Temeljito čišćenje</string>
   <string name="activity_title_garbage_cleanup">Čistač</string>
   <string name="activity_title_ignored_image">Ignorirano</string>
@@ -20,6 +21,7 @@
   <string name="activity_title_similar_image_group">Izbriši duplikate</string>
   <string name="activity_title_tedious_image">Slučajne fotografije</string>
   <string name="activity_title_uninstall_apps">Aplikacije</string>
+  <string name="activity_title_video">Izbriši videozapise</string>
   <string name="activity_title_white_list">Iznimke</string>
   <string name="apk_status_damage">Oštećeno</string>
   <string name="apk_status_duplicate">Duplikati</string>
@@ -83,7 +85,10 @@
   <string name="close">Zatvori</string>
   <string name="confirm_auto_cleaner">U redu</string>
   <string name="conn_of_function_safe">Mrežno povezivanje za sigurnost</string>
-  <string name="connecting">Povezivanje</string>
+  <string name="connecting">Povezivanje…</string>
+  <string name="deepclean_apk_content">Izbriši aplik. ili nepotrebne aplikacije</string>
+  <string name="deepclean_apk_summary_empty">Sve izgleda dobro, nema aplikacija za brisanje</string>
+  <string name="deepclean_apk_version_error">Nepoznato</string>
   <string name="deepclean_app_content">Deinstaliraj aplikacije koje nisu korištene 30 dana</string>
   <string name="deepclean_app_summary_empty">Sve izgleda dobro, nema aplikacija za brisanje</string>
   <string name="deepclean_cache_content">Izbriši podatke generirane od strane aplikacija</string>
@@ -104,6 +109,8 @@
   <string name="deepclean_size_summary_normal">Dostupan prostor za pohranu</string>
   <string name="deepclean_title_large_file">Izbriši velike datoteke</string>
   <string name="deepclean_title_uninstall_apps">Rijetko korištene aplikacije</string>
+  <string name="deepclean_video_content">Izbriši već pregledane ili nepotrebne videozapise</string>
+  <string name="deepclean_video_summary_empty">Sve izgleda dobro</string>
   <string name="default_cache_type">Podaci datoteka</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Izbriši i fotografije s Mi Clouda</string>
   <string name="dialog_content_delete_image_confirm">Izbrisati (%d) fotografija?</string>
@@ -130,6 +137,7 @@
   <string name="empty_title_installed_apps">Prazno</string>
   <string name="empty_title_large_files">Prazno</string>
   <string name="empty_title_residual">Nema ostataka</string>
+  <string name="empty_title_video">Nema videozapisa za brisanje</string>
   <string name="flow_rank_title">Uporaba podataka</string>
   <string name="garbage_clean_detail">Detalji</string>
   <string name="garbage_cleanup_detail">%1$d puta, očišćeno %2$s</string>
@@ -146,6 +154,8 @@
   <string name="hints_apk_version">Verzija %s</string>
   <string name="hints_app_uninstall_residual">Očistiti ostatke deinstaliranih datoteka?</string>
   <string name="hints_cache_header_left">Predmemorija</string>
+  <string name="hints_cache_msd_desc">"Brisanje delta ažuriranja neće utjecati na korištenje aplikacije"</string>
+  <string name="hints_cache_msd_title">Delta ažuriranje</string>
   <string name="hints_cleanfinish">Čišćenje je završeno</string>
   <string name="hints_deepclean_list_item_from">Od %s</string>
   <string name="hints_deepclean_scanning">Skeniranje %s</string>
@@ -164,6 +174,9 @@
   <string name="hints_install_apps_risk">riskantno</string>
   <string name="hints_install_apps_today">Korišteno danas</string>
   <string name="hints_install_apps_virus">otkriven virus</string>
+  <string name="hints_installed_app_fewer">Rijetko korišteno</string>
+  <string name="hints_installed_app_near">Nedavno korišteno</string>
+  <string name="hints_installed_app_never">Nikad korišteno</string>
   <string name="hints_installed_apps_header_left">Instalirane apl.: %d</string>
   <string name="hints_large_file_header_left">Vel. datoteke: %d</string>
   <string name="hints_latest_garbage_cleanup_date">Zadnje čišćenje: Prije %d dana</string>
@@ -192,6 +205,8 @@
   <string name="hints_storage_free_size">Ukupno %1$s, %2$s dostupno​</string>
   <string name="hints_storage_news">Novosti sigurnosti</string>
   <string name="hints_title_garbage">smeća</string>
+  <string name="hints_video_camera">Snimljeni videozapisi</string>
+  <string name="hints_video_download">Preuzeti videozapisi</string>
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danas</string>
   <string name="installed">Instalirano</string>
@@ -295,8 +310,10 @@
   <string name="sponsored">Sponzorirano</string>
   <string name="start_install">Instaliraj sada</string>
   <string name="summary_auto_cleaner">Čistiti automatski vaš sustav svaka 3 dana?</string>
-  <string name="summary_delete_cache">"Svi podaci ove aplikacije će biti trajno izbrisani (uključujući sve datoteke, postavke i račune)."</string>
-  <string name="summary_delete_large_file">"Neke velike datoteke mogu biti korisne ako nemate internetsku vezu (npr karte, rasporedi, itd). Pobrinite se da ne trebate ovu datoteku."</string>
+  <string name="summary_delete_apk">Trajno izbrisati odabrane aplikacije?</string>
+  <string name="summary_delete_cache">Očistiti predmemoriju odabranih aplikacija?</string>
+  <string name="summary_delete_large_file">Trajno izbrisati odabrane datoteke?</string>
+  <string name="summary_delete_video">&gt;Trajno izbrisati odabrane videozapise?</string>
   <string name="summary_optimizer">"Ova značajka učitava nazive nepoznatih datoteka da ažurira Cheetah Mobile online bazu podataka te zahtijeva ID vašeg uređaja."</string>
   <string name="text_optimizer">Učitaj nazive mapa</string>
   <string name="there_is_no">Sve izgleda dobro, vratiti se kasnije</string>
@@ -312,13 +329,14 @@
   <string name="tips_of_traffic_pack_threshold">"Kupite više podataka kada ste blizu svog mjesečnog ograničenja prometa"</string>
   <string name="tips_of_virus_scan">Skenirajte redovito svoj uređaj za virusima da ga zadržite sigurnim</string>
   <string name="title_auto_cleaner">Automatski očistiti?</string>
-  <string name="title_delete_cache">Izbrisati podatke predmemorije?</string>
+  <string name="title_delete_cache">Očisti predmemoriju aplik.</string>
   <string name="title_delete_clipboard">Sadržaj međuspremnika</string>
-  <string name="title_delete_large_file">Izbrisati ove datoteke?</string>
+  <string name="title_delete_deepclean">Izbriši</string>
+  <string name="title_delete_large_file">Izbriši velike datoteke</string>
   <string name="title_of_auto_launch_manage">Autostart</string>
   <string name="title_of_cloud_service">Cloud usluge</string>
   <string name="title_of_garbage_cloud_scan">Cloud skeniranje</string>
-  <string name="title_of_garbage_data_set">Ažuriranja baze podtaka Čistača</string>
+  <string name="title_of_garbage_data_set">Ažuriranja baze podataka Čistača</string>
   <string name="title_of_network_speed_set">Prikaži brzine mrežu u statusnoj traci</string>
   <string name="title_of_operators_set">Postavke operatera</string>
   <string name="title_of_package_set">Postavke plana podataka</string>
@@ -352,7 +370,7 @@
   <string name="white_list_ad_header">Reklama: %d</string>
   <string name="white_list_apk_header">Instal. aplik.: %d</string>
   <string name="white_list_cache_header">Predmorija: %d</string>
-  <string name="white_list_large_file_header">Vel.datoteka: %d</string>
+  <string name="white_list_large_file_header">Vel.datoteka i videozapisa: %d</string>
   <string name="white_list_residual_header">Ostataka: %d</string>
   <string name="white_list_title">Iznimke</string>
   <string name="year_month_day_format">dd.MMM.yyyy</string>

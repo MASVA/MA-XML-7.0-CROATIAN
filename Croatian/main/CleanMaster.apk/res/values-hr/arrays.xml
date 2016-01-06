@@ -38,15 +38,20 @@
         <item>Očisti ovu datoteku</item>
         <item>"Prikaži lokaciju datoteke"</item>
         <item>Dodaj datoteku u iznimke</item>
-     </string-array>    
+     </string-array> 
+    <string-array name="video_clean_menu">
+        <item>Očisti ovu datoteku</item>
+        <item>Otvori</item>
+        <item>Dodaj datoteku u iznimke</item>
+     </string-array>	 
      <string-array name="empty_floder_clean_menu">
         <item>Očisti</item>
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Očisti</item>
+		<item>Instaliraj ovu aplik.</item>
         <item>"Prikaži lokaciju aplikacije"</item>
-        <item>Dodaj aplik. u iznimke</item>
-        <item>Instaliraj</item>
+        <item>Dodaj u iznimke</item>
     </string-array>
     <string-array name="auto_alert_apps_time">
         <item>Svakih 7 dana</item>
