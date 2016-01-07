@@ -750,6 +750,8 @@
   <string name="cloud_restore_section_summary">Vrati aplikacije, izgled početnog zaslona i postavke sustava</string>
   <string name="cloud_restore_section_title">Vrati iz Mi Clouda</string>
   <string name="close_dialog">U redu</string>
+  <string name="close_miui_optimization_title">Isključi MIUI optimizaciju</string>
+  <string name="close_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene. Napomena: isključivanje ove značajke će donijeti velike promjene u rasporedu i drugim elementima korisničkog sučelja.</string>
   <string name="cmcc_dm_settings_disable_summary">Onemogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_enable_summary">Omogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_title">Prijava uređaja</string>
@@ -2020,7 +2022,8 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_allow_music">dopusti glazbu</string>
   <string name="miui_allow_vibrate">dopusti vibraciju</string>
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
-  <string name="miui_disturb_title">omogući način Ne ometaj</string>
+  <string name="miui_disturb_title">Ne ometaj</string>
+  <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
   <string name="miui_screensaver_show_time_select_title">Postavi trajanje prezentacije</string>
   <string name="miui_screensaver_state_off">Isključeno</string>
@@ -2259,8 +2262,13 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="only_one_home_message">Postavke početnog zaslona bit će skrivene dok ne instalirate još jednu aplikaciju početnog zaslona.</string>
   <string name="only_when_charging">Samo kada je priključeno</string>
   <string name="onscreen_keyboard_settings_summary">Postavke zaslonske tipkovnice</string>
+  <string name="open_miui_optimization_title">Uključi MIUI optimizaciju</string>
+  <string name="open_miui_optimization_warning_message">Vaš uređaj će se ponovo pokrenuti radi primjene ove promjene</string>
   <string name="open_wifi_connect_summary">"Dotaknite za upravljanje"</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
+  <string name="optimization_cancel">Odustani</string>
+  <string name="optimization_close">Isključi &amp; ponovno pokreni</string>
+  <string name="optimization_open">Uključi</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Ovim radnim profilom upravlja:</string>
   <string name="other_advanced_settings">Dodatne postavke</string>
   <string name="other_personal_settings">Osobne postavke</string>
