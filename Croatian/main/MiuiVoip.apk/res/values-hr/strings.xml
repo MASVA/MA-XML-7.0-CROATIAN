@@ -23,6 +23,7 @@
   <string name="cancel_activation">Odustani</string>
   <string name="clear_digits">Izbriši broj telefona</string>
   <string name="confirm_activation">Aktiviraj</string>
+  <string name="create_voip_shortcut_success">Prečac napravljen</string>
   <string name="cur_activated_number_tag">%s (trenutni broj)</string>
   <string name="dialog_cancel">Odustani</string>
   <string name="dialog_positive">U redu</string>
@@ -48,6 +49,8 @@
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Za pregled ove informacije, 
 idite na %s"</string>
   <string name="loading">Samo trenutak…</string>
+  <string name="menu_create_contact_shortcut">Stavi na Početni zaslon</string>
+  <string name="missing_name">(Bez imena)</string>
   <string name="login">Prijava</string>
   <string name="marked_by_others">"%d drugi korisnici označili kao "</string>
   <string name="marked_by_user">"označili ste kao "</string>
@@ -73,6 +76,7 @@ idite na %s"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
   <string name="next">Dalje</string>
   <string name="no_sim_found">Nema otkrivene SIM kartice.</string>
+  <string name="no_voip_contacts">Nema VOIP kontakata</string>
   <string name="note_list_none">Lista je prazna</string>
   <string name="notification_activate_failed">"Ne mogu aktivirati Mi Voice"</string>
   <string name="notification_dialing">Biranje</string>
@@ -80,6 +84,7 @@ idite na %s"</string>
   <string name="notification_missedCallTicker">Propušten poziv od %s</string>
   <string name="notification_missedCallsMsg">%s propuštenih poziva</string>
   <string name="notification_missedCallsTitle">Propušteni pozivi</string>
+  <string name="other_contacts">Ostali kontakti</string>
   <string name="notification_ongoing_call">Odlazni poziv</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="phone_switch_tip">Prebaci na GSM</string>
@@ -105,6 +110,9 @@ idite na %s"</string>
   <string name="pref_users_list_title">Korisnici</string>
   <string name="process_leakcanary">:leakcanary</string>
   <string name="process_ui">:ui</string>
+  <string name="pull_to_refresh_pull_label">Povucite za osvježiti…</string>
+  <string name="pull_to_refresh_refreshing_label">Samo trenutak…</string>
+  <string name="pull_to_refresh_release_label">Otpustite za osvježiti…</string>
   <string name="show_dev_on">"Sada ste Mi Voice developer!"</string>
   <string name="show_nondev_on">"Niste još Mi Voice developer!"</string>
   <string name="sim_card_has_removed">"SIM kartica je uklonjena, VoIP poziv neće biti dostupan"</string>
@@ -116,6 +124,7 @@ idite na %s"</string>
   <string name="st_hint_add_head_number">Unesite predbroj</string>
   <string name="st_hint_add_phonenumber">Unesite tel. broj</string>
   <string name="st_show_num_number">" brojeva"</string>
+  <string name="starred_contacts">Favoriti</string>
   <string name="st_title_addblacklist">Dodaj na listu blokiranih</string>
   <string name="st_title_adress">Dodaj lokacije</string>
   <string name="st_title_adress_num">%d odabrano</string>
@@ -159,6 +168,7 @@ idite na %s"</string>
   <string name="voip_callee_offline">Osoba koju zovete je odsutna trenutno</string>
   <string name="voip_callee_offline_and_dial_phone">"Osoba koju zovete je izvan mreže.
 Prebaci na GSM za %1$d sek…"</string>
+  <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_calling_too_much">Prečesto pozivano, ponovno birajte kasnije</string>
   <string name="voip_communication_break">Prekid komunikacije</string>
   <string name="voip_connecting_break">Prekid veze</string>
@@ -171,6 +181,8 @@ Prebaci na GSM za %1$d sek…"</string>
   <string name="voip_gsm_online">"VoIP poziv nije moguće postaviti dok je GSM u upotrebi"</string>
   <string name="voip_hang_up_mic_failed">"Mikrofon nije dostupan, provjerite dopuštenja i uvjerite se da nije zauzet od strane druge aplikacije"</string>
   <string name="voip_incall">"Voip poziv se ne može uspostaviti dok je VoIP poziv u tijeku, nazovite poslije"</string>
+  <string name="voip_loading_contact">Samo trenutak…</string>
+  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_incoming_from_friend">Voip dolazni od %1$s</string>
   <string name="voip_network_not_online">Nema signala mreže</string>
   <string name="voip_network_operators">Vi ste na %1$sG mreži, dodatni troškovi vas slijede</string>
