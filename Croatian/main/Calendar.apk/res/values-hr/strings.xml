@@ -60,11 +60,11 @@
   <string name="birthday_event_description_tomorrow">Sutra</string>
   <string name="birthday_event_description_yesterday">Jučer</string>
   <string name="birthday_metric"/>
-  <string name="birthday_notice_message">Za pojedinosti o rođendanu potrebno je povezivanje na internet prije pregleda. Slažete li se?</string>
+  <string name="birthday_notice_message">Pojedinosti o rođendanu je potrebno povezivanje na internet prije pregleda. Slažete li se?</string>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_three_days_later">Za 3 dana ima %4$s (%3$s)!</string>
+  <string name="birthday_notification_text_days_later">Još ovoliko %1$s dana do %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">Ne zaboravite čestitati!</string>
-  <string name="birthday_notification_title_three_days_later">"Uskoro %1$s ima %2$s."</string>
+  <string name="birthday_notification_title_days_later">"Uskoro %1$s ima %2$s."</string>
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">rođendan</string>
