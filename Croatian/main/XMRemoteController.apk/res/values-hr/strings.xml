@@ -18,6 +18,7 @@
   <string name="add_device_remote">Dodaj %1$s daljinski</string>
   <string name="add_more">Dodaj još infracrvenih uređaja</string>
   <string name="add_new_control">Upari daljinski</string>
+  <string name="add_new_tv">Dodaj TV…</string>
   <string name="agree">U redu</string>
   <string name="airkan_disconnect">Nije upareno</string>
   <string name="airkan_disconnect_display_name">Nije upareno</string>
@@ -66,6 +67,7 @@
   <string name="by_position">Po lokaciji</string>
   <string name="camera_shoot">Okidač</string>
   <string name="cancel">Odustani</string>
+  <string name="cancel_share">Odustani od dijeljenja</string>
   <string name="carrier_data">Operator</string>
   <string name="channel">Kanal</string>
   <string name="channel_catogory_name">Kanali</string>
@@ -104,6 +106,7 @@
   <string name="delete_desc">Nećete biti u mogućnosti upravljati “%s” pomoću Mi Remote.</string>
   <string name="delete_device_frame">Izbrisati %1$s?</string>
   <string name="delete_frame">Izbrisati \"%1$s\" ?</string>
+  <string name="device_bluetoothi">Bluetooth daljinski</string>
   <string name="device_brand">Marka</string>
   <string name="device_model">Model</string>
   <string name="device_responsed">Uređaj je odgovorio</string>
@@ -171,6 +174,7 @@
   <string name="feedback_error_tips">Imate problema s korištenjem ovog daljinskog upravljača, dodirnite da prijavite problem</string>
   <string name="find_adb_frame">Otkriveno %1$d ADB uređaja</string>
   <string name="find_milink_frame">Otkriveno %1$d uređaja</string>
+  <string name="from_share">Od dijeljenja</string>
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">"Uređaj ne može prikazati vodoravnI zaslon kad je u načinu Igraći kontroler"</string>
   <string name="gesture_pad_first_line_tips">"Upotrijebite tipke za glasnoću na uređaju za podešavanje glasnoće zaslona."</string>
@@ -182,7 +186,7 @@
   <string name="guid_one">· Povežite se na istu Wi-Fi mrežu kao i ciljni uređaj.</string>
   <string name="guid_three">"· Neke kontrole možda neće biti dostupne ako vaš TV ili set-up box ne podržava Android."</string>
   <string name="guid_two">· Isključite AP Isolation routera</string>
-  <string name="guid_zero">". Vaš uređaj ne podržava infracrveno."</string>
+  <string name="guid_zero">". Vaš uređaj ne podržava infracrvene uređaje."</string>
   <string name="guide">Vodič</string>
   <string name="has_installed">Instalirano</string>
   <string name="history_none">"Niste gledali videozapise."</string>
@@ -233,6 +237,7 @@
   <string name="just_used">Upravo korišten</string>
   <string name="key_press_vibrate">Vibriraj kod dodira</string>
   <string name="last_use_frame">Zadnje korištenje prije %1$s dana</string>
+  <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Dnevna soba</string>
   <string name="loading_brand">Dobivanje informacija…</string>
   <string name="loading_brand_info">Učitavanje detalja o marci…</string>
@@ -357,6 +362,7 @@ pričekajte trenutak nakon radnje"</string>
   <string name="notification_str1">\"</string>
   <string name="notification_str2">\" će započeti za 30 min.</string>
   <string name="notification_title">Obavijesti Timera</string>
+  <string name="num_keys">Brojčane tipke</string>
   <string name="office">Ured</string>
   <string name="open">Uključi</string>
   <string name="open_close">Isključi</string>
@@ -505,6 +511,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="play_on_tv">Reproduciraj na TV</string>
   <string name="playing_time">播出时间</string>
   <string name="please_enter">"Polje ne može biti prazno"</string>
+  <string name="please_select_tv">Odaberite TV</string>
   <string name="pm_2.5">PM2.5:</string>
   <string name="power">Uklj./Isklj.</string>
   <string name="press_to_continue_match">Dodirnite za nastavak</string>
@@ -519,6 +526,9 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="push_add">Pronađen dijeljeni daljinski upravljač</string>
   <string name="push_add_desc">Upravljati sa %1$s pomoću ovog daljinskog?</string>
   <string name="rc">Upravljač</string>
+  <string name="rc_add_distance">%1$dm</string>
+  <string name="rc_add_distance_far">&gt;1000km</string>
+  <string name="rc_add_distance_km">%1$skm</string>
   <string name="rc_name">Upravljač</string>
   <string name="refreshing">Osvježavanje…</string>
   <string name="refreshing_no_point">Osvježavanje…</string>
@@ -562,6 +572,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="share">Podijeli</string>
   <string name="share_action_cancel">Odustani</string>
   <string name="share_action_confirm">Dijeli</string>
+  <string name="share_address_title">Informacije o mjestu（Opcija）</string>
   <string name="share_app_category">Kategorija:</string>
   <string name="share_app_downloads">Preuzeto:</string>
   <string name="share_comment_hint">Dodajte komentar…</string>
@@ -572,6 +583,9 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="share_content_type_app_to_sina_weibo">Aplikacija</string>
   <string name="share_content_type_other_to_sina_weibo">Ostalo</string>
   <string name="share_content_type_video_to_sina_weibo">Film</string>
+  <string name="share_device_name">Podijelite naziv daljinskog</string>
+  <string name="share_done">Uspješno podijeljeno</string>
+  <string name="share_fail">"Ne mogu podijeliti"</string>
   <string name="share_friends_cancel">Odustani</string>
   <string name="share_friends_confirm">U redu</string>
   <string name="share_friends_none_text">Bez prijatelja.</string>
@@ -579,10 +593,18 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="share_friends_search_hint_text">Traži</string>
   <string name="share_friends_title">Dijeli putem Mi Talk</string>
   <string name="share_from_others">Netko je podijelio uređaj s vama, dodirnite za dodavanje</string>
+  <string name="share_level_private">共享给连接到%1$s的用户</string>
+  <string name="share_level_public">共享给附近所有用户</string>
+  <string name="share_level_title">共享方式（必选）</string>
   <string name="share_media_actor">"Glumac: "</string>
   <string name="share_media_area">"Područje: "</string>
   <string name="share_media_director">"Redatelj: "</string>
   <string name="share_media_score">"Ocjena: "</string>
+  <string name="share_popup_desc">尝试用它们来遥控附近的电器吧</string>
+  <string name="share_popup_single_desc">尝试用它来遥控附近的%1$s吧</string>
+  <string name="share_popup_single_title">%1$s下有人分享了一个%2$s遥控器</string>
+  <string name="share_popup_title">%1$s下有人分享了新的遥控器</string>
+  <string name="share_rc_title">分享遥控器</string>
   <string name="share_switch">Podijeli daljinski</string>
   <string name="share_tips">Podijelite daljinski s osobom povezanom na istu WLAN mrežu</string>
   <string name="share_title_share_to">Podijeli s</string>
@@ -590,6 +612,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="share_title_to_mitalk_ellipsis">…</string>
   <string name="share_title_to_sina_weibo">Podijeli putem Sina Weibo</string>
   <string name="share_to_others">Podijeli</string>
+  <string name="sharerc_tips">分享后，附近的人也可以方便的添加和使用这个遥控器了</string>
   <string name="shortcut_pop_desc">Izgleda da vrlo često koristite Mi Remote. Napraviti prečac na Početnom zaslonu?</string>
   <string name="shortcut_pop_title">Prečac</string>
   <string name="similar">Povezano</string>
@@ -602,6 +625,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="start_match">Upari</string>
   <string name="stb">Set-top box</string>
   <string name="stb_detail_title_frame">%1$s - Br. %2$d</string>
+  <string name="stb_power">机顶盒开关</string>
   <string name="steps">Pokušaj #%d</string>
   <string name="stop_diagnosis">Stop</string>
   <string name="study_room">Učionica</string>
@@ -622,9 +646,11 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="to_qq_subtext">QQ grupa: 259685862</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
+  <string name="tv">电视</string>
   <string name="tv_broadcast">TV</string>
   <string name="tv_mirror">Prikaži kontrole</string>
   <string name="tv_mirror_intro">Prikaži kontrole u vodoravnom položaju</string>
+  <string name="tv_power">电视开关</string>
   <string name="unknown">Nepoznato</string>
   <string name="unkown_device_input_hint">Unesite svoj model uređaja</string>
   <string name="unkown_device_main">"Mi Remote nema informacija za uparivanje s ovim uređajem."</string>
@@ -640,7 +666,9 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="upgrade_now">Ažuriraj</string>
   <string name="upgrade_title_frame">%1s</string>
   <string name="upgrading">Ažuriranje…</string>
-  <string name="vendor_kookong"/>
+  <string name="use_tv_power_key">"使用%1$s开关键
+如需更改，请长按电视开关键"</string>
+  <string name="vendor_kookong">Kookong</string>
   <string name="vendor_peel">Peel</string>
   <string name="vendor_yaokan">Yaokan</string>
   <string name="video">Videozapisi</string>
@@ -678,7 +706,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="wind_speed_high">Visoko</string>
   <string name="wind_speed_low">Nisko</string>
   <string name="wind_speed_medium">Srednje</string>
-  <string name="wind_sweep">Udar</string>
+  <string name="wind_sweep">Ventilator</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>

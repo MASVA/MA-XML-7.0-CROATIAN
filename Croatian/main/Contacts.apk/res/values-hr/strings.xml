@@ -659,7 +659,7 @@ Razlog: \"%s\""</string>
   <string name="miprofile_find_profile_loading">Samo trenutak…</string>
   <string name="miprofile_find_profile_no_recommend">Nema profila za preporuku</string>
   <string name="miprofile_find_profile_subtitle">Dodaj za prikaz fotografija i više informacija</string>
-  <string name="miprofile_finding_label">Traženje kartice kontakta</string>
+  <string name="miprofile_finding_label">Pronađi kartice kontakta</string>
   <string name="miprofile_name">Moj profil</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Unesite nadimak, kao npr. MASVA</string>

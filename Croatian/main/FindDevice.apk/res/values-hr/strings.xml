@@ -12,6 +12,7 @@
   <string name="enable_find_device_error">"Ne mogu uključiti Pronađi uređaj. %1$s"</string>
   <string name="enable_find_device_success">Pronađi uređaj je uključen.</string>
   <string name="find_device">Pronađi uređaj</string>
+  <string name="find_device_crash">Pronađi uređaj je neočekivano prekinut</string>
   <string name="find_device_error_account_sys_timeout">"Ne mogu se povezati na Mi Račun"</string>
   <string name="find_device_error_network">Provjerite podatkovnu vezu i pokušajte ponovo.</string>
   <string name="find_device_error_password_changed">Zaporka računa je nedavno promijenjena.</string>
