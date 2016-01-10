@@ -26,6 +26,7 @@
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="early_morning">AM</string>
+  <string name="email">E-pošta</string>
   <string name="empty"/>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>

@@ -30,7 +30,7 @@
   <string name="alert_dialog_no">Ne</string>
   <string name="alert_dialog_ok">U redu</string>
   <string name="alert_dialog_yes">Da</string>
-  <string name="antispam_marked_count">%1$d odbijeno</string>
+  <string name="antispam_marked_count">Prijavilo %1$d MIUI korisnika</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Nepoznat broj</string>
   <string name="antispam_provider">Identificiran od %s</string>
@@ -414,7 +414,7 @@
   <string name="not_voice_capable">Glasovni pozivi nisu podržani</string>
   <string name="notification_action_accept">Prihvaćam</string>
   <string name="notification_action_answer_video">Videozapis</string>
-  <string name="notification_actGlasovnoion_answer_voice">Glasovno</string>
+  <string name="notification_action_answer_voice">Glasovno</string>
   <string name="notification_action_dismiss">Odbaci</string>
   <string name="notification_action_end_call">Prekini vezu</string>
   <string name="notification_dialing">Biranje broja</string>

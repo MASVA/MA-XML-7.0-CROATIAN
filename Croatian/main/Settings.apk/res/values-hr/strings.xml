@@ -2385,6 +2385,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="power_charging_duration_ac">%1$d%% – %2$s do napunjenosti putem utičnice</string>
   <string name="power_charging_duration_usb">%1$d%% – %2$s do napunjenosti putem USB-a</string>
   <string name="power_charging_duration_wireless">%1$d%% – %2$s do napunjenosti bežičnim putem</string>
+  <string name="power_discharge_remaining">%1$s preostalo</string>
   <string name="power_discharging_duration">%1$d%% – još približno %2$s</string>
   <string name="power_flashlight">Svjetiljka</string>
   <string name="power_hide_mode_summary">"Uštedite bateriju ograničavanjem pojedinačnih procesa aplikacija u pozadini, WLAN-a, mobilne podatkovne veze i korištenja GPS-a"</string>
