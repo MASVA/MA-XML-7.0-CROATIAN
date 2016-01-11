@@ -3,6 +3,7 @@
   <string name="accessibility_call_muted">Poziv utišan.</string>
   <string name="accessibility_speakerphone_enabled">Zvučnik je uključen.</string>
   <string name="add_vm_number_str">Dodaj broj</string>
+  <string name="can_not_dial_while_vt_prompt">"Ne mogu birati dok je videopoziv u tijeku"</string>
   <string name="headset_plugin_view_text">Hands-free je povezan.</string>
   <string name="headset_plugin_view_title">Hands-free</string>
   <string name="no_vm_number">Broj govorne pošte ne postoji</string>
@@ -17,9 +18,9 @@
   <string name="outgoing_call_error_no_phone_number_supplied">Poziv se ne može ostvariti, broj koji ste unijeli nije ispravan.</string>
   <string name="outgoing_call_not_allowed">Ovaj korisnik nema dopuštenje upućivati pozive osim na hitne brojeve</string>
   <string name="respond_via_sms_canned_response_1">"Ne mogu trenutno razgovarati. Nazvat ću te poslije."</string>
-  <string name="respond_via_sms_canned_response_2">Nazvat ću te poslije.</string>
-  <string name="respond_via_sms_canned_response_3">Nazvat ću te uskoro.</string>
-  <string name="respond_via_sms_canned_response_4">Ne mogu razgovarati, nazovite kasnijer.</string>
+  <string name="respond_via_sms_canned_response_2">Nazvati ću te poslije.</string>
+  <string name="respond_via_sms_canned_response_3">Nazvati ću te uskoro.</string>
+  <string name="respond_via_sms_canned_response_4">Ne mogu razgovarati, nazovite kasnije.</string>
   <string name="respond_via_sms_confirmation_format">Poruka je poslana na broj %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
   <string name="respond_via_sms_menu_reset_default_activity">Vraćanje zadane aplikacije.</string>

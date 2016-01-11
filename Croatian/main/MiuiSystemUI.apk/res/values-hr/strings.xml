@@ -84,7 +84,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="description_direction_left">"Kliznite lijevo za %s."</string>
   <string name="description_direction_up">"Kliznite gore za %s."</string>
   <string name="description_target_search">"Pretraži"</string>
-  <string name="disable_notification_summary">"Sakrij obavijesti aplikacija."</string>
+  <string name="disable_notification_summary">"Ne prikazuj obavijesti odabranih aplikacija."</string>
   <string name="disable_notification_title">Sakrij obavijesti</string>
   <string name="dismount_storage">"Ne"</string>
   <string name="dlg_confirm_kill_storage_users_text">"Ako uključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i možda neće biti dostupne dok ne isključite USB pohranu."</string>

@@ -4,7 +4,7 @@
   <string name="cancel">Izlaz</string>
   <string name="change_time">Promjeni interval</string>
   <string name="day">1 dan</string>
-  <string name="declaration">"Korištenjem ovog proizvoda, pristajete na naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazumt&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnosti&lt;/a&gt;. Ova aplikacija treba povezivanje na internet za normalan rad."</string>
+  <string name="declaration">Najnovije vijesti, celebrity trendovi, video informacije, način života, za vas u stvarnom vremenu.</string>
   <string name="declaration_title">Uvjeti korištenja</string>
   <string name="hour_1">1 sat</string>
   <string name="hour_3">3 sata</string>
@@ -18,6 +18,7 @@
   <string name="resource_apply">Postavi</string>
   <string name="resource_no_network_text">"Ne mogu se povezati na mrežu."</string>
   <string name="setting_head">Postavke</string>
+  <string name="summary">"Korištenjem ovog proizvoda, pristajete na naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnosti&lt;/a&gt;. Ova aplikacija treba povezivanje na internet za normalan rad."</string>
   <string name="theme_apply_failured">"Ne mogu postaviti sliku pozadine zaklj. zaslona"</string>
   <string name="theme_apply_success">Pozadina zaklj. zaslona postavljena</string>
   <string name="theme_applying">Postavljanje…</string>

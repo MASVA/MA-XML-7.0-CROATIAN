@@ -19,6 +19,7 @@
         <item>Web stranica</item>
         <item>Adresa</item>
         <item>Bilješka</item>
+		<item>Odnos</item>
     </string-array>
     <string-array name="entries_date_type">
         <item>Primljeno</item>

@@ -392,6 +392,7 @@
   <string name="battery_info_voltage_label">Napon baterije:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Razina baterije</string>
+  <string name="battery_light_title">Svjetlo baterije</string>
   <string name="battery_light_summary">LED svjetli tijekom punjenja</string>
   <string name="battery_light_title">LED svjetlo</string>
   <string name="battery_msg_unaccounted">Upotreba baterije procjena je potrošnje energije i ne uključuje sve izvore potrošnje baterije. Vrijednost \"razno\" odnosi se na razliku između obračunate procijenjene potrošnje energije i stvarne potrošnje izmjerene na bateriji.</string>
