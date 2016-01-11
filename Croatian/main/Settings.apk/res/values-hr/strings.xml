@@ -336,9 +336,9 @@
   <string name="battery_action_stop">Prisilno zaustavi</string>
   <string name="battery_action_wifi">Postavke WLAN-a</string>
   <string name="battery_desc_apps">Baterija iskorištena upotrebom aplikacija</string>
-  <string name="battery_desc_bluetooth">Baterija iskorištena upotrebom značajke Bluetooth</string>
+  <string name="battery_desc_bluetooth">Baterija iskorištena upotrebom Bluetootha</string>
   <string name="battery_desc_camera">Potrošnja baterije za fotoaparat</string>
-  <string name="battery_desc_display">Baterija se koristi za prikaz i pozadinsko svjetlo</string>
+  <string name="battery_desc_display">Baterija iskorištena za prikaz i pozadinsko svjetlo</string>
   <string name="battery_desc_flashlight">Potrošnja baterije za svjetiljku</string>
   <string name="battery_desc_overcounted">Previše obračunata potrošnja energije</string>
   <string name="battery_desc_radio">Baterija iskorištena upotrebom radija</string>
@@ -349,7 +349,7 @@
   <string name="battery_desc_wifi">Baterijom se služi WLAN</string>
   <string name="battery_history_days">%1$d d %2$d s %3$d min %4$d s</string>
   <string name="battery_history_days_no_seconds">%1$d d %2$d s %3$d min</string>
-  <string name="battery_history_hours">%1$d s %2$dmin %3$d s</string>
+  <string name="battery_history_hours">%1$d s %2$d min %3$d s</string>
   <string name="battery_history_hours_no_seconds">%1$d s %2$d min</string>
   <string name="battery_history_minutes">%1$d min %2$d s</string>
   <string name="battery_history_minutes_no_seconds">%1$d min</string>
@@ -392,7 +392,7 @@
   <string name="battery_info_voltage_label">Napon baterije:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Razina baterije</string>
-  <string name="battery_light_title">Svjetlo baterije</string>
+  <string name="battery_light_title">LED svjetlo</string>
   <string name="battery_light_summary">LED svjetli tijekom punjenja</string>
   <string name="battery_msg_unaccounted">Upotreba baterije procjena je potrošnje energije i ne uključuje sve izvore potrošnje baterije. Vrijednost \"razno\" odnosi se na razliku između obračunate procijenjene potrošnje energije i stvarne potrošnje izmjerene na bateriji.</string>
   <string name="battery_saver">Štednja baterije</string>
