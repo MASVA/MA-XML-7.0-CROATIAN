@@ -6,6 +6,7 @@
 Ako niste osobno zatražili izradu sigurnosne kopije nemojte dozvoliti nastavak radnje.</string>
   <string name="backup_confirm_title">Potpuna sigurnosna kopija</string>
   <string name="backup_enc_password_optional">Ako želite kriptirati potpunu sigurnosnu kopiju, unesite zaporku:</string>
+  <string name="backup_enc_password_required">Budući da vam je uređaj kriptiran, morate šifrirati sigurnosne kopije. Unesite zaporku u nastavku:</string>
   <string name="backup_enc_password_text">Molimo unesite zaporku za kriptiranje potpune sigurnosne kopije. Ako ovo polje ostavite prazno, biti će upotrijebljena vaša trenutna zaporka za sigurnosne kopije:</string>
   <string name="current_password_text">Molimo unesite vašu trenutnu zaporku za sigurnosne kopije:</string>
   <string name="deny_backup_button_label">Nemoj izraditi sigurnosnu kopiju</string>

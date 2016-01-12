@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="call_barring_incoming_display_values">
+        <item>Isključeno</item>
+        <item>Roaming</item>
+        <item>Sve</item>
+     </string-array>
+     <string-array name="call_barring_outgoing_display_values">
+        <item>Isključeno</item>
+        <item>Međunarodni roaming poziv</item>
+        <item>Međunarodni poziv</item>
+        <item>Odlazni poziv</item>
+     </string-array>
+     <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM/WCDMA, CDMA i EvDo</item>
+        <item>TD-SCDMA, GSM/WCDMA i LTE</item>
+        <item>TD-SCDMA, WCDMA i LTE</item>
+        <item>TD-SCDMA, GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM i LTE</item>
+        <item>TD-SCDMA i GSM</item>
+        <item>TD-SCDMA i LTE</item>
+        <item>TD-SCDMA i WCDMA</item>
+        <item>TD-SCDMA samo</item>
+        <item>LTE/WCDMA</item>
+        <item>LTE samo</item>
+        <item>LTE/GSM/CDMA auto (PRL)</item>
+        <item>LTE/GSM auto (PRL)</item>
+        <item>LTE/CDMA auto (PRL)</item>
+        <item>GSM/CDMA auto (PRL)</item>
+        <item>EvDo samo</item>
+        <item>CDMA samo</item>
+        <item>CDMA auto (PRL)</item>
+        <item>GSM auto (PRL)</item>
+        <item>WCDMA samo</item>
+        <item>GSM samo</item>
+        <item>WCDMA preferirano</item>
+    </string-array>
     <string-array name="ims_call_cap_types">
         <item>Glas</item>
         <item>Video</item>

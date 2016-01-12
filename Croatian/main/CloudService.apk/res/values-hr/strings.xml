@@ -359,7 +359,8 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="phone_number_may_required_dspt_provision">"Ova usluga može zahtijevati vaš broj telefona. "</string>
   <string name="phone_number_required_dspt_provision">"Ova usluga zahtijeva vaš broj telefona. "</string>
   <string name="photo">Fotografije</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkronizacija slike kontakata samo kada ste povezani na WLAN mreže"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkronizacija slike kontakata samo kada ste povezani na WLAN mrežu"</string>
+  <string name="pref_summary_sync_video_on_wifi_only">"Sinkronizacija videozapisa profila kontakata samo kada ste povezani na WLAN mrežu"</string>
   <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinkr. fotografija.</string>
   <string name="pref_title_sync_video_on_wifi_only">Koristiti samo WLAN za sinkr. videozapisa.</string>

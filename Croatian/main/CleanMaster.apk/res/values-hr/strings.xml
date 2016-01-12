@@ -95,6 +95,7 @@
   <string name="deepclean_cache_header_left">Podaci datoteka: %d</string>
   <string name="deepclean_cache_summary_empty">Sve izgleda dobro, nema podataka za brisanje</string>
   <string name="deepclean_large_content">Izbriši datoteke veće od 10MB</string>
+  <string name="deepclean_large_summary_empty">Sve izgleda dobro, nema datoteka za brisanje</string>
   <string name="deepclean_list_item_from_miui">Miui</string>
   <string name="deepclean_list_item_from_music">Glazba</string>
   <string name="deepclean_list_item_from_app">Trgovina aplik.</string>

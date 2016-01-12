@@ -117,4 +117,5 @@
   <string name="use">Koristi</string>
   <string name="use_immediately">Koristi sada</string>
   <string name="validity">Isitče %s</string>
+  <string name="validity_unknown">Istek valjanosti nepoznat</string>
 </resources>

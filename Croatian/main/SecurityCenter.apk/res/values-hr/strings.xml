@@ -562,6 +562,7 @@
   <string name="summary_virus_cloudscan">Pošaljite i skenirajte nazive i detalje aplikacija koristeći online definicije virusa</string>
   <string name="summary_virus_update">Dobijte najnovije definicije virusa automatski</string>
   <string name="system_check_content">Rizika %1$d</string>
+  <string name="system_check_content_none">Sigurno</string>
   <string name="system_header_title">Čišćenjem %1$d procesa oslobođeno %2$s memorije</string>
   <string name="title_app_update">Dostupna ažuriranja</string>
   <string name="title_cleaner_cloudscan">Učitaj nazive mapa</string>

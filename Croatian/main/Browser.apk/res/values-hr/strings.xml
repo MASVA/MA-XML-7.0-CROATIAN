@@ -698,6 +698,8 @@ Napustiti ovu stranicu?"</string>
   <string name="video_activity_name">Favoriti</string>
   <string name="video_buffering_percent_string">"Buffering "</string>
   <string name="video_collect_cancel">Nefavoriti</string>
+  <string name="video_collect_success">Favorirano</string>
+  <string name="video_fragment_name_collections">Favoriti</string>
   <string name="video_download_complete">Preuzimanje završeno.</string>
   <string name="video_download_empty">Nema videozapisa</string>
   <string name="video_download_error">Pogreška</string>

@@ -5,6 +5,7 @@
   <string name="activate_auto_sms_notification_desc_1_card">SMS poruka poslana za aktiviranje \"Pronađi uređaj\"</string>
   <string name="activate_auto_sms_notification_desc_2_cards">SMS poruka poslana sa SIM kartice %s za aktiviranje \"Pronađi uređaj\"</string>
   <string name="activate_auto_sms_notification_title">Aktiviranje SIM kartice</string>
+  <string name="activate_sms_postfix">Ovaj SMS se koristi za aktiviranje vašeg Mi uređaja</string>
   <string name="activate_feature_call_log_sync">Sinkr. povijest poziva</string>
   <string name="activate_feature_find_device">Pronađi uređaj</string>
   <string name="activate_feature_mms_sync">Sinkr. SMS poruka</string>
@@ -63,6 +64,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_popup_title_failed_server">Pogreška poslužitelja</string>
   <string name="activate_popup_title_manual">Aktiviraj %s</string>
   <string name="activate_popup_title_new_sim_card">Aktiviraj ponovo %s</string>
+  <string name="activate_popup_title_failed_phone_error">Nevažeći broj telefona</string>
   <string name="activate_popup_title_register_account">Izradi Mi Račun</string>
   <string name="activate_status_desc_acquire_phone_number">Dobivanje broja telefona s poslužitelja</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Došlo je do pogreške na poslužitelju pri dobivanju broja telefona</string>

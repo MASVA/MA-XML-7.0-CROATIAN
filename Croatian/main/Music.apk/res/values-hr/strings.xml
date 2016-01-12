@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Račun</string>
   <string name="account_and_cloud">Račun</string>
@@ -76,6 +76,8 @@
   <string name="close_music_time">"Preostalo vremena: "</string>
   <string name="cloud_enable">Sinkr. glazbu s Mi Cloud</string>
   <string name="cloud_settings">Postavke sinkronizacije</string>
+  <string name="cloud_space_full">Nema dovoljno prostora za pohranu</string>
+  <string name="cloud_space_full_message">Nema dovoljno mjesta u vašem Mi Cloudu za dodavanje više pjesama. Da dobijete više prostora, nadogradite vaš Mi Račun.</string>
   <string name="confirm_download">Preuzmi</string>
   <string name="confirm_to_renew">Obnovi</string>
   <string name="cp_info_first">Streaming uslugu pruža Ultimate Inc.</string>
@@ -109,6 +111,7 @@
   <string name="disable_auto_payment_success">Isključeno</string>
   <string name="disable_auto_payment_success_message">"Autom. obnova isključena. Nakon što vaša trenutna pretplata istekne, morat ćete se ponovo pretplatiti za preuzimanje pjesama."</string>
   <string name="disallow_add_to_personal_radio">Osobni Radio je čitanje samo</string>
+  <string name="do_not_remind_again">"Ne prikazuj ponovo"</string>
   <string name="done">Gotovo</string>
   <string name="download">Preuzmi</string>
   <string name="download_all_song">Preuzmi sve</string>
@@ -298,6 +301,7 @@
   <string name="music_traffic_summary">Slušajte i preuzmite pjesme bez korištenja podataka</string>
   <string name="my_account">Mi Račun</string>
   <string name="my_music">Moja glazba</string>
+  <string name="my_music_empty">Popis za reprodukciju je prazan.</string>
   <string name="my_music_empty_goto_online">Nema pronađenih pjesama</string>
   <string name="my_playlist">Moj popis pjesama</string>
   <string name="name_online_personal_radio">Radio</string>
@@ -328,6 +332,7 @@
   <string name="no_song_downloaded">"Ne mogu se povezati na poslužitelj"</string>
   <string name="normal_quality">Dobro</string>
   <string name="not_login">Niste prijavljeni</string>
+  <string name="not_now">Ne sada</string>
   <string name="not_selected">Odaberi pjesmu</string>
   <string name="notification_des_next_song">Sljedeća pjesma: %s</string>
   <string name="notification_des_no_song">Mi Glazba. Svakodnevno nova glazba.</string>
@@ -513,6 +518,6 @@
   <string name="vip_renew_notification_message">"Nećete biti u mogućnosti streamati visokokvalitetni zvuk nakon što istekne pretplata."</string>
   <string name="vip_renew_notification_title">Pretplata istječe sutra</string>
   <string name="vip_renew_title">Pretplata istekla</string>
-   <string name="vip_required">Nabavite Premium pretplatu za reprodukciju ove pjesme.</string>
+  <string name="vip_required">Nabavite Premium pretplatu za reprodukciju ove pjesme.</string>
   <string name="vip_required_with_song">Nabavite Premium pretplatu za reprodukciju “%s”.</string>
 </resources>

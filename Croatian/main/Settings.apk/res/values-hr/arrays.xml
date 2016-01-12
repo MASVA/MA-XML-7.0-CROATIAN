@@ -544,6 +544,14 @@
         <item>Samo punjenje</item>
         <item>Učitaj SD karticu</item>
     </string-array>
+	<string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Izvor zvuka</item>
+        <item>MIDI</item>
+	</string-array>	
     <string-array name="led_freq_entries">
         <item>2 sekunde</item>
         <item>3 sekunde</item>
@@ -790,4 +798,12 @@
         <item>Ultrahigh (2K)</item>
         <item>Normalno (720P)</item>
     </string-array>
+	     <string-array name="wifi_ssid_type_entries">
+        <item>Poveži automatski</item>
+        <item>Poveži ručno</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices">
+        <item>WLAN preferirano</item>
+        <item>Mreža preferirano</item>
+     </string-array>
 </resources>

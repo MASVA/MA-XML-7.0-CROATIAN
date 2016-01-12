@@ -80,4 +80,49 @@
         <item quantity="other">%d s</item>
         <item quantity="one">1 sat</item>
 	</plurals>
+     <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikacija može otvoriti podržane veze</item>
+        <item quantity="one">%d aplikacija može otvoriti podržane veze</item>
+        <item quantity="few">%d aplikacije mogu otvoriti podržane veze</item>
+     </plurals>
+     <plurals name="high_power_count">
+        <item quantity="other">%d aplikacija ima dopuštenje za zanemarivanje optimizacije baterije.</item>
+        <item quantity="one">%d aplikacija ima dopuštenje za zanemarivanje optimizacije baterije.</item>
+        <item quantity="few">%d aplikacije imaju dopuštenje za zanemarivanje optimizacije baterije.</item>
+     </plurals>
+     <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikacija upotrebljavalo je memoriju unatrag %2$s</item>
+        <item quantity="one">%1$d aplikacija upotrebljavala je memoriju unatrag %2$s</item>
+        <item quantity="few">%1$d aplikacije upotrebljavale su memoriju unatrag %2$s</item>
+     </plurals>
+     <plurals name="permissions_summary">
+        <item quantity="other">%d dopuštenja odobreno</item>
+        <item quantity="one">%d dopuštenje odobreno</item>
+        <item quantity="few">%d dopuštenja odobrena</item>
+     </plurals>
+     <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d dodatnih dopuštenja</item>
+        <item quantity="one">%d dodatno dopuštenje</item>
+        <item quantity="few">%d dodatna dopuštenja</item>
+     </plurals>
+     <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d od %2$d dopuštenja odobreno</item>
+        <item quantity="one">%1$d od %2$d dopuštenja odobreno</item>
+        <item quantity="few">%1$d od %2$d dopuštenja odobreno</item>
+     </plurals>
+     <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d otisaka prsta postavljeno</item>
+        <item quantity="one">%1$d otisak prsta postavljen</item>
+        <item quantity="few">%1$d otiska prsta postavljena</item>
+     </plurals>
+     <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Promijeni na \"Samo alarmi\" u trajanju od %1$d sati do %2$s</item>
+        <item quantity="one">Promijeni na \"Samo alarmi\" u trajanju od %1$d sata do %2$s</item>
+        <item quantity="few">Promijeni na \"Samo alarmi\" u trajanju od %1$d sata do %2$s</item>
+     </plurals>
+     <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Promijeni na \"Samo alarmi\" u trajanju od %1$d minuta (do %2$s)</item>
+        <item quantity="one">Promijeni na \"Samo alarmi\" u trajanju od %1$d minute (do %2$s)</item>
+        <item quantity="few">Promijeni na \"Samo alarmi\" u trajanju od %1$d minute (do %2$s)</item>
+     </plurals>
 </resources> 

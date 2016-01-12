@@ -827,6 +827,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_bindWallpaper">Nositelju omogućuje povezivanje sa sučeljem pozadinske slike najviše razine. Ne bi smjelo biti potrebno za normalne aplikacije.</string>
   <string name="permdesc_bind_call_service">Omogućuje aplikaciji upravljanje time kada će i kako korisnik vidjeti zaslon tijekom poziva.</string>
   <string name="permdesc_bind_connection_service">Omogućuje aplikacijama interakciju s telefonskim uslugama za uspostavljanje i primanje poziva.</string>
+  <string name="permdesc_bind_incall_service">Omogućuje aplikaciji upravljanje vremenom i načinom na koji se korisniku prikazuje zaslon tijekom poziva.</string>
   <string name="permdesc_bind_trust_agent_service">Omogućuje aplikaciji povezivanje s uslugom agenta za pouzdanost.</string>
   <string name="permdesc_bluetooth">Aplikaciji omogućuje pregled konfiguracije Bluetootha na telefonu te uspostavljanje i prihvaćanje veza s uparenim uređajima.</string>
   <string name="permdesc_bluetoothAdmin">Aplikaciji omogućuje konfiguraciju lokalnog Bluetooth telefona i otkrivanje i uparivanje s udaljenim uređajima.</string>

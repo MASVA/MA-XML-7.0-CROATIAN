@@ -215,6 +215,7 @@
   <string name="sp_mark_as_read_title">Sve poruke označene pročitanima</string>
   <string name="stick">Označi</string>
   <string name="stick_conversation">Označi trenutni razgovor</string>
+  <string name="sticked_conversation">Razgovor je već označen</string>
   <string name="subject_hint">Predmet</string>
   <string name="timed_message_expired_title_2">Poslati sada?</string>
   <string name="title_collapse_sp_messages">Kombinirajte poruke davatelja usluga</string>

@@ -80,6 +80,7 @@
   <string name="search_setting_description">Tekst u vašim bilješkama</string>
   <string name="select_account_prompt">Sink. bilješke</string>
   <string name="sina_share_fail">Slanje nije uspjelo</string>
+  <string name="sina_share_fail_content_repeat">"Ne mogu podijeliti, sadržaj već postoji…"</string>
   <string name="sina_share_pendding">Šaljem…</string>
   <string name="sina_share_success">Poslano</string>
   <string name="sina_token_expired_warning">Weibo je istekao: Obnovite račun</string>

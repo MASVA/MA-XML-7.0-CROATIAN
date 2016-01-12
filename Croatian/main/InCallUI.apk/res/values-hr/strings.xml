@@ -615,6 +615,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="selectContact">Odaberi kontakt</string>
   <string name="select_account_dialog_title">Odaberi Račun</string>
   <string name="select_automatically">Odaberi automatski</string>
+  <string name="select_sim_hint">"Ne mogu koristiti SIM %2$d, dok je SIM %1$d u uporabi."</string>
   <string name="select_voice_call_sim">Odaberi SIM karticu</string>
   <string name="send_button">Pošalji</string>
   <string name="send_keepalive">SendKeepAlive</string>

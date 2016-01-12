@@ -17,6 +17,21 @@
   <string name="bluetooth_connecting">Uparivanje…</string>
   <string name="bluetooth_disconnected">Nije upareno</string>
   <string name="bluetooth_disconnecting">Prekid veze…</string>
+  <string name="bluetooth_in_airplane_mode">U Zrakoplovnom načinu</string>
+  <string name="bluetooth_map_settings_app_icon">Ikona aplikacije</string>
+  <string name="bluetooth_map_settings_cancel">Odustani</string>
+  <string name="bluetooth_map_settings_count">Preostala mjesta:</string>
+  <string name="bluetooth_map_settings_intro">Odaberite račune koje želite dijeliti putem Bluetootha. I dalje morate prihvatiti svako pristupanje računima prilikom povezivanja.</string>
+  <string name="bluetooth_map_settings_no_account_slots_left">Račun nije moguće odabrati. Nema više nijednog mjesta</string>
+  <string name="bluetooth_map_settings_save">Spremi</string>
+  <string name="bluetooth_map_settings_title">Postavke dijeljenja poruka putem Bluetootha</string>
+  <string name="bluetooth_sap_notif_disconnect_button">Prekini vezu</string>
+  <string name="bluetooth_sap_notif_disconnecting">Čekanje da klijent prekine vezu.</string>
+  <string name="bluetooth_sap_notif_force_disconnect_button">Prisilno prekini vezu</string>
+  <string name="bluetooth_sap_notif_message">Želite li postaviti zahtjev klijentu da prekine vezu?</string>
+  <string name="bluetooth_sap_notif_ticker">Pristup SIM-u putem Bluetootha</string>
+  <string name="bluetooth_sap_notif_title">Pristup SIM-u putem Bluetootha</string>
+
   <string name="bluetooth_preference_connected_devices">Upareni uređaji</string>
   <string name="bluetooth_preference_found_devices">Dostupni uređaji</string>
   <string name="bluetooth_preference_scan_title">Pretraži za uređaje</string>
@@ -77,6 +92,9 @@ Prihvaćate li datoteku?"</string>
   <string name="incoming_file_confirm_timeout_ok">"U redu"</string>
   <string name="incoming_file_confirm_title">Prijenos datoteka</string>
   <string name="incoming_file_toast_msg">Dolazna datoteka s drugog uređaja. Potvrdite da želite primiti tu datoteku.</string>
+  <string name="incoming_line1">Šalje</string>
+  <string name="incoming_line2">Naziv datoteke</string>
+  <string name="incoming_line3">Veličina</string>
   <string name="insert_record">Umetni zapis</string>
   <string name="install_package">Instaliraj %1$s za više radnji</string>
   <string name="localPhoneName">Moje ime</string>
@@ -167,6 +185,7 @@ Prihvaćate li datoteku?"</string>
   <string name="upload_fail_line1">Datoteka nije poslana primatelju \"%1$s\".</string>
   <string name="upload_fail_line1_2">Datoteka: %1$s</string>
   <string name="upload_fail_ok">"Pokušajte ponovo"</string>
+  <string name="upload_fail_waiting">U tijeku priprema za slanje datoteke, automatsko ponovno slanje kasnije</string>
   <string name="upload_line1">Prima: \"%1$s\"</string>
   <string name="upload_line3">Vrsta datoteke: %1$s (%2$s)</string>
   <string name="upload_line5">Slanje datoteke…</string>

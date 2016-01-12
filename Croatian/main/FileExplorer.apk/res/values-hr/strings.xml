@@ -481,6 +481,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
 (GIF-ovi mogu biti dodani u Vlastito u WeChat Naljepnicama)."</string>
   <string name="shared_sticker_use_tip_title">Kako koristiti naljepnice</string>
   <string name="shared_str">Podijelio %s</string>
+  <string name="show_message">Morate preuzeti ovu datoteku prije nego što je možete otvoriti.</string>
   <string name="sign_description">Prijava…</string>
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoje mrežno povezivanje."</string>
   <string name="signin_success">"Prijavljeni ste!

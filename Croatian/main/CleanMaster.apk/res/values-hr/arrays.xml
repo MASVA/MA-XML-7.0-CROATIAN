@@ -58,4 +58,7 @@
         <item>Svakih 15 dana</item>
         <item>Svakih 30 dana</item>
     </string-array>
+	     <string-array name="app_clean_menu">
+        <item>Deinstaliraj</item>
+     </string-array>
 </resources>

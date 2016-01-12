@@ -1934,6 +1934,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="master_clear_progress_title">Brisanje</string>
   <string name="master_clear_summary">Briše sve podatke na uređaju</string>
   <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
+  <string name="max_cpu4_info">"4 jezgreni "</string>
   <string name="max_cpu6_info">"6 jezgreni "</string>
   <string name="max_cpu8_info">"8 jezgreni "</string>
   <string name="max_fingerprint_number_reached">"Nije moguće dodati više od 5 otisaka prstiju. Da dodate otisak prsta, prvo izbrišite postojeći otisak prsta."</string>
@@ -2552,6 +2553,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="quiet_group">Ne ometaj</string>
   <string name="quiet_important_interruptions_mode">Dopusti samo iznimkama</string>
   <string name="quiet_mode">Utišaj sve smetnje</string>
+  <string name="quiet_no_interruptions_mode">Utišaj sve smetnje</string>
   <string name="quiet_off_mode">Uvijek dopusti smetnje</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Povezano</string>
@@ -2642,6 +2644,7 @@ Na ovom uređaju postoje i drugi korisnici.
  Podatke aplikacija ne&amp;#263;ete izgubiti."</string>
   <string name="reset_app_preferences_title">Poništiti postavke?</string>
   <string name="reset_network_button_text">Poništi postavke</string>
+  <string name="reset_legacy_password_settings_preface_text">Morate resetirati vašu lozinku za zaključavanje zaslona.</string>
   <string name="reset_network_complete_toast">Postavke mreže vraćene su na zadano.</string>
   <string name="reset_network_confirm_title">Poništiti?</string>
   <string name="reset_network_desc">"Sve postavke mreže vratit će se na zadano, uključujući:
@@ -3232,6 +3235,7 @@ Za upotrebu medija za pohranu ^1 prvo ga morate učitati."</string>
 
 Za upotrebu SD kartice ^1 s tim uređajem prvo je trebate postaviti."</string>
   <string name="storage_external_title">Prijenosna pohrana</string>
+  <string name="storage_format">Formatiraj</string>
   <string name="storage_format_failure">Formatiranje nije uspjelo: %1$s</string>
   <string name="storage_format_success">Formatirano: %1$s</string>
   <string name="storage_internal_forget_confirm">Sve aplikacije, fotografije i podaci pohranjeni na SD kartici ^1 trajno će se izbrisati.</string>
