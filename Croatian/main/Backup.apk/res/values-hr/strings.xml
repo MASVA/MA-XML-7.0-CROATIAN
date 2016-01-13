@@ -267,8 +267,7 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
 3. Skenirajte QR kod s vašim drugim uređajem"</string>
   <string name="trans_operate_old_phone_tips2">Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
  Dodirnite [Ja sam pošiljatelj]"</string>
-<string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s završeno</string>
- -Tap [I'm a sender]"</string>		 
+  <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s završeno</string> 
   <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_transing_receiver">Primanje %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_transing_sender">Slanje %1$s, %2$s završeno</string>

@@ -121,7 +121,6 @@
   <string name="card_title_upgrade_video_call_timed_out">"Ne mogu ažurirati Videopoziv"</string>
   <string name="card_title_video_call">Videopoziv</string>
   <string name="card_title_video_call_paused">Videopoziv pauziran</string>
-  <string name="card_title_video_call">Videopoziv</string>
   <string name="card_title_video_call_connecting">Povezivanje videopoziva</string>
   <string name="card_title_video_call_error">Videopoziv nije uspostavljen</string>
   <string name="card_title_video_call_requesting">Zahtijevanje videopoziva</string>
