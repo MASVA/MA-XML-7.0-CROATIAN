@@ -226,8 +226,8 @@ Ali možete sudjelovati sljedeći ponedjeljak."</string>
   <string name="updater_nonetwork_clause">"Ne mogu se povezati na mrežu"</string>
   <string name="updater_service_busy_msg">Ova aplikacija koristi Usluga ažuriranja za dobivanje ROOT pristupa koje zahtjevaju izvorne datoteke.</string>
   <string name="updater_service_busy_title">Usluga ažuriranja je zauzeta</string>
-  <string name="upgrade_close">Zatvori</string>
   <string name="updater_wait_for_unzip">Otvaranje ažuriranja…</string>
+  <string name="upgrade_close">Zatvori</string>
   <string name="upgrade_kernel">Kernel sustava zahtjeva ažuriranje</string>
   <string name="upgrade_kernel_msg">"Verzija kernela koju koristite ne odgovara MIUI ROM-u. Morate nadograditi kernel ručno. Pogledajte Xiaomi postupak nadogradnje: 
 "</string>

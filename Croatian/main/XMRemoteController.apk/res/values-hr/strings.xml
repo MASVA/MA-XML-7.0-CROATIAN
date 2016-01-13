@@ -268,7 +268,7 @@ Vratite se za nastavak"</string>
   <string name="match_direction_default">Da li navigacijske tipke rade?</string>
   <string name="match_dvd_intro_pause">Otpustite kada se DVD reprodukcija pauzira</string>
   <string name="match_dvd_intro_play">Otpustite kada započne DVD reprodukcija</string>
-  <string name="match_dvd_intro_stop">>Otpustite kada se DVD reprodukcija zaustavi</string>
+  <string name="match_dvd_intro_stop">&gt;Otpustite kada se DVD reprodukcija zaustavi</string>
   <string name="match_dvd_name_pause">Pauziraj</string>
   <string name="match_dvd_name_play">Reproduciraj</string>
   <string name="match_dvd_name_stop">Zaustavi</string>

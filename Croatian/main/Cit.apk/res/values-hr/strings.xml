@@ -201,9 +201,9 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_pressure_sensor_check_title">Senzor tlaka</string>
   <string name="cit_proximity_sensor_check_summary">"Pokrijte senzor udaljenosti (nalazi se na vrhu telefona u blizini prijemnika) rukom, a zatim udaljite ruku. Vrijednost se treba povećati od 0,0 kada udaljite svoje ruke od uređaja.
 Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (npr. zaštitni zaslon ili rukavice)."</string>
+  <string name="cit_proximity_sensor_check_title">Senzor blizine</string>
   <string name="cit_recovery_signature_failed">Recovery potpis NEUSPJEŠNO</string>
   <string name="cit_recovery_signature_passed">Recovery potpis USPJEŠNO</string>
-  <string name="cit_proximity_sensor_check_title">Senzor blizine</string>
   <string name="cit_reset_check_summary">Ovo testiranje će ponovno pokrenuti uređaj. Svi dosadašnji podaci testiranja će biti izgubljeni.</string>
   <string name="cit_reset_check_title">Testiranje Ponovnog pokretanja</string>
   <string name="cit_reset_test">Testiranje</string>

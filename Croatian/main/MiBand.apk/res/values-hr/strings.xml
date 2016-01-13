@@ -808,7 +808,7 @@ Zaspao u %3$s, Probudio se u %4$s"</string>
   <string name="mili_reset_info">Resetirati Mi Band na tvorničke postavke?</string>
   <string name="mili_unbind_question">"Nakon što rasparite, vaš Mi Band neće biti u mogućnosti snimati sport ili san."</string>
   <string name="mili_unbind_question_content">Nakon rasparivanja, možete se upariti s novim Mi Bandom.</string>
-   <string name="mili_unbind_question_content_1">"Nećete moći koristiti ovaj Mi Band za otključavanje uređaja."</string>
+  <string name="mili_unbind_question_content_1">"Nećete moći koristiti ovaj Mi Band za otključavanje uređaja."</string>
   <string name="mili_weight_unbind_info">"Vaš telefon se ne može povezati s vagom nakon rasparivanja, možete povezati druge vage kasnije."</string>
   <string name="mili_weight_unbind_info_1">Možete povezati druge Mi Vage kasnije.</string>
   <string name="minute">" "</string>

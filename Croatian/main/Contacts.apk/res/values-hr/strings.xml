@@ -681,11 +681,11 @@ Razlog: \"%s\""</string>
   <string name="miprofile_request_agreed">%1$s pristaje na razmjenu Kartica kontakta</string>
   <string name="miprofile_request_alertdialog_message">Vaša kartica će biti automatski poslana nakon što ta osoba prihvati.</string>
   <string name="miprofile_request_alertdialog_title">Razmjena Kartica kontakata</string>
-  <string name="miprofile_request_header">Zatjev za razmjenu (autom. istječe za tjedan dana)</string>
   <string name="miprofile_request_deleted">Kartica izbrisana</string>
   <string name="miprofile_request_deleted_or_not_added">Kartica izbrisana ili nije dodana</string>
   <string name="miprofile_request_empty_request">Nema zahtjeva za razmjenu</string>
   <string name="miprofile_request_exchange_title">Pronađi Kartice kontakta</string>
+  <string name="miprofile_request_header">Zatjev za razmjenu (autom. istječe za tjedan dana)</string>
   <string name="miprofile_request_menu_clear_request">Izbriši povijest</string>
   <string name="miprofile_request_message">%1$s osoba žele razmijeniti Kartice kontakata</string>
   <string name="miprofile_request_notification_message">Prihvatite da biste vidjeli fotografije profila i više informacija</string>

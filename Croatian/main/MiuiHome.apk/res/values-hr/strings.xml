@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_screen">Dodaj tipku zaslona</string>
   <string name="activity_not_found">"Aplikacija nije instalirana na vašem uređaju"</string>
+  <string name="add_screen">Dodaj tipku zaslona</string>
   <string name="app_already_exist">Aplikacija već postoji</string>
   <string name="app_being_backup_message">Izvodi se Sig. kopija aplikacije</string>
   <string name="app_being_restored_message">Izvodi se vraćanje aplikacije</string>
@@ -43,10 +43,10 @@
   <string name="cant_remove_folder">"Nije moguće ukloniti mapu"</string>
   <string name="cant_remove_retained_app">Nije moguće ukloniti ovu aplikaciju</string>
   <string name="cant_remove_system_app">"Nije moguće ukloniti aplikaciju sustava"</string>
-  <string name="choose_theme">Tema</string>
   <string name="children_folder_title">Djeca</string>
   <string name="children_mode_exit">Izlaz</string>
   <string name="children_mode_tips">Natrag u Postavke i upravljaj pristup aplikacijama.</string>
+  <string name="choose_theme">Tema</string>
   <string name="choose_wallpaper">Odaberi sliku pozadine</string>
   <string name="chooser_wallpaper">Odaberi sliku pozadine</string>
   <string name="cloud_app_restore_title">Na čekanju</string>
@@ -64,9 +64,9 @@
   <string name="delete_screen">Izbriši tipku zaslona</string>
   <string name="delete_wallpaper_message">Izbrisati (%1$d) sliku pozadine ?</string>
   <string name="delete_wallpapers_message">Izbrisati (%1$d) slike pozadine ?</string>
+  <string name="deselect_all">Poništi odabir</string>
   <string name="disable">Onemogući</string>
   <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
-  <string name="deselect_all">Poništi odabir</string>
   <string name="download_action">Preuzmi</string>
   <string name="edit_folder_title">Uredi naziv mape</string>
   <string name="editing_add_widget_tips">Uredi widgete</string>
@@ -204,8 +204,8 @@
   <string name="reset_scene_prompt">Zaslon će se vratiti na zadani raspored.</string>
   <string name="screen_number">Zaslon %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>
-  <string name="select_frame">Okvir</string>
   <string name="select_all">Odaberi sve</string>
+  <string name="select_frame">Okvir</string>
   <string name="select_photo">Fotografija</string>
   <string name="setting_wallpaper_tip">Pomakni ili uvećaj za prilagodbu</string>
   <string name="settings_shortcut">Postavke</string>

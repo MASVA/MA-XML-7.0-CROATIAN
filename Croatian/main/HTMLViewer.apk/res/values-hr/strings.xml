@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-   <string name="app_label">HTML pregledač</string>
-   <string name="app_name_which_call">Aplikacija: %s</string>
-   <string name="app_version_which_call">Verzija: %s</string>
-   <string name="license_host_unreachable">"Ne mogu se povezati s mrežom. Za pregled ove informacije,
+  <string name="app_label">HTML pregledač</string>
+  <string name="app_name_which_call">Aplikacija: %s</string>
+  <string name="app_version_which_call">Verzija: %s</string>
+  <string name="license_host_unreachable">"Ne mogu se povezati s mrežom. Za pregled ove informacije,
 idite na %s"</string>
-   <string name="loading">Učitavanje…</string>
-   <string name="mibi_license">Mi Kredit Uvjeti Pružanja Usluge</string>
-   <string name="open_wifi_connect_summary">Dodirnite za prikaz detalja.</string>
-   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
-   <string name="permdesc_accessDrm">Aplikaciji omogućuje pristup DRM zaštićenom sadržaju.</string>
-   <string name="policy_name">Pravilo:%s</string>
-   <string name="settings_license_activity_loading">Samo trenutak…</string>
-   <string name="settings_license_activity_title">Licence otvorenog koda</string>
-   <string name="settings_license_activity_unavailable">"Ne mogu učitati licence.</string>
-   <string name="settings_safetylegal_activity_loading">Samo trenutak…</string>
-   <string name="settings_safetylegal_activity_title">Sigurnosne informacije</string>
-   <string name="settings_safetylegal_activity_unreachable">"Nemate podatkovnu vezu. Da biste vidjeli ove podatke sada, idite na %s s bilo kojeg računala povezanog s internetom."</string>
-   <string name="settings_safetylegal_title">Sigurnosne informacije</string>
+  <string name="loading">Učitavanje…</string>
+  <string name="mibi_license">Mi Kredit Uvjeti Pružanja Usluge</string>
+  <string name="open_wifi_connect_summary">Dodirnite za prikaz detalja.</string>
+  <string name="open_wifi_connect_title">Poveži se na %1$s</string>
+  <string name="permdesc_accessDrm">Aplikaciji omogućuje pristup DRM zaštićenom sadržaju.</string>
+  <string name="policy_name">Pravilo:%s</string>
+  <string name="settings_license_activity_loading">Samo trenutak…</string>
+  <string name="settings_license_activity_title">Licence otvorenog koda</string>
+  <string name="settings_license_activity_unavailable">"Ne mogu učitati licence.</string>
+  <string name="settings_safetylegal_activity_loading">Samo trenutak…</string>
+  <string name="settings_safetylegal_activity_title">Sigurnosne informacije</string>
+  <string name="settings_safetylegal_activity_unreachable">"Nemate podatkovnu vezu. Da biste vidjeli ove podatke sada, idite na %s s bilo kojeg računala povezanog s internetom."</string>
+  <string name="settings_safetylegal_title">Sigurnosne informacije</string>
 </resources>

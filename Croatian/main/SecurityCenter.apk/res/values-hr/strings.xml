@@ -69,7 +69,6 @@
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_minutes_no_seconds">%1$dm</string>
   <string name="battery_history_seconds">%1$ds</string>
-  <string name="boot_day_shutdown_day">Uređaj će se uključiti %1$dd u %2$s i isključiti %3$dd u %4$s</string>
   <string name="battery_stats_charging_label">Punjenje</string>
   <string name="battery_stats_gps_on_label">GPS</string>
   <string name="battery_stats_on_battery">%1$s preostalo</string>
@@ -77,6 +76,7 @@
   <string name="battery_stats_screen_on_label">Zaslon</string>
   <string name="battery_stats_wake_lock_label">Budan</string>
   <string name="battery_stats_wifi_running_label">WLAN</string>
+  <string name="boot_day_shutdown_day">Uređaj će se uključiti %1$dd u %2$s i isključiti %3$dd u %4$s</string>
   <string name="boot_reminder">Uključivanje vašeg uređaja u planirano vrijeme</string>
   <string name="boot_reminder_day">Uređaj će se uključiti u %1$dd %2$dh %3$dm</string>
   <string name="boot_reminder_day_hour">Uređaj će se uključiti u %1$dd %2$dh</string>
@@ -131,8 +131,8 @@
   <string name="cmcc_app_check_dialog_negative">Kasnije</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno pokreni</string>
   <string name="cmcc_app_check_dialog_title">Sustav je popravljen</string>
-  <string name="confirm_reject_all_permission">Ograničiti svim aplikacijama korištenje ove značajke?</string>
   <string name="confirm_auto_cleaner">U redu</string>
+  <string name="confirm_reject_all_permission">Ograničiti svim aplikacijama korištenje ove značajke?</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
   <string name="cta_checkbox_title">"Ne prikazuj ponovo"</string>
@@ -223,8 +223,8 @@
   <string name="hints_virus_lib_update_default_summary">Vrijeme zadnjeg ažuriranja je nepoznato</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Ova je aplikacija opasna za sigurnost vašeg uređaja</string>
-  <string name="info_and_call">Pozivi i poruke</string>
   <string name="history_details_title">Detalji povijesti</string>
+  <string name="info_and_call">Pozivi i poruke</string>
   <string name="item_app_permission">Dopuštenja aplikacija</string>
   <string name="item_dev_mode">Opcije Raz. programera</string>
   <string name="item_install_monitor">Instaliraj nadzor</string>

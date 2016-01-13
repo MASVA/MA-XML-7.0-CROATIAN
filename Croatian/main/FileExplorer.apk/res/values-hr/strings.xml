@@ -80,13 +80,13 @@
   <string name="confirm_clean">Očisti</string>
   <string name="confirm_know">U redu</string>
   <string name="connect_network_setting_des">Pitaj za povezivanje s internetom</string>
-  <string name="copy_failed">"Ne mogu kopirati, izgleda da je pohrana puna"</string>
   <string name="connection_error">"Ne mogu se povezati"</string>
+  <string name="copy_failed">"Ne mogu kopirati, izgleda da je pohrana puna"</string>
   <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Stavi na početni zaslon</string>
   <string name="create_new_folder_desctiption">Izrada mape…</string>
-  <string name="create_share_link_description">Napravi vezu za dijeljenje…</string>
   <string name="create_new_folder_failed">""Ne mogu napraviti mapu"</string>
+  <string name="create_share_link_description">Napravi vezu za dijeljenje…</string>
   <string name="create_shortcut_cancel">Ne</string>
   <string name="create_shortcut_checkbox_hint">"Ne prikazuj ponovo"</string>
   <string name="create_shortcut_confirm">Napravi</string>
@@ -124,8 +124,8 @@
   <string name="delete_folders">Izbrisati ovoliko(%1$d) mapa?</string>
   <string name="delete_selected_tasks">Izbrisati odabrano?</string>
   <string name="des_running_trans">Datoteka (%1$d) koje nisu premještene</string>
-  <string name="dialog_select_type">Odaberite tip</string>
   <string name="dialog_confirm">U redu</string>
+  <string name="dialog_select_type">Odaberite tip</string>
   <string name="dialog_type_audio">Zvuk</string>
   <string name="dialog_type_image">Slike</string>
   <string name="dialog_type_text">Tekst</string>
@@ -331,7 +331,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="notification_wechat_sticker_switch_title">Dnevne obavijesti novih naljepnica</string>
   <string name="notification_wechat_title">Obavijesti kada će WeChat videozapisi isteći</string>
   <string name="notify_private_folder_msg">Dodirnite da saznate više.</string>
-  <string name="notify_private_folder_title">Napravite sakrivene mape</string>  
+  <string name="notify_private_folder_title">Napravite sakrivene mape</string>
   <string name="online_not_support">"Ne mogu prikazati ovu datoteku online u ovom trenutku."</string>
   <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena, mogli bi:
 1. Preuzeti datoteku ponovno da je ažurirate.

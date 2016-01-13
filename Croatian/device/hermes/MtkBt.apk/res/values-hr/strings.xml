@@ -100,7 +100,7 @@
   <string name="bt_share_openfile_message_unsupported_type">Nepodržani tip datoteke: %1$s</string>
   <string name="bt_share_openfile_title">Otvori datoteku</string>
   <string name="permdesc_bluetoothWhitelist">Omogućuje aplikaciji privremeno stavljanje Bluetooth uređaja na popis dopuštenih uređaja, čime mu omogućuje da šalje datoteke na ovaj uređaj bez potvrde korisnika.</string>
-  <string name="permdesc_handoverStatus">>Omogućuje primanje informacija o statusu prijenosa s Bluetooth uređaja.</string>
+  <string name="permdesc_handoverStatus">&gt;Omogućuje primanje informacija o statusu prijenosa s Bluetooth uređaja.</string>
   <string name="permlab_bluetoothWhitelist">Stavi pristup Bluetooth uređaja na popis dopuštenih pristupa..</string>
   <string name="permlab_handoverStatus">Primaj prijenose s Bluetooth uređaja</string>
 </resources>

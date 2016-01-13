@@ -11,8 +11,8 @@
   <string name="alert_message_delete_note">Izbrisati ovu bilješku?</string>
   <string name="alert_message_delete_notes">Izbrisati %1$s?</string>
   <string name="alert_message_edit_anyway">Ako uredite ovu bilješku, nešto od sadržaja može biti izgubljeno.</string>
-  <string name="alert_title_edit_anyway">Ova bilješka sadrži nepodržani sadržaj</string>
   <string name="alert_title_delete">Izbriši bilješku</string>
+  <string name="alert_title_edit_anyway">Ova bilješka sadrži nepodržani sadržaj</string>
   <string name="all_terms">%1$s i %2$s</string>
   <string name="app_name">Bilješke</string>
   <string name="app_widget">Bilješke</string>

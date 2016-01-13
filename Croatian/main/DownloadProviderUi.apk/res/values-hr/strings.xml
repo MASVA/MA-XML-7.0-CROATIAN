@@ -121,13 +121,13 @@
   <string name="get_order_fail_msg">"Ne mogu dobiti detalje narudžbe"</string>
   <string name="high_speed_channel">Xunlei ubrzanje preuzimanja (uz plaćanje):</string>
   <string name="hint">Pažnja</string>
+  <string name="immediately_a_renewal">Obnovi sada</string>
   <string name="input_valid_address">Unesite putanju datoteke</string>
   <string name="install">Instaliraj</string>
   <string name="install_failed">"Ne mogu instalirati %1$s"</string>
   <string name="installing">Instaliranje…</string>
   <string name="invalid_address">Putanja datoteke koje ste unijeli nije važeća</string>
   <string name="jump_rank_hint">"Bacite pogled na današnji poredak preuzimanja &gt;"</string>
-  <string name="immediately_a_renewal">Obnovi sada</string>
   <string name="keep_queued_download">Zadrži</string>
   <string name="load_finish_hint">Možete nastaviti gledati sutra</string>
   <string name="loading">Samo trenutak…</string>
@@ -144,8 +144,8 @@
   <string name="mi_money">Mi Kredita</string>
   <string name="mi_money_">Mi Kredita</string>
   <string name="missing_title">&lt;Nepoznato&gt;</string>
-  <string name="network_error">"Ne mogu se povezati na mrežu"</string> 
   <string name="net_error">"Ne mogu se povezati na mrežu, pokušajte ponovno"</string>
+  <string name="network_error">"Ne mogu se povezati na mrežu"</string>
   <string name="new_add">Novo</string>
   <string name="new_add_bt">Dodaj torrent</string>
   <string name="no_downloads">Nema preuzimanja.</string>
@@ -155,8 +155,8 @@
   <string name="one_month">1 mjesec</string>
   <string name="only_support_torrent">Samo su podržane torrent datoteke</string>
   <string name="open">Otvori</string>
-  <string name="open_vip_hint">Dodirnite da postanete Xunlei član</string>
   <string name="open_download">Otvori</string>
+  <string name="open_vip_hint">Dodirnite da postanete Xunlei član</string>
   <string name="open_xunlei_speed_service">Pokreni Xunlei ubrzanje preuzimanja</string>
   <string name="original_price">Cijena</string>
   <string name="other_filter">Ostalo</string>

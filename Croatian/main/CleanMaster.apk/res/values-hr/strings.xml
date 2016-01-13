@@ -96,12 +96,12 @@
   <string name="deepclean_cache_summary_empty">Sve izgleda dobro, nema podataka za brisanje</string>
   <string name="deepclean_large_content">Izbriši datoteke veće od 10MB</string>
   <string name="deepclean_large_summary_empty">Sve izgleda dobro, nema datoteka za brisanje</string>
-  <string name="deepclean_list_item_from_miui">Miui</string>
-  <string name="deepclean_list_item_from_music">Glazba</string>
   <string name="deepclean_list_item_from_app">Trgovina aplik.</string>
   <string name="deepclean_list_item_from_dcim_thumbnails">Minijature</string>
   <string name="deepclean_list_item_from_download">Preuzimanje</string>
   <string name="deepclean_list_item_from_gallery">Galerija</string>
+  <string name="deepclean_list_item_from_miui">Miui</string>
+  <string name="deepclean_list_item_from_music">Glazba</string>
   <string name="deepclean_list_item_from_sdcard">Sd kartica</string>
   <string name="deepclean_similar_ignore">Ignoriraj</string>
   <string name="deepclean_similar_summary_empty">Sve izgleda dobro, nema fotografija za brisanje</string>
@@ -360,7 +360,7 @@
   <string name="toast_resolve_apk_error">Rješavanje pogreške aplik.</string>
   <string name="toast_scaning_similar_image">Provjera fotografija…</string>
   <string name="toast_select_image_need_delete">Odaberite fotografije za brisanje</string>
-   <string name="toast_select_white_need_remove">Odaberite stavke za uklanjanje</string>
+  <string name="toast_select_white_need_remove">Odaberite stavke za uklanjanje</string>
   <string name="toast_selecte_group_restore_succeed">Fotografije vraćene</string>
   <string name="toast_uninstall_success">Deinstaliranje završeno</string>
   <string name="total_clean">Ukupno očišćeno: %s</string>

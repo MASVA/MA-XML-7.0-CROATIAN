@@ -392,8 +392,8 @@
   <string name="battery_info_voltage_label">Napon baterije:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Razina baterije</string>
-  <string name="battery_light_title">LED svjetlo</string>
   <string name="battery_light_summary">LED svjetli tijekom punjenja</string>
+  <string name="battery_light_title">LED svjetlo</string>
   <string name="battery_msg_unaccounted">Upotreba baterije procjena je potrošnje energije i ne uključuje sve izvore potrošnje baterije. Vrijednost \"razno\" odnosi se na razliku između obračunate procijenjene potrošnje energije i stvarne potrošnje izmjerene na bateriji.</string>
   <string name="battery_saver">Štednja baterije</string>
   <string name="battery_saver_turn_on_automatically_never">Nikada</string>
@@ -745,13 +745,13 @@
   <string name="clear_failed_dlg_text">Brisanje podataka za aplikaciju nije uspjelo.</string>
   <string name="clear_failed_dlg_title">Izbriši podatke</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
+  <string name="close_dialog">U redu</string>
+  <string name="close_miui_optimization_title">Isključi MIUI optimizaciju</string>
+  <string name="close_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene. Napomena: isključivanje ove značajke će donijeti velike promjene u rasporedu i drugim elementima korisničkog sučelja.</string>
   <string name="cloud_backup_section_title">Mi Cloud Sig. kopija</string>
   <string name="cloud_backup_settings_section_title">Postavke Sig. kopije</string>
   <string name="cloud_restore_section_summary">Vrati aplikacije, izgled početnog zaslona i postavke sustava</string>
   <string name="cloud_restore_section_title">Vrati iz Mi Clouda</string>
-  <string name="close_dialog">U redu</string>
-  <string name="close_miui_optimization_title">Isključi MIUI optimizaciju</string>
-  <string name="close_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene. Napomena: isključivanje ove značajke će donijeti velike promjene u rasporedu i drugim elementima korisničkog sučelja.</string>
   <string name="cmcc_dm_settings_disable_summary">Onemogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_enable_summary">Omogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_title">Prijava uređaja</string>
@@ -1147,8 +1147,8 @@
   <string name="dndm_vip_list_custom">Iznimke</string>
   <string name="dndm_vip_list_custom_group">Iznimke</string>
   <string name="dndm_vip_list_group">Popis iznimaka</string>
-  <string name="dndm_vip_user_setting_title">Popis iznimaka</string>
   <string name="dndm_vip_list_starred_contact">Svi označeni kontakti</string>
+  <string name="dndm_vip_user_setting_title">Popis iznimaka</string>
   <string name="dndm_wristband">Mi Band</string>
   <string name="dndm_wristband_detailed">"Uključite Ne ometaj ako Mi Band otkrije da spavate u roku od sat vremena prije zakazanog vremena početka"</string>
   <string name="dndm_wristband_detailed2">"Isključite Ne ometaj ako Mi Band otkrije da Mi Band otkrije da ste budni se u roku od sat vremena prije zakazanog vremena završetka"</string>
@@ -2267,10 +2267,10 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="open_miui_optimization_warning_message">Vaš uređaj će se ponovo pokrenuti radi primjene ove promjene</string>
   <string name="open_wifi_connect_summary">"Dotaknite za upravljanje"</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
+  <string name="opening_paragraph_delete_profile_unknown_company">Ovim radnim profilom upravlja:</string>
   <string name="optimization_cancel">Odustani</string>
   <string name="optimization_close">Isključi &amp; ponovno pokreni</string>
   <string name="optimization_open">Uključi</string>
-  <string name="opening_paragraph_delete_profile_unknown_company">Ovim radnim profilom upravlja:</string>
   <string name="other_advanced_settings">Dodatne postavke</string>
   <string name="other_personal_settings">Osobne postavke</string>
   <string name="other_relative">Ostalo</string>
@@ -2643,8 +2643,8 @@ Na ovom uređaju postoje i drugi korisnici.
 
  Podatke aplikacija ne&amp;#263;ete izgubiti."</string>
   <string name="reset_app_preferences_title">Poništiti postavke?</string>
-  <string name="reset_network_button_text">Poništi postavke</string>
   <string name="reset_legacy_password_settings_preface_text">Morate resetirati vašu lozinku za zaključavanje zaslona.</string>
+  <string name="reset_network_button_text">Poništi postavke</string>
   <string name="reset_network_complete_toast">Postavke mreže vraćene su na zadano.</string>
   <string name="reset_network_confirm_title">Poništiti?</string>
   <string name="reset_network_desc">"Sve postavke mreže vratit će se na zadano, uključujući:

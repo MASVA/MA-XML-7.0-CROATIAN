@@ -160,8 +160,8 @@
   <string name="prompt_writing">Spremam…</string>
   <string name="read_encrypt_fail">"Ne mogu čitati šifriranu Sig. kopiju"</string>
   <string name="refresh">Osvježi</string>
-  <string name="restore">Vrati</string>
   <string name="remote_receive">Primanje</string>
+  <string name="restore">Vrati</string>
   <string name="restore_backup">Vrati</string>
   <string name="restore_contact">Vraćam kontakte</string>
   <string name="restore_contact_content">Vraćanje kontakata može rezultirati duplim kontaktima</string>
@@ -191,8 +191,8 @@
   <string name="sdcard_no_enough_space">Nedovoljno prostora</string>
   <string name="sdcard_no_enough_space_message">"Nema dovoljno prostora za pohranu na SD kartici."</string>
   <string name="sdcard_unmounted">Umetnite sada SD karticu</string>
-  <string name="select_all">Odaberi sve</string>
   <string name="see_backup_files_on_router">Pregled Sig. kopija na Mi Routeru %s</string>
+  <string name="select_all">Odaberi sve</string>
   <string name="select_backup_item">Odaberite stavke</string>
   <string name="select_storage_location">Odaberite lokaciju Sig. kopije</string>
   <string name="service_stoped">Usluga zaustavljena</string>
@@ -267,15 +267,15 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
 3. Skenirajte QR kod s vašim drugim uređajem"</string>
   <string name="trans_operate_old_phone_tips2">Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
  Dodirnite [Ja sam pošiljatelj]"</string>
-  <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s završeno</string> 
+  <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_transing_receiver">Primanje %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_transing_sender">Slanje %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Primanje datoteka, %s završeno</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka, %s završeno</string>  
+  <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka, %s završeno</string>
   <string name="trans_progress_subdescript_waiting">Čekanje na primanje %s</string>
   <string name="trans_receiver">"Ja sam primatelj"</string>
-   <string name="trans_receiver_time_remained">"%s preostalo. Držite uređaj napunjenim.
+  <string name="trans_receiver_time_remained">"%s preostalo. Držite uređaj napunjenim.
  Ne isključujte Hotspot. Držite oba uređaja blizu jedan drugoga."</string>
   <string name="trans_receiving_completed">Podaci primljeni</string>
   <string name="trans_restoring">Vraćanje…</string>
@@ -285,7 +285,7 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
   <string name="trans_select_data">Odaberite podatke</string>
   <string name="trans_select_data_no_space">"%s dostupno na novom uređaju.
  Odaberite datoteke ponovno ili oslobodite prostor za pohranu"</string>
-   <string name="trans_select_data_tips">"Odaberite datoteke za prijenos
+  <string name="trans_select_data_tips">"Odaberite datoteke za prijenos
  Slične datoteke na novom uređaju će biti presnimljene"</string>
   <string name="trans_select_device_receive">Odaberite jedan uređaj za primanje podataka.</string>
   <string name="trans_select_device_send">Odaberite jedan uređaj za prijenos podataka.</string>
@@ -302,7 +302,7 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_spent">"
  Potrošeno vrijeme %s"</string>
-   <string name="trans_wait_trans_data">"Povezano sa drugim uređajem.
+  <string name="trans_wait_trans_data">"Povezano sa drugim uređajem.
 Čeka se prijenos…"</string>
   <string name="trans_waiting_ensurance">"Pobrinite se da je drugi uređaj uključen
 I prijenos omogućen"</string>

@@ -7,7 +7,6 @@
   <string name="activity_title_poweroptimize">Štednja baterije</string>
   <string name="add_applications">Odaberi aplikacije</string>
   <string name="add_apps_title">Aplikacije</string>
-  <string name="app_list_total">Aplikacija: %d</string>
   <string name="add_user_define_group_failed">"Ne mogu dodati profil"</string>
   <string name="add_user_define_title">Dodaj profil</string>
   <string name="alter_message_abandon_title">Odbaciti promjene?</string>
@@ -18,6 +17,7 @@
   <string name="alter_message_switch_mode_message">Kada promjenite način rada, vaše prethodne postavke više se neće primjenjivati na tu aplikaciju.</string>
   <string name="app_frozen_app_list_summary">Aplikacije u pozadini</string>
   <string name="app_list_title">Odaberite aplikacije</string>
+  <string name="app_list_total">Aplikacija: %d</string>
   <string name="app_name">Štednja baterije</string>
   <string name="background">Aplikacija se izvodi u pozadini</string>
   <string name="config_custom_description">"Ako predložene konfiguracije ne zadovoljavaju vaše potrebe, možete ih prilagoditi"</string>
@@ -34,8 +34,8 @@
   <string name="hide_mode">Ušteda baterije</string>
   <string name="hide_mode_desc">"Kada aplikacija radi u pozadini, njezine aktivnosti će se nadzirati da se smanji potrošnja baterije. Mrežna veza, usluga lociranja, radio, timer, itd. mogu biti pogođeni ovom značajkom. Ova je konfiguracija pogodna za većinu aplikacija, ali ako određena aplikacija ne funkcionira normalno dok radi u pozadini, možete prilagoditi postavke te aplikacije."</string>
   <string name="hide_mode_desc_title">Ušteda baterije</string>
-  <string name="hints_loading_text">Učitavanje…</string>
   <string name="high">Performanse</string>
+  <string name="hints_loading_text">Učitavanje…</string>
   <string name="invalid_size_value">"Ne mogu dobiti veličinu paketa."</string>
   <string name="keep_connect_description">Aplikacije se mogu povezati s mrežom u pozadini</string>
   <string name="keep_connect_title">Ostani povezanim</string>

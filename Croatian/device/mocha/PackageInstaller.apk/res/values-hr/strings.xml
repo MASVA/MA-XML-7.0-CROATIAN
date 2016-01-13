@@ -60,14 +60,14 @@ Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
   <string name="unknown">Nepoznato</string>
   <string name="unknown_apps_dlg_text">"Radi sigurnosti vaš je telefon postavljen da blokira instaliranje aplikacija koje nisu iz usluge Google Play.
 
-To možete promeniti kroz Postavke > Sigurnost > Nepoznati izvori."</string>
+To možete promeniti kroz Postavke &gt; Sigurnost &gt; Nepoznati izvori."</string>
   <string name="update_log_default">Nema ažuriranja</string>
   <string name="update_time">%1$s u %2$s u %3$s verzija %4$s</string>
   <string name="update_title">%1$ ima novu verziju</string>
   <string name="virus_scan_clear">Ukloni</string>
-  <string name="virus_scan_install">" "<u>Instaliraj svejedno</u>" "</string>
+  <string name="virus_scan_install">" "&lt;u&gt;Instaliraj svejedno&lt;/u&gt;" "</string>
   <string name="virus_scan_is_risk">Ova aplikacija predstavlja rizik za vaš uređaj!</string>
   <string name="virus_scan_is_virus">Ova aplikacija sadrži virus, uklonite je odmah!</string>
   <string name="warn_message">Aplikacije mogu ozbiljno ugroziti sigurnost vaših podataka i privatnih informacija</string>
-    <string name="warn_title">Aplikacija nije potvrđena</string>
+  <string name="warn_title">Aplikacija nije potvrđena</string>
 </resources>

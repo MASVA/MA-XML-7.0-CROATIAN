@@ -111,9 +111,9 @@
   <string name="account_setup_failed_certificate_required">Potrebna je klijentska potvrda. Želite li se povezati s poslužiteljem s klijentskom potvrdom?</string>
   <string name="account_setup_failed_check_credentials_message">Poslužitelj je odgovorio s pogreškom. Provjerite korisničko ime i zaporku i pokušajte ponovo.</string>
   <string name="account_setup_failed_dlg_auth_message">Korisničko ime ili zaporka nisu ispravni.</string>
-  <string name="account_setup_failed_dlg_bar_title">Načini prijave za %s</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">"Ne mogu se prijaviti.
 (%s)"</string>
+  <string name="account_setup_failed_dlg_bar_title">Načini prijave za %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Sigurno povezivanje s poslužiteljem nije moguće.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Sigurno povezivanje s poslužiteljem nije moguće.
 (%s)"</string>
@@ -459,7 +459,7 @@
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Mail</string>
-  <string name="email_package_name">com.android.email</string>		    
+  <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">"Ne mogu pronaći račun"</string>

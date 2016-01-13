@@ -29,21 +29,21 @@
   <string name="app_name">Vrijeme</string>
   <string name="aqi_quality_index_break">AQI %1$s</string>
   <string name="aqi_quality_index_break_short_desc">%1$s</string>
-  <string name="aqi_quality_index_dangerous">AQI %1$s</string>		   
+  <string name="aqi_quality_index_dangerous">AQI %1$s</string>
   <string name="aqi_quality_index_dangerous_short_desc">%1$s</string>
-  <string name="aqi_quality_index_good">AQI %1$s</string>		   
+  <string name="aqi_quality_index_good">AQI %1$s</string>
   <string name="aqi_quality_index_good_short_desc">%1$s</string>
-  <string name="aqi_quality_index_hazardous">AQI %1$s</string>		   
+  <string name="aqi_quality_index_hazardous">AQI %1$s</string>
   <string name="aqi_quality_index_hazardous_short_desc">%1$s</string>
   <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
   <string name="aqi_quality_index_light_pollution_short_desc">%1$s</string>
-  <string name="aqi_quality_index_moderate">AQI %1$s</string>		   
+  <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_moderate_short_desc">%1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_pure_short_desc">%1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy_short_desc">%1$s</string>
-  <string name="aqi_short_desc">AQI %1$s</string>  
+  <string name="aqi_short_desc">AQI %1$s</string>
   <string name="button_abandon">Odbaci promjene</string>
   <string name="button_allow">U redu</string>
   <string name="button_confirm">Dopusti</string>
@@ -113,10 +113,9 @@
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
   <string name="no_network_btn">Pokušaj ponovo</string>
+  <string name="online_search_hint">Pretraživanje za online resursima</string>
   <string name="open_browser">Otvori u pregledniku</string>
   <string name="realtime_aqi_connection">%1$s</string>
-  <string name="share">Dijeli</string>
-  <string name="online_search_hint">Pretraživanje za online resursima</string>
   <string name="resource_account_abnormal_state">Pogreška računa. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="resource_account_fail_to_add">"Ne mogu dodati račun"</string>
   <string name="resource_account_login">Prijavite se</string>
@@ -291,6 +290,7 @@
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Nema otkrivene SD kartice</string>
   <string name="select_all">@miui:string/select_all</string>
+  <string name="share">Dijeli</string>
   <string name="share_btn_cancel">Odustani</string>
   <string name="share_btn_confirm">Podijeli</string>
   <string name="share_button">Podijeli</string>
@@ -304,8 +304,8 @@
   <string name="sunrise">Izlazak sunca</string>
   <string name="sunset">Zalazak sunca</string>
   <string name="title_share_link">Podijeli URL</string>
-  <string name="twc_logo_title"/>
   <string name="to_activate_the_account">Aktivirajte vaš Mi Račun</string>
+  <string name="twc_logo_title"/>
   <string name="view_forecast_item_yesterday">Jučer</string>
   <string name="view_indexes_item_today">Danas</string>
   <string name="view_indexes_item_tommorrow">Sutra</string>

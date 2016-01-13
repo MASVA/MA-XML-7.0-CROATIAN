@@ -14,7 +14,7 @@
   <string name="button_next">Dalje</string>
   <string name="button_pre">Natrag</string>
   <string name="can_not_find_explorer">"Ne mogu pronaći Datoteke aplikaciju"</string>
-    <string name="can_not_send_this_file">"Ne mogu poslati ovu datoteku"</string>
+  <string name="can_not_send_this_file">"Ne mogu poslati ovu datoteku"</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_receive">Zaustavi primanje</string>
   <string name="cancel_send">Otkaži slanje</string>

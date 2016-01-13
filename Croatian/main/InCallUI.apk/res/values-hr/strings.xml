@@ -97,8 +97,8 @@
   <string name="call_title_redialing_with_times_miui">%d puta ponovno pozvano</string>
   <string name="caller_manage_header">Konferencijski poziv %s</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
-  <string name="cancel_call">Poklopi</string>
   <string name="cancel">Odustani</string>
+  <string name="cancel_call">Poklopi</string>
   <string name="card_title_call_ended">"Poziv završen "</string>
   <string name="card_title_callback_number">""Vaš broj za povratni poziv
  %1$s"</string>
@@ -120,9 +120,9 @@
   <string name="card_title_upgrade_video_call_requesting">Traženje zahtjeva za Videopoziv…</string>
   <string name="card_title_upgrade_video_call_timed_out">"Ne mogu ažurirati Videopoziv"</string>
   <string name="card_title_video_call">Videopoziv</string>
-  <string name="card_title_video_call_paused">Videopoziv pauziran</string>
   <string name="card_title_video_call_connecting">Povezivanje videopoziva</string>
   <string name="card_title_video_call_error">Videopoziv nije uspostavljen</string>
+  <string name="card_title_video_call_paused">Videopoziv pauziran</string>
   <string name="card_title_video_call_requesting">Zahtijevanje videopoziva</string>
   <string name="cb_sms_settings">SMS Cell Broadcast Postavke</string>
   <string name="cdma_activate_device">Aktivirati uređaj</string>
@@ -165,8 +165,6 @@
   <string name="deleting_fdn_contact">Brisanje broja za fiksno biranje…</string>
   <string name="description_delete_button">natrag</string>
   <string name="description_dial_button">zovi</string>
-  <string name="description_image_button_answer">Povucite gore za odgovor</string>
-  <string name="description_image_button_dialpad">Tipke za biranje</string>
   <string name="description_direction_down">Kliznite prema dolje za %s.</string>
   <string name="description_direction_down_left">Dolje Lijevo</string>
   <string name="description_direction_down_right">Dolje Desno</string>
@@ -175,6 +173,8 @@
   <string name="description_direction_up">Kliznite prema gore za %s.</string>
   <string name="description_direction_up_left">Gore Lijevo</string>
   <string name="description_direction_up_right">Gore Desno</string>
+  <string name="description_image_button_answer">Povucite gore za odgovor</string>
+  <string name="description_image_button_dialpad">Tipke za biranje</string>
   <string name="description_image_button_eight">osam</string>
   <string name="description_image_button_five">pet</string>
   <string name="description_image_button_four">četiri</string>
@@ -194,7 +194,6 @@
   <string name="description_image_button_zero">nula</string>
   <string name="description_target_accept_upgrade_to_video_request">Prihvati zahtjev za videozapis</string>
   <string name="description_target_answer">Odgovori</string>
-  <string name="dial_with_gsm_phone">Redoviti poziv</string>
   <string name="description_target_answer_audio_call">Prihvati kao audiopoziv</string>
   <string name="description_target_answer_rx_video">Prihvati kao RX Video</string>
   <string name="description_target_answer_tx_video">Prihvati kao TX Video</string>
@@ -206,6 +205,7 @@
   <string name="dial_emergency_empty_error">Pozivanje nije moguće. Nazovite broj hitne službe!</string>
   <string name="dial_emergency_error">Poziv nije uspostavljen, %s nije broj hitne službe!</string>
   <string name="dial_pad_autocomplete">Automatsko popunjavanje biranja</string>
+  <string name="dial_with_gsm_phone">Redoviti poziv</string>
   <string name="dialerKeyboardHintText">Koristite tipkovnicu za unos broja</string>
   <string name="disable">Onemogući</string>
   <string name="disable_cfb_forbidden">Vaš operater ne dopušta isključivanje prosljeđivanja poziva kada je telefon zauzet.</string>
@@ -312,8 +312,8 @@
   <string name="incall_error_supp_service_switch">Nije moguće promijeniti pozive.</string>
   <string name="incall_error_supp_service_transfer">Nije moguće prebaciti pozive.</string>
   <string name="incall_error_supp_service_unknown">Nepodržana usluga.</string>
-  <string name="incoming_answer_voice_text">Odgovor glasom</string>
   <string name="incall_status_dialed_mmi">Pokretanje MMI sekvence…</string>
+  <string name="incoming_answer_voice_text">Odgovor glasom</string>
   <string name="incoming_call_forwarded_title">Preusmjeri proslijeđeni poziv</string>
   <string name="incoming_via_template">Dolazni pozivi putem operatera %s</string>
   <string name="international_disable">Međunarodne vijesti onemogućene</string>
@@ -390,20 +390,20 @@
   <string name="modify_call_prompt_no">Ne</string>
   <string name="modify_call_prompt_yes">Da</string>
   <string name="msim_select_default_time_left">(%d s)</string>
-  <string name="network_error_message">Pokušajte napraviti redoviti poziv. On će biti naplaćen od strane operatera.</string>
-  <string name="network_error_title">Pogreška mreže</string>
-  <string name="no_balance_message">Nema dovoljno preostalih sredstava na vašem računu. Umjesto toga, pokušajte napraviti redoviti poziv.</string>
-  <string name="no_balance_title">Nedovoljno sredstava</string>
   <string name="multi_category_disable">Multi-kategorije onemogućene</string>
   <string name="multi_category_enable">Multi-kategorije omogućene</string>
   <string name="name">Ime</string>
   <string name="national_disable">Nacionalne vijesti onemogućene</string>
   <string name="national_enable">Nacionalne vijesti omogućene</string>
+  <string name="network_error_message">Pokušajte napraviti redoviti poziv. On će biti naplaćen od strane operatera.</string>
+  <string name="network_error_title">Pogreška mreže</string>
   <string name="network_message">Mrežna poruka</string>
   <string name="network_query_error">Pogreška tijekom pretraživanja mreža.</string>
   <string name="networks">Dostupne mreže</string>
   <string name="newPin2Label">Novi PIN2</string>
   <string name="newPinLabel">Novi PIN</string>
+  <string name="no_balance_message">Nema dovoljno preostalih sredstava na vašem računu. Umjesto toga, pokušajte napraviti redoviti poziv.</string>
+  <string name="no_balance_title">Nedovoljno sredstava</string>
   <string name="no_change">Nema promjena.</string>
   <string name="no_internet_available">Za upućivanje internetskog poziva, provjerite internetsku vezu</string>
   <string name="no_internet_available_title">Nema Internet veze</string>
@@ -416,10 +416,10 @@
   <string name="no_wifi_available_title">Nema WLAN veze</string>
   <string name="non_ivr_menu_collapse_menu">Zatvori izbornik</string>
   <string name="non_ivr_menu_view_menu">Pokaži izbornik</string>
-  <string name="not_support_message">"Nadoplata trenutno ne podržava takve brojeve. Umjesto toga, pokušajte napraviti redoviti poziv."</string>
-  <string name="not_support_title">"Broj nije podržan"</string>
   <string name="not_a_valid_port">Broj porta mora biti od 1000 do 65534</string>
   <string name="not_allowed">"Vaša SIM kartica ne dopušta povezivanje s ovom mrežom."</string>
+  <string name="not_support_message">"Nadoplata trenutno ne podržava takve brojeve. Umjesto toga, pokušajte napraviti redoviti poziv."</string>
+  <string name="not_support_title">"Broj nije podržan"</string>
   <string name="not_voice_capable">Glasovni pozivi nisu podržani</string>
   <string name="notification_action_accept">Prihvaćam</string>
   <string name="notification_action_answer_video">Videozapis</string>
@@ -488,8 +488,8 @@
   <string name="onscreen_manage_calls_text">Upravljanje pozivima</string>
   <string name="onscreen_merge_calls_text">Upravljanje pozivima</string>
   <string name="onscreen_mute_text">Utišaj</string>
-  <string name="onscreen_rcs_text">Poruke</string>
   <string name="onscreen_note_text">Bilješka</string>
+  <string name="onscreen_rcs_text">Poruke</string>
   <string name="onscreen_send_flash_text">Bljeskalica</string>
   <string name="onscreen_speaker_text">Zvučnik</string>
   <string name="onscreen_swap_calls_text">Zamijeni</string>
@@ -537,9 +537,9 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="phone_in_ecm_call_notification_text">Data povezivost isključena</string>
   <string name="phone_in_ecm_notification_title">Način hitnog poziva ECM</string>
   <string name="phone_info_divider">"  |  "</string>
-  <string name="picking_participant">Dobivanje informacije o kontaktu…</string>
   <string name="pick_outgoing_call_phone_type">Uputi poziv</string>
   <string name="pick_outgoing_sip_phone">Koristi račun internetskih poziva:</string>
+  <string name="picking_participant">Dobivanje informacije o kontaktu…</string>
   <string name="pin2_changed">PIN2 uspješno promijenjen</string>
   <string name="pin2_invalid">"FDN nije ažuriran jer ste unijeli pogrešan PIN."</string>
   <string name="pin2_or_fdn_invalid">"FDN nije ažuriran. PIN2 je nevažeći, ili je telefonski broj odbijen."</string>
@@ -569,7 +569,6 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="preferred_network_mode_wcdma_perf_summary">Način željene mreže: Poželjno WCDMA</string>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="private_num">Privatan broj</string>
-  <string name="purchase_now">Nadoplata</string>
   <string name="progress_dialog_exiting_ecm">Isključivanje ECM</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Proxy Adresa</string>
@@ -577,6 +576,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="puk2_requested">Netočna zaporka, SIM kartica je zaključana! Potreban PUK2.</string>
   <string name="puk_requested">Netočna zaporka, PIN2 Blokiran! Potreban PUK2.</string>
   <string name="puk_unlocked">Vaša SIM kartica je odblokirana</string>
+  <string name="purchase_now">Nadoplata</string>
   <string name="radio_off_error">Uključite radio prije gledanja ovih postavki.</string>
   <string name="reading_settings">Postavke čitanja…</string>
   <string name="regional_disable">Vijesti iz regije onemogućene</string>
@@ -725,11 +725,11 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="updating_settings">Ažuriranje postavki…</string>
   <string name="updating_title">Postavke poziva</string>
   <string name="upgrade_vt_prompt">Želite li nadograditi poziv na video poziv?</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Isključite prvo TTY način</string>
-  <string name="video_switch_to_voice_call_prompt">Prebaci na glasovni poziv</string>  
   <string name="username">Korisničko ime</string>
   <string name="username_title">Korisničko ime</string>
   <string name="vibrate_on_ring_title">Vibriraj kad zvoni</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Isključite prvo TTY način</string>
+  <string name="video_switch_to_voice_call_prompt">Prebaci na glasovni poziv</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte. \nKontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
   <string name="vm_changed">Broj govorne pošte je promijenjen.</string>
   <string name="voice_privacy">Osiguraj privatnost govorne pošte</string>

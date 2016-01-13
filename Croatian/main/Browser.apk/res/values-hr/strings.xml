@@ -303,7 +303,7 @@
   <string name="is_last_tab">Ovo je zadnja kartica</string>
   <string name="is_page_bottom">"Došli ste do dna stranice"</string>
   <string name="is_page_top">"Došli ste do vrha stranice"</string>
-   <string name="js_dialog_before_unload">"%s 
+  <string name="js_dialog_before_unload">"%s 
 
 Napustiti ovu stranicu?"</string>
   <string name="js_dialog_before_unload_negative_button">Ostani</string>
@@ -521,10 +521,10 @@ Napustiti ovu stranicu?"</string>
   <string name="profiler_no_storage_toast">Nije moguće pokrenuti profiler jer vanjska pohrana nije spremna</string>
   <string name="profiler_started_toast">Profiler se pokrenuo</string>
   <string name="profiler_stopped_toast">Profiler je završio. Rezultati spremljeni u %1$s.</string>
+  <string name="progress_dialog_setting_wallpaper">Podešavanje slike pozadine…</string>
   <string name="pull_to_refresh_pull_label">Povuci za osvježiti…</string>
   <string name="pull_to_refresh_refreshing_label">Samo trenutak…</string>
   <string name="pull_to_refresh_release_label">Otpustite za odlazak na Preporučeno i osvježiti</string>
-  <string name="progress_dialog_setting_wallpaper">Podešavanje slike pozadine…</string>
   <string name="qr_code_title">QR Kod</string>
   <string name="quicklink_bookmark_save">LOKACIJA OZNAKA</string>
   <string name="quicklink_not_saved">"Ne mogu dodati na početnu stranicu"</string>
@@ -699,17 +699,16 @@ Napustiti ovu stranicu?"</string>
   <string name="video_buffering_percent_string">"Buffering "</string>
   <string name="video_collect_cancel">Nefavoriti</string>
   <string name="video_collect_success">Favorirano</string>
-  <string name="video_fragment_name_collections">Favoriti</string>
   <string name="video_download_complete">Preuzimanje završeno.</string>
   <string name="video_download_empty">Nema videozapisa</string>
   <string name="video_download_error">Pogreška</string>
   <string name="video_download_error_http_gone">"Ne mogu pronaći datoteku"</string>
   <string name="video_download_exists">Preuzimanje već postoji</string>
-  <string name="video_download_fail">Pogreška</string>		   
+  <string name="video_download_fail">Pogreška</string>
   <string name="video_download_failed">"Ne mogu preuzeti"</string>
-  <string name="video_download_pause">Pauzirano</string>		   
+  <string name="video_download_pause">Pauzirano</string>
   <string name="video_download_start">Preuzimanje…</string>
-  <string name="video_download_success">Dovršeno</string>		  
+  <string name="video_download_success">Dovršeno</string>
   <string name="video_download_unknown_name">Nepoznat naziv</string>
   <string name="video_download_unknown_size">Veličina nepoznata</string>
   <string name="video_download_unsupport">Nije podržano</string>
@@ -717,6 +716,7 @@ Napustiti ovu stranicu?"</string>
   <string name="video_downloaded_group">Preuzeto</string>
   <string name="video_downloading_group">Preuzimanje…</string>
   <string name="video_edit">Uredi</string>
+  <string name="video_fragment_name_collections">Favoriti</string>
   <string name="video_fragment_name_download">Izvanmrežno</string>
   <string name="video_fragment_name_historys">Povijest gledanja</string>
   <string name="video_fragment_name_offine">Izvanmrežno</string>

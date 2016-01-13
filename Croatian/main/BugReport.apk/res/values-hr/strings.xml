@@ -57,9 +57,9 @@
   <string name="hot_problem">Prikaži uobičajene greške</string>
   <string name="hot_problem_empty">Prazno</string>
   <string name="loading_apps">Učitavanje popisa…</string>
-  <string name="logo_title">Centar prijave grešaka</string>
   <string name="loading_hot_problem">Učitavanje…</string>
   <string name="loading_problem_list">Učitavanje popisa…</string>
+  <string name="logo_title">Centar prijave grešaka</string>
   <string name="menu_copy">Kopiraj</string>
   <string name="modem_tool_log">Snimanje izvješća modema</string>
   <string name="modem_tool_log_start">Start</string>
@@ -75,7 +75,6 @@
   <string name="non_system_app_select">Preuzete aplikacije</string>
   <string name="packaging_dialog_content">Stvaranje izvješća…</string>
   <string name="plus_one_submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na Mi poslužitelje kak je vaš uređaj povezan s WLAN mrežom."</string>
-  <string name="submit_dialog_not_wifi_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na Mi poslužitelje kak je vaš uređaj povezan s WLAN mrežom."</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapamti </string>
   <string name="power_consuming_problem1">Povećana potrošnja baterije nakon ažuriranja</string>
   <string name="power_consuming_problem2">Visoka potrošnja baterije korištenjem aplikacije</string>
@@ -97,6 +96,7 @@
   <string name="submit_dialog_cancel">Odustani</string>
   <string name="submit_dialog_confirm">Pošalji</string>
   <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima pogrešaka i priloženim slikama, biti će poslani na MI poslužitelje."</string>
+  <string name="submit_dialog_not_wifi_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na Mi poslužitelje kak je vaš uređaj povezan s WLAN mrežom."</string>
   <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
   <string name="suggestion_description">Ovdje dodajte opis</string>
   <string name="suggestion_problem1">"Recite nam koje značajke bi željeli vidjeti u budućnosti"</string>

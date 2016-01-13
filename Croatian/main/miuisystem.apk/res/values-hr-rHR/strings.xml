@@ -6,10 +6,10 @@
   <string name="android_ringtone_unknown">Nepoznati zvuk zvona</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
+  <string name="app_name_which_call">Aplikacija:%s</string>
   <string name="app_no_notification">Bez obavijesti</string>
   <string name="app_notificaiton_on_notificationBar">Panel obavijesti</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Lista ili Panel obavijesti</string>
-  <string name="app_name_which_call">Aplikacija:%s</string>
   <string name="app_version_which_call">Verzija aplikacije:%s</string>
   <string name="arbor_day"/>
   <string name="armed_forces_day"/>
@@ -67,10 +67,10 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="key_btn_space">Razmak</string>
   <string name="labour_day"/>
   <string name="lantern_festival"/>
-  <string name="light_snow"/>
   <string name="license_host_unreachable">"Nije moguće povezivanje s mrežom. 
 Da biste vidjeli ove informacije, 
 idite na: %s."</string>
+  <string name="light_snow"/>
   <string name="loading">Učitavanje…</string>
   <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>

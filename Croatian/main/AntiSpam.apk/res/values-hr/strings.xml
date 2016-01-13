@@ -56,6 +56,7 @@
   <string name="app_name">Lista zabranjenih</string>
   <string name="backsound_set_hint">Postaviti svoju poruku \"Odsutan sam\" za %s?</string>
   <string name="baidu_thanks">Powered By Baidu</string>
+  <string name="birthday">Rođendan</string>
   <string name="bl_block_info" formatted="false">Poziva: %d| SMS-a: %d</string>
   <string name="bl_no_blacklist">Nema blokiranih brojeva.</string>
   <string name="bl_no_block_call">Nema blokiranih poziva.</string>
@@ -63,7 +64,6 @@
   <string name="blacklist_prefix_add_hint">Dodati sve brojeve s predbrojem na listu zabranjenih</string>
   <string name="block_message_number">SMS-a: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Poziva: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
-  <string name="birthday">Rođendan</string>
   <string name="button_text_delete">Izbriši</string>
   <string name="button_to_setting">Postavke</string>
   <string name="call_delete_hint">Ukloniti sve blokirane pozive s ovog broja?</string>

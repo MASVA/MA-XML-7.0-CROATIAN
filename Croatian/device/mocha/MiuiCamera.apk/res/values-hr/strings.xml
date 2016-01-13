@@ -414,7 +414,7 @@ Iskoračite iz prikaza na trenutak"</string>
   <string name="pref_grp_capture_settings">Postavke snimanja</string>
   <string name="pref_grp_picture_settings">Postavke slike</string>
   <string name="pref_grp_restore_settings">Vraćanje zadanih postavki</string>
-  <string name="pref_manual_exposure_title">Ručna ekspozicija</string>            
+  <string name="pref_manual_exposure_title">Ručna ekspozicija</string>
   <string name="pref_priority_storage_title">Prioritet spremanje na vanjsku SD karticu</string>
   <string name="pref_scan_qrcode_entry_off">Isključeno</string>
   <string name="pref_scan_qrcode_entry_on">Uključeno</string>

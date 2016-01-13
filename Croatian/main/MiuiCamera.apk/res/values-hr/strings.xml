@@ -418,13 +418,13 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Onemogući</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Omogući</string>
   <string name="pref_camera_skinToneEnhancement_title">Poboljšanje boje kože</string>
-  <string name="pref_camera_sound_entry_off">Isključeno</string>
-  <string name="pref_camera_sound_entry_on">Uključeno</string>
   <string name="pref_camera_snap_enable_title">Quick snap način</string>
   <string name="pref_camera_snap_entry_off">Isklj.</string>
   <string name="pref_camera_snap_entry_take_movie">Kada je zaslon isključen, pritisnite &amp; držite tipku Glasnoća dolje za snimanje videozapisa.</string>
   <string name="pref_camera_snap_entry_take_picture">Kada je zaslon isključen, pritisnite &amp; držite tipku Glasnoća dolje za snimanje fotografija.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Ne možete koristiti Quick snap način dok je \"Probudi tipkama za glasnoću\" uključen."</string>
+  <string name="pref_camera_sound_entry_off">Isključeno</string>
+  <string name="pref_camera_sound_entry_on">Uključeno</string>
   <string name="pref_camera_sound_title">Zvukovi kamere</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>
@@ -544,8 +544,8 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="show_videos_only">Samo videozapisi</string>
   <string name="simple_mode_button_asd_flash">Isključi</string>
   <string name="simple_mode_button_asd_hdr">Isključi HDR</string>
-  <string name="simple_mode_button_text_audio_capture">Isključi zvuk okidača</string>
   <string name="simple_mode_button_text_4kuhd">Isključi 4K</string>
+  <string name="simple_mode_button_text_audio_capture">Isključi zvuk okidača</string>
   <string name="simple_mode_button_text_chroma_flash">Isključi</string>
   <string name="simple_mode_button_text_color_effect">Isključi filter</string>
   <string name="simple_mode_button_text_countdown">Isključi odbrojavanje</string>

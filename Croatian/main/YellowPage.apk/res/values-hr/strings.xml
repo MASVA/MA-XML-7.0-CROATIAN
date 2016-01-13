@@ -86,7 +86,6 @@
   <string name="express_address_info">Detalji adrese</string>
   <string name="express_address_name">Naziv</string>
   <string name="express_address_region">Regija</string>
-  <string name="express_banner_header">%1$s / Broj za praćenje</string>
   <string name="express_address_warning_no_area">Regija je potrebna</string>
   <string name="express_address_warning_no_full_address">Adresa je potrebna</string>
   <string name="express_address_warning_no_name">Ime je potrebno</string>
@@ -94,6 +93,7 @@
   <string name="express_addressee_info">Detalji naslovnika</string>
   <string name="express_addressee_name">Naziv naslovnika</string>
   <string name="express_addressee_region">Mjesto naslovnika</string>
+  <string name="express_banner_header">%1$s / Broj za praćenje</string>
   <string name="express_cancel_order">Odustani</string>
   <string name="express_company_list_empty">Nema kompanija</string>
   <string name="express_company_phone_prefix">"Kontakt: "</string>
@@ -187,10 +187,10 @@ Provjerite broj za praćenje."</string>
   <string name="express_view_status">Prati</string>
   <string name="expresss_inquiry_all_logistics">Sve</string>
   <string name="expresss_inquiry_frequently_used_logistics">Često korišteno</string>
+  <string name="fail_to_add_account">"Nije moguće dodati račun"</string>
   <string name="follow_label">Prati %1$s</string>
   <string name="follow_processing">Pratim</string>
   <string name="follow_success">Ne pratim %1$s.</string>
-  <string name="fail_to_add_account">"Nije moguće dodati račun"</string>
   <string name="fraud_number_online_identification">Blokiraj neželjene pozive</string>
   <string name="gallery">Galerija</string>
   <string name="general_cancel_favorite_ok">Favorit uklonjen</string>
@@ -287,9 +287,9 @@ Provjerite broj za praćenje."</string>
   <string name="no_price">Nema informacija o cijeni</string>
   <string name="notify_connect_summary">Prikaži obavijest prilikom povezivanja na internet</string>
   <string name="notify_connect_title">Obavijest povezivanja na internet</string>
-  <string name="open_installed_app">Otvori</string>
   <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
+  <string name="open_installed_app">Otvori</string>
   <string name="order_date_label">Datum narudžbe: %1$s</string>
   <string name="order_empty_hint">Nema narudžbi</string>
   <string name="order_id_label">"Narudžba #: %1$s"</string>

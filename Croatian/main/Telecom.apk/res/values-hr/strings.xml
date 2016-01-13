@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_call_muted">Poziv utišan.</string>
   <string name="accessibility_speakerphone_enabled">Zvučnik je uključen.</string>
@@ -35,7 +35,7 @@
   <string name="respond_via_sms_confirmation_format">Poruka je poslana na broj %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
   <string name="respond_via_sms_menu_reset_default_activity">Vraćanje zadane aplikacije.</string>
-  <string name="respond_via_sms_setting_summary" />
+  <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Brzi odgovori</string>
   <string name="respond_via_sms_setting_title_2">Uređivanje brzih odgovora</string>
   <string name="telecommAppLabel">Telefon</string>

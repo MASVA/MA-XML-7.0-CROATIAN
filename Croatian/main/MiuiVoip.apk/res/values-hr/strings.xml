@@ -49,8 +49,6 @@
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Za pregled ove informacije, 
 idite na %s"</string>
   <string name="loading">Samo trenutak…</string>
-  <string name="menu_create_contact_shortcut">Stavi na Početni zaslon</string>
-  <string name="missing_name">(Bez imena)</string>
   <string name="login">Prijava</string>
   <string name="marked_by_others">"%d drugi korisnici označili kao "</string>
   <string name="marked_by_user">"označili ste kao "</string>
@@ -58,9 +56,11 @@ idite na %s"</string>
   <string name="menu_bl_call_log">Pregled blokiranih poziva</string>
   <string name="menu_bl_remove">Odblokiraj</string>
   <string name="menu_call">Biraj</string>
+  <string name="menu_create_contact_shortcut">Stavi na Početni zaslon</string>
   <string name="menu_edit">Uredi</string>
   <string name="menu_mark">Označi</string>
   <string name="menu_remove">Ukloni</string>
+  <string name="missing_name">(Bez imena)</string>
   <string name="msim_sim1">"SIM 1 "</string>
   <string name="msim_sim2">"SIM 2 "</string>
   <string name="mx_activate_dlg_title">Aktivirajte Mi Voice</string>
@@ -84,9 +84,9 @@ idite na %s"</string>
   <string name="notification_missedCallTicker">Propušten poziv od %s</string>
   <string name="notification_missedCallsMsg">%s propuštenih poziva</string>
   <string name="notification_missedCallsTitle">Propušteni pozivi</string>
-  <string name="other_contacts">Ostali kontakti</string>
   <string name="notification_ongoing_call">Odlazni poziv</string>
   <string name="one_address_choose_hint">%s1</string>
+  <string name="other_contacts">Ostali kontakti</string>
   <string name="phone_switch_tip">Prebaci na GSM</string>
   <string name="policy_name">Pravilo: %s</string>
   <string name="pref_alpha_tools_title">Alpha alati</string>
@@ -124,7 +124,6 @@ idite na %s"</string>
   <string name="st_hint_add_head_number">Unesite predbroj</string>
   <string name="st_hint_add_phonenumber">Unesite tel. broj</string>
   <string name="st_show_num_number">" brojeva"</string>
-  <string name="starred_contacts">Favoriti</string>
   <string name="st_title_addblacklist">Dodaj na listu blokiranih</string>
   <string name="st_title_adress">Dodaj lokacije</string>
   <string name="st_title_adress_num">%d odabrano</string>
@@ -133,6 +132,7 @@ idite na %s"</string>
   <string name="st_title_man_addblacklist">Dodaj broj na listu blokiranih</string>
   <string name="st_title_man_editblacklist">Odaberite pozivni broj za dodavanje na listu blokiranih</string>
   <string name="st_title_man_head_addblacklist">Dodaj predbroj tel. broja na listu blokiranih</string>
+  <string name="starred_contacts">Favoriti</string>
   <string name="statusbar_notification_action_end_call">Poziv završen</string>
   <string name="statusbar_notification_dialing">Biranje</string>
   <string name="statusbar_notification_incoming_call">Dolazni poziv</string>
@@ -168,10 +168,10 @@ idite na %s"</string>
   <string name="voip_callee_offline">Osoba koju zovete je odsutna trenutno</string>
   <string name="voip_callee_offline_and_dial_phone">"Osoba koju zovete je izvan mreže.
 Prebaci na GSM za %1$d sek…"</string>
-  <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_calling_too_much">Prečesto pozivano, ponovno birajte kasnije</string>
   <string name="voip_communication_break">Prekid komunikacije</string>
   <string name="voip_connecting_break">Prekid veze</string>
+  <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_disabled">Voip onemogućen, omogućite ga</string>
   <string name="voip_droped_call">Prekinut %1$s</string>
   <string name="voip_droping_call">Prekidanje %1$s</string>
@@ -181,9 +181,8 @@ Prebaci na GSM za %1$d sek…"</string>
   <string name="voip_gsm_online">"VoIP poziv nije moguće postaviti dok je GSM u upotrebi"</string>
   <string name="voip_hang_up_mic_failed">"Mikrofon nije dostupan, provjerite dopuštenja i uvjerite se da nije zauzet od strane druge aplikacije"</string>
   <string name="voip_incall">"Voip poziv se ne može uspostaviti dok je VoIP poziv u tijeku, nazovite poslije"</string>
-  <string name="voip_loading_contact">Samo trenutak…</string>
-  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_incoming_from_friend">Voip dolazni od %1$s</string>
+  <string name="voip_loading_contact">Samo trenutak…</string>
   <string name="voip_network_not_online">Nema signala mreže</string>
   <string name="voip_network_operators">Vi ste na %1$sG mreži, dodatni troškovi vas slijede</string>
   <string name="voip_network_wifi">Vi ste na WLAN mreži, besplatno je</string>
@@ -192,6 +191,7 @@ Prebaci na GSM za %1$d sek…"</string>
   <string name="voip_others_not_online">Druga strana izgubila vezu</string>
   <string name="voip_outgoing_to_friend">Biranje %1$s</string>
   <string name="voip_server_error">"Ne mogu se povezati na mrežu"</string>
+  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_start_call">Pozivanje</string>
   <string name="voip_stop_called">Zaustavi pozivanje</string>
   <string name="voip_support_net_tips">Koristite WLAN, 3G ili bržu mobilnu podatkovnu vezu</string>

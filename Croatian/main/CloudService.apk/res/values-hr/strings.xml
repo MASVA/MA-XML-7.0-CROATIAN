@@ -207,16 +207,16 @@ Kada je vaš cloud pun, vaši stari podaci neće ići nikamo. Međutim, svaki no
 
 Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravili mjesta za nove, ili možete kupiti dodatni prostor za pohranu."</string>
   <string name="micloud_full_influence_title">Kada je vaš Mi Cloud pun…</string>
-  <string name="micloud_main_battery_low">Baterija preslaba za sinkr.</string>
-  <string name="micloud_main_battery_message">"Priključite svoj uređaj na punjenje za sinkronizaciju
-%d stavki"</string>
-  <string name="micloud_main_clear_now">Izbriši</string>
   <string name="micloud_intro_01_part_01">Uštedite na mobilnim podacima!</string>
   <string name="micloud_intro_01_part_02">Slanje poruka u Cloudu preko interneta</string>
   <string name="micloud_intro_02_part_01">Prestanite koristiti USB pogone i račune e-pošte da premjestite datoteke okolo</string>
   <string name="micloud_intro_02_part_02">Sinkronizacija kontakata, poruka, fotografija i još mnogo toga između uređaja.</string>
   <string name="micloud_intro_03_part_01">Osigurajte sadržaj svog telefona s bilo kojeg mjesta</string>
   <string name="micloud_intro_03_part_02">Lociranje na daljinu, zaključavanje ili brisanje sadržaja telefona na i.mi.com</string>
+  <string name="micloud_main_battery_low">Baterija preslaba za sinkr.</string>
+  <string name="micloud_main_battery_message">"Priključite svoj uređaj na punjenje za sinkronizaciju
+%d stavki"</string>
+  <string name="micloud_main_clear_now">Izbriši</string>
   <string name="micloud_main_data_unsynced">Čeka na sinkr.: %s</string>
   <string name="micloud_main_detail">Prikaži detalje</string>
   <string name="micloud_main_last_sync_time">Zadnja sinkr. %s</string>

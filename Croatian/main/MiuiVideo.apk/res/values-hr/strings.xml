@@ -180,8 +180,8 @@
   <string name="loading_video_netplay_label">Učitavanje…</string>
   <string name="loading_video_netplay_label_v5">Učitavanje…</string>
   <string name="local_favorite_empty_title">Prazno</string>
-  <string name="local_media_empty_sub_title">Preuzmite i gledajte videozapise izvanmrežno</string>
   <string name="local_media_empty_hint">Nema videozapisa</string>
+  <string name="local_media_empty_sub_title">Preuzmite i gledajte videozapise izvanmrežno</string>
   <string name="local_video">Svi videozapisi</string>
   <string name="login_tip_content">Prijavite se vašim Mi Računom radi sinkroniziranja i ažuriranja serija koje trenutno pratite.</string>
   <string name="login_tip_title">Prijavite se</string>
@@ -286,8 +286,8 @@
   <string name="router_download_task_with">%d zadataka</string>
   <string name="router_update">Morate nadograditi  Xiaomi router aplikaciju.</string>
   <string name="score">Ocjena  </string>
-  <string name="score_douban">Douban Ocjena %1$s</string>
   <string name="score_by">Ocjena: %s</string>
+  <string name="score_douban">Douban Ocjena %1$s</string>
   <string name="sdcard_storage">Unutarnja pohrana</string>
   <string name="search">Traži</string>
   <string name="search_hint">Traži online videozapise</string>
@@ -420,7 +420,7 @@
   <string name="vp_milink_function">Uloge za prikaz</string>
   <string name="vp_mobile_network_using_negative">Odustani</string>
   <string name="vp_mobile_network_using_positive">Nastavi</string>
-  <string name="vp_mobile_network_using_warning">Korištenje mobilne podatkovne vezu za gledanje videozapisa će povećati uporabu podataka. Ako premašite mjesečno ograniočenje, vaš mobilni operater može vam naplatiti dodatne naknade.</string> 
+  <string name="vp_mobile_network_using_warning">Korištenje mobilne podatkovne vezu za gledanje videozapisa će povećati uporabu podataka. Ako premašite mjesečno ograniočenje, vaš mobilni operater može vam naplatiti dodatne naknade.</string>
   <string name="vp_mobile_network_using_warning_line_1">Korištenje mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka.</string>
   <string name="vp_mobile_network_using_warning_line_2">Ako prekoračite vaše mjesečno ograničenje, vaš mobilni operater vam može naplatiti dodatne naknade.</string>
   <string name="vp_mplayer_error_io">IO greška radnje</string>
@@ -462,8 +462,8 @@
   <string name="vp_unknown_source">Nepoznat izvor</string>
   <string name="vp_using_16_9">Nametni 16:9</string>
   <string name="vp_using_4_3">Nametni 4:3</string>
-  <string name="vp_video_invalid_cp_info">Pogrešna informacija o pružatelju video usluga, ponovno pokrenite aplikaciju</string>
   <string name="vp_video_bad_network_condition">Slaba povezivost s mrežom, pokušajte ponovo kasnije.</string>
+  <string name="vp_video_invalid_cp_info">Pogrešna informacija o pružatelju video usluga, ponovno pokrenite aplikaciju</string>
   <string name="vp_video_loading">&lt;CDATA&gt;Učitavanje&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">Instaliranje %1$s…</string>
   <string name="waiting_to_download">Čekanje</string>

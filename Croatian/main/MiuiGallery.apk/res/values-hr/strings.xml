@@ -187,7 +187,7 @@
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
   <string name="confirm_face">Podudaranje</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt;Spojiti ovaj album s %s?&lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt;Spojiti ove albume s %s?&lt;/Data&gt;" "</string>  
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt;Spojiti ove albume s %s?&lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Nema podudaranja</string>
   <string name="confirm_recommandation_face_is">"Jeste li sigurni da je ovo %1$s? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde."</string>
   <string name="confirm_recommandation_face_not">"Jeste li sigurni da ovo nije %1$s? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde."</string>
@@ -299,7 +299,7 @@
   <string name="face_albumset_pending_enable_tip">Poredaj fotografije kada je uređaj spojen na WLAN</string>
   <string name="face_albumset_use_tip">"Automatski poredaj fotografije po osobama koje su na njima."</string>
   <string name="face_choose_tip">Odaberite iz postojećeg albuma</string>
-  <string name="face_move_dialog_title">Odaberite album</string> 
+  <string name="face_move_dialog_title">Odaberite album</string>
   <string name="facelift">Sjaj lica</string>
   <string name="facetan">Preplanulo lice</string>
   <string name="fail_hint">Radnja nije uspjela</string>
@@ -702,8 +702,8 @@ uređaja"</string>
   <string name="slideshow_interval_dialog_title">Interval mora biti veći od 0 sekundi</string>
   <string name="slideshow_interval_invalid">Interval mora biti između 1 i 3600 sekundi</string>
   <string name="slideshow_repeat_mode">Ponovi</string>
-  <string name="square">Kvadrat</string>
   <string name="sports_camera">Sportska Kamera</string>
+  <string name="square">Kvadrat</string>
   <string name="start_slide_show">Pokreni dijaprojekciju</string>
   <string name="start_to_use_face_albumset">Poredaj po osobama</string>
   <string name="storage_all_volumes">Svi uređaji za pohranu</string>
@@ -717,7 +717,7 @@ uređaja"</string>
   <string name="sync_album_set_error">Ne mogu sinkronizirati fotografije. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="sync_album_summary">Sinkr. s MiCloud</string>
   <string name="sync_battery_low">Slaba baterija</string>
-  <string name="sync_cloud_space_full">Nema dovoljno prostora na MiCloudu</string>  
+  <string name="sync_cloud_space_full">Nema dovoljno prostora na MiCloudu</string>
   <string name="sync_history_power_on">Sinkroniziraj povijest slika samo tijekom punjenja</string>
   <string name="sync_in_progress_message">Preuzimanje albuma…</string>
   <string name="sync_ok">Sinkr.</string>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Prijedlozi kontakata otvoreni</string>
   <string name="accessibility_add_attendee">Dodaj sudionika</string>
   <string name="accessibility_add_reminder">Dodaj podsjetnik</string>
   <string name="accessibility_all_day">Cjelodnevni događaj</string>
@@ -15,7 +16,6 @@
   <string name="accessibility_remove_attendee">Ukloni sudionika</string>
   <string name="accessibility_remove_reminder">Ukloni podsjetnik</string>
   <string name="accessibility_repeats">Ponavljanje</string>
-  <string name="accessbility_suggestion_dropdown_opened">Prijedlozi kontakata otvoreni</string>
   <string name="accessibility_sync_cal">Sinkronizacija kalendara</string>
   <string name="account_and_calendar">Računi</string>
   <string name="account_and_calendar_to_display">Kalendari za prikaz</string>
@@ -116,12 +116,12 @@
   <string name="dismiss_all_label">Odbaci sve</string>
   <string name="do_not_check">NE provjeravaj -&gt;</string>
   <string name="does_not_repeat">Jednokratni događaj</string>
+  <string name="done">Dalje</string>
   <string name="download">Preuzmi</string>
   <string name="download_finished">Preuzimanje završeno</string>
   <string name="downloaded">Preuzeto</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_wallpaper">Preuzimanje slika pozadine</string>
-  <string name="done">Dalje</string>
   <string name="dropdown_delete_button_desc">Ukloni %s iz primatelja</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>
   <string name="edit_event_calendar_label">Kalendar</string>
@@ -174,12 +174,12 @@
   <string name="hint_description">Opis</string>
   <string name="hint_what">Naziv događaja</string>
   <string name="hint_where">Lokacija</string>
+  <string name="holiday_label">Praznik</string>
   <string name="horoscope_card_comprehensive">综合运势：</string>
   <string name="horoscope_card_financial">财富运势：</string>
   <string name="horoscope_card_love">爱情运势：</string>
   <string name="horoscope_card_working">事业运势：</string>
   <string name="horoscope_select_activity_label">选择星座</string>
-  <string name="holiday_label">Praznik</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label"/>
@@ -346,13 +346,13 @@
   <string name="today">Danas</string>
   <string name="today_at_time_fmt">Danas u %s</string>
   <string name="today_flight_event">Zrakoplov</string>
-  <string name="today_train_event">Vlak</string>
-  <string name="topic_dialog_title">Pretplata, Otkaži pretplatu</string>
-  <string name="topic_event_list_header_label">Nedavna Aktivnost</string>		  
-  <string name="topic_list_header_label">Pretplate</string>
   <string name="today_no_events">Nema događaja</string>
+  <string name="today_train_event">Vlak</string>
   <string name="tomorrow">Sutra</string>
   <string name="tomorrow_at_time_fmt">Sutra u %s</string>
+  <string name="topic_dialog_title">Pretplata, Otkaži pretplatu</string>
+  <string name="topic_event_list_header_label">Nedavna Aktivnost</string>
+  <string name="topic_list_header_label">Pretplate</string>
   <string name="travel_airport">Zračna luka</string>
   <string name="travel_carriage_number_text">Auto</string>
   <string name="travel_eta_advice">%2$s min. vožnje do %1$s.</string>

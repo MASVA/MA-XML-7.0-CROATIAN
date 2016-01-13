@@ -11,9 +11,9 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Ažurirano prije 2 dana</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Ažurirano jučer u %s</string>
   <string name="adjust_traffic_data">Podesite uporabu podataka</string>
-  <string name="app_detail">Detalji</string>
   <string name="apn_exception_summary">Test konfiguracije APN-a mobilnog operatera</string>
   <string name="apn_exception_title">Provjerite postavke APN-a</string>
+  <string name="app_detail">Detalji</string>
   <string name="app_mobile">2G/3G</string>
   <string name="app_name">Uporaba podataka</string>
   <string name="app_version">"Verzija "</string>
@@ -96,11 +96,11 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dialog_app_roaming_title">"Međunarodni roaming nije omogućen za %1$s"</string>
   <string name="dialog_roaming_apps_sorted_title">Poredaj po</string>
   <string name="dialog_roaming_message">Aplikacije na popisu dopuštenih će se moći povezivati na podatkovne usluge u međunarodnom roamingu. Dodati ovu aplikaciju na popis dopuštenih?</string>
+  <string name="dialog_roaming_title">Međunarodni roaming</string>
+  <string name="dialog_title_attention">Pažnja</string>
   <string name="disable_air_mode">Isključite najprije Zrakoplovni način</string>
   <string name="dns_exception_summary">"Provjerite DNS postavke routera."</string>
   <string name="dns_exception_title">Provjera postavki DNS-a</string>
-  <string name="dialog_roaming_title">Međunarodni roaming</string>
-  <string name="dialog_title_attention">Pažnja</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="enable_network">Uključite najprije mrežu</string>
@@ -269,16 +269,16 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="notify_daily_limit_body">Dodirnite za post. ogranič.</string>
   <string name="notify_daily_limit_title">Iskorišteno %s danas</string>
   <string name="notify_daily_limit_title_for_slotnum">%1$s iskorišteno %2$s danas</string>
+  <string name="notify_daily_traffic_saving_title">Iskorišteno %s danas</string>
   <string name="notify_month_traffic_body">Postavite ograničenje uporabe podataka kako bi se spriječilo premašivanje vašeg mjesečnog prometa.</string>
   <string name="notify_month_traffic_title">Iskorišteno %s ovaj mjesec</string>
   <string name="notify_month_traffic_title_for_slotnum">%1$s iskorišteno %2$s ovaj mjesec</string>
-  <string name="notify_weekly_traffic_body">Kako bi se ograničila uporaba podataka automatski, postavite vaš mjesečni promet.</string>
-  <string name="notify_weekly_traffic_title">Iskorišteno %s ovaj tjedan</string>
-  <string name="notify_weekly_traffic_title_for_slotnum">%1$s iskorišteno %2$s ovaj tjedan</string>
-  <string name="notify_daily_traffic_saving_title">Iskorišteno %s danas</string>
   <string name="notify_setting_pkg_title">Postavite mjesečno ograničenje podataka</string>
   <string name="notify_setting_pkg_title_for_slotnum">Postavite mjesečno ograničenje za %s</string>
   <string name="notify_weekly_pkg_body">Iskorišteno %s ovaj tjedan. Dodirnite za post. ogranič.</string>
+  <string name="notify_weekly_traffic_body">Kako bi se ograničila uporaba podataka automatski, postavite vaš mjesečni promet.</string>
+  <string name="notify_weekly_traffic_title">Iskorišteno %s ovaj tjedan</string>
+  <string name="notify_weekly_traffic_title_for_slotnum">%1$s iskorišteno %2$s ovaj tjedan</string>
   <string name="ok_button">U redu</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Vijesti</string>
@@ -476,11 +476,11 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="timeshow_s">%dsek</string>
   <string name="tips_dialog_title">"Ne znate svoje ograničenje"</string>
   <string name="tips_message">"Za prikaz detalja vašeg ograničenja, birajte %2$s (%1$s) (Samo Kina)"</string>
+  <string name="title_limit_traffic_per_day">Dnevno ograničenje uporabe podataka</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Mjesečni plan promijenjen u %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Ažuriran plan podataka</string>
   <string name="traffic_alert_auto_modify_package_summary">"Automatski prilagodi paket podataka prema informacijama mobilnog mobilnog operatera"</string>
   <string name="traffic_config_alert_auto_modify">Ažuriraj autom. plan podataka</string>
-  <string name="title_limit_traffic_per_day">Dnevno ograničenje uporabe podataka</string>
   <string name="traffic_config_alert_body">"Prema vašem operateru imate: %s.
 
 Prihvaćate li to?"</string>
@@ -503,7 +503,7 @@ Prekoračeno preko dodatnih podataka"</string>
   <string name="traffic_correction_start_correction_failed">Zahtjev nije uspio, provjerite postavke mobilnog operatera</string>
   <string name="traffic_correction_success">Uporaba podataka ažurirana</string>
   <string name="traffic_correction_success_notify_message">Dodirnite za prikaz detalja.</string>
-  <string name="traffic_limit_error_alert_body">Vaši preostali podaci za ovaj mjesec (%1$s) su veći od vašeg mjesečnog plana (%2$s). Označiti dodatna podatke kao paket nadoplate?</string>		
+  <string name="traffic_limit_error_alert_body">Vaši preostali podaci za ovaj mjesec (%1$s) su veći od vašeg mjesečnog plana (%2$s). Označiti dodatna podatke kao paket nadoplate?</string>
   <string name="traffic_limit_error_alert_package">"
 Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</string>
   <string name="traffic_limit_error_alert_title">Podsjetnik ograničenja podataka %s</string>
