@@ -239,6 +239,7 @@
   <string name="view">Prikaži</string>
   <string name="view_hms_attachment_fail">"Ne mogu preuzeti sliku."</string>
   <string name="view_hms_details">Detalji</string>
+  <string name="view_hms_details_download">Preuzimanje</string>
   <string name="view_message_details">Prikaži pojedinosti</string>
   <string name="xiaomi_service_number">Broj usluge</string>
   <string name="yes">U redu</string>

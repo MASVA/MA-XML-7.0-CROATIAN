@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_screen">Dodaj tipku zaslona</string>
   <string name="activity_not_found">"Aplikacija nije instalirana na vašem uređaju"</string>
   <string name="app_already_exist">Aplikacija već postoji</string>
-  <string name="app_being_backup_message">Izvodi se sig. kopija aplikacije</string>
+  <string name="app_being_backup_message">Izvodi se Sig. kopija aplikacije</string>
   <string name="app_being_restored_message">Izvodi se vraćanje aplikacije</string>
   <string name="app_category_books">Knjige</string>
   <string name="app_category_education">Obrazovanje</string>
@@ -60,6 +61,7 @@
   <string name="default_folder_title_tools">Alati</string>
   <string name="default_theme_name">Zadano</string>
   <string name="delete">Izbriši</string>
+  <string name="delete_screen">Izbriši tipku zaslona</string>
   <string name="delete_wallpaper_message">Izbrisati (%1$d) sliku pozadine ?</string>
   <string name="delete_wallpapers_message">Izbrisati (%1$d) slike pozadine ?</string>
   <string name="disable">Onemogući</string>
@@ -199,7 +201,8 @@
   <string name="recommend_apps_switch_summary">Prikaži preporučene aplikacije na dnu zaslona.</string>
   <string name="recommend_apps_switch_title">Preporučene aplik.</string>
   <string name="recommend_apps_tips">"Ova značajka treba povezivanje na internet da radi normalno. Za isključivanje ove značajke, dodirnite naziv ove mape."</string>
-  <string name="reset_scene_prompt">Zaslon će se vratiti na zadane postavke.</string>
+  <string name="reset_scene_prompt">Zaslon će se vratiti na zadani raspored.</string>
+  <string name="screen_number">Zaslon %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>
   <string name="select_frame">Okvir</string>
   <string name="select_all">Odaberi sve</string>

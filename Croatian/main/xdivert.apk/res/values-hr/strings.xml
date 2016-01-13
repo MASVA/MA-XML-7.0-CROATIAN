@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="close_dialog">U redu</string>
+  <string name="error_updating_title">Pogreška postavki poziva</string>
+  <string name="exception_error">Pogreška mreže ili SIM kartice.</string>
+  <string name="fdn_check_failure">"Postavke aplikacije FDN vašeg telefona su uključene. Kao rezultat toga, neke značajke poziva ne rade."</string>
+  <string name="phone_numbers">Unesite brojeve telefona</string>
+  <string name="proceed">Nastavi</string>
+  <string name="radio_off_error">Uključite radio prije pregleda ovih postavki.</string>
+  <string name="reading_settings">Postavke čitanja…</string>
+  <string name="response_error">Neočekivani odgovor od mreže.</string>
+  <string name="reverting_settings">Vraćanje postavki…</string>
+  <string name="set_subscription_error_atleast_one">Odaberite najmanje jednu pretplatu</string>
+  <string name="sub1LineNumber">Sub1 Broj:</string>
+  <string name="sub2LineNumber">Sub2 Broj:</string>
+  <string name="sub_1">SUB 1</string>
+  <string name="sub_2">SUB 2</string>
+  <string name="sub_3">SUB 3</string>
+  <string name="sum_xdivert_disabled">X-Divert Onemogućen</string>
+  <string name="sum_xdivert_enabled">X-Divert Omogućen</string>
+  <string name="updating_settings">Ažuriranje postavki…</string>
+  <string name="updating_title">Postavke poziva</string>
+  <string name="xdivert_active">Aktivno</string>
+  <string name="xdivert_button">X-Divert Postavke</string>
+  <string name="xdivert_enternumber_error">Unesite broj telefona za obje pretplate</string>
+  <string name="xdivert_imsi_not_read">Sim Inicijalizacija u tijeku. Pokušajte nakon nekog vremena.</string>
+  <string name="xdivert_not_active">Neaktivno</string>
+  <string name="xdivert_not_supported">X-Divert ne podržava CDMA</string>
+  <string name="xdivert_partial_set">XDivert je postavljen samo za 1. pretplatu</string>
+  <string name="xdivert_setting">X-Divert Postavke</string>
+  <string name="xdivert_status">X-Divert Status</string>
+  <string name="xdivert_sub_absent">Obje pretplate bi trebale biti aktivirane za obradu X-Divert</string>
+  <string name="xdivert_summary">Preusmjeri poziv kada je nedostupan</string>
+  <string name="xdivert_title">X-Divert</string>
+</resources>

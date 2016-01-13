@@ -47,10 +47,10 @@
   <string name="account_user_using_facebook_avatar">Upotrijebi Facebook fotografiju profila</string>
   <string name="account_user_using_qq_avatar">Upotrijebi QQ fotografiju profila</string>
   <string name="account_user_using_weibo_avatar">Upotrijebi Sina Weibo fotografiju profila</string>
+  <string name="account_vip_achievements">Postignuća</string>
   <string name="account_xiaomi_service">Usluge</string>
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="account_vip_level">Račun</string>
-  <string name="account_vip_task">Napredak</string>
   <string name="activate_desc_2_intl_sim_cards">2 međunarodna SMS-a će biti poslana za aktiviranje SIM kartice</string>
   <string name="activate_desc_2_sim_cards">2 SMS-a će biti poslana za aktiviranje SIM kartice</string>
   <string name="activate_desc_intl_sim_card">Međunarodni SMS će biti poslan za aktiviranje vaše SIM kartice</string>
@@ -82,9 +82,9 @@
   <string name="activate_popup_desc_new_mixed_sim_cards">"Izgleda da ste se promijenili SIM kartice. SMS i međunarodni SMS će biti poslani za aktiviranje vaše 2 SIM kartice kako bi se omogućile značajke kao %s. Moguće dodatne naknade od strane vašeg mobilnog operatera."</string>
   <string name="activate_popup_desc_new_sim_card">"Izgleda da ste se promijenili SIM kartice. SMS će biti poslan za aktiviranje nove SIM kartice kako bi se omogućile značajke kao %s. Moguće redovne naknade od strane vašeg mobilnog operatera."</string>
   <string name="activate_popup_desc_new_sim_card_downlink">"Izgleda da ste se promijenili SIM karticu. Unesite broj vaše SIM kartice kako bi se omogućile značajke kao %s"</string>
-  <string name="activate_popup_desc_register_account">SMS će biti poslan za aktiviranje vašeg Mi računa</string>
-  <string name="activate_popup_desc_register_account_downlink">Unesite broj vaše SIM kartice za aktiviranje vašeg Mi računa</string>
-  <string name="activate_popup_desc_register_account_intl">Međunarodni SMS će biti poslan za aktiviranje vašeg ​​Mi računa</string>
+  <string name="activate_popup_desc_register_account">SMS će biti poslan za aktiviranje vašeg Mi Računa</string>
+  <string name="activate_popup_desc_register_account_downlink">Unesite broj vaše SIM kartice za aktiviranje vašeg Mi Računa</string>
+  <string name="activate_popup_desc_register_account_intl">Međunarodni SMS će biti poslan za aktiviranje vašeg ​​Mi Računa</string>
   <string name="activate_popup_desc_sim_card">SMS će biti poslan za aktiviranje vaše SIM kartice kako bi se omogućile značajke kao %s. Mogu nastati redovne naknade od strane vašeg mobilnog operatera.</string>
   <string name="activate_popup_desc_sim_card_downlink">Unesite broj vaše SIM kartice kako bi se omogućile značajke kao %s</string>
   <string name="activate_popup_title_failed_phone_error">Aktivacija nije uspjela</string>
@@ -94,7 +94,7 @@
   <string name="activate_popup_title_failed_server">Aktivacija nije uspjela</string>
   <string name="activate_popup_title_manual">Aktiviranje SIM kartice</string>
   <string name="activate_popup_title_new_sim_card">Aktiviranje nove SIM kartice</string>
-  <string name="activate_popup_title_register_account">Registracija računa</string>
+  <string name="activate_popup_title_register_account">Registracija Računa</string>
   <string name="activate_status_desc_acquire_phone_number">Dobivanje broja telefona s poslužitelja</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Došlo je do pogreške na poslužitelju prilikom dobivanja broja telefona</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Ne mogu dobiti broj telefona"</string>
@@ -104,7 +104,7 @@
   <string name="activate_status_desc_getting_gateway">Dobivanje SMS-a s pristupnika</string>
   <string name="activate_status_desc_getting_sim_info">Dobivanje informacija o SIM kartici</string>
   <string name="activate_status_desc_getting_sim_info_fail">"Ne mogu dobiti informacije o SIM kartici"</string>
-  <string name="activate_status_desc_prepare_sending_sms">Priprema aktivacijskog SMS-a pristupnikU</string>
+  <string name="activate_status_desc_prepare_sending_sms">Priprema aktivacijskog SMS-a pristupniku</string>
   <string name="activate_status_desc_query_activation_info">Upit za detaljima o aktivaciji s poslužitelja</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">Poslužitelj nije uspio poslati aktivacijski SMS na vaš uređaj</string>
   <string name="activate_status_desc_query_activation_info_no_info">Nema podataka oko aktivacije na poslužitelju</string>
@@ -112,7 +112,7 @@
   <string name="activate_status_desc_registering_sim_account">Registracija SIM kartice na poslužitelju</string>
   <string name="activate_status_desc_registering_sim_account_server_error">Došlo je do pogreške na poslužitelju prilikom registracije SIM kartice</string>
   <string name="activate_status_desc_registering_xiaomi_account">Registracija Mi Računa na poslužitelju</string>
-  <string name="activate_status_desc_registering_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju kod registracije Mi računa</string>
+  <string name="activate_status_desc_registering_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju kod registracije Mi Računa</string>
   <string name="activate_status_desc_registration">Registracija SIM kartice</string>
   <string name="activate_status_desc_registration_server_error">Došlo je do pogreške na poslužitelju kod registracije SIM kartice</string>
   <string name="activate_status_desc_request_activation_sms">Zahtjev za aktivacijskim SMS-om s poslužitelja na vaš telefon</string>
@@ -152,7 +152,7 @@
   <string name="checking_account">Provjera zaporke…</string>
   <string name="checking_input">Provjera…</string>
   <string name="checking_phone_num_availible">Provjera telefona…</string>
-  <string name="cloud_service">MiCloud</string>
+  <string name="cloud_service">Mi Cloud</string>
   <string name="cloud_service_dspt">Sinkronizirajte vaše fotografije, kontakte, bilješke, aplikacije i više između svih vaših uređaja.</string>
   <string name="completed">Završeno</string>
   <string name="confirm">U redu</string>
@@ -167,7 +167,7 @@
   <string name="delete_device_btn">Ukloni</string>
   <string name="delete_device_failed">"Ne mogu ukloniti uređaj"</string>
   <string name="delete_device_notice">"Nakon što je uređaj uklonjen, isti će biti odjavljen iz Mi Računa automatski. Nećete biti u mogućnosti koristiti ovaj uređaj za pristup fotografijama, porukama, ili drugom sadržaju pohranjenim na vašem računu."</string>
-  <string name="device_delete_loading">Trenutak…</string>
+  <string name="device_delete_loading">Samo trenutak…</string>
   <string name="device_delete_success_message">"Ako se vi niste niste prijavili na ovom uređaju, odmah promijenite svoju zaporku."</string>
   <string name="device_delete_success_title">Odjavljeno</string>
   <string name="device_list__header">Moji uređaji</string>
@@ -220,7 +220,7 @@
   <string name="micloud_delete_account">Odjavite se</string>
   <string name="micloud_error_empty_captcha_code">Unesite captcha kod</string>
   <string name="micloud_error_empty_pwd">Unesite zaporku</string>
-  <string name="micloud_reg_new">Napravite Mi Račun</string>
+  <string name="micloud_reg_new">Izradite Mi Račun</string>
   <string name="micloud_space_info">%s dostupno</string>
   <string name="micloud_sync_state_need_wifi">Koristi WLAN za sinkr.</string>
   <string name="micloud_sync_state_pending">Na čekanju</string>
@@ -375,7 +375,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_skip_register">Preskoči prijavu</string>
   <string name="passport_skip_setup_account_msg">Možete postaviti Mi Račun kasnije u Postavkama.</string>
   <string name="passport_skip_setup_account_title">Preskoči postavljanje</string>
-  <string name="passport_title_reg">Izradi Račun</string>
+  <string name="passport_title_reg">Izradi račun</string>
   <string name="passport_trust_device">Vjeruj ovom uređaju</string>
   <string name="passport_user_agreement">Korisnički Sporazum</string>
   <string name="passport_user_agreement_p1">Suglasni ste s </string>
@@ -387,7 +387,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_vcode_prompt_long">Unesite kôd za provjeru</string>
   <string name="passport_verification_failed">Autentikacija nije uspjela</string>
   <string name="passport_verify">Provjeri</string>
-  <string name="passport_wait_for_sms_prompt">"Započeti sada ponovo? Isporuka poruke provjere može potrajati do 10 minuta kada je telefon u dometu mreže vašeg operatera."</string>
+  <string name="passport_wait_for_sms_prompt">"Započeti sada ponovno? Isporuka poruke provjere može potrajati do 10 minuta kada je telefon u dometu mreže vašeg operatera."</string>
   <string name="passport_welcome_skip_login">Preskoči ovaj korak</string>
   <string name="passport_wrong_captcha">Uneseni kôd nije ispravan</string>
   <string name="passport_wrong_password">Pogrešna zaporka</string>
@@ -411,10 +411,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="quick_login_dialog_title">Provjeri zaporku</string>
   <string name="quick_login_step2_title">Provjera u 2 koraka</string>
   <string name="quick_login_title">Unesite vašu zaporku</string>
-  <string name="re_register">Izradi Mi Račun besplatno</string>
+  <string name="re_register">Izradite besplatno Mi Račun</string>
   <string name="reg_failed">"Ne mogu postaviti račun"</string>
   <string name="reging">Izrada računa…</string>
-  <string name="register">Izradi Mi Račun</string>
+  <string name="register">Izradite Mi Račun</string>
   <string name="register_by_email">Koristite drugi način za stvaranje računa</string>
   <string name="relogin">Prijavi se ponovo</string>
   <string name="remove_account_notice">Što želite učiniti s porukama, kontaktima, i ostalim podacima koji nisu sinkronizirani s vašeg Mi Računa?</string>
@@ -436,9 +436,9 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="service_error">Pogreška usluge</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
-  <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijava u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
+  <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijave u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
   <string name="theme_store">MIUI Trgovina Tema</string>
-  <string name="theme_store_dspt">Odaberite svoj ​​izgled. Stotine slobodnih prilagodljivih tema kako bi vaš telefon izgledao jedinstven.</string>
+  <string name="theme_store_dspt">Odaberite svoj ​​izgled. Stotine slobodnih prilagodljivih tema za jedinstven izgled vašeg telefona.</string>
   <string name="timeout_retry">Istek vremena zahtjeva, pokušajte ponovo.</string>
   <string name="title_reg">Izradi račun</string>
   <string name="trust_device">Vjerujte ovom uređaju</string>
@@ -463,7 +463,6 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="vcode_prompt_long">Unesite kôd za provjeru</string>
   <string name="verification_failed">Autentikacija nije uspjela</string>
   <string name="verify">Provjeri</string>
-  <string name="vip_level_value">LV%d</string>
   <string name="wipe_data_dialog_msg">%s će biti izbrisano ako nastavite.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Neke stavke nisu bile sinkronizirane."</string>

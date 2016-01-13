@@ -111,7 +111,7 @@
   <string name="account_setup_failed_certificate_required">Potrebna je klijentska potvrda. Želite li se povezati s poslužiteljem s klijentskom potvrdom?</string>
   <string name="account_setup_failed_check_credentials_message">Poslužitelj je odgovorio s pogreškom. Provjerite korisničko ime i zaporku i pokušajte ponovo.</string>
   <string name="account_setup_failed_dlg_auth_message">Korisničko ime ili zaporka nisu ispravni.</string>
-  <string name="account_setup_failed_dlg_bar_title">Savjeti prijave za %s</string>
+  <string name="account_setup_failed_dlg_bar_title">Načini prijave za %s</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">"Ne mogu se prijaviti.
 (%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">Sigurno povezivanje s poslužiteljem nije moguće.</string>
@@ -124,8 +124,8 @@
   <string name="account_setup_failed_dlg_server_message_fmt">"Povezivanje s poslužiteljem nije moguće.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">"Ne mogu postaviti račun"</string>
-  <string name="account_setup_failed_dlg_todo1">Molimo postavite račun kao ispod ili pokušajte se prijaviti s izmjenama.</string>
-  <string name="account_setup_failed_dlg_todo2">Molimo postavite račun kao ispod.</string>
+  <string name="account_setup_failed_dlg_todo1">Postavite račun kao ispod ili pokušajte se prijaviti s EXCHANGE.</string>
+  <string name="account_setup_failed_dlg_todo2">Postavite račun kao ispod.</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Nepoznata pogreška.</string>
   <string name="account_setup_failed_ioerror">"Ne mogu otvoriti vezu s poslužiteljem."</string>
   <string name="account_setup_failed_protocol_unsupported">Unijeli ste pogrešnu adresu poslužitelja ili poslužitelj traži verziju protokola koju E-pošta ne podržava.</string>
@@ -287,7 +287,7 @@
   <string name="bottom_bar_more_unread">Označi nepročitano</string>
   <string name="bottom_bar_no_quickreply_toast">Nema brzih odgovora</string>
   <string name="bytes">%s B</string>
-  <string name="calendar_remind_dialog_title">Podsjeti</string>
+  <string name="calendar_remind_dialog_title">Podsjetnik</string>
   <string name="calendar_remind_gridview_pick_date">Odaberi datum</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_action">Odustani</string>
@@ -868,13 +868,13 @@ Kopija: %4$s
   <string name="push_wps_no_response_app">Nema pronađene aplikacije za izvršenje ove radnje</string>
   <string name="questionnair_body_invisibility">"Poruke nisu prikazane"</string>
   <string name="questionnair_confirm_delete">Izbriši</string>
-  <string name="questionnair_instability">Nestabilna aplikacija, često se ruši</string>
+  <string name="questionnair_instability">Često se ruši</string>
   <string name="questionnair_not_send">"Ne mogu poslati e-poštu"</string>
   <string name="questionnair_not_sync">Nestabilna sinkr.</string>
   <string name="questionnair_other_reasons">Ostali razlozi</string>
   <string name="questionnair_title">Brisanje računa</string>
-  <string name="questionnair_ui_not_pretty">"Ne sviđa mi se dizajn"</string>
-  <string name="questionnair_waste_resource">Brisanje možda oslobodi nešto prostora za pohranu</string>
+  <string name="questionnair_ui_not_pretty">"Ne sviđa mi se izgled aplikacije"</string>
+  <string name="questionnair_waste_resource">Nema dovoljno prostora za pohranu</string>
   <string name="quick_1">Hvala!</string>
   <string name="quick_2">Izvrsno!</string>
   <string name="quick_3">Pročitat ću to kasnije i javiti vam se.</string>
@@ -1060,7 +1060,7 @@ Kopija: %4$s
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_save_char">s</string>
   <string name="trigger_y_char">y</string>
-  <string name="try_exchange_login">Pokušajte se prijaviti s izmjenama</string>
+  <string name="try_exchange_login">Prijavite se s EXCHANGE</string>
   <string name="tryrefreshing">Osvježavam…</string>
   <string name="turn_auto_sync_on_dialog_body">Promjene koje unesete na svim aplikacijama i računima, a ne samo na Gmailu, sinkronizirat će se na webu, vašim ostalim uređajima i vašem uređaju %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Uključi</string>

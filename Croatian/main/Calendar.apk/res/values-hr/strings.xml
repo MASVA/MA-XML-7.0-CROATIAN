@@ -117,6 +117,10 @@
   <string name="do_not_check">NE provjeravaj -&gt;</string>
   <string name="does_not_repeat">Jednokratni događaj</string>
   <string name="download">Preuzmi</string>
+  <string name="download_finished">Preuzimanje završeno</string>
+  <string name="downloaded">Preuzeto</string>
+  <string name="downloading">Preuzimanje…</string>
+  <string name="downloading_wallpaper">Preuzimanje slika pozadine</string>
   <string name="done">Dalje</string>
   <string name="dropdown_delete_button_desc">Ukloni %s iz primatelja</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>

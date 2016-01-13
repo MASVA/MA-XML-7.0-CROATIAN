@@ -3278,7 +3278,7 @@ Ure&amp;#273;aj ^1 formatiran je tako da funkcionira samo na ovom ure&amp;#273;a
   <string name="storage_mount_success">Učitano: %1$s</string>
   <string name="storage_other_users">Drugi korisnici</string>
   <string name="storage_rename_title">Promjena naziva pohrane</string>
-  <string name="storage_settings">Pohranjivanje</string>
+  <string name="storage_settings">Pohrana</string>
   <string name="storage_settings_summary">Isključi USB memoriju, prikaži dostupnu pohranu</string>
   <string name="storage_settings_title">Postavke pohrane</string>
   <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>

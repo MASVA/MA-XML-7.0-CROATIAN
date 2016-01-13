@@ -51,6 +51,7 @@
   <string name="button_next">Dalje</string>
   <string name="button_ok">U redu</string>
   <string name="button_return">Natrag</string>
+  <string name="button_send">Pošalji</string>
   <string name="call_title">Povijest poziva</string>
   <string name="camera_summary">Postavke kamere (ne uključujući fotografije)</string>
   <string name="cancel">Odustani</string>
@@ -128,9 +129,13 @@
   <string name="local_no_backup">Nema Sig. kopija</string>
   <string name="local_restore_window_title">Lokalna obnova</string>
   <string name="local_select_account_contact">Računi &amp; Kontakti</string>
-  <string name="local_select_files">SD kartica</string>
+  <string name="local_select_audio">Zvukovi</string>
+  <string name="local_select_doc">Dokumenti</string>
+  <string name="local_select_files">Pohrana</string>
+  <string name="local_select_image">Slike</string>
   <string name="local_select_sysdata">Sustav</string>
   <string name="local_select_userapp">Aplikacije</string>
+  <string name="local_select_video">Videozapisi</string>
   <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mms_title">MMS</string>
@@ -192,6 +197,10 @@
   <string name="select_storage_location">Odaberite lokaciju Sig. kopije</string>
   <string name="service_stoped">Usluga zaustavljena</string>
   <string name="settings_summary">"Postavke telefona i poruka</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
   <string name="sms_title">SMS</string>
   <string name="software_backup_info">Podaci aplikacije</string>
   <string name="start_backup">Započni stvaranje Sig. kopije</string>
@@ -248,40 +257,54 @@
   <string name="trans_main_tutor">Prenesite kontakte, povijest poziva, poruke, raspored početnog zaslona, aplikacije, postavke, itd. na novi uređaj</string>
   <string name="trans_my_device">Moj uređaj</string>
   <string name="trans_one_key_migrate">Prijenos</string>
+  <string name="trans_operate_func_one">Metoda A</string>
+  <string name="trans_operate_func_two">Metoda B</string>
   <string name="trans_operate_new_phone_tips">"Skenirajte QR koda koristeći novi uređaj
 Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
  Dodirnite [Ja sam primatelj] da izradite QR kod"</string>
-  <string name="trans_operate_old_phone_tips1">"Metoda A
-1. Instalirajte aplikaciju Prijenos na vašem drugom uređaju
+  <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikaciju Prijenos na vašem drugom uređaju
 2. Otvorite aplikaciju i odaberite [Ja sam pošiljatelj]
 3. Skenirajte QR kod s vašim drugim uređajem"</string>
-  <string name="trans_operate_old_phone_tips2">"Metoda B
-Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
+  <string name="trans_operate_old_phone_tips2">Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
  Dodirnite [Ja sam pošiljatelj]"</string>
-  <string name="trans_progress_subdescript_br_receiver">Primanje %s</string>
-  <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %s</string>
-  <string name="trans_progress_subdescript_transing_receiver">Primanje %s</string>
-  <string name="trans_progress_subdescript_transing_sender">Slanje %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Primanje datoteka…</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka…</string>
-  <string name="trans_progress_subdescript_waiting">Čakanje na primanje %s</string>
+<string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s završeno</string>
+ -Tap [I'm a sender]"</string>		 
+  <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s završeno</string>
+  <string name="trans_progress_subdescript_transing_receiver">Primanje %1$s, %2$s završeno</string>
+  <string name="trans_progress_subdescript_transing_sender">Slanje %1$s, %2$s završeno</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Primanje datoteka, %s završeno</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka, %s završeno</string>  
+  <string name="trans_progress_subdescript_waiting">Čekanje na primanje %s</string>
   <string name="trans_receiver">"Ja sam primatelj"</string>
+   <string name="trans_receiver_time_remained">"%s preostalo. Držite uređaj napunjenim.
+ Ne isključujte Hotspot. Držite oba uređaja blizu jedan drugoga."</string>
   <string name="trans_receiving_completed">Podaci primljeni</string>
   <string name="trans_restoring">Vraćanje…</string>
   <string name="trans_restoring_no_items">Sinkr. stavaka</string>
-  <string name="trans_scan_invalid_qrcode">Nevažećii QR kod</string>
+  <string name="trans_scan_invalid_qrcode">Nevažeći QR kod</string>
   <string name="trans_scan_qr_code_tips">Skenirajte QR kod s vašim novim uređajem</string>
+  <string name="trans_select_data">Odaberite podatke</string>
+  <string name="trans_select_data_no_space">"%s dostupno na novom uređaju.
+ Odaberite datoteke ponovno ili oslobodite prostor za pohranu"</string>
+   <string name="trans_select_data_tips">"Odaberite datoteke za prijenos
+ Slične datoteke na novom uređaju će biti presnimljene"</string>
   <string name="trans_select_device_receive">Odaberite jedan uređaj za primanje podataka.</string>
   <string name="trans_select_device_send">Odaberite jedan uređaj za prijenos podataka.</string>
   <string name="trans_sender">"Ja sam pošiljatelj"</string>
   <string name="trans_sender_connectting">Potvrdite na novom uređaju</string>
   <string name="trans_sender_searching">Traženje za novim uređajima</string>
-  <string name="trans_sender_searching_ensurance">"Pobrinite se da je drugi uređaj uključen
+  <string name="trans_sender_searching_ensurance">"Pobrinite se da je drugi uređaj uključen.
 Čekanje povezivanja drugog uređaja…"</string>
+  <string name="trans_sender_time_remained">"%s preostalo. Držite uređaj napunjenim.
+ Ne isključujte WLAN. Držite oba uređaja blizu jedan drugoga."</string>
   <string name="trans_sending_completed">Podaci poslani</string>
+  <string name="trans_show_qr_code_label">Povežite drugi uređaj</string>
   <string name="trans_show_qr_code_tips">Skenirajte QR kod s vašim starim uređajem</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
-  <string name="trans_time_remained">, spreman</string>
+  <string name="trans_time_spent">"
+ Potrošeno vrijeme %s"</string>
+   <string name="trans_wait_trans_data">"Povezano sa drugim uređajem.
+Čeka se prijenos…"</string>
   <string name="trans_waiting_ensurance">"Pobrinite se da je drugi uređaj uključen
 I prijenos omogućen"</string>
   <string name="trans_waiting_for_sender">Čekanje povezivanja drugog uređaja…</string>

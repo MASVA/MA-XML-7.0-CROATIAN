@@ -110,14 +110,21 @@
   <string name="card_title_in_call">U pozivu</string>
   <string name="card_title_in_call_short">Poziv</string>
   <string name="card_title_incoming_call">Dolazni poziv</string>
+  <string name="card_title_incoming_conference_call">Dolazni konferencijski poziv</string>
   <string name="card_title_my_phone_number">Moj broj je %s</string>
   <string name="card_title_on_hold">"Na čekanju "</string>
   <string name="card_title_redialing">Ponovni pokušaj</string>
   <string name="card_title_threeway_call">Trostrani poziv</string>
+  <string name="card_title_upgrade_video_call_error">"Ne mogu ažurirati Videopoziv"</string>
+  <string name="card_title_upgrade_video_call_rejected_by_remote">"Ne mogu ažurirati Videopoziv"</string>
+  <string name="card_title_upgrade_video_call_requesting">Traženje zahtjeva za Videopoziv…</string>
+  <string name="card_title_upgrade_video_call_timed_out">"Ne mogu ažurirati Videopoziv"</string>
+  <string name="card_title_video_call">Videopoziv</string>
+  <string name="card_title_video_call_paused">Videopoziv pauziran</string>
   <string name="card_title_video_call">Videopoziv</string>
   <string name="card_title_video_call_connecting">Povezivanje videopoziva</string>
   <string name="card_title_video_call_error">Videopoziv nije uspostavljen</string>
-  <string name="card_title_video_call_requesting">Zahtijevanje videopiziva</string>
+  <string name="card_title_video_call_requesting">Zahtijevanje videopoziva</string>
   <string name="cb_sms_settings">SMS Cell Broadcast Postavke</string>
   <string name="cdma_activate_device">Aktivirati uređaj</string>
   <string name="cdma_lte_data_service">Postavljanje podatkovne usluge</string>
@@ -140,6 +147,8 @@
   <string name="conference_call_description" formatted="false">%s,%s itd. ukupno %s</string>
   <string name="conference_call_number">Osoba: %s</string>
   <string name="conference_call_single_description" formatted="false">%s itd. ukupno %s</string>
+  <string name="conference_caller_info_name">"%1$s konferencijski poziv"</string>
+  <string name="conference_caller_name_me">Ja</string>
   <string name="confirmPin2Label">Potvrdi novi PIN2</string>
   <string name="confirmPinLabel">Potvrdi novi PIN</string>
   <string name="connect_later">Ne mogu se povezati na ovu mrežu trenutno. Pokušajte ponovno.</string>
@@ -304,6 +313,7 @@
   <string name="incall_error_supp_service_switch">Nije moguće promijeniti pozive.</string>
   <string name="incall_error_supp_service_transfer">Nije moguće prebaciti pozive.</string>
   <string name="incall_error_supp_service_unknown">Nepodržana usluga.</string>
+  <string name="incoming_answer_voice_text">Odgovor glasom</string>
   <string name="incall_status_dialed_mmi">Pokretanje MMI sekvence…</string>
   <string name="incoming_call_forwarded_title">Preusmjeri proslijeđeni poziv</string>
   <string name="incoming_via_template">Dolazni pozivi putem operatera %s</string>
@@ -460,7 +470,7 @@
   <string name="onscreenShowDialpadText">Površina za biranje brojeva</string>
   <string name="onscreenSwapCallsText">Zamijeni</string>
   <string name="onscreenSwitchCameraText">Prebaci se na drugi fotoaparat</string>
-  <string name="onscreenVideoCallText">Video poziv</string>
+  <string name="onscreenVideoCallText">Videopoziv</string>
   <string name="onscreen_add_call_text">Dodaj poziv</string>
   <string name="onscreen_audio_mode">Odgovori putem</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
@@ -470,16 +480,21 @@
   <string name="onscreen_audio_mode_speaker">Zvučnik</string>
   <string name="onscreen_audio_switch_mode">Prebaci zvuk</string>
   <string name="onscreen_call_record">Snimi poziv</string>
+  <string name="onscreen_change_to_video">Videopoziv</string>
+  <string name="onscreen_change_to_voice">Glasovni poziv</string>
+  <string name="onscreen_close_preview_camera">Zatvori kameru</string>
   <string name="onscreen_dialer">Tipkovnica</string>
   <string name="onscreen_end_call_text">Završi</string>
   <string name="onscreen_hold_text">Zadrži</string>
   <string name="onscreen_manage_calls_text">Upravljanje pozivima</string>
   <string name="onscreen_merge_calls_text">Upravljanje pozivima</string>
   <string name="onscreen_mute_text">Utišaj</string>
+  <string name="onscreen_rcs_text">Poruke</string>
   <string name="onscreen_note_text">Bilješka</string>
   <string name="onscreen_send_flash_text">Bljeskalica</string>
   <string name="onscreen_speaker_text">Zvučnik</string>
   <string name="onscreen_swap_calls_text">Zamijeni</string>
+  <string name="onscreen_switch_camera">Promjeni kameru</string>
   <string name="onscreen_tools_off">Alati</string>
   <string name="onscreen_tools_on">Alati</string>
   <string name="optional_summary">Opcija</string>
@@ -523,6 +538,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="phone_in_ecm_call_notification_text">Data povezivost isključena</string>
   <string name="phone_in_ecm_notification_title">Način hitnog poziva ECM</string>
   <string name="phone_info_divider">"  |  "</string>
+  <string name="picking_participant">Dobivanje informacije o kontaktu…</string>
   <string name="pick_outgoing_call_phone_type">Uputi poziv</string>
   <string name="pick_outgoing_sip_phone">Koristi račun internetskih poziva:</string>
   <string name="pin2_changed">PIN2 uspješno promijenjen</string>
@@ -710,8 +726,8 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="updating_settings">Ažuriranje postavki…</string>
   <string name="updating_title">Postavke poziva</string>
   <string name="upgrade_vt_prompt">Želite li nadograditi poziv na video poziv?</string>
-  <string name="upgrade_vt_rx_prompt">Želite li nadograditi poziv na video primanje samo poziv?</string>
-  <string name="upgrade_vt_tx_prompt">Želite li nadograditi poziv na video prijenos samo poziv?</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Isključite prvo TTY način</string>
+  <string name="video_switch_to_voice_call_prompt">Prebaci na glasovni poziv</string>  
   <string name="username">Korisničko ime</string>
   <string name="username_title">Korisničko ime</string>
   <string name="vibrate_on_ring_title">Vibriraj kad zvoni</string>

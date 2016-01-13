@@ -105,7 +105,7 @@ Napomena: Podaci za aplikacije koje ste instalirali neće biti spremljene na Mi 
   <string name="retry">Pokušaj ponovo</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="settings_backup">Postavke sustava</string>
-  <string name="start_backup_to_micloud">Napravi Sig. kopiju aplikacija na MiCloudu</string>
+  <string name="start_backup_to_micloud">Napravi Sig. kopiju aplikacija na Mi Cloudu</string>
   <string name="start_recover">Vraćanje %s</string>
   <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>
   <string name="wait_icon_download">Preuzimanje ikone aplikacija</string>

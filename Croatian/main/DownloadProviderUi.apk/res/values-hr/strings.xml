@@ -296,7 +296,7 @@ Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="unbind_xunlei_2_success">Xunlei Račun dodan</string>
   <string name="unbind_xunlei_success">Odjavljen iz Xunlei Računa</string>
   <string name="valid_in_this_month">Vrijedi ovaj mjesec</string>
-  <string name="version">Verija %s</string>
+  <string name="version">Verzija %s</string>
   <string name="vip_auto_speedup">Xunlei ubrzanje preuzimanja uključeno</string>
   <string name="vip_expire_show_info">Isteklo je Xunlei članstvo."</string>
   <string name="vip_expire_today_show_info">Isteklo je Xunlei članstvo."</string>

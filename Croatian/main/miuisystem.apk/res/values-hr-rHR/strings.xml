@@ -188,6 +188,10 @@ idite na: %s."</string>
   <string name="unknown_caller">Nepoznati broj</string>
   <string name="valentines_day">Valentinovo</string>
   <string name="vernal_equinox"/>
+  <string name="vip_achievements">Postignuća</string>
+  <string name="vip_level">LV%d</string>
+  <string name="vip_not_login">Niste prijavljeni</string>
+  <string name="vip_sign">Potpis:</string>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>

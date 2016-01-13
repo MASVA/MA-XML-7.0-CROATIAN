@@ -6,12 +6,14 @@
   <string name="change_default_dialer_dialog_title">Želite li promijeniti zadanu aplikaciju brojčanika?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Želite li upotrebljavati %s kao zadanu aplikaciju brojčanika?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Želite li upotrebljavati %1$s umjesto aplikacije %2$s kao zadanu aplikaciju brojčanika?</string>
-  <string name="duplicate_video_call_not_allowed">Call cannot be added at this time.</string>
-  <string name="enable_account_preference_title">Calling accounts</string>
+  <string name="dial_conference_fail_prompt">"Ne mogu birati konferenciju izravno, jer trenutna mreža ne podržava VoLTE."</string>
+  <string name="dial_vt_fail_prompt">"Trenutna mreža ne podržava VoLTE. Prebaciti se na redovan glasovni poziv?"</string>
+  <string name="duplicate_video_call_not_allowed">Poziv se ne može dodati u ovom trenutku.</string>
+  <string name="enable_account_preference_title">Računi za pozivanje</string>
   <string name="handle_restricted">OGRANIČEN</string>
   <string name="headset_plugin_view_text">Hands-free je povezan.</string>
   <string name="headset_plugin_view_title">Hands-free</string>
-  <string name="incall_error_call_failed">"Couldn't make call."</string>
+  <string name="incall_error_call_failed">"Nije moguće upućivanje poziva."</string>
   <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">Nedostaje broj govorne pošte</string>
   <string name="no_vm_number_msg">Na SIM kartici nije spremljen broj govorne pošte.</string>
@@ -48,6 +50,7 @@
   <string name="unknown">Nepoznato</string>
   <string name="userCallActivityLabel">Telefon</string>
   <string name="video_call_not_allowed_if_tty_enabled">Onemogućite TTY Način rada da omogućite videopozive.</string>
+  <string name="voice_dial_out">Glasovni poziv</string>
   <string name="voice_report_incoming_call">Pozivanje</string>
   <string name="voice_report_unknown_num">Nepoznat broj</string>
 </resources>

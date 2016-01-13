@@ -33,8 +33,8 @@
   <string name="notification_download_complete">Preuzimanje je dovršeno.</string>
   <string name="notification_download_failed">Preuzimanje nije uspjelo.</string>
   <string name="notification_download_failed_more">"Ne mogu preuzeti %1$d stavaka"</string>
-  <string name="notification_download_success_more">Preuzeto %1$ datoteka</string>
-  <string name="notification_need_wifi_for_size">Veličina zahtijeva WLAN</string>
+  <string name="notification_download_success_more">%1$d preuzeto</string>
+  <string name="notification_need_wifi_for_size">Veličina preuzimanja zahtijeva WLAN</string>
   <string name="notification_paused_in_background">Pauzirano u pozadini.</string>
   <string name="paused_waiting_for_network">Čekanje na mrežu</string>
   <string name="permdesc_accessAllDownloads">Omogućuje aplikaciji prikaz i izmjenu svih preuzimanja koja je pokrenula bilo koja aplikacija u sustavu.</string>

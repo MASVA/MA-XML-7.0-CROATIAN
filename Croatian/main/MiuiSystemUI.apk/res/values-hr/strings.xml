@@ -20,6 +20,7 @@
   <string name="accessibility_data_three_bars">Podaci tri linije.</string>
   <string name="accessibility_data_two_bars">Podaci dvije linije.</string>
   <string name="accessibility_home">"Početna"</string>
+  <string name="accessibility_managed_profile">Radni profil</string>
   <string name="accessibility_menu">"Izbornik"</string>
   <string name="accessibility_no_data">"Nema podataka."</string>
   <string name="accessibility_no_phone">Nema telefona.</string>
@@ -119,6 +120,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Prikaži</string>
   <string name="lockscreen_carrier_default">Nema usluge</string>
+  <string name="managed_profile_foreground_toast">"Koristite vaš radni profil"</string>
   <string name="mdb_entering">Pokretanje…</string>
   <string name="mdb_restore_cancel">Odustani</string>
   <string name="mdb_restore_info1">"Obnovite podatke vašeg uređaja"</string>

@@ -110,6 +110,7 @@
   <string name="disable_auto_payment_fail_message">"Ne mogu isključiti autom. obnovu"</string>
   <string name="disable_auto_payment_success">Isključeno</string>
   <string name="disable_auto_payment_success_message">"Autom. obnova isključena. Nakon što vaša trenutna pretplata istekne, morat ćete se ponovo pretplatiti za preuzimanje pjesama."</string>
+  <string name="disallow_add_to_fm">FM je čitanje samo</string>
   <string name="disallow_add_to_personal_radio">Osobni Radio je čitanje samo</string>
   <string name="do_not_remind_again">"Ne prikazuj ponovo"</string>
   <string name="done">Gotovo</string>
