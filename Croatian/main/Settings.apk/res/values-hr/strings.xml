@@ -2334,7 +2334,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="page_layout_page2_normal_title">NORMALAN</string>
   <string name="page_layout_page2_small_summary">MALI</string>
   <string name="page_layout_page2_small_title">MALI</string>
-  <string name="page_layout_page2_title">Pregled</string>
+  <string name="page_layout_page2_title">PREGLED</string>
   <string name="page_layout_small_title">MALI</string>
   <string name="passpoint_content">%1$s vjerodajnice</string>
   <string name="passpoint_label">Spremljeno putem</string>

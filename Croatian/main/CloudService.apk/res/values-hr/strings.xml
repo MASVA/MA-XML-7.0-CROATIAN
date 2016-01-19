@@ -147,7 +147,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_confusion_entrance_notify_text">Dodirnite za prikaz detalja.</string>
   <string name="micloud_confusion_entrance_notify_title">Drugi uređaj mijenja vaš račun</string>
   <string name="micloud_confusion_entrance_question">Jeste li nedavno radili izmjene na vašem Mi Računu pomoću %s?</string>
-  <string name="micloud_confusion_entrance_title">Podacu su promijenjeni</string>
+  <string name="micloud_confusion_entrance_title">Podaci su promijenjeni</string>
   <string name="micloud_confusion_finish_hint">"Promjene koje napravite na ovom uređaju biti će sinkronizirane na svim vašim uređajima. Da bi zaštitili vaš račun, preporučujemo da isključite sinkronizaciju na drugim uređajima kada ih ne koristite."</string>
   <string name="micloud_confusion_finish_message">Isključite sinkronizaciju za druge uređaje.</string>
   <string name="micloud_confusion_finish_title">Račun potvrđen</string>
@@ -199,11 +199,11 @@ ili poništite svoj uređaj."</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
-  <string name="micloud_full_influence_dspt">"Sve vaše fotografije, videozapisi, bilješke i aplikacije će ostati pohranjene na cloud. 
+  <string name="micloud_full_influence_dspt">"Sve vaše fotografije, videozapisi, bilješke i aplikacije će ostati pohranjene na Cloudu. 
 
 Na taj način, ako izgubite ili oštetite uređaj, vaši podaci će i dalje biti na sigurnom. 
 
-Kada je vaš cloud pun, vaši stari podaci neće ići nikamo. Međutim, svaki novi dodani sadržaj (primjerice fotografije, videozapisi, bilješke i aplikacije) neće biti pohranjene.
+Kada je vaš Cloud pun, vaši stari podaci neće ići nikamo. Međutim, svaki novi dodani sadržaj (primjerice fotografije, videozapisi, bilješke i aplikacije) neće biti pohranjene.
 
 Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravili mjesta za nove, ili možete kupiti dodatni prostor za pohranu."</string>
   <string name="micloud_full_influence_title">Kada je vaš Mi Cloud pun…</string>
@@ -220,7 +220,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_data_unsynced">Čeka na sinkr.: %s</string>
   <string name="micloud_main_detail">Prikaži detalje</string>
   <string name="micloud_main_last_sync_time">Zadnja sinkr. %s</string>
-  <string name="micloud_main_memory_low_message">"Da sinkronizirate, izbrišite neke stavke koje ste pohranili u cloudu."</string>
+  <string name="micloud_main_memory_low_message">"Da sinkronizirate, izbrišite neke stavke koje ste pohranili u Cloudu."</string>
   <string name="micloud_main_memory_low_title">Nema dovoljno prostora za pohranu</string>
   <string name="micloud_main_message_not_synced">%s podataka nije sinkr.</string>
   <string name="micloud_main_network_abnormal">"Ne mogu se povezati na mrežu"</string>
@@ -241,7 +241,7 @@ Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
   <string name="micloud_main_sync_on_wifi">Čeka se WLAN</string>
   <string name="micloud_main_sync_pause">Sinkr. pauzirana</string>
   <string name="micloud_main_sync_pending">Čekanje na sinkronizaciju</string>
-  <string name="micloud_main_sync_setting">Postavke Sinkr.</string>
+  <string name="micloud_main_sync_setting">Postavke sinkr.</string>
   <string name="micloud_main_sync_stop">Sinkr. zaustavljena</string>
   <string name="micloud_main_synced_data_count">Sinkronizirano (%d) stavaka</string>
   <string name="micloud_main_syncing">Sinkroniziram…</string>
@@ -299,9 +299,9 @@ Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
   <string name="micloud_space_soundrecorder_title">Snimke</string>
   <string name="micloud_storage">Prostor za pohranu</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Osigurajte dovoljno Mi Kredita za automatsku obnovu.</string>
-  <string name="micloud_storage_expires_manually_renewal_sum">"Neke cloud usluge mogu biti obustavljene. Preporuka je da se omogući autom. obnova."</string>
-  <string name="micloud_storage_expires_soon_title">Nadoplaćen cloud prostor za pohranu uskoro ĆE isteći.</string>
-  <string name="micloud_storage_expires_very_soon_title">Nadoplaćen cloud prostor za pohranu uskoro ĆE isteći.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">"Neke Cloud usluge mogu biti obustavljene. Preporuka je da se omogući autom. obnova."</string>
+  <string name="micloud_storage_expires_soon_title">Nadoplaćen Cloud prostor za pohranu uskoro ĆE isteći.</string>
+  <string name="micloud_storage_expires_very_soon_title">Nadoplaćen Cloud prostor za pohranu uskoro ĆE isteći.</string>
   <string name="micloud_storage_full">Cloud pohrana je puna</string>
   <string name="micloud_storage_usage" formatted="false">Iskorišteno %s/Ukupan prostor %s</string>
   <string name="micloud_sync_alert_dialog_message">Sinkronizirajte vaše fotografije, kontakte, bilješke i više na svim vašim uređajima.</string>
@@ -314,8 +314,8 @@ Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
   <string name="micloud_title_full_dspt">"Dosegli ste ograničenje kapaciteta pohrane"</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
-  <string name="micloud_upgrade_member">Nabavite više Prostora za pohranu</string>
-  <string name="micloud_upgrade_space">Nabavite više Prostora za pohranu</string>
+  <string name="micloud_upgrade_member">Nabavite više prostora za pohranu</string>
+  <string name="micloud_upgrade_space">Nabavite više prostora za pohranu</string>
   <string name="micloud_user_space_title">Prostor za pohranu</string>
   <string name="micloud_user_space_usage">Prostor za pohranu</string>
   <string name="micloud_warn_full_sum">"Nove stavke neće biti sinkronizirane s MiCloudom."</string>
@@ -363,8 +363,8 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="pref_summary_sync_video_on_wifi_only">"Sinkronizacija videozapisa profila kontakata samo kada ste povezani na WLAN mrežu"</string>
   <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinkr. fotografija.</string>
-  <string name="pref_title_sync_video_on_wifi_only">Koristiti samo WLAN za sinkr. videozapisa.</string>
-  <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="pref_title_sync_video_on_wifi_only">Koristi samo WLAN za sinkr. videozapisa.</string>
+  <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="remind_later">Ne sada</string>
   <string name="restoreSync">Sinkroniziraj sada</string>
   <string name="setting">Postavke</string>
