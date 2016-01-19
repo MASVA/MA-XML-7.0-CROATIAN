@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Galerija</string>
+  <string name="at_least_one">Odaberite barem jednu kategoriju</string>
   <string name="cancel">Izlaz</string>
   <string name="change_time">Promjeni interval</string>
   <string name="day">1 dan</string>
   <string name="declaration">Najnovije vijesti, celebrity trendovi, video informacije, način života, za vas u stvarnom vremenu.</string>
-  <string name="declaration_title">Uvjeti korištenja</string>
+  <string name="declaration_title">Uvjeti i Odredbe</string>
   <string name="hour_1">1 sat</string>
   <string name="hour_3">3 sata</string>
   <string name="lockscreen_magazine_subscribe">%1$s sljedbenika</string>
@@ -18,7 +19,7 @@
   <string name="resource_apply">Postavi</string>
   <string name="resource_no_network_text">"Ne mogu se povezati na mrežu."</string>
   <string name="setting_head">Postavke</string>
-  <string name="summary">"Korištenjem ovog proizvoda, pristajete na naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnosti&lt;/a&gt;. Ova aplikacija treba povezivanje na internet za normalan rad."</string>
+  <string name="summary">"Prihvatite naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnosti&lt;/a&gt; za početak. Potrebna internetska veza.​"</string>  
   <string name="theme_apply_failured">"Ne mogu postaviti sliku pozadine zaklj. zaslona"</string>
   <string name="theme_apply_success">Pozadina zaklj. zaslona postavljena</string>
   <string name="theme_applying">Postavljanje…</string>

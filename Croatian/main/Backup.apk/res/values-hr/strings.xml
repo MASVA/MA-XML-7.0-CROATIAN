@@ -217,7 +217,7 @@
   <string name="task_backup_cancel_progress">Otkazivanje…</string>
   <string name="task_backup_finished_local">"Završeno "</string>
   <string name="task_canceled">Otkazano</string>
-  <string name="task_canceled_all_local">Otkaži sve zadatke</string>
+  <string name="task_canceled_all_local">Otkazano</string>
   <string name="task_canceled_local">Sig. kopija nepotpuna (%s)</string>
   <string name="task_cloud_backup_cancel_dialog">"Sig. kopija nije završena. Svejedno zaustaviti?"</string>
   <string name="task_failed">"Ne mogu napraviti Sig. kopiju"</string>
@@ -244,7 +244,7 @@
   <string name="total_num">Stavki %d,</string>
   <string name="trans_backingup">Izrada Sig. kopije …</string>
   <string name="trans_backingup_no_items">Sinkr. …</string>
-  <string name="trans_cancel_confirm">Prijenos u tijeku, otkazati sada?</string>
+  <string name="trans_cancel_confirm">Prijenos u tijeku, zaustaviti sada?</string>
   <string name="trans_cancelling">Odustani</string>
   <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>
   <string name="trans_connecting_toast">Povezivanje…</string>
@@ -275,9 +275,9 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
   <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka, %s završeno</string>
   <string name="trans_progress_subdescript_waiting">Čekanje na primanje %s</string>
   <string name="trans_receiver">"Ja sam primatelj"</string>
-  <string name="trans_receiver_time_remained">"%s preostalo. Držite uređaj napunjenim.
- Ne isključujte Hotspot. Držite oba uređaja blizu jedan drugoga."</string>
-  <string name="trans_receiving_completed">Podaci primljeni</string>
+  <string name="trans_receiver_time_remained">"%s preostalo.
+ Ne isključujte WLAN. Držite oba uređaja blizu jedan drugoga."</string>
+  <string name="trans_receiving_completed">Uspješno primljeno</string>
   <string name="trans_restoring">Vraćanje…</string>
   <string name="trans_restoring_no_items">Sinkr. stavaka</string>
   <string name="trans_scan_invalid_qrcode">Nevažeći QR kod</string>
@@ -294,9 +294,9 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
   <string name="trans_sender_searching">Traženje za novim uređajima</string>
   <string name="trans_sender_searching_ensurance">"Pobrinite se da je drugi uređaj uključen.
 Čekanje povezivanja drugog uređaja…"</string>
-  <string name="trans_sender_time_remained">"%s preostalo. Držite uređaj napunjenim.
+  <string name="trans_sender_time_remained">"%s preostalo.
  Ne isključujte WLAN. Držite oba uređaja blizu jedan drugoga."</string>
-  <string name="trans_sending_completed">Podaci poslani</string>
+  <string name="trans_sending_completed">Uspješno poslano</string>
   <string name="trans_show_qr_code_label">Povežite drugi uređaj</string>
   <string name="trans_show_qr_code_tips">Skenirajte QR kod s vašim starim uređajem</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>

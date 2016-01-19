@@ -50,7 +50,7 @@
   <string name="button_exit">Izlaz</string>
   <string name="button_not_allow">Odustani</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
-  <string name="daily_forcast_drawer_on_top">Prikaži ostale dane</string>
+  <string name="daily_forcast_drawer_on_top">Prikaži više dana</string>
   <string name="daily_forcast_no_wind">Nema vjetra</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s kasnije</string>

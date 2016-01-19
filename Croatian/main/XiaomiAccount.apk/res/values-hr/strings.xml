@@ -239,7 +239,7 @@
   <string name="nobind">Nije povezano</string>
   <string name="other_devices">Ostali uređaji</string>
   <string name="passport_access_denied">Pristup odbijen</string>
-  <string name="passport_account_hint_text">E-pošta ili broj telefona</string>
+  <string name="passport_account_hint_text">Adresa E-pošte ili ID Mi Računa</string>
   <string name="passport_account_identity_title">Potvrdite vaš identitet</string>
   <string name="passport_account_name">Račun: %1$s</string>
   <string name="passport_account_not_activated">"Račun nije aktiviran"</string>

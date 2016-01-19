@@ -29,12 +29,12 @@
   <string name="cancel_download">Zaustaviti preuzimanje ažuriranja?</string>
   <string name="cancel_download_buton_text">Odustani</string>
   <string name="check_local_package_update_btn">Ponovno pokreni i ažuriraj</string>
-  <string name="check_local_package_update_msg">"Spremate se ažurirati na MIUI verziju %s. Telefon će se automatski ponovno pokrenuti tijekom ažuriranja."</string>
+  <string name="check_local_package_update_msg">"Vaš telefon će se automatski ponovno pokrenuti radi ažuriranja na MIUI verziju %s."</string>
   <string name="check_local_package_update_title">Ažuriraj</string>
   <string name="check_local_package_validate_error_button">U redu</string>
   <string name="check_local_package_validate_error_msg">"Ne mogu provjeriti paket ažuriranja."</string>
   <string name="check_local_package_wipe_btn">Izbriši i Ažuriraj</string>
-  <string name="check_local_package_wipe_msg">"Spremate se promjeniti na MIUI verziju %s, koja je starija od trenutne verzije. Vaši osobni podaci će biti izbrisani. Provjerite jeste li napravili sigurnosnu kopiju svih važnih stvari prije nego što započnete proces."</string>
+  <string name="check_local_package_wipe_msg">"Spremate se vratiti na MIUI verziju %s, koja je starija od trenutne verzije. Vaši osobni podaci će biti izbrisani. Pobrinite se da izradite sigurnosnu kopiju svega što želite zadržati prije nego što započnete proces."</string>
   <string name="check_local_package_wipe_title">Izbriši podatke</string>
   <string name="check_new_version">Provjeri</string>
   <string name="check_update_policy">Postavke</string>
@@ -49,8 +49,10 @@
   <string name="comment_upload_not_logined">Morate se prvo prijaviti u vaš Mi Račun</string>
   <string name="comment_upload_success">Poslano</string>
   <string name="confirm_local_package_wipe_btn">Izbriši i Ažuriraj</string>
-  <string name="confirm_local_package_wipe_msg">Vaši osobni podaci će biti izbrisani. Provjerite jeste li napravili sigurnosnu kopiju svih važnih stvari prije nego što započnete proces.</string>
+  <string name="confirm_local_package_wipe_msg">Vaši osobni podaci će biti izbrisani. Pobrinite se da izradite sigurnosnu kopiju svega što želite zadržati prije nego što započnete proces.</string>
   <string name="confirm_local_package_wipe_title">Izbrisati podatke?</string>
+  <string name="continue_update_negative_btn">Nastavi</string>
+  <string name="continue_update_positive_btn">Zaustavi</string>
   <string name="daily_build">Dnevno izdanje</string>
   <string name="download_again">Pokušaj ponovno</string>
   <string name="download_cancel">Odustani</string>
@@ -110,7 +112,7 @@
   <string name="no_wifi_msg">"Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.
   Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove."</string>
   <string name="no_wifi_title">Upozorenje uporabe podataka</string>
-  <string name="not_open">Ne sada</string>
+  <string name="not_open">Ne</string>
   <string name="notification_auto_reboot_seccess_title">Uređaj je automatski ažuriran</string>
   <string name="notification_downloading">Preuzimanje ažuriranja…</string>
   <string name="notification_fail_msg">Pokušajte preuzeti ROM u cijelosti</string>
@@ -130,7 +132,7 @@
   <string name="notification_update_now">Ažurirati sada</string>
   <string name="notification_updating">Ažuriranje…</string>
   <string name="on_checking">Provjeravam…</string>
-  <string name="open_now">Uključi</string>
+  <string name="open_now">Da</string>
   <string name="particular_build">Osobito</string>
   <string name="pause">Pauza</string>
   <string name="pm_root_acquired_button">ROOT pristup</string>
@@ -160,8 +162,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="root_agree_check_box_title">Razumijem rizik od ROOT pristupa</string>
   <string name="root_dangerous_msg">Dopuštanje ROOT pristupa je vrlo rizično i može izlagati vaš uređaj i osobne podatke napadima zlonamjernih aplikacija. Suglasni ste da ste isključivo sami odgovorni za gubitak podataka ili bilo kakvu štetu nastalu na vašem uređaju koji mogu proizaći dopuštajući ROOT pristup.</string>
   <string name="set_auto">Provjeri ima li ažuriranja automatski</string>
-  <string name="set_auto_msg">Automatski preuzmi ažuriranja kada je povezano na WLAN.</string>
-  <string name="set_auto_update_title">Preuzmi ažuriranja automatski</string>
+  <string name="set_auto_msg">"Preuzeti ažuriranja automatski kada ste povezani na WLAN?"</string>
+  <string name="set_auto_update_title">Preuzeti ažuriranja automatski?</string>
   <string name="set_installfail_full_msg">"Ne mogu ažurirati u ovom trenutku. Dodirnite U redu kako bi prijavili ovu pogrešku."</string>
   <string name="set_installfail_msg">Niste povezani na WLAN mrežu. Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.
   Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove</string>
