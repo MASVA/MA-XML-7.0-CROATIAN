@@ -254,18 +254,18 @@
   <string name="trans_detail_category_userdata">Aplikacije</string>
   <string name="trans_device_disconnected">Uređaj nije povezan</string>
   <string name="trans_generate_qr_code_failed">"Nije moguće izraditi QR kod"</string>
-  <string name="trans_main_tutor">Prenesite kontakte, povijest poziva, poruke, raspored početnog zaslona, aplikacije, postavke, itd. na novi uređaj</string>
+  <string name="trans_main_tutor">Premjestite kontakte, povijest poziva, poruke, raspored početnog zaslona, aplikacije, postavke, itd. na novi uređaj</string>
   <string name="trans_my_device">Moj uređaj</string>
-  <string name="trans_one_key_migrate">Prijenos</string>
+  <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Metoda A</string>
   <string name="trans_operate_func_two">Metoda B</string>
-  <string name="trans_operate_new_phone_tips">"Skenirajte QR koda koristeći novi uređaj
-Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
+  <string name="trans_operate_new_phone_tips">"Skenirajte QR kod koristeći novi uređaj
+Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
  Dodirnite [Ja sam primatelj] da izradite QR kod"</string>
-  <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikaciju Prijenos na vašem drugom uređaju
+  <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikaciju Mi Mover na vašem drugom uređaju
 2. Otvorite aplikaciju i odaberite [Ja sam pošiljatelj]
 3. Skenirajte QR kod s vašim drugim uređajem"</string>
-  <string name="trans_operate_old_phone_tips2">Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
+  <string name="trans_operate_old_phone_tips2">Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
  Dodirnite [Ja sam pošiljatelj]"</string>
   <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s završeno</string>
@@ -305,7 +305,7 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Prijenos
   <string name="trans_wait_trans_data">"Povezano sa drugim uređajem.
 Čeka se prijenos…"</string>
   <string name="trans_waiting_ensurance">"Pobrinite se da je drugi uređaj uključen
-I prijenos omogućen"</string>
+I Mi Mover uključen"</string>
   <string name="trans_waiting_for_sender">Čekanje povezivanja drugog uređaja…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" stavki"</string>

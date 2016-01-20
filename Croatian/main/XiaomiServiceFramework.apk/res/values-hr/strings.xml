@@ -12,6 +12,12 @@
   <string name="activate_feature_mx_and_voip">Mi Poruka i Glas</string>
   <string name="activate_feature_register_xiaomi_account">Postavljanje Mi Računa</string>
   <string name="activate_feature_verify_mx_token">Provjera Mi Računa</string>
+  <string name="activate_history_cancelled">Otkazano</string>
+  <string name="activate_history_multisim_overview">Aktiviranje za SIM karticu %3$d %1$s. Aktivirano značajkom \"%2$s\".</string>
+  <string name="activate_history_overview">Aktiviranje za SIM karticu %1$s. Aktivirano značajkom \"%2$s\".</string>
+  <string name="activate_history_sms">SMS poruka poslana tijekom aktivacije.</string>
+  <string name="activate_history_success">Uspješno</string>
+  <string name="activate_history_title">Aktiviranje SIM kartice</string>
   <string name="activate_phone_cancel_notif_title">Aktiviranje SIM kartice otkazano</string>
   <string name="activate_phone_cancel_notif_title_msim">Aktiviranje SIM kartice %s otkazano</string>
   <string name="activate_phone_failed_notif_title">"Ne mogu aktivirati SIM karticu"</string>
@@ -75,7 +81,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_status_desc_device_id_error">Nevažeći IMEI</string>
   <string name="activate_status_desc_failed_getting_gateway">Neuspjelo dobivanje SMS-a s pristupnika</string>
   <string name="activate_status_desc_getting_gateway">Dobivanje SMS-a s pristupnika</string>
-  <string name="activate_status_desc_prepare_sending_sms">Priprema slanja aktivacijskog SMS-a pristupniku</string>
+  <string name="activate_status_desc_prepare_sending_sms">Priprema slanja SMS-a aktivacije pristupniku</string>
   <string name="activate_status_desc_query_activation_info">Upit informacija o aktivaciji s poslužitelja</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">Poslužitelj nije uspio poslati SMS aktivacije na vaš telefon</string>
   <string name="activate_status_desc_query_activation_info_no_info">"Ne mogu pronaći informacije o aktivaciji na poslužitelju"</string>

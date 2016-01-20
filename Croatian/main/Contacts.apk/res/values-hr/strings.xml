@@ -43,7 +43,7 @@
   <string name="audio_chat">Glasovni chat</string>
   <string name="auto_nickname">"Automatski"</string>
   <string name="auto_set_nickname">"Automatski"</string>
-  <string name="back_view_description">Kliknite za povratak na prethodni zaslon</string>
+  <string name="back_view_description">Dodirnite za povratak</string>
   <string name="batch_delete">Izbriši seriju</string>
   <string name="blacklist">Blokiraj</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth veza je prekinuta</string>
@@ -296,8 +296,8 @@ Kartice kontakata su isključene"</string>
   <string name="description_image_button_one">jedan</string>
   <string name="description_image_button_pound">funta</string>
   <string name="description_image_button_seven">sedam</string>
-  <string name="description_image_button_sim1_dial">biraj sa sim 1</string>
-  <string name="description_image_button_sim2_dial">biraj sa sim 2</string>
+  <string name="description_image_button_sim1_dial">Biraj koristeći SIM1</string>
+  <string name="description_image_button_sim2_dial">Biraj koristeći SIM2</string>
   <string name="description_image_button_six">šest</string>
   <string name="description_image_button_star">*</string>
   <string name="description_image_button_three">tri</string>
@@ -352,7 +352,7 @@ Kartice kontakata su isključene"</string>
   <string name="dialer_empty_text_loading">"Učitavanje…"</string>
   <string name="dialer_empty_text_no_call_log">"Nema nedavnih kontakata"</string>
   <string name="dialer_empty_text_no_search_result">Nisu pronađeni kontakti</string>
-  <string name="dialer_menu_description">Kliknite da otvorite izbornik</string>
+  <string name="dialer_menu_description">Dodirnite za otvaranje izbornika</string>
   <string name="dialer_returnToInCallScreen">"Natrag na poziv u tijeku"</string>
   <string name="dialer_useDtmfDialpad">"Koristi dodirnu zvučnu tipkovnicu"</string>
   <string name="dialog_import">"Uvoz kontakata"</string>
@@ -484,7 +484,7 @@ Razlog: \"%s\""</string>
   <string name="import_from_sim2">Uvezi sa SIM kartice 2</string>
   <string name="import_multiple_vcard_string">Uvoz više vCard datoteka</string>
   <string name="import_name">Ime</string>
-  <string name="import_one_vcard_string">Uvezi jednu vCard datoteku</string>
+  <string name="import_one_vcard_string">Uvezi 1 vCard datoteku</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">"Uvoz odabranih kontakata"</string>
   <string name="import_sim_entries_finish">Završen uvoz kontakata sa SIM kartice</string>
@@ -670,7 +670,7 @@ Razlog: \"%s\""</string>
   <string name="miprofile_name">Moj profil</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Unesite nadimak, kao npr. MASVA</string>
-  <string name="miprofile_nick_name_edit_dialog_message">Nadimak će se prikazati u povijesti poziva i infor. o profilu</string>
+  <string name="miprofile_nick_name_edit_dialog_message">Nadimak će se prikazati u povijesti poziva i inform. o profilu</string>
   <string name="miprofile_nick_name_edit_dialog_title">Uredite nadimak</string>
   <string name="miprofile_notice_text">"Dodirnite za prikaz fotografije profila kontakta"</string>
   <string name="miprofile_request_agenda_date">Ova osoba želi razmijeniti Kartice kontakata [%1$s]</string>
@@ -1320,7 +1320,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="voicemail_status_configure_voicemail">"Postavite svoju govornu poštu."</string>
   <string name="voicemail_status_messages_waiting">"Povezivanje s poslužiteljem govorne pošte nije moguće." Nova govorna pošta čeka."</string>
   <string name="voicemail_status_voicemail_not_available">"Povezivanje s poslužiteljem govorne pošte nije moguće."</string>
-  <string name="voip_audio_description">Kliknite za voip audio</string>
+  <string name="voip_audio_description">Dodirnite za slanje glasovne poruke</string>
   <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_contacts_entry_header">Mi Poruka i Voice</string>
@@ -1328,7 +1328,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Dodirnite za korištenje Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
-  <string name="voip_video_description">Kliknite za voip video</string>
+  <string name="voip_video_description">Dodirnite za slanje video poruke</string>
   <string name="websiteLabelsGroup">"Web-lokacija"</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Izbriši podatke</string>

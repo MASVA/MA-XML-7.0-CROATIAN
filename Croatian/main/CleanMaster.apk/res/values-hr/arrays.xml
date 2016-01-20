@@ -50,7 +50,7 @@
     <string-array name="apk_clean_menu">
         <item>Očisti</item>
 		<item>Instaliraj ovu aplik.</item>
-        <item>"Prikaži lokaciju aplikacije"</item>
+        <item>Prikaži u mapi</item>
         <item>Dodaj u iznimke</item>
     </string-array>
     <string-array name="auto_alert_apps_time">

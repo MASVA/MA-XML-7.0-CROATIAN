@@ -222,6 +222,10 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_add_voicemail_Desc">Dodaj glasovne poruke sustava</string>
   <string name="HIPS_Perm_get_accounts">Pristup računima na uređaju</string>
   <string name="HIPS_Perm_get_accounts_Desc">Pristup svim računima pohranjenim na uređaju</string>
+  <string name="HIPS_Perm_install_shortcut">Prečaci Poč. zaslona</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">Dodaj prečac na Poč. zaslon</string>
+  <string name="HIPS_Perm_process_nfc">NFC</string>
+  <string name="HIPS_Perm_process_nfc_Desc">Pristup Near Field Communication (NFC) hardveru</string>
   <string name="HIPS_Perm_process_outgoing_calls">Pristup aplikaciji Telefon</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Nadzir i završavanje poziva</string>
   <string name="HIPS_Perm_use_sip">Video usluge</string>

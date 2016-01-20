@@ -53,10 +53,10 @@
   <string name="birthday_event_description_day_before_yesterday">Prekjučer</string>
   <string name="birthday_event_description_days_ago">Prije ovoliko %1$s dana</string>
   <string name="birthday_event_description_days_later">%1$s dana kasnije</string>
-  <string name="birthday_event_description_default">"%1$s %2$s%3$s%4$s"</string>
+  <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_event_description_special">"%1$s je %2$s %3$s%4$s%5$s"</string>
+  <string name="birthday_event_description_special">"%1$s je %2$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Danas</string>
   <string name="birthday_event_description_tomorrow">Sutra</string>
   <string name="birthday_event_description_yesterday">Jučer</string>

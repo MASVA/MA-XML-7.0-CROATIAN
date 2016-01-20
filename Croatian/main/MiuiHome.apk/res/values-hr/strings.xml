@@ -145,7 +145,7 @@
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
   <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
   <string name="like">Sviđa mi se</string>
-  <string name="liked">Već mi sve sviđa</string>
+  <string name="liked">Svidjelo mi se</string>
   <string name="loading_desktop">Samo trenutak…</string>
   <string name="loading_wallpaper">Samo trenutak…</string>
   <string name="local_wallpaper">Preuzeto</string>
