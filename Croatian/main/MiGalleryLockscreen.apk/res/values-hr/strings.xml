@@ -7,6 +7,7 @@
   <string name="day">1 dan</string>
   <string name="declaration">Najnovije vijesti, celebrity trendovi, video informacije, način života, za vas u stvarnom vremenu.</string>
   <string name="declaration_title">Uvjeti i Odredbe</string>
+  <string name="declaration_lockscreen_title">Omogući Dnevne pozadine zaklj. zaslona</string>
   <string name="hour_1">1 sat</string>
   <string name="hour_3">3 sata</string>
   <string name="lockscreen_magazine_subscribe">%1$s sljedbenika</string>
@@ -15,7 +16,8 @@
   <string name="lockscreen_magazine_system_title">Zadano</string>
   <string name="lockscreen_magazine_title">Dnevne pozadine zaklj. zaslona</string>
   <string name="no_long_show">"Ne prikazuj ponovo"</string>
-  <string name="ok">Slažem se</string>
+  <string name="ok_lockscreen">U redu</string>
+  <string name="ok">Slažem se i omogući Dnevne pozadine zaklj. zaslona</string>
   <string name="resource_apply">Postavi</string>
   <string name="resource_no_network_text">"Ne mogu se povezati na mrežu."</string>
   <string name="setting_head">Postavke</string>

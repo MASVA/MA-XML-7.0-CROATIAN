@@ -22,6 +22,7 @@
   <string name="app_category_tools">Alati</string>
   <string name="app_category_travel">Putovanja</string>
   <string name="application_name">MIUI Pokretač</string>
+  <string name="apply">Primjeni</string>
   <string name="apply_action">Primjeni</string>
   <string name="apply_as_lock_screen">Zaklj. zaslon</string>
   <string name="apply_as_lock_wallpaper_message">Postaviti i za pozadinu zaklj. zaslona?</string>
@@ -143,6 +144,8 @@
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
   <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
+  <string name="like">Sviđa mi se</string>
+  <string name="liked">Već mi sve sviđa</string>
   <string name="loading_desktop">Samo trenutak…</string>
   <string name="loading_wallpaper">Samo trenutak…</string>
   <string name="local_wallpaper">Preuzeto</string>
@@ -208,7 +211,9 @@
   <string name="select_frame">Okvir</string>
   <string name="select_photo">Fotografija</string>
   <string name="setting_wallpaper_tip">Pomakni ili uvećaj za prilagodbu</string>
+  <string name="settings">Postavke</string>
   <string name="settings_shortcut">Postavke</string>
+  <string name="share">Podijeli</string>
   <string name="sharedUserId"/>
   <string name="show_all">Prikaži sve</string>
   <string name="sort_by_abc">Poredaj po nazivu</string>
