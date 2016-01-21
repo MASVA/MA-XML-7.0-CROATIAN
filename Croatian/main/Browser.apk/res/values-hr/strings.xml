@@ -524,7 +524,7 @@ Napustiti ovu stranicu?"</string>
   <string name="progress_dialog_setting_wallpaper">Podešavanje slike pozadine…</string>
   <string name="pull_to_refresh_pull_label">Povuci za osvježiti…</string>
   <string name="pull_to_refresh_refreshing_label">Samo trenutak…</string>
-  <string name="pull_to_refresh_release_label">Otpustite za odlazak na Preporučeno i osvježiti</string>
+  <string name="pull_to_refresh_release_label">Otpustite za preporučeno i osvježiti</string>
   <string name="qr_code_title">QR Kod</string>
   <string name="quicklink_bookmark_save">LOKACIJA OZNAKA</string>
   <string name="quicklink_not_saved">"Ne mogu dodati na početnu stranicu"</string>

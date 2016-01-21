@@ -894,6 +894,16 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="onscreenSwapCallsText">Zamijeni</string>
   <string name="onscreenVideoCallText">Videopoziv</string>
   <string name="open_miui">Otvori</string>
+  <string name="operator_first_mins_hint">xx minuta</string>
+  <string name="operator_first_mins_none_summary">Paket nadoplate prvo</string>
+  <string name="operator_first_mins_none_title">Sve minute potrošene</string>
+  <string name="operator_first_no_set">Nema vrijednosti</string>
+  <string name="operator_first_set_failed">Nije uspjelo</string>
+  <string name="operator_first_sim_card_changed_summary">Resetiraj paket minuta</string>
+  <string name="operator_first_sim_card_changed_title">Promjena SIM kartice</string>
+  <string name="operator_first_title">Operator prvo</string>
+  <string name="operator_remain_mins">Paket minuta Operatora</string>
+  <string name="operator_remain_mins_value">%1$s minutes</string>
   <string name="operation_successfully">Radnja je uspjela!</string>
   <string name="optional_summary">&lt;Izborno&gt;</string>
   <string name="order_by_name">Abecedno</string>
