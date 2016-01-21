@@ -2,6 +2,7 @@
 <resources>
   <string name="ErrorTooManyRequests">"U obradi je previše zahtjeva. Pokušajte ponovo kasnije."</string>
   <string name="ack_record">Ack zapis</string>
+  <string name="airplane_can_not_share">"U Zrakoplovnom načinu ne možete dijeliti Bluetoothom"</string>
   <string name="airplane_error_msg">Bluetooth se ne može upotrebljavati u Zrakoplovnom načinu.</string>
   <string name="airplane_error_title">"Zrakoplovni način"</string>
   <string name="app_name">Bluetooth dijeljenje</string>
@@ -83,9 +84,7 @@
   <string name="incoming_file_confirm_Notification_caption">Želite li primiti ovu datoteku?</string>
   <string name="incoming_file_confirm_Notification_title">Dijeljenje Bluetoothom: Dolazna datoteka</string>
   <string name="incoming_file_confirm_cancel">"Odbaci"</string>
-  <string name="incoming_file_confirm_content">"\"%1$s\" vam želi poslati %2$s (%3$s). 
-
-Prihvaćate li datoteku?"</string>
+  <string name="incoming_file_confirm_content">"Prihvaćate li datoteku?"</string>
   <string name="incoming_file_confirm_ok">"Prihvaćam"</string>
   <string name="incoming_file_confirm_timeout_content">Došlo je do prekoračenja vremena pri primanju datoteke koju šalje \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">"U redu"</string>
