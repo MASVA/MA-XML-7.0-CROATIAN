@@ -329,7 +329,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_phone_num_hint_text">Broj telefona</string>
   <string name="passport_prev">Natrag</string>
   <string name="passport_privacy_policy">Pravila o Privatnosti</string>
-  <string name="passport_provision_skip_login">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
+  <string name="passport_provision_skip_login">Preskoči ovaj korak</string>
   <string name="passport_quick_login_dialog_step2_title">Provjera u 2 koraka</string>
   <string name="passport_quick_login_dialog_title">Provjera zaporke</string>
   <string name="passport_quick_login_step2_title">Provjera u 2 koraka</string>

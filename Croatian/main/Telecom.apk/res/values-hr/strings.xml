@@ -3,6 +3,7 @@
   <string name="accessibility_call_muted">Poziv utišan.</string>
   <string name="accessibility_speakerphone_enabled">Zvučnik je uključen.</string>
   <string name="add_vm_number_str">Dodaj broj</string>
+  <string name="can_not_dial_while_vt_prompt">"Ne mogu birati dok je videopoziv u tijeku"</string>
   <string name="change_default_dialer_dialog_title">Želite li promijeniti zadanu aplikaciju brojčanika?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Želite li upotrebljavati %s kao zadanu aplikaciju brojčanika?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Želite li upotrebljavati %1$s umjesto aplikacije %2$s kao zadanu aplikaciju brojčanika?</string>
@@ -38,6 +39,7 @@
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Brzi odgovori</string>
   <string name="respond_via_sms_setting_title_2">Uređivanje brzih odgovora</string>
+  <string name="select_account_dialog_title">Odaberite račun</string>
   <string name="telecommAppLabel">Telefon</string>
   <string name="test_account_0_label">Q Mobile</string>
   <string name="test_account_0_short_description">Račun sa Q Mobile</string>

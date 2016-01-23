@@ -42,7 +42,7 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem</string>
   <string name="sim_dectection_next">Nastavi</string>
   <string name="sim_redetection">Provjeri ponovo</string>
-  <string name="skip_underline">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
+  <string name="skip_underline">Preskoči ovaj korak</string>
   <string name="summary_not_set">Nije postavljeno</string>
   <string name="summary_sim_card">Kartica %1$d</string>
   <string name="summary_sim_card_with_operator">Kartica %1$d: %2$s</string>

@@ -375,6 +375,7 @@
   <string name="disable_fdn_ok">Uključi FDN</string>
   <string name="disable_pin_ok">PIN za SIM je isključen.</string>
   <string name="disable_sim_pin">Onemogući SIM PIN</string>
+  <string name="disconnect_data_confirm">Podatkovni podaci privremeno će biti isključeni. Jeste li sigurni?</string>
   <string name="display_name_summary">"Isto kao korisničko ime."</string>
   <string name="display_name_title">Ime za prikaz</string>
   <string name="do_not_ask">"Ne pitaj ponovno"</string>

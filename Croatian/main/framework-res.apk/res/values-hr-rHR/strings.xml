@@ -180,6 +180,7 @@ koristeći %s"</string>
   <string name="date_time_done">Gotovo</string>
   <string name="date_time_set">Postavi</string>
   <string name="day">dan</string>
+  <string name="day_picker_description">Tablica dana u mjesecu</string>
   <string name="days">dana</string>
   <string name="decline">Odbaci</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -219,6 +220,7 @@ koristeći %s"</string>
   <string name="done_label">Gotovo</string>
   <string name="double_tap_toast">Savjet: Dvaput dotaknite za povećavanje i smanjivanje.</string>
   <string name="downtime_condition_line_one">Do završetka prekida rada</string>
+  <string name="downtime_condition_summary">Dok razdoblje zastoja ne završi u %1$s</string>
   <string name="dump_heap_notification">Proces %1$s premašio je ograničenje memorije</string>
   <string name="dump_heap_notification_detail">Generirana je snimka memorije procesa. Dodirnite za dijeljenje.</string>
   <string name="dump_heap_text">Proces %1$s premašio je ograničenje memorije od %2$s. Dostupna vam je snimka memorije procesa koju možete podijeliti s razvojnim programerom. Budite oprezni: ta snimka memorije može sadržavati vaše osobne podatke kojoj aplikacija ima pristup.</string>
@@ -274,9 +276,16 @@ koristeći %s"</string>
   <string name="ext_media_move_success_title">Premještanje dovršeno</string>
   <string name="ext_media_move_title">Premještanje podataka</string>
   <string name="ext_media_new_notification_message">Otkriven je novi uređaj %s</string>
+  <string name="ext_media_nofs_notification_message">USB pohrana prazna je ili ima nepodržani datotečni sustav.</string>
+  <string name="ext_media_nofs_notification_title">Prazna memorija USB</string>
   <string name="ext_media_nomedia_notification_message">Uklonjen je uređaj %s; umetnite novi</string>
   <string name="ext_media_nomedia_notification_title">Uklonjen je uređaj %s</string>
   <string name="ext_media_ready_notification_message">Za prijenos fotografija i medija</string>
+  <string name="ext_media_safe_unmount_notification_message">USB memoriju možete sigurno ukloniti.</string>
+  <string name="ext_media_safe_unmount_notification_title">Sigurno uklanjanje memorije USB</string>
+  <string name="extmedia_format_button_format">Formatiraj</string>
+  <string name="extmedia_format_message">Sve datoteke pohranjene na vašoj USB pohrani bit će izbrisane. Ta se radnja ne može poništiti!</string>
+  <string name="extmedia_format_title">Format. USB pohranu?</string>
   <string name="ext_media_status_bad_removal">Uklonjeno na nesiguran način</string>
   <string name="ext_media_status_checking">Provjeravanje…</string>
   <string name="ext_media_status_ejecting">Izbacivanje…</string>
@@ -414,6 +423,7 @@ koristeći %s"</string>
   <string name="immersive_cling_description">Za izlaz prijeđite prstom prema od vrha prema dolje.</string>
   <string name="immersive_cling_positive">Shvaćam</string>
   <string name="immersive_cling_title">Gledanje preko cijelog zaslona</string>
+  <string name="immersive_mode_confirmation">Prijeđite prstom s vrha prema dolje za izlaz iz cijelog zaslona.</string>
   <string name="inputMethod">Način unosa</string>
   <string name="input_method_binding_label">Način unosa</string>
   <string name="invalidPin">Unesite PIN koji ima od 4 do 8 brojeva.</string>
@@ -538,6 +548,7 @@ Da otkvačite, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanj
   <string name="lock_to_app_unlock_pattern">Traži uzorak za otključavanje radi otkvačivanja</string>
   <string name="lock_to_app_unlock_pin">Traži PIN radi otkvačivanja</string>
   <string name="lockscreen_access_pattern_area">Područje uzorka.</string>
+  <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>
   <string name="lockscreen_access_pattern_cell_added_verbose">Dodana je ćelija %1$s</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
@@ -917,6 +928,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_manageProfileAndDeviceOwners">Omogućuje aplikaciji postavljanje vlasnika profila i vlasnika uređaja.</string>
   <string name="permdesc_manageUsb">Aplikaciji omogućuje upravljanje postavkama i dozvolama za USB uređaje.</string>
   <string name="permdesc_manageUsers">Omogućuje aplikacijama upravljanje korisnicima na uređaju, uključujući upit, izradu i brisanje.</string>
+  <string name="permdesc_manageVoiceKeyphrases">Omogućuje aplikacijama upravljanje ključnim riječima za prepoznavanje izgovorenih riječi. Ne bi smjelo biti potrebno za normalne aplikacije..</string>
   <string name="permdesc_markNetworkSocket">Dopušta aplikaciji izmjenu oznaka utičnica za usmjeravanje</string>
   <string name="permdesc_masterClear">Omogućuje aplikaciji potpuno vraćanje sustava na tvorničke postavke čime se brišu svi podaci, konfiguracija i instalirane aplikacije.</string>
   <string name="permdesc_mediaContentControl">Omogućuje aplikaciji upravljanje reprodukcijom medija i pristupanje podacima o medijima (naslov, autor…).</string>
@@ -1161,6 +1173,7 @@ za račun %s."</string>
   <string name="permlab_bindWallpaper">povezano s pozadinskom slikom</string>
   <string name="permlab_bind_call_service">interakcija sa zaslonom tijekom poziva</string>
   <string name="permlab_bind_connection_service">interakcija s telefonskim uslugama</string>
+  <string name="permlab_bind_incall_service">interakcija sa zaslonom tijekom poziva</string>
   <string name="permlab_bind_trust_agent_service">Povezivanje s uslugom agenta za pouzdanost</string>
   <string name="permlab_bluetooth">uparivanje s Bluetooth uređajima</string>
   <string name="permlab_bluetoothAdmin">pristupanje postavkama Bluetootha</string>
@@ -1168,6 +1181,7 @@ za račun %s."</string>
   <string name="permlab_bluetoothPriv">omogući aplikaciji uparivanje putem Bluetootha</string>
   <string name="permlab_bodySensors">senzori tjelesnih funkcija (npr. monitori otkucaja srca)</string>
   <string name="permlab_brick">trajno onemogućavanje telefona</string>
+  <string name="permlab_broadcastNetworkPrivileged">slanje povlaštenih mrežnih emitiranja</string>
   <string name="permlab_broadcastPackageRemoved">slanje paketno uklonjenog prijenosa</string>
   <string name="permlab_broadcastSmsReceived">slanje prijenosa primljenih SMS-om</string>
   <string name="permlab_broadcastSticky">slanje privlačnih prijenosa</string>
@@ -1246,6 +1260,7 @@ za račun %s."</string>
   <string name="permlab_manageDocs">upravljanje pohr. dokumenata</string>
   <string name="permlab_manageFingerprint">upravljanje hardverom za čitanje otisaka prstiju</string>
   <string name="permlab_manageLocationPolicy">Upravljanje pravilima lokacije</string>
+  <string name="permlab_manageMediaProjection">Upravljanje medijskim projekcijama sesije</string>
   <string name="permlab_manageNetworkPolicy">Upravljanje mrežnim pravilima</string>
   <string name="permlab_manageProfileAndDeviceOwners">Upravljanje vlasnicima profila i uređaja</string>
   <string name="permlab_manageUsb">upravljanje postavkama i dozvolama za USB uređaje</string>
@@ -1652,6 +1667,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="usb_accessory_notification_title">Spojen na USB pribor</string>
   <string name="usb_cd_installer_notification_title">Spojen kao instalacijski program</string>
   <string name="usb_charging_notification_title">USB za punjenje</string>
+  <string name="usb_choose_notification_title">Dodirnite za odabir USB opcije.</string>
   <string name="usb_midi_notification_title">USB za MIDI</string>
   <string name="usb_midi_peripheral_manufacturer_name">Android</string>
   <string name="usb_midi_peripheral_name">Androidov USB priključak za periferne uređaje</string>
