@@ -227,7 +227,7 @@ koristeći %s"</string>
   <string name="dump_heap_title">Želite li dijeliti snimku memorije procesa?</string>
   <string name="durationDayHour">%1$d d %2$d h</string>
   <string name="durationDayHours">%1$d d %2$d h</string>
-  <string name="durationDays">%1$d d</string>
+  <string name="durationDays">%1$d dana</string>
   <string name="durationHourMinute">%1$d h %2$d min</string>
   <string name="durationHourMinutes">%1$d h %2$d min</string>
   <string name="durationHours">%1$d h</string>
@@ -847,6 +847,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_bodySensors">Omogućuje aplikaciji pristup podacima sa senzora koji nadziru vaše fizičko stanje, na primjer, broj otkucaja srca.</string>
   <string name="permdesc_brick">Aplikaciji omogućuje trajno isključivanje cijelog telefona. To je veoma opasno.</string>
   <string name="permdesc_broadcastPackageRemoved">Omogućuje aplikaciji emitiranje obavijesti da je paket aplikacija uklonjen. Zlonamjerne aplikacije mogu to upotrijebiti za uklanjanje svih ostalih pokrenutih aplikacija.</string>
+  <string name="permdesc_broadcastScoreNetworks">Omogućuje aplikaciji emitiranje obavijesti koju mreža treba biti postići. Nije potrebno za normalne aplikacije.</string>
   <string name="permdesc_broadcastSmsReceived">Omogućuje aplikaciji emitiranje obavijesti da je primljena SMS poruka. Zlonamjerne aplikacije mogu to upotrijebiti za krivotvorenje dolaznih SMS poruka.</string>
   <string name="permdesc_broadcastSticky">Aplikaciji omogućuje slanje \"ljepljivih\" emitiranja koja se zadržavaju nakon završetka emitiranja. Prekomjerna upotreba može usporiti telefon ili ga učiniti nestabilnim uzrokujući pretjeranu upotrebu memorije.</string>
   <string name="permdesc_broadcastWapPush">Omogućuje aplikaciji emitiranje obavijesti da je primljena WAP PUSH poruka. Zlonamjerne aplikacije mogu to upotrijebiti da bi krivotvorile prijem MMS poruka ili da bi potajno zamijenile sadržaj bilo koje web-stranice zlonamjernim varijantama.</string>
@@ -1831,6 +1832,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="year_picker_description">Popis godina</string>
   <string name="years">godina</string>
   <string name="yes">U redu</string>
+  <string name="zen_mode_alarm">Dok ne %1$s (sljedeći alarm)</string>
   <string name="zen_mode_default_events_name">Događaj</string>
   <string name="zen_mode_default_weekends_name">Vikend</string>
   <string name="zen_mode_default_weeknights_name">Noć radnog dana</string>

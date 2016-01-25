@@ -120,7 +120,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Uvijek</item>
         <item>Samo kad je uključeno</item>
-        <item>Nikada (koristi više mobilnih podataka)</item>
+        <item>Nikada</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Uvijek</item>
@@ -142,7 +142,7 @@
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Vrijeme upotrebe</item>
-        <item>Posljednja upotreba</item>
+        <item>Zadnji put korišteno</item>
         <item>Naziv aplikacije</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">

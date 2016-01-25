@@ -129,7 +129,7 @@
   <string name="local_no_backup">Nema Sig. kopija</string>
   <string name="local_restore_window_title">Lokalna obnova</string>
   <string name="local_select_account_contact">Računi &amp; Kontakti</string>
-  <string name="local_select_audio">Zvukovi</string>
+  <string name="local_select_audio">Audio datoteke</string>
   <string name="local_select_doc">Dokumenti</string>
   <string name="local_select_files">Pohrana</string>
   <string name="local_select_image">Slike</string>
@@ -245,7 +245,7 @@
   <string name="trans_backingup">Izrada Sig. kopije …</string>
   <string name="trans_backingup_no_items">Sinkr. …</string>
   <string name="trans_cancel_confirm">Prijenos u tijeku, zaustaviti sada?</string>
-  <string name="trans_cancelling">Odustani</string>
+  <string name="trans_cancelling">Otkazivanje…</string>
   <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>
   <string name="trans_connecting_toast">Povezivanje…</string>
   <string name="trans_detail_category_account">Računi i kontakti</string>
@@ -276,7 +276,8 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
   <string name="trans_progress_subdescript_waiting">Čekanje na primanje %s</string>
   <string name="trans_receiver">"Ja sam primatelj"</string>
   <string name="trans_receiver_time_remained">"%s preostalo.
- Ne isključujte WLAN. Držite oba uređaja blizu jedan drugoga."</string>
+ Ne isključujte WLAN Hotspot. 
+ Držite oba uređaja blizu jedan drugoga."</string>
   <string name="trans_receiving_completed">Uspješno primljeno</string>
   <string name="trans_restoring">Vraćanje…</string>
   <string name="trans_restoring_no_items">Sinkr. stavaka</string>
@@ -295,7 +296,8 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
   <string name="trans_sender_searching_ensurance">"Pobrinite se da je drugi uređaj uključen.
 Čekanje povezivanja drugog uređaja…"</string>
   <string name="trans_sender_time_remained">"%s preostalo.
- Ne isključujte WLAN. Držite oba uređaja blizu jedan drugoga."</string>
+ Ne isključujte WLAN. 
+ Držite oba uređaja blizu jedan drugoga."</string>
   <string name="trans_sending_completed">Uspješno poslano</string>
   <string name="trans_show_qr_code_label">Povežite drugi uređaj</string>
   <string name="trans_show_qr_code_tips">Skenirajte QR kod s vašim starim uređajem</string>

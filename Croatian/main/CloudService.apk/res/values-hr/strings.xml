@@ -331,7 +331,7 @@ Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
   <string name="microsoft_cloud_price">Oko 80 RMB godišnje</string>
   <string name="more_activity_in_upgrade_space">Saznajte više na &lt;a href="http://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi Poruke</string>
-  <string name="mx_dspt_provision">"Mi Poruke omogućuju vam slanje poruka drugim MIUI korisnicima bez dodatnih SMS troškova.
+  <string name="mx_dspt_provision">"Mi Poruke omogućuju vam slanje poruka drugim MIUI uređajima bez dodatnih troškova kada ste povezani na WLAN.
   
   
 Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
@@ -346,7 +346,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="mx_dspt_provision_privacy_no_sim">"Ova značajka može zatražiti vaš broj telefona. Vaš operater vam može naplatiti SMS poruku korištenu za aktiviranje ove značajke kada je otkrivena SIM kartica.
 
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
-  <string name="mx_dspt_provision_with_voip">"Nazovite druge MIUI korisnike besplatno koristeći internetsku vezu. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
+  <string name="mx_dspt_provision_with_voip">"Nazovite druge MIUI uređaje besplatno koristeći vašu internetsku vezu. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
   <string name="mx_dspt_provision_with_voip2">Pravila o Privatnosti</string>
   <string name="mx_sub_dspt_provision">Mi Poruka</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetski pozivi</string>
@@ -382,6 +382,9 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sina_token_expired_warning">Weibo račun je istekao: Povežite ponovo</string>
   <string name="sina_token_invalid_warning">Weibo račun nije valjan: Povežite ponovo</string>
   <string name="sms">SMS</string>
+  <string name="soundrecorder_sync_only_in_wifi">Koristi sam WLAN za sinkr.</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
+  <string name="soundrecorder_sync_records">Sinkr. sa Mi Cloud</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Prostor za pohranu</string>
   <string name="sub_alert_notif_dspt_add">Stavaka čeka na sinkr.: %s</string>
@@ -397,7 +400,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijama je Mi Cloud potreban za izradu sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje dok kažete MIUI ADRIA."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Koristi Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne možete koristiti Mi Cloud?"</string>
-  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
+  <string name="sync_dspt_entrance_provision_skip">Preskoči ovaj korak</string>
   <string name="sync_dspt_provision">"Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih vaših uređaja ili im pristupite na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>

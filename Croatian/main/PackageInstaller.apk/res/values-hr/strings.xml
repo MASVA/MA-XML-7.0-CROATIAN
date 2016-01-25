@@ -209,7 +209,10 @@
   <string name="uninstalling">Deinstaliranje…</string>
   <string name="unknown">Nepoznato</string>
   <string name="unknown_apps_admin_dlg_text">Vaš administrator ne dopušta instaliranje aplikacija dobivenih iz nepoznatih izvora.</string>
-  <string name="unknown_apps_dlg_text">Vaš telefon i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Suglasni ste da ste isključivo sami odgovorni za gubitak podataka ili bilo kakvu štetu nastalu na vašem uređaju koja može proizaći korištenjem ove aplikacije. Možete isključiti ovu obavijest u Postavkama.</string>
+  <string name="unknown_apps_dlg_text">Vaš telefon je postavljen da blokira instaliranje aplikacija iz nepoznatih izvora. Možete isključiti ovu značajku u Postavkama.</string>
+  <string name="unknown_apps_dlg_text1">"Vaš telefon je postavljen da blokira instaliranje aplikacija iz nepoznatih izvora. Možete isključiti ovu značajku u "</string>
+  <string name="unknown_apps_dlg_text2">\"Postavkama\"</string>
+  <string name="unknown_apps_dlg_text3">.</string>
   <string name="unknown_apps_dlg_title">Instaliranje je blokirano</string>
   <string name="unknown_installer">Nepoznat PC alat</string>
   <string name="v7_preference_off">ISKLJ.</string>

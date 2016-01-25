@@ -357,7 +357,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
 
 Okrenite uređaj, govorite u mikrofon u položaju prijemnika, trebali bi čuti glas u zvučniku"</string>
   <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Testiranje gornjeg mikrofona na zvučnik. 
-
+  <string name="cit_x5_audio_lb_topmic_to_speaker_title">Testiranje pov. inf. gornjeg mikrofona zvučnika</string>
 Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Testiranje gornjeg mikrofona zvučnika</string>
 </resources>

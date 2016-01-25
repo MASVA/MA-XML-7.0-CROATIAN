@@ -2258,7 +2258,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="oldman_mode_settings_caption">Postavke Lite načina</string>
   <string name="oldman_mode_summary">Koristi pojednostavljeni Početni zaslon i izbornike</string>
   <string name="oldman_mode_summary_cta">Lite način treba povezivanje s internetom i da može pročitati vaše kontakte, poruke, i detalje o lokaciji za normalan rad.</string>
-  <string name="onekey_migrate">Prijenos</string>
+  <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Online izvori</string>
   <string name="only_one_home_message">Postavke početnog zaslona bit će skrivene dok ne instalirate još jednu aplikaciju početnog zaslona.</string>
   <string name="only_when_charging">Samo kada je priključeno</string>

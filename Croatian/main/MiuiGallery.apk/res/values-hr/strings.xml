@@ -143,6 +143,7 @@
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_cloud_album">Odaberi album</string>
   <string name="choose_owner_relation">Odnos</string>
+  <string name="cleaning_cache">Brisanje predmemorije…</string>
   <string name="clear_thumbnail_cache">Izbriši memoriju sličica</string>
   <string name="clear_thumbnail_cache_confirm">Sva memorija minijatura u Galeriji će biti izbrisana.</string>
   <string name="clear_thumbnail_cache_summary">Brisanje minijatura predmemorije u Galeriji</string>

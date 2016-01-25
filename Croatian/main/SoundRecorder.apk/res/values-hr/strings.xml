@@ -88,9 +88,6 @@
   <string name="status_bar_back">Dodirnite za povratak na Snimač</string>
   <string name="status_bar_recording">Snimanje…</string>
   <string name="status_bar_recording_pause">"Snimanje je zaustavljeno."</string>
-  <string name="sync_only_in_wifi">Koristiti samo WLAN za sinkr.</string>
-  <string name="sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
-  <string name="sync_records">Sinkr. s MiCloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">%1$s može snimiti za oko %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Aplikacija Datoteke nije instalirana"</string>

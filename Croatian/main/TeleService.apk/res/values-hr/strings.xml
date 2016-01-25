@@ -429,7 +429,7 @@
   <string name="enable_in_progress">Pričekajte…</string>
   <string name="enable_pin">Omogući/onemogući PIN za SIM</string>
   <string name="enable_pin_ok">Omogućen je PIN za SIM.</string>
-  <string name="enable_proximity_summary">Isključi zaslon tijekom poziva</string>
+  <string name="enable_proximity_summary">"Isključi zaslon automatski kada držite uređaj na uhu tijekom poziva"</string>
   <string name="enable_proximity_title">Senzor blizine</string>
   <string name="enable_sim_pin">Omogući PIN za SIM</string>
   <string name="enable_video_calling_dialog_close">Zatvori</string>
@@ -441,8 +441,8 @@
   <string name="enhanced_4g_lte_mode_summary">Koristi LTE usluge za poboljšanje glasovne i druge komunikacije (preporučeno)</string>
   <string name="enhanced_4g_lte_mode_title">Poboljšani 4G LTE Način</string>
   <string name="ensure_info">Da</string>
-  <string name="enterName">Ime:</string>
-  <string name="enterNumber">Broj telefona:</string>
+  <string name="enterName">Unesite Ime:</string>
+  <string name="enterNumber">Unesite Broj telefona:</string>
   <string name="enter_callbarring_password">Unesite zaporku zabrane poziva(4 znamenke)</string>
   <string name="enter_input" formatted="false">USSD poruka mora imati ovoliko znakova: %d – %d. Pokušajte ponovo.</string>
   <string name="enter_pin2_text">PIN2</string>
@@ -924,7 +924,7 @@ To može potrajati do 5 minuta."</string>
   <string name="ota_hfa_activation_title">Aktivacija…</string>
   <string name="ota_listen">Slijedite govorne upute sve dok ne čujete da je aktivacija dovršena.</string>
   <string name="ota_next">Dalje</string>
-  <string name="ota_progress">Pričekajte dok ne završi programiranje vašeg telefona.</string>
+  <string name="ota_progress">Programiranje vašeg telefona…</string>
   <string name="ota_skip_activation_dialog_message">Ako preskočite aktivaciju, ne možete upućivati pozive niti se povezivati na mobilne podatkovne mreže (premda se možete prijaviti na Wi-Fi mreže).Sve dok ne aktivirate telefon prikazivat će se upit za aktiviranje kod svakog prijavljivanja.</string>
   <string name="ota_skip_activation_dialog_skip_label">Preskoči</string>
   <string name="ota_skip_activation_dialog_title">Preskočiti aktivaciju?</string>
@@ -979,7 +979,7 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="pick_outgoing_sip_phone">Biranje broja putem interneta:</string>
   <string name="pin2_attempts">"
 Imate još ovoliko preostalih pokušaja: %d."</string>
-  <string name="pin2_changed">PIN2 uspješno promijenjen</string>
+  <string name="pin2_changed">PIN2 ažuriran</string>
   <string name="pin2_error_exception">Pogreška mreže ili SIM kartice</string>
   <string name="pin2_invalid">"FDN nije ažuriran jer ste unijeli pogrešan PIN."</string>
   <string name="pin2_invalid_or_name_is_too_long">Unijeli ste nevažeći PIN ili je ime koje ste unijeli predugačko</string>
@@ -989,8 +989,8 @@ Vezane funkcije PIN2-a će biti zaključane nakon još jednog neuspjelog pokuša
   <string name="pin2_unblocked">PIN2 je deblokiran!</string>
   <string name="pin_attempts">"
 Preostalo vam je još  %d pokušaja."</string>
-  <string name="pin_changed">SIM PIN uspješno promijenjen.</string>
-  <string name="pin_failed">PIN koji ste unijeli nije točan.</string>
+  <string name="pin_changed">PIN ažuriran.</string>
+  <string name="pin_failed">PIN nije točan.</string>
   <string name="pin_lock_warning">"
 Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaja"</string>
   <string name="pin_progress_change_pin">Promjena PIN…</string>
