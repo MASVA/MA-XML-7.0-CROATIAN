@@ -383,7 +383,7 @@ Napustiti ovu stranicu?"</string>
   <string name="miuichromium_error_page_network_hijack">"Trenutna mreža nije sigurna"</string>
   <string name="miuichromium_error_page_network_off">Uključite WLAN ili mobilne podatke</string>
   <string name="miuichromium_error_page_no_network">"Ne mogu se povezati na mrežu"</string>
-   <string name="miuichromium_error_page_reload">Osvježi</string>
+  <string name="miuichromium_error_page_reload">Osvježi</string>
   <string name="miuichromium_error_page_safe_network">Siguran način</string>
   <string name="miuichromium_error_page_server_error">Previše se uređaja pokušava povezati</string>
   <string name="miuichromium_error_page_title">Dogodila se pogreška!</string>
@@ -391,9 +391,7 @@ Napustiti ovu stranicu?"</string>
   <string name="miuichromium_error_page_wlan">Uključite WLAN</string>
   <string name="miuichromium_error_page_reason_network">"Ne mogu se povezati na mrežu"</string>
   <string name="miuichromium_error_page_reason_server">"Ne mogu učitati ovu stranicu"</string>
-  <string name="miuichromium_error_page_title">"Ne mogu pronaći tu stranicu"</string>
   <string name="miuichromium_error_page_url">"Ne mogu se povezati na mrežu"</string>
-  <string name="miuichromium_error_page_wlan">Postavke WLAN-a</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Odustani</string>

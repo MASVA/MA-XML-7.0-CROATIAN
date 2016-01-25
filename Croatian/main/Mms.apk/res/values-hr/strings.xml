@@ -306,7 +306,6 @@
   <string name="mx_current_status">Postavke</string>
   <string name="mx_dspt">"Šaljite SMS i MMS poruke drugim MIUI uređajima bez nastanka troškova kada ste povezani na WLAN."</string>
   <string name="mx_dspt_listview">Šaljite poruke drugim MIUI korisnicima bez nastanka troškova</string>
-  <string name="mx_dspt">Šaljite poruke drugim MIUI korisnicima bez nastanka troškova</string>
   <string name="mx_dspt_provision">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka troškova. Vaš operater vam može naplatiti SMS poruku korištenu za aktiviranje ove usluge.</string>
   <string name="mx_dspt_provision_ex">"Šaljite poruke i upućivajte pozive drugim MIUI korisnicima bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
   <string name="mx_dspt_provision_ex2">Pravila o Privatnosti</string>
