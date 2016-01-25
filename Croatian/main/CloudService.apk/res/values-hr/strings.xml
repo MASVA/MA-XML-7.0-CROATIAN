@@ -371,7 +371,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="settings_backup_title">Postavke Sig. kopije sustava</string>
   <string name="share_cancel">Dijeljenje otkazano</string>
   <string name="share_failed">"Ne mogu podijeliti"</string>
-  <string name="share_miliao_not_installed">MiTalk nije instaliran.</string>
+  <string name="share_miliao_not_installed">Mi Talk nije instaliran.</string>
   <string name="share_success">Uspješno podijeljeno</string>
   <string name="share_weibo_not_installed">Weibo nije instaliran.</string>
   <string name="share_weixin_not_installed">WeChat nije instaliran.</string>
@@ -382,7 +382,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sina_token_expired_warning">Weibo račun je istekao: Povežite ponovo</string>
   <string name="sina_token_invalid_warning">Weibo račun nije valjan: Povežite ponovo</string>
   <string name="sms">SMS</string>
-  <string name="soundrecorder_sync_only_in_wifi">Koristi sam WLAN za sinkr.</string>
+  <string name="soundrecorder_sync_only_in_wifi">Koristi samo WLAN za sinkr.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
   <string name="soundrecorder_sync_records">Sinkr. sa Mi Cloud</string>
   <string name="start_micloud">Start</string>

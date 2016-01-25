@@ -303,7 +303,7 @@
   <string name="mx_btn_enable">Aktiviraj</string>
   <string name="mx_btn_enable_now">Aktiviraj</string>
   <string name="mx_count_dspt">Poslano %1$d SMS-a i %2$d MMS-a besplatno</string>
-  <string name="mx_current_status">Settings</string>
+  <string name="mx_current_status">Postavke</string>
   <string name="mx_dspt">"Šaljite SMS i MMS poruke drugim MIUI uređajima bez nastanka troškova kada ste povezani na WLAN."</string>
   <string name="mx_dspt_listview">Šaljite poruke drugim MIUI korisnicima bez nastanka troškova</string>
   <string name="mx_dspt">Šaljite poruke drugim MIUI korisnicima bez nastanka troškova</string>
