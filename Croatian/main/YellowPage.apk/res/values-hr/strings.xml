@@ -562,6 +562,7 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Neke od vaših informacija Žutih Stranica su zastarjele. Želite li ih ažurirati? Korištenjem ove usluge pristajete na naše %1$s i %2$s."</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="web_permission_message">%1$s treba pogledati vaš %2$s da pravilno funkcionira.</string>
+  <string name="yellow_page_details">Enterprise pojedinosti</string>
   <string name="yellow_page_website">Službena stranica</string>
   <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
   <string name="yellowpage_navigation_network_location_enable_later">Ne sada</string>

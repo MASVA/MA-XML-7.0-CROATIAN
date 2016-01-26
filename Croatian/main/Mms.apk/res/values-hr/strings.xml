@@ -39,7 +39,7 @@
   <string name="back_to_message_list">natrag na popis poruka</string>
   <string name="batch_adding_progress_message">Dodavanje…</string>
   <string name="batch_delete_confirm_dialog_message">Jeste li sigurni da želite obrisati odabranu %1$s poruku(e)?</string>
-  <string name="batch_deleting_message_progress_message">Brisanje odabrane poruke (a)</string>
+  <string name="batch_deleting_message_progress_message">Brisanje odabrane poruke(a)</string>
   <string name="batch_deleting_progress_message">Brisanje odabranih niti poruke(a)</string>
   <string name="bcc_label">"Bcc: "</string>
   <string name="block_messaging_entry_title">Blokirani SMS-i</string>
@@ -65,7 +65,7 @@
   <string name="cloud_state_sync_finished">Sinkr. s Mi Cloudom</string>
   <string name="cloud_state_syncing">Sinkr. s Mi Cloud…</string>
   <string name="compressing">Slika je prevelika. Sažimanje…</string>
-  <string name="confirm">u redu</string>
+  <string name="confirm">U redu</string>
   <string name="confirm_add_blacklist_dialog_dspt">Dodati broj na listu zabranjenih?</string>
   <string name="confirm_delete_SIM_message">Ova poruka na SIM kartici bit će izbrisana.</string>
   <string name="confirm_delete_all_SIM_messages">Sve poruke na SIM kartici bit će izbrisane.</string>
@@ -76,9 +76,9 @@
   <string name="confirm_delete_message">Ova poruka bit će izbrisana.</string>
   <string name="confirm_dialog_locked_title">Izbrisati ovu zaključanu poruku?</string>
   <string name="confirm_dialog_title">Izbrisati</string>
-  <string name="confirm_dlg__msg">CMCC napomena: CMCC besplatna poš. usluga neće osigurana ako je otkažete. Sigurno želite odustati?</string>
+  <string name="confirm_dlg__msg">CMCC napomena: CMCC besplatna poš. usluga neće biti osigurana ako je otkažete. Sigurno želite odustati?</string>
   <string name="confirm_dlg_title">Upravljanje uređaja</string>
-  <string name="confirm_export_dialog_description">Ukloniti odabrani privatni kontakt, razgovor će biti premtvoren u normalan SMS. Želite li nastaviti?</string>
+  <string name="confirm_export_dialog_description">Ukloniti odabrani privatni kontakt, razgovor će biti pretvoren u normalan SMS. Želite li nastaviti?</string>
   <string name="confirm_export_dialog_title">Ukloni privatni kontakt</string>
   <string name="confirm_no_block_positive">"Ne blokiraj i vrati"</string>
   <string name="confirm_no_block_title">"Ne blokirati broj i vratiti sve poruke?"</string>
@@ -168,11 +168,11 @@
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Učitavanje…</string>
   <string name="fetion_prefix">[Fetion]</string>
-  <string name="file_create_time">Napisano:</string>
+  <string name="file_create_time">"Izrađeno: "</string>
   <string name="file_share_message_description">Želio bih dijeliti datoteke s vama</string>
-  <string name="file_size">Veličina:</string>
-  <string name="file_title">Naziv:</string>
-  <string name="file_width_height">Veličina:</string>
+  <string name="file_size">"Veličina: "</string>
+  <string name="file_title">"Naziv: "</string>
+  <string name="file_width_height">"Veličina: "</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_from">Proslijeđeno iz:</string>
   <string name="forward_prefix">"Fwd: "</string>
@@ -263,7 +263,7 @@
   <string name="msg_type_hint_mx_omit">Mi Poruka</string>
   <string name="msg_type_hint_sms">SMS</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
-  <string name="msglist_continue_to_pull_for_more">Povuci dolje da bi vidjeli više</string>
+  <string name="msglist_continue_to_pull_for_more">Povucite dolje da bi vidjeli više</string>
   <string name="msglist_more_refreshing">Osvježavam…</string>
   <string name="msglist_no_more_to_refresh">Sve je već ažurno</string>
   <string name="msglist_release_to_more">Otpustite da bi vidjeli više</string>
@@ -376,7 +376,7 @@
   <string name="pref_summary_allow_si_sl_push">Dopusti porukama učitavanje sadržaja s web stranica</string>
   <string name="pref_summary_delete_limit">%1$s poruka po razgovoru</string>
   <string name="pref_summary_delivery_reports">Prikaži izvješće o isporuci za poslane poruke</string>
-  <string name="pref_summary_hide_festival">Sakrij karticu Pozdravi za Ne kineski jezik</string>
+  <string name="pref_summary_hide_festival">Sakrij karticu Pozdravi za Ne-kineski jezik</string>
   <string name="pref_summary_manage_sim_messages">Upravljaj porukama spremljenim na SIM kartici</string>
   <string name="pref_summary_mms_auto_retrieval">Preuzmi fotografije i videozapise u porukama automatski</string>
   <string name="pref_summary_mms_read_reports">Prikaži obavijest u prikazu razgovora kada je primatelj preuzeo sadržaj MMS-a</string>
@@ -442,7 +442,7 @@
   <string name="recording_failed">"Ne mogu snimiti"</string>
   <string name="refill_now">Nadoplati sada</string>
   <string name="refresh">Osvježi</string>
-  <string name="refresh_failed">Ažuriranje neuspjelo</string>
+  <string name="refresh_failed">Osvježavanje neuspjelo</string>
   <string name="refreshing">Osvježavam…</string>
   <string name="release_cancel">Pusti za poništavanje</string>
   <string name="remove">Ukloni</string>
@@ -459,7 +459,7 @@
   <string name="resource_price_free">Besplatno</string>
   <string name="restore_all_button_msg">Vrati sve poruke s ovog broja</string>
   <string name="restore_blocked_message">Vrati blokirane poruke</string>
-  <string name="restore_to_phone_memory_failed">"Ne mogu vratiti"!</string>
+  <string name="restore_to_phone_memory_failed">"Ne mogu vratiti!"</string>
   <string name="restored_to_phone_memory">"Vraćeno u memoriju telefona"</string>
   <string name="retrive_hms_tips">Preuzimam…</string>
   <string name="save">Spremi</string>
