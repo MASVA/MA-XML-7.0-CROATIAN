@@ -4,6 +4,8 @@
  To može potrajati nekoliko minuta</string>
   <string name="action_mode_deselect_all">Poništi odabir</string>
   <string name="action_mode_select_all">Odaberi sve</string>
+  <string name="ad_download">Preuzmi</string>
+  <string name="ad_downloading">Učitavanje…</string>
   <string name="add_private">Sakrij datoteke sada</string>
   <string name="add_private_files">Dodaj datoteke</string>
   <string name="add_task">Dodaj zadatak</string>
@@ -64,6 +66,7 @@
   <string name="category_type_other">Ostalo</string>
   <string name="category_video">Videozapisi</string>
   <string name="category_zip">Arhive</string>
+  <string name="change_sticker">Odaberite drugu</string>
   <string name="choose_send_type">Odaberite način</string>
   <string name="choose_upload_location">Pošalji na KuaiPan mapu</string>
   <string name="clean_hint">Dodirnite da oslobodite prostor</string>
@@ -80,6 +83,7 @@
   <string name="confirm_clean">Očisti</string>
   <string name="confirm_know">U redu</string>
   <string name="connect_network_setting_des">Pitaj za povezivanje s internetom</string>
+  <string name="connecting">Povezivanje…</string>
   <string name="connection_error">"Ne mogu se povezati"</string>
   <string name="copy_failed">"Ne mogu kopirati, izgleda da je pohrana puna"</string>
   <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
@@ -134,6 +138,7 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prazno</string>
   <string name="dlg_error_unmount_text">Nije uspjelo ukloniti USB pohranu.</string>
+  <string name="download">Preuzimanje</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Preuzimanje neuspješno!</string>
   <string name="download_link_completed">Podijelio sam %1$s preko KuaiPan. Dodirnite na vezu ispod za pregled:</string>
@@ -192,8 +197,10 @@
   <string name="group_title_extra_backup">Sig. kopije</string>
   <string name="group_title_extra_expire">O isteku</string>
   <string name="group_title_extra_new">Novo</string>
-  <string name="if_cancel">Otkazati vou radnju?</string>
+  <string name="has_installed">Instalirano</string>
+  <string name="if_cancel">Otkazati ovu radnju?</string>
   <string name="image_loading_error">"Ne mogu učitati sliku"</string>
+  <string name="installing">Instaliranje…</string>
   <string name="instruction">Unesite adresu u FTP klijent:</string>
   <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
   <string name="just_now">Upravo sada</string>
@@ -224,6 +231,7 @@
   <string name="kuaipan_tech_support">Prijavite se na KuaiPan.cn</string>
   <string name="load_err">"Ne mogu učitati"</string>
   <string name="load_more">Prikaži više</string>
+  <string name="load_sticker_fail">"Ne mogu učitati, pokušajte ponovo"</string>
   <string name="loading">Učitavam…</string>
   <string name="local_image">Slike</string>
   <string name="local_music">Glazba</string>
@@ -310,6 +318,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_local_sticker_tip">"Ne mogu pronaći preuzete naljepnice. Provjerite naljepnice podjeljene od strane Mi obožavatelja."</string>
   <string name="no_more_space">Nema dovoljno prostora.</string>
   <string name="no_network_str">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovo."</string>
+  <string name="no_network_tip">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovo."</string>
   <string name="no_recent_files">Nema nedavnih datoteka</string>
   <string name="no_tasks">Nema zadataka.</string>
   <string name="no_wifi">Nema dostupnih WLAN veza.</string>
@@ -462,6 +471,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="select_image">Slike</string>
   <string name="select_music">Glazba</string>
   <string name="select_video">Videozapisi</string>
+  <string name="send_sticker">Pošalji naljepnicu</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Ova vrsta datoteke nije podržana.</string>
   <string name="send_to_qq">Pošalji na QQ</string>
@@ -556,6 +566,7 @@ oslobodili prostor.</string>
   <string name="user_not_login">Prvo se prijavite</string>
   <string name="utf8_summary">Zadano kodiranje FTP sistema</string>
   <string name="utf8_title">UTF-8</string>
+  <string name="view_more_sticker">Prikaži još naljepnica</string>
   <string name="wait_net">Čekam mrežu…</string>
   <string name="wait_sdcard">Čekam SD karticu…</string>
   <string name="wait_wifi">Čekam WLAN…</string>

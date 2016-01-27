@@ -121,7 +121,7 @@
   <string name="notification_load_title_alpha">Prijavite se u vaš Mi Račun</string>
   <string name="notification_load_title_dev">Prijavite se u vaš Mi Račun</string>
   <string name="notification_reboot_btn">Ponovno pokreni</string>
-  <string name="notification_reboot_seccess_des">Dodirnite za prikaz detalja ažuriranja.</string>
+  <string name="notification_reboot_seccess_des">Dodirnite za prikaz pojedinosti ažuriranja.</string>
   <string name="notification_reboot_seccess_title">Uređaj je ažuriran</string>
   <string name="notification_reboot_summary_hm">Dodirnite da ponovo pokrenete vaš uređaj.</string>
   <string name="notification_reboot_title">Ponovno pokrenite da primjenite ažuriranje</string>
@@ -150,7 +150,7 @@
   <string name="progress_title_checking">Provjera za ažuriranja…</string>
   <string name="reboot">Ponovno pokreni</string>
   <string name="recovery_failed_button">U redu</string>
-  <string name="recovery_failed_msg">"Vaš uređaj nema dovoljno memorije za ulaz u Recovery i ažurirati vaš sustav. Pokušajte pomoću Mi PC Suite:
+  <string name="recovery_failed_msg">"Vaš uređaj nema dovoljno memorije za ulaz u Recovery i ažuriranje vašg sustava. Pokušajte pomoću Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">"Ne mogu ući u Recovery"</string>
   <string name="recovery_failed_title">Koristite Mi PC Suite za ažuriranje vašeg sustava</string>
@@ -189,7 +189,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="sogou_uninstall_negative_button">Ažuriraj Sogou</string>
   <string name="sogou_uninstall_positive_button">Promjeni tipkovnicu</string>
   <string name="sogou_uninstall_title">Kompatibilnost tipkovnice</string>
-  <string name="space_not_enough_msg">"Vaš uređaj je previše pun za preuzimanje ovog ažuriranja. Očistite prostor za pohranu na uređaju i pokušajte ponovno."</string>
+  <string name="space_not_enough_msg">"Vaš uređaj nema dovolnjo slobodnog prostora za preuzimanje ovog ažuriranja. Očistite prostor za pohranu na uređaju i pokušajte ponovno."</string>
   <string name="space_not_enough_title">Nema dovoljno prostora za pohranu</string>
   <string name="stable_build">Stabilna</string>
   <string name="submit">Pošalji</string>

@@ -152,7 +152,7 @@ potrošeni prvi automatski"</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Previše neispravnih pokušaja!&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Otkaži</string>
   <string name="lockpattern_tutorial_continue_label">Sljedeće</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Zaboravljena zaporka uzorka&lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text">Zaboravljena zaporka uzorka</string>
   <string name="login">Prijava</string>
   <string name="memu_refresh">Osvježi</string>
   <string name="mibi_license_message">"Spremate se koristiti Mi Kredite, što je usluga koju pruža Xiaomi Inc. Prije nego što možete koristiti ovu uslugu, morate pristati na uvjete pružanja usluge navedeno u %1$s. Dodirnite "Slažem se" ako se slažete s odredbama i uvjetima opisanima u %1$s. Potrebna vam je internetska veza za korištenje Mi Kredita."</string>

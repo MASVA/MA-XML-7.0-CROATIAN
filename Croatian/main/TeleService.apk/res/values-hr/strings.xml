@@ -1446,7 +1446,7 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="voicemail_settings_with_label">Govorna pošta (%s)</string>
   <string name="voicemail_visual_voicemail_switch_title">Vizualna govorna pošta</string>
   <string name="voip_setting">VOIP postavke</string>
-  <string name="volte_switch_summary">Use VoLTE to improve voice and video call quality</string>
+  <string name="volte_switch_summary">Koristite VoLTE kako bi poboljšali kvalitetu glasovnih i videopoziva</string>
   <string name="volte_switch_title">VoLTE omogućen</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?
 "</string>
@@ -1458,19 +1458,19 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="wifi_calling_call_assistant_none">Ništa</string>
   <string name="wifi_calling_do_not_use">Nemojte koristiti WLAN poziv</string>
   <string name="wifi_calling_do_not_use_call_assistant">Nemojte koristiti Asistenta poziva</string>
-  <string name="wifi_calling_preference_dialog_title">Wifi Calling Preference</string>
-  <string name="wifi_calling_preference_summary">Change the wifi calling preference</string>
-  <string name="wifi_calling_preference_title">Wifi Calling Preference</string>
+  <string name="wifi_calling_preference_dialog_title">WLAN sklonost pozivanja</string>
+  <string name="wifi_calling_preference_summary">Promijenite WLAN sklonost pozivanja</string>
+  <string name="wifi_calling_preference_title">WLAN sklonost pozivanja</string>
   <string name="wifi_calling_select_call_assistant">Odaberite Asistenta poziva</string>
   <string name="wifi_calling_select_call_assistant_summary">Odaberite aplikaciju ili uslugu za upravljanje mrežama korištene za pozive</string>
-  <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
-  <string name="wifi_calling_summary">Enable Wifi Calling and Select Wifi Preference for Wifi Calling</string>
-  <string name="wifi_calling_title">Wifi pozivanje</string>
+  <string name="wifi_calling_settings_key">WLAN</string>
+  <string name="wifi_calling_summary">Omogućite WLAN Pozivanje i odaberite WLAN sklonost za WLAN Pozivanje</string>
+  <string name="wifi_calling_title">WLAN pozivanje</string>
   <string name="wifi_calling_use_call_assistant">Koristi Asistenta poziva</string>
   <string name="wifi_calling_use_call_assistant_summary">Neka aplikacije ili usluge upravljaju mrežama korištene za pozive</string>
-  <string name="wifi_only">Wifi Samo</string>
+  <string name="wifi_only">WLAN Samo</string>
   <string name="wifi_pref_none">Nema odabranih preferenci</string>
-  <string name="wifi_preferred">Wifi preferirano</string>
+  <string name="wifi_preferred">WLAN preferirano</string>
   <string name="wild_prompt_str">Zamijeni zamjenski znak s</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
   <string name="xdivert_button">X-Divert postavke</string>

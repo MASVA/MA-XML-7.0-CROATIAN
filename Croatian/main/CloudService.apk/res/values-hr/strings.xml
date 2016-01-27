@@ -95,7 +95,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="find_device_status_ok">Pronađite svoj uređaj s bilo kojeg mjesta na i.mi.com</string>
   <string name="find_device_status_ok_international">Pronađite svoj uređaj s bilo kojeg mjesta na www.mi.com/micloud</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
-  <string name="forget_password">&lt;u&gt;Zaboravljena zaporka&lt;/u&gt;</string>
+  <string name="forget_password">Zaboravljena zaporka</string>
   <string name="free_space_has_received">Već ste dodali slobodan prostor ovaj mjesec</string>
   <string name="free_space_receive_fail">"Ne mogu nadograditi"</string>
   <string name="get_first_month_gb">Dobijte %s slobodnog prostora</string>

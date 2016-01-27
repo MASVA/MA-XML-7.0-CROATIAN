@@ -13,6 +13,7 @@
   <string name="add_number_to_sender">Dodati broj za %s</string>
   <string name="add_picture">Dodaj sliku</string>
   <string name="add_private_contact">Dodaj privatan kontakt</string>
+  <string name="add_redpackage">Crveni paket</string>
   <string name="add_slide">Dodaj slajd (poslije)</string>
   <string name="add_slide_before">Dodaj slajd (prije)</string>
   <string name="add_slide_hint">Dodirnite za stvaranje novog slajda</string>
@@ -440,6 +441,8 @@
   <string name="recipient_label">"Primatelj: "</string>
   <string name="recipients_over_size">Previše primatelja.</string>
   <string name="recording_failed">"Ne mogu snimiti"</string>
+  <string name="red_package_btn">Otvori</string>
+  <string name="red_package_default_hint">Sretno svima!</string>
   <string name="refill_now">Nadoplati sada</string>
   <string name="refresh">Osvježi</string>
   <string name="refresh_failed">Osvježavanje neuspjelo</string>
@@ -535,6 +538,7 @@
   <string name="sms_report_success">Prijava poslana</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[slika]</string>
+  <string name="snippet_red_package">[Crnevi paket]</string>
   <string name="sp_category_all">Sve poruke usluga</string>
   <string name="sp_category_bank">Obavijesti poruke iz banke</string>
   <string name="sp_category_title_prefix">%s</string>

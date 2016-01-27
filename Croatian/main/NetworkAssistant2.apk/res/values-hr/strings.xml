@@ -308,7 +308,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_adjust_data_usage">Predložak poruke mobilnog operatera</string>
   <string name="pref_adjust_traffic_data">Postavite uporabu podataka</string>
   <string name="pref_allow_connect_network_title">Međunarodni roaming podataka</string>
-  <string name="pref_allow_connect_network_whitelist_title">Dopustiti iznimaka korištenje mobilnih podataka</string>
+  <string name="pref_allow_connect_network_whitelist_title">Dopusti iznimkama korištenje mob. podataka u roamingu</string>
   <string name="pref_app_traffic_managent">Ograničite uporabu podataka aplikacijom</string>
   <string name="pref_auto_adjust_settings">Postavke Auto. sink. statistike uporabe podataka</string>
   <string name="pref_auto_adjust_traffic">Automatski sink. statistiku uporabe podataka</string>
@@ -517,7 +517,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_protection_summary">Postavi upozorenja kada uporaba podataka dosegne određenu razinu</string>
   <string name="traffic_protection_text_hint">Postavite ograničenje uporabe podataka za %s</string>
   <string name="traffic_protection_unknown">Postaviti kasnije</string>
-  <string name="traffic_protection_use_data">Podaci omogućeni</string>
+  <string name="traffic_protection_use_data">Mobilni podaci</string>
   <string name="traffic_purchase_body">Obnovite bon.</string>
   <string name="traffic_purchse_suggestion">Nadoplata bona</string>
   <string name="traffic_saving_button_mng">Upravljaj aplikacijama</string>

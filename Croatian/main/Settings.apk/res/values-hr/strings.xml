@@ -1404,7 +1404,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="force_stop_dlg_text">Ako silom zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
   <string name="force_stop_dlg_title">Prisilno zaustaviti?</string>
   <string name="forget">ZABORAVI</string>
-  <string name="forget_password_button_text">&lt;u&gt;Zaboravljena zaporka&lt;/u&gt;</string>
+  <string name="forget_password_button_text">Zaboravljena zaporka</string>
   <string name="forget_wifi_message">Vaš uređaj će prestati s automatskim povezivanjem na ovu mrežu.</string>
   <string name="found_new_version">Pronađena je nova verzija</string>
   <string name="fp_nav_center_back_to_home_title">Dodirnite tipku Početna za povratak na Poč. zaslon</string>

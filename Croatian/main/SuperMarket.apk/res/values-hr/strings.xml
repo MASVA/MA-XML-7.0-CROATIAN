@@ -147,7 +147,7 @@
   <string name="file_not_exists">Preuzeta datoteka je oštećena ili ne postoji. Preuzmite je ponovo.</string>
   <string name="first_recommend_download">Instaliraj sve</string>
   <string name="first_recommend_enter">Pokreni Market aplikaciju</string>
-  <string name="forget_password">&lt;u&gt;Zaboravljena zaporka&lt;/u&gt;</string>
+  <string name="forget_password">Zaboravljena zaporka</string>
   <string name="good_comments">Pozitivno</string>
   <string name="header_processing">Zadaci preuzimanja</string>
   <string name="header_waiting">Zadaci na čekanju</string>
