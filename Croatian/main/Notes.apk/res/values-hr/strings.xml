@@ -2,16 +2,16 @@
 <resources>
   <string name="add_account_desc">Sinkronizirati vaše bilješke s vašim Mi Računom?</string>
   <string name="alarm_bar_title">Podsjetnik</string>
-  <string name="alert_action_edit_anyway">Nastavi uređivati</string>
+  <string name="alert_action_edit_anyway">Uredi</string>
   <string name="alert_edit_action_delete">Ukloni</string>
-  <string name="alert_edit_action_update">Izmijeni</string>
+  <string name="alert_edit_action_update">Promjeni</string>
   <string name="alert_message_delete">Izbrisati %1$s?</string>
   <string name="alert_message_delete_folders">Izbrisati %1$s?</string>
   <string name="alert_message_delete_folders_notes">Izbrisati %1$s i %2$s?</string>
   <string name="alert_message_delete_note">Izbrisati ovu bilješku?</string>
   <string name="alert_message_delete_notes">Izbrisati %1$s?</string>
   <string name="alert_message_edit_anyway">Ako uredite ovu bilješku, nešto od sadržaja može biti izgubljeno.</string>
-  <string name="alert_title_delete">Izbriši bilješku</string>
+  <string name="alert_title_delete">Izbrisati bilješku?</string>
   <string name="alert_title_edit_anyway">Ova bilješka sadrži nepodržani sadržaj</string>
   <string name="all_terms">%1$s i %2$s</string>
   <string name="app_name">Bilješke</string>
@@ -19,7 +19,7 @@
   <string name="attachment_camera">"Kamera"</string>
   <string name="attachment_contact">"Kontakti"</string>
   <string name="attachment_gallery">"Galerija"</string>
-  <string name="button_new_note">"Nova bilješka"</string>
+  <string name="button_new_note">"Novo"</string>
   <string name="call_record_folder_name">Bilješke poziva</string>
   <string name="default_folder_name">"Mapa bez naziva"</string>
   <string name="dlg_delete_message">Brisanje…</string>
@@ -32,14 +32,14 @@
   <string name="error_note_empty_for_clock">Nije moguće postaviti vrijeme podsjetnika za praznu bilješku</string>
   <string name="error_note_empty_for_send_to_desktop">Prazne bilješke nije moguće postaviti na Početni zaslon</string>
   <string name="error_note_not_exist">Bilješka ne postoji</string>
-  <string name="error_unsupport_content">Ova bilješka sadrži nepodržani sadržaj, dodirnite ovdje za ažuriranje zahtjevane aplikacije</string>
+  <string name="error_unsupport_content">Ova bilješka sadrži nepodržani sadržaj, dodirnite ovdje za ažuriranje</string>
   <string name="error_widget_exist_for_send_to_desktop">Ova se bilješka već nalazi na vašem Početnom zaslonu</string>
   <string name="folder_exist">Mapa s istim nazivom već postoji</string>
   <string name="format_move_notes_out_folder">Premješteno %1$s izvan</string>
   <string name="format_move_notes_to_folder">Premješteno %1$s u %2$s</string>
   <string name="hint_foler_name">Ime</string>
   <string name="info_note_enter_desktop">Dodano na Početni zaslon</string>
-  <string name="loading_text">Učitavanje…</string>
+  <string name="loading_text">Samo trenutak…</string>
   <string name="login_sync">Prijavi se &amp; sinkr.</string>
   <string name="menu_create_folder">Nova mapa</string>
   <string name="menu_delete">"Izbriši"</string>
@@ -48,36 +48,36 @@
   <string name="menu_send_to_desktop">Dodaj na Početni zaslon</string>
   <string name="menu_send_wechat">Pošalji na WeChat</string>
   <string name="menu_send_weibo">Pošalji na Weibo</string>
-  <string name="menu_source">Šalje: %1$s</string>
+  <string name="menu_source">Šalje %1$s</string>
   <string name="menu_stick">Pričvrsti</string>
   <string name="menu_title_select_folder">Odaberi mapu</string>
   <string name="menu_unstick">Oslobodi</string>
   <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Ne sada</string>
   <string name="note_alert_expired">Isteklo</string>
-  <string name="note_link_email">"Pošalji e-poštu"</string>
-  <string name="note_link_other">Otvori kartu</string>
+  <string name="note_link_email">"Nova e-pošta"</string>
+  <string name="note_link_other">Otvori pomoću aplikacije Karte</string>
   <string name="note_link_select">"Odaberi tekst"</string>
   <string name="note_link_tel">"Nazovi"</string>
-  <string name="note_link_web">Pregledaj internet</string>
-  <string name="notealert_enter">Pogledaj</string>
-  <string name="notealert_ok">"Ignoriraj"</string>
+  <string name="note_link_web">Pregledaj u Pregledniku</string>
+  <string name="notealert_enter">Otvori bilješku</string>
+  <string name="notealert_ok">"Odbaci"</string>
   <string name="notelist_menu_new">Dodaj bilješku</string>
   <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Podsjetnik bilješke</string>
   <string name="permdesc_accessNote">Zlonamjerne aplikacije mogu to iskoristiti za pristup vašim osobnim podacima."</string>
   <string name="permlab_accessNote">Pristupite vašim bilješkama</string>
-  <string name="pref_desc_alarm_when_silent">Aktivni alarmi će zvoniti i kada je ton zvona utišan</string>
-  <string name="pref_title_alarm_when_silent">Alarmi u bešumnom načinu</string>
+  <string name="pref_desc_alarm_when_silent">Alarmi za podsjetnike će zvoniti i kada je ton zvona utišan</string>
+  <string name="pref_title_alarm_when_silent">"Ne utišavaj podsjetnike"</string>
   <string name="pref_title_common">"Dodatne postavke"</string>
   <string name="pref_title_font_size">Veličina fonta</string>
-  <string name="pref_title_note_style">Stil bilješke</string>
+  <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_recover_help">Obnovi bilješke</string>
   <string name="redo">Ponovi</string>
   <string name="search">Bilješke</string>
   <string name="search_hint">Pretraži Bilješke</string>
-  <string name="search_label">Pretraživanje</string>
-  <string name="search_setting_description">Tekst u vašim bilješkama</string>
+  <string name="search_label">Pretraživanje…</string>
+  <string name="search_setting_description">Pretraži tekst u vašim bilješkama</string>
   <string name="select_account_prompt">Sink. bilješke</string>
   <string name="sina_share_fail">Slanje nije uspjelo</string>
   <string name="sina_share_fail_content_repeat">"Ne mogu podijeliti, sadržaj već postoji…"</string>
@@ -91,7 +91,7 @@
   <string name="sns_choose_quality_high">Visoka (%1$s)</string>
   <string name="sns_choose_quality_low">Niska</string>
   <string name="sns_choose_quality_title">Odaberite kvalitetu slike</string>
-  <string name="sns_content_default">Dijeli sliku</string>
+  <string name="sns_content_default">Podijeli fotografiju</string>
   <string name="sns_desc_preview_wechat">Pregled WeChat poruke</string>
   <string name="sns_desc_preview_weibo">Pregled Weibo poruke</string>
   <string name="sns_footer_text">Kreirano s Mi Notes</string>
@@ -108,18 +108,13 @@
   <string name="toast_message_add_text_warn">"Ova vrsta datoteka nije podržana"</string>
   <string name="toast_note_privacy_mode">"Ne mogu stvoriti bilješku u Gost načinu rada"</string>
   <string name="toast_reach_text_limit_attachment">Nije moguće dodati novi privitak jer je bilješka predugačka</string>
-  <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen sa kraja bilješke radi prilagođavanja.</string>
+  <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen na kraju.</string>
   <string name="undo">Poništi</string>
   <string name="unknown_source">Nepoznat izvor</string>
   <string name="welcome_note_for_cm">"I još puno velikih mogućnosti!
   - Sinkronizacija s MiCloud
-  - Spremanje kod izlaza 
-  - Postavljanje podsjetnika
-  
-Ako želite saznati više, posjetite
-http://www.miui.com/forum.php?lang=1
-"</string>
-  <string name="widget_content_loading">Učitavanje…</string>
-  <string name="widget_havenot_content">Nema povezanih bilješki.</string>
+  - Postavljanje podsjetnika"</string>
+  <string name="widget_content_loading">Samo trenutak…</string>
+  <string name="widget_havenot_content">"Ne mogu naći bilješku. Dodirnite za izradu bilješke. Da promijenite veličinu, dodirnite &amp; povucite rub."</string>
   <string name="widget_under_privacy_mode">"Ne mogu prikazati bilješku u Gost načinu rada"</string>
 </resources>
