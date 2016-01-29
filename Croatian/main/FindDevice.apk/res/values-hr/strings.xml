@@ -24,6 +24,7 @@
   <string name="find_device_notice_p3">" da pronađete, zaključate, ili poništite svoj uređaj na daljinu.
 Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke."</string>
   <string name="find_device_stop_noise">Dodirnite U redu da utišate</string>
+  <string name="find_device_storage_corrupted">Prostor za pohranu Pronađi uređaj oštećen. Vaš uređaj je sada nesiguran.</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
   <string name="i_know">U redu</string>
   <string name="lock_msg_phone">Kontakt informacije: %s</string>

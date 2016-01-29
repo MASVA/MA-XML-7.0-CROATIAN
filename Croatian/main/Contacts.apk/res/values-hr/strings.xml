@@ -476,7 +476,7 @@ Razlog: \"%s\""</string>
   <string name="import_all_vcard_string">"Uvezi sve vCard datoteke"</string>
   <string name="import_contact_card_button">Uvezi kontakt</string>
   <string name="import_failure_no_vcard_file">"U pohrani nema pronađenih vCard datoteka."</string>
-  <string name="import_from_onekey_migrate">Uvezi sa Prijenosom</string>
+  <string name="import_from_onekey_migrate">Uvezi sa  Mi Mover</string>
   <string name="import_from_other_phone">Uvezi s drugog uređaja</string>
   <string name="import_from_sdcard">Uvoz iz pohrane</string>
   <string name="import_from_sim">Uvezi sa SIM kartice</string>

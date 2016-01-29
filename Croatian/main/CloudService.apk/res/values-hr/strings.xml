@@ -40,8 +40,6 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_back_up_summary">Napravi Sig. kopiju ka je povezano na WLAN</string>
   <string name="cloud_back_up_title">Napravi Sig. kopiju uređaja</string>
   <string name="cloud_backup_dialog_title">Napravi Sig. kopiju s Mi Cloudom</string>
-  <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Mi Cloudu</string>
-  <string name="cloud_backup_select_recover">Odaberi Sig. kopiju sa Mi Clouda</string>
   <string name="cloud_find_device">Pronađi Uređaj</string>
   <string name="cloud_restore_title">Vrati iz Sig. kopije</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %s GB na vaš cloud.</string>

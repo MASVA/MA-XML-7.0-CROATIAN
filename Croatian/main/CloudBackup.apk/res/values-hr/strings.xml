@@ -14,7 +14,7 @@
   <string name="button_cancel">Odustani</string>
   <string name="button_delete">Izbriši</string>
   <string name="button_next">Dalje</string>
-  <string name="cancel_recover_settings">&lt;u&gt;Odustani&lt;/u&gt;</string>
+  <string name="cancel_recover_settings">Odustani</string>
   <string name="click_try_to_restore_again">Dodirnite da pokušate ponovo</string>
   <string name="cloud_app_backup_success">Sig. kopija aplikacija završena</string>
   <string name="cloud_app_check_data">Razgovor sa Mi Cloudom…</string>
@@ -54,6 +54,8 @@ Napomena: Podaci za aplikacije koje ste instalirali neće biti spremljene na Mi 
   <string name="cloud_backup_detail_state">Mi Cloud Sig. kopija</string>
   <string name="cloud_backup_detail_state_summary">Aplikacije, Početni zaslon i postavke sustava</string>
   <string name="cloud_backup_detail_time">, Vrijeme izrade:%1$s</string>
+  <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Mi Cloudu</string>
+  <string name="cloud_backup_select_recover">Odaberite Sig. kopiju sa Mi Clouda</string>
   <string name="cloud_restore_from_other_device">"Zaustaviti vraćanje %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
   <string name="cloud_restore_task">Vraćanje…</string>
   <string name="cloud_task_in_process">"Zaustaviti %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>

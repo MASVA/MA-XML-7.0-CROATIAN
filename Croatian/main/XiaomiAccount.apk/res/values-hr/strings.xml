@@ -129,6 +129,7 @@
   <string name="activate_status_title_activating_msim">Aktivacija vaše SIM kartice %s…</string>
   <string name="activating">Aktivacija…</string>
   <string name="add_account">Dodaj račun</string>
+  <string name="agree_add_continue">Slažem se</string>
   <string name="alert_title_remove_account">Ukloniti račun?</string>
   <string name="app_name">Mi Račun</string>
   <string name="authorize_title">Autorizacija</string>
@@ -186,6 +187,7 @@
   <string name="error_unknown">"Ne mogu se prijaviti"</string>
   <string name="error_user_name">Nevažeće korisničko ime</string>
   <string name="exceed_binded_phone_times_notice">Ovaj broj telefona je već povezan s drugim Mi Računom.</string>
+  <string name="exit">Izlaz</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Ovaj broj telefona već je povezan s drugim Mi Računom</string>
   <string name="failed_get_mibi_info">"Ne mogu dobiti stanje"</string>
@@ -197,6 +199,8 @@
   <string name="hide_mibi_info">Podaci Mi Kredita su sakriveni</string>
   <string name="input_captcha_hint">Unesite kôd</string>
   <string name="input_email_address_notice">"Ova adresa e-pošte će biti korištena za potvrdu vašeg računa"</string>
+  <string name="internet_statement_message">Dodirom na Slažem se, prihvaćate uvjete da će ta aplikacija imati pristup internetu</string>
+  <string name="internet_statement_title">Uvjeti korištenja</string>
   <string name="input_password_hint">Unesite zaporku</string>
   <string name="input_vcode_hint">Unesite kôd za provjeru</string>
   <string name="just_a_second">Samo trenutak…</string>
