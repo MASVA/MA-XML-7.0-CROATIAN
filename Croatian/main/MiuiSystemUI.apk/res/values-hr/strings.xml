@@ -45,6 +45,7 @@
   <string name="accessibility_wimax_signal_full">WiMAX puni signal.</string>
   <string name="accessibility_wimax_three_bars">WiMAX tri linije.</string>
   <string name="accessibility_wimax_two_bars">WiMAX dvije linije.</string>
+  <string name="account_info">Niste prijavljeni</string>
   <string name="activate_usb_message">Da aktivirate ovu značajku, umetnite vašu SIM karticu</string>
   <string name="activate_usb_title">Aktiviraj USB</string>
   <string name="always_use_accessory">"Koristi se kao zadana postavka za ovaj USB dodatak"</string>
@@ -135,6 +136,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="mount_storage">"Da"</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Nema obavijesti.</string>
+  <string name="notification_header_title">Obavijesti</string>
   <string name="notification_otg_gamestick_in">Igrači kontroler je povezan</string>
   <string name="notification_otg_gamestick_out">Igrači kontroler nije povezan</string>
   <string name="notification_otg_keyboard_in">Tipkovnica je povezana</string>
@@ -177,7 +179,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="settings_toggle_position_divider_page">Broj aktivnih prečaca iznad ove trake: %1$d</string>
   <string name="settings_toggle_position_reset">Poništi prečace</string>
   <string name="share">Podijeli</string>
-  <string name="status_bar_date_format">d.M E</string>
+  <string name="status_bar_date_format">"d.M. E"</string>
+  <string name="status_bar_date_format_12">"d.M. E"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Danas: %1$s   Preostalo: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Danas: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan premašen:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>

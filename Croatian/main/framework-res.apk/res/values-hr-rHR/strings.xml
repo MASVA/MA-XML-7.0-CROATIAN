@@ -540,7 +540,10 @@ Da otkvačite, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanj
 
 Da otkvačite, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanje\"."</string>
   <string name="lock_to_app_exit">Zaslon je otkvačen</string>
+  <string name="lock_to_app_negative">NE, HVALA</string>
+  <string name="lock_to_app_positive">POKRENI</string>
   <string name="lock_to_app_start">Zaslon je pričvršćen</string>
+  <string name="lock_to_app_title">Želite li upotrijebiti prikvačivanje?</string>
   <string name="lock_to_app_toast">Da otkvačite ovaj zaslon, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanje\".</string>
   <string name="lock_to_app_toast_accessible">Da otkvačite ovaj zaslon, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanje\".</string>
   <string name="lock_to_app_toast_locked">Aplikacija je prikvačena: otkvačivanje nije dopušteno na tom uređaju.</string>
@@ -554,7 +557,7 @@ Da otkvačite, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanj
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
   <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
   <string name="lockscreen_airplane_mode_on">Zrakoplovni način</string>
-  <string name="lockscreen_battery_short">%d%%</string>
+  <string name="lockscreen_battery_short">%d %%</string>
   <string name="lockscreen_carrier_default">Nema usluge.</string>
   <string name="lockscreen_charged">Napunjeno</string>
   <string name="lockscreen_emergency_call">Hitan poziv</string>
@@ -1719,7 +1722,6 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="vpn_title_long">Aplikacija %s aktivirala je VPN</string>
   <string name="wait">Pričekaj</string>
   <string name="wallpaper_binding_label">Slika pozadine</string>
-  <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
   <string name="web_user_agent_target_content">"Mobilno "</string>
   <string name="webpage_unresponsive">"Stranica ne reagira.
 

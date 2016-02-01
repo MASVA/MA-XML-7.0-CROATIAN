@@ -9,6 +9,7 @@
   <string name="clear_shortcuts_disagree">"Ne brisati prečace"</string>
   <string name="clear_shortcuts_prompt">"To će izbrisati sve prečace i nedavno izabrane prijedloge pretraživanja.(Za brisanje povijesti preglednika, upotrijebite postavke preglednika.)"</string>
   <string name="clear_shortcuts_summary">Izbrišite prečace do nedavno odabranih prijedloga pretraživanja</string>
+  <string name="connect_and_retry">Povežite se na internet i pokušajte ponovno</string>
   <string name="corpus_description_apps">Nazivi instaliranih aplikacija</string>
   <string name="corpus_description_web">Pretraživanje weba, oznake i povijest preglednika</string>
   <string name="corpus_hint_apps">Pretraži aplikacije</string>
@@ -37,6 +38,7 @@
   <string name="loading">Samo trenutak…</string>
   <string name="menu_help">Pomoć</string>
   <string name="menu_settings">Postavke pretraživanja</string>
+  <string name="network_unavailable">Nistee povezani na internet</string>
   <string name="recently_shortcut_label">Nedavni prečaci</string>
   <string name="remove_from_history">Uklanjanje stavke iz povijesti</string>
   <string name="remove_from_history_failed">"Ne mogu ukloniti stavku iz povijesti"</string>
@@ -53,6 +55,7 @@
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"Pokušajte reći "</string>
+  <string name="web_search_results">Rezultati pretraživanja</string>
   <string name="xiaomi_hint"/>
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Rezultati</string>

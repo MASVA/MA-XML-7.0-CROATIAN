@@ -210,6 +210,7 @@
   <string name="hints_video_download">Preuzeti videozapisi</string>
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danas</string>
+  <string name="information_setting">Postavke vijesti</string>
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
   <string name="item_title_process_mode">Odaberite radnju</string>
@@ -217,6 +218,7 @@
   <string name="label_image_list_none">Ništa</string>
   <string name="label_preserve_the_best_image">Spremi najoštrije fotografije</string>
   <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
+  <string name="load_only_under_wlan">Učitaj vijesti kada je povezano na WLAN</string>
   <string name="login_immediately">Prijavite se</string>
   <string name="mainbtn_text_quick_cleanup">Očisti %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Očisti</string>

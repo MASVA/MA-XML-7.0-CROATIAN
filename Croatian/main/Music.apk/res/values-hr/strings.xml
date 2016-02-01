@@ -39,6 +39,7 @@
   <string name="all_tracks_short">Sve pjesme</string>
   <string name="already_download">Preuzimanje…</string>
   <string name="already_favorited">Već označeno</string>
+  <string name="android_sdk_too_low">"Vaša Android verzija je zastarjela, aplikacija Glazba se ne može ažurirati. Molimo ažurirajte sustav Android."</string>
   <string name="artist">Izvođači</string>
   <string name="artist_is_empty">Ime Izvođača ne može biti prazno.</string>
   <string name="artist_name">Izvođač</string>
@@ -61,6 +62,8 @@
   <string name="bluetooth_device">Bluetooth uređaj</string>
   <string name="buffering">Buffering…</string>
   <string name="button_add">Dodaj</string>
+  <string name="buy_other_flow">Redoviti podaci</string>
+  <string name="buy_traffic">China Unicom</string>
   <string name="buy_vip">Nabavite Premium pretplatu</string>
   <string name="can_not_find_resource">"Ne mogu pronaći izvore"</string>
   <string name="cancel">Odustani</string>
@@ -263,6 +266,7 @@
   <string name="metered_disallow">Odustani</string>
   <string name="metered_play_toast">Korištenje mobilne podatkovne veze za streaming</string>
   <string name="min_sleep_time">1</string>
+  <string name="miui_music">Mi Glazba</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Odustani</string>
@@ -437,14 +441,17 @@
   <string name="sort_by_name">Naziv</string>
   <string name="sort_by_time">Datum</string>
   <string name="source_from">Izvor: %1$s</string>
+  <string name="start_download_music">Pokrenite preuzimanje paketa ažuriranja.</string>
   <string name="start_to_download">Preuzimanje…</string>
   <string name="start_to_play">Reproduciraj</string>
+  <string name="start_to_use">Počnite uživati</string>
   <string name="stream_normal">Reproduciraj u standardnoj kvaliteti</string>
   <string name="stream_quality">Kvaliteta streama</string>
   <string name="streamloadingtext">Povezivanje na %s</string>
+  <string name="sub_explanation">Plan podataka glazbe</string>
+  <string name="sub_explanation_message">Plan podataka glazbe je trenutno podržan od strane China Unicom. Vaš mobilni operater ne podržava ovu značajku. Možete kupiti redovite mobilne podataka."</string>
   <string name="suggest_text">Osobe kojima se ovo sviđa</string>
-  <string name="support_online_only">Samo stream</string>
-  <string name="sync_only_in_wifi">Sinkr. sam preko WLAN-a</string>
+  <string name="sync_only_in_wifi">Sinkr. samo preko WLAN-a</string>
   <string name="sync_only_in_wifi_summary">Sinkronizirajte svoju glazbu na svim svojim uređajima s Mi Cloudom. Korištenje mobilne podatkovne veze za sinkronizaciju glazbe će povećati uporabu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš operater vam može naplatiti dodatne troškove.</string>
   <string name="tab_album">Albumi</string>
   <string name="tab_album_list">Albumi</string>
@@ -459,6 +466,7 @@
   <string name="tab_track">Pjesme</string>
   <string name="tab_track_list">Pjesme</string>
   <string name="take_effect_afater_restart">Morate ponovno pokrenuti aplikaciju da ove postavke stupe na snagu.</string>
+  <string name="time_to_upgrade">Potrebno je ažurirati Mi Glazbu</string>
   <string name="title_online_artist">Izvođači u trendu</string>
   <string name="title_online_billboard">Ljestvice</string>
   <string name="title_online_fm">Radio</string>
@@ -498,6 +506,7 @@
   <string name="ultra_high_quality">Najviša</string>
   <string name="unknown_album_name">Nepoznati album</string>
   <string name="unknown_artist_name">Nepoznati izvođač</string>
+  <string name="update_now">Ažuriraj sada</string>
   <string name="upgrade">Nadogradnja:</string>
   <string name="upgrade_force">"Obustavljamo našu trenutnu streaming uslugu zbog pitanja autorskih prava. Ažurirajte na najnoviju verziju aplikacije Glazba za slušanje glazbe visoke kvalitete."</string>
   <string name="upgrade_immediate">Ažuriraj sada</string>
@@ -521,4 +530,5 @@
   <string name="vip_renew_title">Pretplata istekla</string>
   <string name="vip_required">Nabavite Premium pretplatu za reprodukciju ove pjesme.</string>
   <string name="vip_required_with_song">Nabavite Premium pretplatu za reprodukciju “%s”.</string>
+  <string name="welcome_to_new_music">Dobrodošli u novu verziju Mi Glazbe</string>
 </resources>
