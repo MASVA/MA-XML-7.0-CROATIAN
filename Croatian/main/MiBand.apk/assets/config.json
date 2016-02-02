@@ -4,9 +4,9 @@
     "partner" : {
         "enable":true,
         "loadEnable" : true,
-        "healthLinkEnable" : false,
-        "QQHealthEnable":false,
-		"WeiboHealthEnable" : false,
+        "healthLinkEnable" : true,
+        "QQHealthEnable":true,
+		"WeiboHealthEnable" : true,
         "GoogleFitEnable" : true
     },
 
@@ -24,7 +24,7 @@
     },
     
     "mall" : {
-        "enable" : false
+        "enable" : true
     },
 
     "upgrade" : {
@@ -64,6 +64,6 @@
     },
 
     "shoes" : {
-        "enable" : false
+        "enable" : true
     }
 }

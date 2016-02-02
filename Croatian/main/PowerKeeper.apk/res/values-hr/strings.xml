@@ -25,6 +25,7 @@
   <string name="config_mode_title">Postavke</string>
   <string name="config_suggest_description">Koristite različite konfiguracije uštede energije za različite aplikacije</string>
   <string name="config_suggest_title">Predloženo</string>
+  <string name="config_mode_title">Odaberite konfiguraciju</string>
   <string name="disabled">Isklj.</string>
   <string name="empty_title_apps_container_list">Nema aplikacija</string>
   <string name="error_filename_too_long">Naziv datoteke koji ste unijeli je predugačak.</string>
