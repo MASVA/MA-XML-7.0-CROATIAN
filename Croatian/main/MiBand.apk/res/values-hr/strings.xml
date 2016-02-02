@@ -286,7 +286,7 @@ niz"</string>
      <string name="crash_report_btn_report">Izvješće</string>
      <string name="crash_report_dialog_text">Došlo je do pogreške koja je uzrokovala prisilno zatvaranje. Pomozite nam riješiti ovaj problem slanjem zapisnika. Pritisnite tipku "Izvješće".</string>
      <string name="crash_report_dialog_title">Mi Band prestao je funkcionirati</string>
-     <string name="crash_report_email_subject">%s Izvješće o bugu %s</string>
+     <string name="crash_report_email_subject" formatted="false">%s Izvješće o bugu %s</string>
      <string name="crash_report_email_text">"Komentar:
 "</string>
      <string name="current_weight">Trenutna težina</string>
@@ -517,7 +517,7 @@ Koristite Mi Vagu da spremite težinu vašeg djeteta"</string>
      <string name="hr_detail_slow">Vaš broj otkucaja srca je usporen</string>
      <string name="hr_detail_sports">Broj otkucaja srca je obično povećan tijekom vježbanja</string>
      <string name="hr_detail_title">&lt;b&gt;Normalan Broj otkucaja srca: 60-100 bpm&lt;/b&gt;</string>
-     <string name="hr_detail_title1">&lt;b&gt;"Idealan Broj otkucaja srca tijekom vježbanja:
+     <string name="hr_detail_title1" formatted="false">lt;b&gt;"Idealan Broj otkucaja srca tijekom vježbanja:
 60%-80% od maks. broja otkucaja srca (220-godine)"&lt;/b&gt;</string>
      <string name="hr_dialog_ble">Držite Mi Band povezanim s vašim uređajem putem Bluetootha</string>
      <string name="hr_dialog_go">Start</string>
@@ -540,10 +540,10 @@ Koristite Mi Vagu da spremite težinu vašeg djeteta"</string>
      <string name="hr_tips1">"Uključite Bluetooth i povežite cipele prije početka trčanja.
 Držite Bluetooth uključenim dok trčite."</string>
      <string name="hr_tips10">Idealan broj otkucaja srca tijekom vježbanja za različite uzraste</string>
-     <string name="hr_tips12">"Idealan broj otkucaja srca tijekom vježbanja:
+     <string name="hr_tips12" formatted="false">"Idealan broj otkucaja srca tijekom vježbanja:
 60%-80% od maksim. broja otkucaja srca (220-godine)"</string>
      <string name="hr_tips2">Povežite Mi Band Pulse da izmjerite broj otkucaja srca.</string>
-     <string name="hr_tips3">Na primjer: MASVA ima 20 godina, njegov idealan broj otkucaja srca tijekom vježbanja je 120-160 bpm (60%-80% od 200=220-20).</string>
+     <string name="hr_tips3" formatted="false">Na primjer: MASVA ima 20 godina, njegov idealan broj otkucaja srca tijekom vježbanja je 120-160 bpm (60%-80% od 200=220-20).</string>
      <string name="hr_tips_180">180 koraka/min</string>
      <string name="hr_tips_age">Godine</string>
      <string name="hr_tips_arrange">Idealan broj otkucaja srca kod vježbanja (BPM)</string>
@@ -644,13 +644,13 @@ cilj."</string>
      <string name="lab_factory_sport_gb_count">Najbolji osobni %d puta</string>
      <string name="lab_factory_sport_group_finish_desc">%s završena</string>
      <string name="lab_factory_sport_group_record">"Rekord grupe: "</string>
-     <string name="lab_factory_sport_group_time_cost">%s završen, trajanje aktivnosti %s.</string>
+     <string name="lab_factory_sport_group_time_cost" formatted="false">%s završen, trajanje aktivnosti %s.</string>
      <string name="lab_factory_sport_hour">%ds</string>
-     <string name="lab_factory_sport_hour_min">%ds %dmin</string>
-     <string name="lab_factory_sport_hour_min_sec">%ds %dmin %ds</string>
-     <string name="lab_factory_sport_hour_sec">%ds %ds</string>
-     <string name="lab_factory_sport_min">%dmin</string>
-     <string name="lab_factory_sport_min_sec">%dmin %ds</string>
+     <string name="lab_factory_sport_hour_min" formatted="false">%ds %d min</string>
+     <string name="lab_factory_sport_hour_min_sec" formatted="false">%ds %dmin %ds</string>
+     <string name="lab_factory_sport_hour_sec" formatted="false">%dh %ds</string>
+     <string name="lab_factory_sport_min">%dm</string>
+     <string name="lab_factory_sport_min_sec" formatted="false">%dm %ds</string>
      <string name="lab_factory_sport_monitor_bracelet_offline">"Mi Band nije povezan"</string>
      <string name="lab_factory_sport_monitor_bracelet_offline_notice">Povežite svoj Mi Band prije nego što započnete %s.</string>
      <string name="lab_factory_sport_monitor_cancelled_notice">Senzor će pratiti %s automatski.</string>
@@ -714,7 +714,6 @@ cilj."</string>
      <string name="label_friend_add_message">%s vam je poslao zahtjev za prijateljstvom</string>
      <string name="label_friend_added">Dodano</string>
      <string name="label_friend_care_message">%s vam je poslao gurkanje!</string>
-     <string name="label_friend_confirm_unfollow">取消關注後你將和他不再互相共享數據和不能關愛提醒，確定取消關注嗎？</string>
      <string name="label_friend_refuse_message">%s odbija vaš zahtjev za prijateljstvom</string>
      <string name="label_get_up_time">Vrijeme buđenja</string>
      <string name="label_loading">Učitavanje</string>
@@ -966,7 +965,6 @@ ili oko 12.000 koraka dnevno za aktivan, zdrav stil života. "</string>
      <string name="right_hand">Desna ruka</string>
      <string name="run_hr_instruct">(Asistent kod trčanja#)</string>
      <string name="runed">Trčanje</string>
-     <string name="runner_unlogin_notice">你還未登入app，使用過程中的數據將無法為你同步到伺服器，數據可能會在一些情況下丟失。現在去登入？</string>
      <string name="running_altitude">Nadmorska visina</string>
      <string name="running_auto_pause">Pauza</string>
      <string name="running_auto_pause_desc">Pauziraj automatski kada je radnja prekinuta</string>
@@ -1053,7 +1051,7 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
      <string name="running_helper">Asistent</string>
      <string name="running_history">Povijest</string>
      <string name="running_history_child_date_format">%1$d</string>
-     <string name="running_history_date">"%d/%d
+     <string name="running_history_date" formatted="false">"%d/%d
 %d"</string>
      <string name="running_history_group_distance">%1$.2fkm</string>
      <string name="running_history_group_distance_br">%1$.2fmi</string>
@@ -1068,9 +1066,9 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
      <string name="running_history_total_distance_br">Udaljenost (milja)</string>
      <string name="running_history_total_times">Ukupno (puta)</string>
      <string name="running_hour">%dh</string>
-     <string name="running_hour_min">%dh %dm</string>
-     <string name="running_hour_min_sec">%dh %dm %ds</string>
-     <string name="running_hour_sec">%dh %ds</string>
+     <string name="running_hour_min" formatted="false">%dh %dm</string>
+     <string name="running_hour_min_sec" formatted="false">%dh %dm %ds</string>
+     <string name="running_hour_sec" formatted="false">%dh %ds</string>
      <string name="running_hr">Broj otkucaja srca</string>
      <string name="running_hr_check">Izmjerite broj otkucaja srca</string>
      <string name="running_hr_disabled_tips">Uključite senzor broja otkucaja srca u Postavkama</string>
@@ -1102,7 +1100,7 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
      <string name="running_marathon_cost_time">Potrebno je %s da istrčite maraton ovim tempom.</string>
      <string name="running_mile">milja</string>
      <string name="running_min">%dm</string>
-     <string name="running_min_sec">%dm %ds</string>
+     <string name="running_min_sec" formatted="false">%dm %ds</string>
      <string name="running_no_bracelet_tips">Povežite Mi Band za postavljanje</string>
      <string name="running_no_gps">Uključite GPS da povećate točnost vaše rute.</string>
      <string name="running_no_track_desc">"Otkazati trčanje?"</string>
@@ -1117,7 +1115,7 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
      <string name="running_prepare_map">Priprema podataka…</string>
      <string name="running_prompt_come_on">Kreni!!</string>
      <string name="running_prompt_great">Bravo!!</string>
-     <string name="running_prompt_per_kilometer">"Trčali ste %skm. Vrijeme: %s. Zadnji km: %s."</string>
+     <string name="running_prompt_per_kilometer" formatted="false">"Trčali ste %skm. Vrijeme: %s. Zadnji km: %s."</string>
      <string name="running_real_time_mile_pace">Tempo (min/mi)</string>
      <string name="running_real_time_pace">Tempo (min/km)</string>
      <string name="running_resume">Nastavi</string>
@@ -1171,7 +1169,6 @@ Držite Bluetooth ukjlučenim dok trčite."</string>
      <string name="running_tip_use_bracelet_content">Pratite vaš tempo u realnom vremenu</string>
      <string name="running_tip_use_bracelet_label">Koristi Mi Band</string>
      <string name="running_today_null" />
-     <string name="running_track_desc">你還沒動吧，確定要取消這次跑步嗎？</string>
      <string name="running_unlogin_notice">Prijavite se u Mi Band, jer u suprotnom, podaci trčanja mogu biti izgubljeni.</string>
      <string name="running_unsynchronous">Nije sinkr.</string>
      <string name="running_volumn_notice">Preporučujemo da postavite nižu glasnoću medija, tako da budete u mogućnosti čuti glasovne upute tijekom trčanja.</string>
@@ -1213,7 +1210,7 @@ učitan na poslužitelj."</string>
      <string name="set_person_goal">Postavite cilj</string>
      <string name="set_rssi_close">Do 1m</string>
      <string name="set_rssi_distance">Postavite udaljenost otključavanja</string>
-     <string name="set_rssi_failed">RSSI postavljanje nije uspjelo</string>
+     <string name="set_rssi_failed">Rssi postavljanje nije uspjelo</string>
      <string name="set_rssi_nearby">Do 3m</string>
      <string name="set_rssi_success">RSSI postavljanje je uspjelo</string>
      <string name="set_rssi_very_close">Jako bliziu</string>
@@ -1317,7 +1314,7 @@ Potrošeno %3$s Kal. Prethodni rekord je bio %5$s koraka, postavljen %4$s."</str
      <string name="shoes_bind_alert_msg">Skenirajte QR kod Huami modula za uparivanje</string>
      <string name="shoes_bind_alert_title">Ne mogu upariti</string>
      <string name="shoes_bind_change_ok">Zamjeni</string>
-     <string name="shoes_bind_change_text">"Već ste upareni sa %s tenisicama. Upariti se sa %s umjesto?"</string>
+     <string name="shoes_bind_change_text" formatted="false">"Već ste upareni sa %s tenisicama. Upariti se sa %s umjesto?"</string>
      <string name="shoes_bind_prompt">"Protresite Huami modul
 a zatim poravnajte QR kod unutar okvira"</string>
      <string name="shoes_bind_success">Upareno</string>
@@ -1348,8 +1345,8 @@ Li-Ning Logo okrenite prema gore"</string>
      <string name="shoes_connection_battery_info">"Baterija tenisica je niska %s%%"</string>
      <string name="shoes_count_down_text">%ds</string>
      <string name="shoes_description">Životni vijek tenisica je 400-800km</string>
-     <string name="shoes_distance">%d / %d km</string>
-     <string name="shoes_fetching">Dobivanje detalja…</string>
+     <string name="shoes_distance" formatted="false">%d / %d km</string>     
+	 <string name="shoes_fetching">Dobivanje detalja…</string>
      <string name="shoes_fetching_failed">Nije uspjelo</string>
      <string name="shoes_firmware_connect_fail">Povezivanje nije uspjelo</string>
      <string name="shoes_firmware_connect_success">Povezano</string>
@@ -1374,8 +1371,6 @@ Li-Ning Logo okrenite prema gore"</string>
      <string name="shoes_firmware_update_success">Uspješno ažurirano</string>
      <string name="shoes_firmware_updating">Ažuriranje…</string>
      <string name="shoes_firmware_version">Firmware verzija</string>
-     <string name="shoes_fw_upgrade_tips">Halten Sie die Schuhe in der Nähe Ihres Geräts, bis die Aktualisierung abgeschlossen ist.</string>
-     <string name="shoes_fw_upgrade_title">Firmware der Schuhe aktualisiert</string>
      <string name="shoes_fw_uptodate">Imate zadnju verziju</string>
      <string name="shoes_guangsu">Guangsu</string>
      <string name="shoes_home_tips_bind_miband">Nema uparenog Mi Banda, uparite ga</string>
@@ -1408,10 +1403,10 @@ Li-Ning Logo okrenite prema gore"</string>
      <string name="shoes_unbind_success">Veza uspješno prekinuta</string>
      <string name="shoes_usage">%s kilometar(a)</string>
      <string name="shoes_used_distance">Life Span</string>
-     <string name="signal_none">Aus</string>
+     <string name="signal_none">Ništa</string>
      <string name="signal_strength">"Jačina signala: "</string>
-     <string name="signal_strong">Stark</string>
-     <string name="signal_weak">Schwach</string>
+     <string name="signal_strong">Jak</string>
+     <string name="signal_weak">Slab</string>
      <string name="skip">Preskoči</string>
      <string name="sleep_assist">Asistent spavanja</string>
      <string name="sleep_assist_info">Mjeri broj otkucaja srca svake 2 min nakon što zaspite da podaci spavanja budu što točniji.</string>
@@ -1427,7 +1422,7 @@ Li-Ning Logo okrenite prema gore"</string>
      <string name="sport_coming_soon">Dolazi uskoro!</string>
      <string name="sport_new_record_ropeskipping">Novi rekord</string>
      <string name="sport_ranking_desc_great">Bravo!</string>
-     <string name="sport_ranking_desc_normal">Pobijedili ste &lt;b&gt;%s&lt;/b&gt; %s korisnika.</string>
+     <string name="sport_ranking_desc_normal" formatted="false">Pobijedili ste &lt;b&gt;%s&lt;/b&gt; %s Mi Band korisnika.</string>
      <string name="sport_ranking_desc_poor">%s: Većina korisnika je ispred vas.</string>
      <string name="sport_running_helper">Pratitelj rute</string>
      <string name="sport_running_helper_test">Test pomoćnika trčanja</string>
@@ -1677,8 +1672,6 @@ Držite Mi Band i telefon udaljenim najmanje 5m."</string>
      <string name="weight_edit">Uredi</string>
      <string name="weight_edit_delete">Izbriši</string>
      <string name="weight_edit_move">Ukloni</string>
-     <string name="weight_fw_upgrade_tips">In der Nähe der Waage bleiben während der Aktualisierung</string>
-     <string name="weight_fw_upgrade_title">Aktualisierung verfügbar</string>
      <string name="weight_goal">Postavite željenu težinu</string>
      <string name="weight_goal_height_100">Postavite željenu težinu</string>
      <string name="weight_guest">Gost</string>
