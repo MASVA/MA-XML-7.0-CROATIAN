@@ -46,7 +46,7 @@
   <string name="cant_remove_system_app">"Nije moguće ukloniti aplikaciju sustava"</string>
   <string name="children_folder_title">Djeca</string>
   <string name="children_mode_exit">Izlaz</string>
-  <string name="children_mode_tips">Natrag u Postavke i upravljaj pristup aplikacijama.</string>
+  <string name="children_mode_tips">Natrag u Postavke da upravljate pristupu aplikacijama.</string>
   <string name="choose_theme">Tema</string>
   <string name="choose_wallpaper">Odaberi sliku pozadine</string>
   <string name="chooser_wallpaper">Odaberi sliku pozadine</string>

@@ -49,7 +49,7 @@
   <string name="permlab_downloadCompletedIntent">Pošaljite obavijesti o preuzimanju.</string>
   <string name="permlab_downloadManager">Pristupite upravitelju za preuzimanje.</string>
   <string name="permlab_downloadManagerAdvanced">Napredne funkcije upravitelja za preuzimanje.</string>
-  <string name="permlab_downloadWithoutNotification">preuzmi datoteke bez obavijesti</string>
+  <string name="permlab_downloadWithoutNotification">Preuzmi datoteke bez obavijesti</string>
   <string name="permlab_seeAllExternal">Prikaz svih preuz. na USB</string>
   <string name="privacy_notif_content">Dodirnite za pregled detalja.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator je uključen</string>
@@ -74,4 +74,8 @@
 
 Dodirnite tekst %s  da biste pokrenuli preuzimanje sljedeći put kada se povežete s WLAN mrežom."</string>
   <string name="wifi_required_title">Preuzimanje je preveliko za mrežu operatora</string>
+  <string name="xl_speedup_experience_notify_context">"Brzina je povećana za svako preuzimanje kada ste Xunlei član"</string>
+  <string name="xl_speedup_experience_notify_title">Xunlei članstvo</string>
+  <string name="xl_speedup_notify_button_experience">Isprobajte besplatno</string>
+  <string name="xl_speedup_notify_button_member">Postanite član</string>
 </resources>
