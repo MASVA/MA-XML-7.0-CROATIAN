@@ -102,7 +102,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Dolazno: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Odlazno: "</string>
   <string name="callrecordview_item_op_video">Video</string>
-  <string name="callrecordview_menu_add_call_note">Dodaj bilješka poziva</string>
+  <string name="callrecordview_menu_add_call_note">Dodaj bilješku poziva</string>
   <string name="callrecordview_menu_batch_delete">Izbriši seriju</string>
   <string name="callrecordview_menu_conference">Konferencijski poziv</string>
   <string name="callrecordview_menu_delete">"Izbriši povijest poziva"</string>

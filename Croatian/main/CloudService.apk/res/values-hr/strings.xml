@@ -308,7 +308,7 @@ Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
   <string name="micloud_sync_alert_dialog_title">Koristi Mi Cloud</string>
   <string name="micloud_title_dspt" formatted="false">"Ukupno %s
  Iskorišteno %s | Preostalo %s"</string>
-  <string name="micloud_title_dspt_remain">%s preostalo</string>
+  <string name="micloud_title_dspt_remain">Preostalo %s</string>
   <string name="micloud_title_full_dspt">"Dosegli ste ograničenje kapaciteta pohrane"</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>

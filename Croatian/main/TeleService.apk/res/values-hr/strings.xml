@@ -37,7 +37,7 @@
   <string name="all_day">Cijeli dan</string>
   <string name="always_enable_mms">Uvijek primaj MMS</string>
   <string name="always_enable_mms_summary">Primanje MMS-a čak i kada su mobilni podaci isključeni</string>
-  <string name="answer_features_setting_category">Odgovori</string>
+  <string name="answer_features_setting_category">Javljanje</string>
   <string name="answer_state_setting_summary">Postavke utišavanja zvuka, senzora blizine, itd.</string>
   <string name="answer_state_setting_title">Postavke statusa dolaznog poziva</string>
   <string name="antispam_notification_title">Nepoznat broj</string>
@@ -68,18 +68,18 @@
   <string name="auto_answer_summary_delay">" (odgodi: %s sek)"</string>
   <string name="auto_answer_summary_not_enabled">Isključeno</string>
   <string name="auto_record_yellowpage">Direktorij</string>
-  <string name="auto_redial_pref_summary">Ponovno biranje automatski ako je linija zauzeta</string>
-  <string name="auto_redial_pref_title">Autom. Ponovno biranje</string>
+  <string name="auto_redial_pref_summary">Ponovno biraj automatski ako je linija zauzeta</string>
+  <string name="auto_redial_pref_title">Autom. ponovno biraj</string>
   <string name="auto_retry_mode_summary">Uključi način automatskog ponovnog pokušaja</string>
   <string name="auto_retry_mode_title">Automatski ponovni pokušaj</string>
   <string name="autoip">Auto IP biranje</string>
   <string name="autoip_add_zero_prefix">Dodaj 0 predbroj za mobitele</string>
-  <string name="autoip_areacode_required">Pozivni broj je potreban</string>
+  <string name="autoip_areacode_required">Pozivni broj potreban</string>
   <string name="autoip_areacode_required_accept">U redu</string>
   <string name="autoip_areacode_required_for_emergency_number">Lokalni pozivni broj je potreban za hitne pozive</string>
   <string name="autoip_autoip_current_areacode_summary">Trenutan pozivni broj je %s</string>
   <string name="autoip_current_areacode">Trenutan pozivni broj</string>
-  <string name="autoip_current_areacode_summary">Pozivni broj vaše trenutne lokacije</string>
+  <string name="autoip_current_areacode_summary">"Pozivni broj vaše trenutne lokacije"</string>
   <string name="autoip_exception">"Brojevi koje ne zahtijevaju IP prefiks"</string>
   <string name="autoip_exception_summary">%d ukupno</string>
   <string name="autoip_exception_summary_more">, %d ukupno</string>
@@ -87,7 +87,7 @@
   <string name="autoip_prefix">IP prefiks</string>
   <string name="autoip_prefix_summary">"IP prefiks davatelja usluga je %s"</string>
   <string name="autoip_setting">Automatske IP postavke</string>
-  <string name="autoip_summary">Dodaj IP prefiks stranom broju</string>
+  <string name="autoip_summary">Dodaj IP prefiks za međunarodne brojeve</string>
   <string name="autoip_support_local_numbers">Uvijek koristi IP prefiks</string>
   <string name="back">Natrag</string>
   <string name="badPin">Stari PIN koji ste unijeli nije točan. Pokušajte ponovo.</string>
@@ -144,7 +144,7 @@
   <string name="call_record_auto_whitelist_no_item">Dodajte broj dodirivanjem tipke (+)</string>
   <string name="call_record_auto_whitelist_summary">%d brojeva</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 broj</string>
-  <string name="call_record_off_summary">Snimanje poziva je isključeno</string>
+  <string name="call_record_off_summary">Isključeno</string>
   <string name="call_record_on_summary">Pozivi će biti snimljeni automatski</string>
   <string name="call_record_setting">Snimanje poziva</string>
   <string name="call_record_whitelist_custom">Odabrani brojevi</string>
@@ -527,7 +527,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="ims_menu_save">Spremi</string>
   <string name="ims_service_capability">Mogućnosti usluge</string>
   <string name="ims_service_capability_title">Mogućnosti IMS usluge</string>
-  <string name="ims_set_wifi_calling_preference_failed">Neuspješno postavljanje postavki Wi-Fi poziva</string>
+  <string name="ims_set_wifi_calling_preference_failed">Neuspješno postavljanje postavki WLAN poziva</string>
   <string name="ims_settings">IMS Postavke</string>
   <string name="ims_vt_call_quality">VtCallQuality</string>
   <string name="ims_vt_call_quality_high">Visoka</string>
@@ -772,7 +772,7 @@ Super cheap international calls over the Internet"</string>
   <string name="msim_setting_no_sim_indicator">Nema SIM kartice</string>
   <string name="msim_setting_operator_network_title">"Mobilna mreža"</string>
   <string name="msim_setting_screen_title">SIM kartice &amp; mobilne mreže</string>
-  <string name="msim_setting_sim_info_editor_title">Uredi podatke SIM kartice</string>
+  <string name="msim_setting_sim_info_editor_title">Uredi pojedinosti SIM kartice</string>
   <string name="msim_sim_lock">Zaključano</string>
   <string name="msim_sim_radio_off">Isključeno</string>
   <string name="msim_switch_data_conn_toast">SIM kartice su promijenjene. Vrsta mreže se promijenila. Pogledaj dodatne informacije za SIM kartice i mobilne mreže u izborniku Postavki.</string>
@@ -789,7 +789,7 @@ Super cheap international calls over the Internet"</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (preporučeno)</string>
   <string name="network_error_message">"Ne mogu se povezati na mrežu"</string>
-  <string name="network_error_message_livetalk">Try to make a regular call. It will be charged by the operator.</string>
+  <string name="network_error_message_livetalk">Pokušajte napraviti redoviti poziv. On će biti naplaćen od strane operatera.</string>
   <string name="network_error_title">Pogreška mreže</string>
   <string name="network_forbidden">%s (zabranjeno)</string>
   <string name="network_global">Globalno</string>
@@ -798,13 +798,13 @@ Super cheap international calls over the Internet"</string>
   <string name="network_lte">LTE (preporučeno)</string>
   <string name="network_message">Mrežna poruka</string>
   <string name="network_query_error">Pogreška tijekom pretraživanja mreža.</string>
-  <string name="network_settings_auto_select_title">Zatvori Autom. odabir</string>
+  <string name="network_settings_auto_select_title">Ručno odabrati mrežu?</string>
   <string name="network_settings_automatically_option">Autom. odaberi željenu mrežu (%s)</string>
-  <string name="network_settings_confirm_message">Mreža je možda nedostupna, jeste li sigurni?</string>
-  <string name="network_settings_data_connected_change">Morate isključiti mobilne podatke kod prebacivanja na drugu mrežu.</string>
+  <string name="network_settings_confirm_message">Vaš će uređaj prekinuti vezu s mrežom tijekom traženja dostupnih mreža.</string>
+  <string name="network_settings_data_connected_change">Mobilni podaci će biti automatski isključni dok vaš uređaj traži dostupne mreže.</string>
   <string name="network_settings_duringcall">"Radnja nije dozvoljena tijekom poziva"</string>
   <string name="network_settings_forbidden">%s (zabranjeno)</string>
-  <string name="network_settings_information">Isključite prvo mobilne podatke</string>
+  <string name="network_settings_information">Isključiti mobilne podatke?</string>
   <string name="network_settings_next">Dalje</string>
   <string name="network_settings_query_failed_message">"Ne mogu tražiti mobilne mreže."</string>
   <string name="network_settings_sel_sub">SUBS Postavke</string>
@@ -814,7 +814,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="network_settings_warn_message">Vaš uređaj će se povezati samo na mreže koje odaberete ručno</string>
   <string name="network_type_3g_preferred_cmcc">3G/2G</string>
   <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
-  <string name="network_unconnected_message_livetalk">Pogreška mreže. Try to make a regular call. It will be charged by the operator.</string>
+  <string name="network_unconnected_message_livetalk">Pogreška mreže. Pokušajte napraviti redoviti poziv. On će biti naplaćen od strane operatera.</string>
   <string name="network_unconnected_title">Pogreška mreže</string>
   <string name="network_unlock">Odblokiraj</string>
   <string name="networks">Mrežni operateri</string>
@@ -825,7 +825,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="new_pin2_label">Novi PIN2</string>
   <string name="new_pin_label">Novi PIN</string>
   <string name="new_sim_detected">Otkrivena nova SIM kartica:</string>
-  <string name="no_balance_message">Not enough funds remaining in your top-up package. You can tryto make a regular call instead.</string>
+  <string name="no_balance_message">Nema dovoljno preostalih sredstama na vašem paketu nadoplate. Pokušajte napraviti redoviti poziv.</string>
   <string name="no_balance_title">Nedovoljno sredstava</string>
   <string name="no_call_barring">Nema zabrane poziva</string>
   <string name="no_change">Nisu izvršene nikakve promjene.</string>
@@ -982,7 +982,7 @@ Imate još ovoliko preostalih pokušaja: %d."</string>
   <string name="pin2_changed">PIN2 ažuriran</string>
   <string name="pin2_error_exception">Pogreška mreže ili SIM kartice</string>
   <string name="pin2_invalid">"FDN nije ažuriran jer ste unijeli pogrešan PIN."</string>
-  <string name="pin2_invalid_or_name_is_too_long">Unijeli ste nevažeći PIN ili je ime koje ste unijeli predugačko</string>
+  <string name="pin2_invalid_or_name_is_too_long">PIN ili ime koje ste unijeli nije valjano.</string>
   <string name="pin2_lock_warning">"
 Vezane funkcije PIN2-a će biti zaključane nakon još jednog neuspjelog pokušaja."</string>
   <string name="pin2_or_fdn_invalid">FDN nije ažuriran. PIN2 nije točan ili je telefonski broj odbijen.</string>
@@ -1445,7 +1445,7 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="voicemail_settings_number_title">Broj govorne pošte</string>
   <string name="voicemail_settings_with_label">Govorna pošta (%s)</string>
   <string name="voicemail_visual_voicemail_switch_title">Vizualna govorna pošta</string>
-  <string name="voip_setting">VOIP postavke</string>
+  <string name="voip_setting">VoIP postavke</string>
   <string name="volte_switch_summary">Koristite VoLTE kako bi poboljšali kvalitetu glasovnih i videopoziva</string>
   <string name="volte_switch_title">VoLTE omogućen</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?

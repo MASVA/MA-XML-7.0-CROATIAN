@@ -61,8 +61,6 @@
   <string name="category_0">Apl.</string>
   <string name="category_1">Postavke sustava</string>
   <string name="category_2">Tipke</string>
-  <string name="category_app">Aplikacije</string>
-  <string name="category_system_settings">Postavke sustava</string>
   <string name="chooser_dust_cap">MiKey (Zaštita od prašine)</string>
   <string name="clean_memory">Memorija obrisana</string>
   <string name="click_count_union">Puta</string>
@@ -120,7 +118,6 @@ na dnu popisa"</string>
   <string name="delete_confirm">Izbrisati ovu radnju?</string>
   <string name="delete_gesture">Izbrisati geste za Mikey?</string>
   <string name="device_not_recognized">Povezan uređaj nije prepoznat. Pokušajte ponovo</string>
-  <string name="dialog_content_mad_click">Neprekidno klikanje:</string>
   <string name="dialog_title_disable_mikey_sprite">Onemogućiti MiKey Čarobnjak?</string>
   <string name="dialog_title_mad_click">Upitaj</string>
   <string name="disable_mad_click">Onemogući lud način</string>
@@ -156,6 +153,9 @@ na dnu popisa"</string>
   <string name="front_camera">Prednja kamera</string>
   <string name="goto_update">Ažuriranje</string>
   <string name="hint_long_press_del">Dugi pritisak za uklanjanje</string>
+  <string name="hint_mikey_after_link">Kliknite ovdje da vidite program MiKey</string>
+  <string name="hint_mikey_before_link">Ne može se koristiti</string>
+  <string name="hint_mikey_during_link">MiKey u okviru programau</string>
   <string name="hint_mikey_sprite">"Postavite MiKey Čarobnjak bilo gdje
 Pritiskom na MiKey simulirajte dodir na odabranom mjestu.
 Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
@@ -166,11 +166,16 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="key_direction_up">Gore</string>
   <string name="know_it">U redu</string>
   <string name="long_click">Dugi pritisak</string>
+  <string name="madclick_toast_illigal">Unesite brojeve</string>
+  <string name="madclick_toast_max">Manje od 10000</string>
+  <string name="madclick_toast_min">Više od 0</string>
   <string name="message_photo_end">Slika spremljena</string>
   <string name="mikey_sprite_toggle_title">MiKey Čarobnjak otvoren</string>
   <string name="name">Ime:</string>
   <string name="nickname">Nadimak:</string>
   <string name="no_usage">…</string>
+  <string name="not_support_android_m">"Android 6.0 
+nije podržan!"</string>
   <string name="note">Bilješka:</string>
   <string name="notification_control_play">Reproduciraj</string>
   <string name="notification_control_stop">Zaustavi</string>
@@ -213,8 +218,25 @@ Tijekom uporabe, ostale funkcije MiKey su nedostupne."</string>
   <string name="select_device">Odaberi uređaj</string>
   <string name="select_direction">Smjerovi</string>
   <string name="select_vol">Odaberite tipke za glasnoću</string>
-  <string name="setting_buy">Kupi MiKey</string>
+  <string name="setting_buy">Kupite MiKey</string>
   <string name="setting_feedback">Pov. informacija</string>
+  <string name="setting_inner_call_desc">Klik: Javljanje / prekid poziva</string>
+  <string name="setting_inner_call_title">Poziv</string>
+  <string name="setting_inner_camera_desc">"Klik: Fotografije
+Duži klik: Video"</string>
+  <string name="setting_inner_camera_title">Kamera</string>
+  <string name="setting_inner_im_desc">"目前支持:微信、米聊
+在语音聊天的页面下
+长按:发送语音"</string>
+  <string name="setting_inner_im_title">聊天软件</string>
+  <string name="setting_inner_reader_desc">"目前支持:豆瓣阅读、kindle、小米小说、多看
+单击:下一页
+双击:上一页"</string>
+  <string name="setting_inner_reader_title">阅读软件</string>
+  <string name="setting_inner_sprite">程序内米键</string>
+  <string name="setting_inner_sprite_desc">"程序内米键不能与米键精灵同时使用!
+程序内米键能够在进入某个程序后，智能识别核心操作，比如拍照的快门、读书软件的翻页等，然后通过米键来实现"</string>
+  <string name="setting_inner_sprite_title">程序内米键</string>
   <string name="setting_instant_photo_desc">"Prije snimanja fotografije, Kamera će fokusirati"</string>
   <string name="setting_instant_photo_text">Fokusiraj prije slikanja</string>
   <string name="setting_keeplive_desc">"Ova opcija omogućuje aplikaciji rad u pozadini i da brzo reagira na vaše naredbe.
@@ -226,10 +248,8 @@ To može uzrokovati veću potrošnju baterije"</string>
   <string name="setting_silent_mode_default">Način rada slušalica (odaberite MiKey)</string>
   <string name="setting_silent_mode_desc">"Za spajanje slušalica, odaberite način rada slušalice i odvojite MiKey. U protivnom audio izlaz neće raditi ispravno."</string>
   <string name="setting_silent_mode_dust_cap">Način rada čepova</string>
-  <string name="setting_speed_desc">Brzina klikanja tipke</string>
   <string name="setting_speed_max_time">1000</string>
-  <string name="setting_speed_middle_time">500ms</string>
-  <string name="setting_speed_min_time">0</string>
+  <string name="setting_speed_desc">Brzina klikanja tipke</string>
   <string name="setting_speed_quick">Brzo</string>
   <string name="setting_speed_slow">Sporo</string>
   <string name="setting_speed_text">Brzina</string>
@@ -245,16 +265,6 @@ S vrha zaslona povucite prema dolje da je koristite."</string>
   <string name="setting_vibrate_desc">"Telefon će vibrirati kao obavijest kad je radnja izvršena</string>
   <string name="setting_vibrate_text">Odaziv vibracije</string>
   <string name="settings">Postavke</string>
-  <string name="short_click_1">1x</string>
-  <string name="short_click_10">10x</string>
-  <string name="short_click_2">2x</string>
-  <string name="short_click_3">3x</string>
-  <string name="short_click_4">4x</string>
-  <string name="short_click_5">5x</string>
-  <string name="short_click_6">6x</string>
-  <string name="short_click_7">7x</string>
-  <string name="short_click_8">8x</string>
-  <string name="short_click_9">9x</string>
   <string name="showSlip">Prikaži u skočnom prozoru</string>
   <string name="silent_mode_tip_main">Tihi način rada je omogućen</string>
   <string name="silent_mode_tip_sub"/>
