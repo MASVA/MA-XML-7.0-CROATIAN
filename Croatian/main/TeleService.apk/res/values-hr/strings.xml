@@ -801,7 +801,7 @@ Super cheap international calls over the Internet"</string>
   <string name="network_settings_auto_select_title">Ručno odabrati mrežu?</string>
   <string name="network_settings_automatically_option">Autom. odaberi željenu mrežu (%s)</string>
   <string name="network_settings_confirm_message">Vaš će uređaj prekinuti vezu s mrežom tijekom traženja dostupnih mreža.</string>
-  <string name="network_settings_data_connected_change">Mobilni podaci će biti automatski isključni dok vaš uređaj traži dostupne mreže.</string>
+  <string name="network_settings_data_connected_change">Mobilni podaci će biti automatski isključeni dok vaš uređaj traži dostupne mreže.</string>
   <string name="network_settings_duringcall">"Radnja nije dozvoljena tijekom poziva"</string>
   <string name="network_settings_forbidden">%s (zabranjeno)</string>
   <string name="network_settings_information">Isključiti mobilne podatke?</string>
@@ -825,7 +825,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="new_pin2_label">Novi PIN2</string>
   <string name="new_pin_label">Novi PIN</string>
   <string name="new_sim_detected">Otkrivena nova SIM kartica:</string>
-  <string name="no_balance_message">Nema dovoljno preostalih sredstama na vašem paketu nadoplate. Pokušajte napraviti redoviti poziv.</string>
+  <string name="no_balance_message">Nema dovoljno preostalih sredstava na vašem paketu nadoplate. Pokušajte napraviti redoviti poziv.</string>
   <string name="no_balance_title">Nedovoljno sredstava</string>
   <string name="no_call_barring">Nema zabrane poziva</string>
   <string name="no_change">Nisu izvršene nikakve promjene.</string>
