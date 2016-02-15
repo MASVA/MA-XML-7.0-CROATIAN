@@ -1,29 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Galerija</string>
+  <string name="app_name">Dnevne pozadine zaklj. zaslona</string>
   <string name="at_least_one">Odaberite barem jednu kategoriju</string>
   <string name="cancel">Izlaz</string>
+  <string name="cancel_international">Odustani</string>
   <string name="change_time">Promjeni interval</string>
   <string name="day">1 dan</string>
   <string name="declaration">Uživajte u besplatnim pretplatama iz samog vrha globalnih medija. Budite u toku s najnovijim vijestima, najavama filmova i celebrity tračevima.</string>
-  <string name="declaration_lockscreen_title">Omogući Dnevne pozadine zaklj. zaslona</string>
+  <string name="declaration_lockscreen_title">Uključi Dnevne pozadine zaklj. zaslona</string>
   <string name="declaration_title">Uvjeti i Odredbe</string>
   <string name="hour_1">1 sat</string>
   <string name="hour_3">3 sata</string>
-  <string name="lockscreen_magazine_subscribe">%1$s sljedbenika</string>
   <string name="lockscreen_magazine_summary">Nabavite slike pozadine izravno na vaš zaklj. zaslon svaki dan.</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s slika pozadine</string>
   <string name="lockscreen_magazine_system_title">Zadano</string>
   <string name="lockscreen_magazine_title">Dnevne pozadine zaklj. zaslona</string>
   <string name="no_long_show">"Ne prikazuj ponovo"</string>
+  <string name="ok_international">U redu</string>
   <string name="ok_lockscreen">U redu</string>
-  <string name="ok_network">Slažem se i omogući</string>
+  <string name="ok_network">Slažem se i uključi</string>
   <string name="resource_apply">Postavi</string>
   <string name="resource_no_network_text">"Ne mogu se povezati na mrežu."</string>
   <string name="setting_head">Postavke</string>
   <string name="summary">"Prihvatite naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnosti&lt;/a&gt; za početak. Potrebna internetska veza.​"</string>  
-  <string name="theme_apply_failured">"Ne mogu postaviti sliku pozadine zaklj. zaslona"</string>
+  <string name="summary_international">"Korištenjem ovog proizvoda, pristajete na naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnost&lt;/a&gt;. Potrebna internetska veza.​"</string>
+  <string name="theme_apply_failured">"Ne mogu postaviti, pokušajte ponovno kasnije"</string>
   <string name="theme_apply_success">Pozadina zaklj. zaslona postavljena</string>
   <string name="theme_applying">Postavljanje…</string>
-  <string name="wlan_download">WLAN samo</string>
+  <string name="wlan_download">Ažuriraj kada je povezano na WLAN</string>
 </resources>

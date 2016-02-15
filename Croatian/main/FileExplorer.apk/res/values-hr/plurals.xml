@@ -176,4 +176,12 @@
         <item quantity="few">Pohranjeno %1$d WeChat videozapisa.</item>
         <item quantity="many">Pohranjeno %1$d WeChat videozapisa.</item>
     </plurals>
+	<plurals name="remote_video_update">
+         <item quantity="other">Pronađeno %1$d novih videozapisa</item>
+         <item quantity="zero">Pronađeno %1$d novih videozapisa</item>
+         <item quantity="one">Pronađen %1$d novi videozapis</item>
+         <item quantity="two">Pronađeno %1$d novih videozapisa</item>
+         <item quantity="few">Pronađeno %1$d novih videozapisa</item>
+         <item quantity="many">Pronađeno %1$d novih videozapisa</item>
+     </plurals>
 </resources> 
