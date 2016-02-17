@@ -63,7 +63,7 @@
   <string name="birthday_metric"/>
   <string name="birthday_notice_message">Za pojedinosti o rođendanu potrebno je povezivanje s internetom prije pregleda. Slažete li se?</string>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_days_later">Još ovoliko %1$s dana do %4$s (%5$s)</string>
+  <string name="birthday_notification_text_days_later">Još ovoliko dana %1$s do %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">Ne zaboravite čestitati!</string>
   <string name="birthday_notification_title_days_later">"Uskoro %1$s ima %2$s."</string>
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>

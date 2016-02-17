@@ -128,7 +128,7 @@
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
   <string name="delete_folders">Izbrisati ovoliko(%1$d) mapa?</string>
   <string name="delete_selected_tasks">Izbrisati odabrano?</string>
-  <string name="des_running_trans">Datoteka (%1$d) koje nisu premještene</string>
+  <string name="des_running_trans">Broj datoteka (%1$d) koje nisu premještene</string>
   <string name="dialog_confirm">U redu</string>
   <string name="dialog_select_type">Odaberite tip</string>
   <string name="dialog_type_audio">Zvuk</string>
@@ -151,9 +151,9 @@
   <string name="enable_sd_card">Umetnite SD karticu ili onemogućite USB masovnu pohranu.</string>
   <string name="enable_usb">Povežite USB uređaj</string>
   <string name="encrypt_error">"Ne mogu sakriti datoteke, pokušajte ponovo"</string>
-  <string name="encrypt_prefix">SAKRIVENO</string>
-  <string name="encrypt_success">Uspješno sakriveno</string>
-  <string name="encrypt_success_first_five">"Šifrirano i datotkeka sakrivena. Možete vidjeti sakrivene datoteke povlačenjem prema dolje na početnoj stranici aplik. Datoteke."</string>
+  <string name="encrypt_prefix">SKRIVENO</string>
+  <string name="encrypt_success">Uspješno skriveno</string>
+  <string name="encrypt_success_first_five">"Šifrirano i datoteka skrivena. Možete vidjeti skrivene datoteke povlačenjem prema dolje na početnoj stranici aplik. Datoteke."</string>
   <string name="encrypting">Šifriranje…</string>
   <string name="error_filename_too_long">Naziv je predugačak.</string>
   <string name="error_info_cant_send_folder">"Ne mogu slati ovu vrstu datoteke."</string>
@@ -170,7 +170,7 @@
   <string name="file_already_downlaoded">Datoteka spremljena u \"%1$s\"</string>
   <string name="file_info_canread">Čitljivo:</string>
   <string name="file_info_canwrite">Pisljivo:</string>
-  <string name="file_info_ishidden">Sakriveno:</string>
+  <string name="file_info_ishidden">Skriveno:</string>
   <string name="file_info_location">Lokacija:</string>
   <string name="file_info_modified">Zadnja izmjena:</string>
   <string name="file_info_size">Veličina:</string>
@@ -258,7 +258,7 @@
   <string name="make_private">Sakrij</string>
   <string name="make_private_msg_1">Sakriti ovu datoteku?</string>
   <string name="make_private_msg_2">Sakriti ove datoteke?</string>
-  <string name="make_private_msg_3">Sve datoteke u ovoj mapi biti će sakrivene.</string>
+  <string name="make_private_msg_3">Sve datoteke u ovoj mapi biti će skrivene.</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Čišćenje</string>
   <string name="menu_item_ftp">FTP</string>
@@ -323,6 +323,7 @@
   <string name="my_video">Videozapisi</string>
   <string name="my_video_desc"/>
   <string name="name_empty">Morate unijeti naziv.</string>
+  <string name="need_read_storage_permission">"Aplikacija Datoteke je potrebno dopuštenje za pristup pohrani uređaja"</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
   <string name="network_connect_confirm_des">Aplikacija Datoteke treba povezivanje s internetom za normalan rad</string>
@@ -331,8 +332,8 @@
   <string name="network_spent_reminding_title">Obavijest uporabe podataka</string>
   <string name="never_notify_network_connect">Zapamti postavke</string>
   <string name="new_folder_name">Mapa bez naziva</string>
-  <string name="new_function">Sakrivene mape</string>
-  <string name="new_function_info">"Da napravite sakrivenu mapu, povucite prstom prema dolje od vrha zaslona do prvog reda ikona na početnoj stranici."</string>
+  <string name="new_function">Skrivene mape</string>
+  <string name="new_function_info">"Da napravite skrivenu mapu, povucite prstom prema dolje od vrha zaslona do prvog reda ikona na početnoj stranici."</string>
   <string name="new_function_str">"WeChat naljepnice sada mogu biti prikupljene automatski.
 Preuzmite ih kada želite
 i nikad ne propustite nove cool naljepnice!"</string>
@@ -371,14 +372,14 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="notification_wechat_sticker_switch_title">Dnevne obavijesti novih naljepnica</string>
   <string name="notification_wechat_title">Obavijesti kada će WeChat videozapisi isteći</string>
   <string name="notify_private_folder_msg">Dodirnite da saznate više.</string>
-  <string name="notify_private_folder_title">Napravite sakrivene mape</string>
+  <string name="notify_private_folder_title">Napravite skrivene mape</string>
   <string name="online_not_support">"Ne mogu prikazati ovu datoteku online u ovom trenutku."</string>
   <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena, mogli bi:
 1. Preuzeti datoteku ponovno da je ažurirate.
 2. Učitati je na vaš KuaiPan račun."</string>
   <string name="open_changed_file_title">Promjena primijenjena</string>
   <string name="open_file_failed">"Ne mogu otvoriti"</string>
-  <string name="open_private_folder">Izrada sakrivene mape…</string>
+  <string name="open_private_folder">Izrada skrivene mape…</string>
   <string name="operate_confirm_in_3g">Koristiti vašu mobilnu podatkovnu vezu za preuzimanje ove velike datoteke?</string>
   <string name="operating">Obrada…</string>
   <string name="operation_add_fav">Dodavanje u favorite…</string>
@@ -400,7 +401,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_deleting_detail">Brisanje (%1$d/%2$d)</string>
   <string name="operation_download_link">Kreiraj vezu za preuzimanje</string>
   <string name="operation_favorite">Označi</string>
-  <string name="operation_hide_sys">"Ne prikazuj sakrivene datoteke"</string>
+  <string name="operation_hide_sys">"Ne prikazuj skrivene datoteke"</string>
   <string name="operation_info">Detalji</string>
   <string name="operation_like">Sviđa mi se</string>
   <string name="operation_move">Obreži</string>
@@ -419,7 +420,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_save">Spremi</string>
   <string name="operation_send">Pošalji</string>
   <string name="operation_share">Podijeli</string>
-  <string name="operation_show_sys">Pokaži sakrivene datoteke</string>
+  <string name="operation_show_sys">Pokaži skrivene datoteke</string>
   <string name="operation_unfavorite">Odznači</string>
   <string name="operation_unlike">Ne sviđa mi se</string>
   <string name="pan_settting">KuaiPan postavke</string>
@@ -443,16 +444,16 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="phone_storage_total">Ukupno</string>
   <string name="phone_storage_video_title">Videozapisi: </string>
   <string name="phone_storage_zip_title">Arhive: </string>
-  <string name="pick_file">Select files</string>
+  <string name="pick_file">Odaberite datoteke</string>
   <string name="pick_folder">Odaberite mapu</string>
   <string name="port_range">Port mora biti između 1024–65535</string>
-  <string name="private_files">Sakriveno</string>
-  <string name="private_folder">Sakrivena mapa</string>
-  <string name="private_folder_no_file_hints">Nema sakrivenih datoteka.</string>
-  <string name="private_folder_update">Ažuriranje sakrivenih datoteka…</string>
-  <string name="private_toast_hint1">Dodirnite za dodavanje datoteka u sakrivene mape</string>
-  <string name="private_toast_hint2">Da sakrijete datoteku, pritisnite i zadržite je, a zatim je dodajte u sakrivenu mapu.</string>
-  <string name="private_toast_hint3">Povucite prema dolje za otvaranje sakrivenih mapa</string>
+  <string name="private_files">Skriveno</string>
+  <string name="private_folder">Skriveno</string>
+  <string name="private_folder_no_file_hints">Nema skrivenih datoteka.</string>
+  <string name="private_folder_update">Ažuriranje skrivenih datoteka…</string>
+  <string name="private_toast_hint1">Dodirnite za dodavanje datoteka u skrivene mape</string>
+  <string name="private_toast_hint2">Da sakrijete datoteku, pritisnite i zadržite je, a zatim je dodajte u skrivenu mapu.</string>
+  <string name="private_toast_hint3">Povucite prema dolje za otvaranje skrivenih mapa</string>
   <string name="promot_enctypt_password">Unesite zaporku koja se koristi za otključavanje uređaja ili za isključivanje Dječjeg načina</string>
   <string name="pull_to_signin">Povucite dolje za prijavu.</string>
   <string name="qq_not_installed">"QQ nije instaliran"</string>
@@ -605,7 +606,7 @@ Dodano %1$s slobodnog prostora"</string>
   <string name="tools">ALATI</string>
   <string name="trans_task">Mrežni prijenos</string>
   <string name="transfer_done">Datoteke uspješno premještene.</string>
-  <string name="transfer_private_data">Premještanje sakrivenih datoteka sa SD kartice…</string>
+  <string name="transfer_private_data">Premještanje skrivenih datoteka sa SD kartice…</string>
   <string name="transing">Slanje…</string>
   <string name="trash_box_capacity">Koš za smeće %1$s</string>
   <string name="trash_box_link">Da ispraznite kantu za smeće, posjetite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>

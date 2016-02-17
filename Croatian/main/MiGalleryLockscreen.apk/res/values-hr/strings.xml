@@ -28,4 +28,5 @@
   <string name="theme_apply_success">Pozadina zaklj. zaslona postavljena</string>
   <string name="theme_applying">Postavljanje…</string>
   <string name="wlan_download">Ažuriraj kada je povezano na WLAN</string>
+  <string name="wlan_download_cn">Ažuriraj kada je povezano na WLAN</string>
 </resources>
