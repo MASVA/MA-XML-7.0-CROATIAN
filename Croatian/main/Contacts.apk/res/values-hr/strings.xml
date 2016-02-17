@@ -699,6 +699,7 @@ Razlog: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Uključi</string>
   <string name="miprofile_switch_on_alertdialog_title">Ažuriranje slike profila</string>
   <string name="missing_name">"(Bez imena)"</string>
+  <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
   <string name="more_call_logs">Pogledajte detaljnu povijest poziva na i.mi.com</string>
   <string name="move_and_resize">Premjesti i promjeni veličinu</string>
   <string name="multi_number_menu_call">Poziv</string>
@@ -1042,7 +1043,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="resource_exchange_has_used">Ovaj kod je već iskorišten.</string>
   <string name="resource_exchange_hint">Unesite vaš kod</string>
   <string name="resource_exchange_purchase_unkown_error">Nepoznata mrežna pogreška. Prijavite se na http://market.xiaomi.com kako bi vidjeli status plaćanja.</string>
-  <string name="resource_exchange_share_code_content">Dobili ste kod za %1$s na MIUI Teme trgovini . Vaš MiKredit kod je: %2$s. Dodirni %3$s za koristiti sada.</string>
+  <string name="resource_exchange_share_code_content">Dobili ste kod za %1$s na MIUI Teme trgovini. Vaš kod Mi Kredita je: %2$s. Dodirni %3$s za koristiti sada.</string>
   <string name="resource_exchange_share_code_dlg_content">Kod uspješno kupljen za %1$s je: %2$s. Sada ga možete podijeliti s prijateljima.</string>
   <string name="resource_exchange_share_code_dlg_title">Pošalji kod</string>
   <string name="resource_exchange_success">Uživajte !</string>
