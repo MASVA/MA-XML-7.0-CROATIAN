@@ -831,11 +831,17 @@
   <string name="credentials_unlock_hint">Upišite zaporku za pohranu vjerodajnica.</string>
   <string name="credentials_wrong_password">Pogrešna zaporka.</string>
   <string name="crypt_keeper_button_text">Kriptiraj telefon</string>
+  <string name="crypt_keeper_conditions">Kriptiranje traje sat vremena ili više. Morate započeti s napunjenom baterijom i telefon mora biti priključen tijekom cijelog procesa. Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke.</string>
+  <string name="crypt_keeper_conditions_title">O kriptiranju uređaja</string>
   <string name="crypt_keeper_confirm_encrypt">Morate nacrtati uzorak za otključavanje da biste potvrdili kriptiranje uređaja.</string>
   <string name="crypt_keeper_confirm_title">Kriptirati?</string>
+  <string name="crypt_keeper_content">Možete kriptirati svoje račune, postavke, preuzete aplikacije i njihove podatke, medije i ostale datoteke.</string>
+  <string name="crypt_keeper_content_title">Kriptiraj uređaj</string>
   <string name="crypt_keeper_cooldown">Pokušajte ponovo za ^1 s.</string>
   <string name="crypt_keeper_data_corrupt_summary">"Unijeli ste točnu zaporku, ali su vaši podaci nažalost oštećeni. Za daljnju upotrebu telefona morate ga vratiti na tvorničke postavke. Nakon što vratite telefon na zadano, imat ćete priliku oporaviti podatke koje ste sigurnosno kopirali na svoj Google račun."</string>
   <string name="crypt_keeper_data_corrupt_title">Dešifriranje nije uspjelo</string>
+  <string name="crypt_keeper_decrypt_methods">Nakon kriptiranja telefona, pod pretpostavkom da ste postavili zaključavanje zaslona (to jest obrazac, brojčani PIN ili zaporku), morat ćete otključati zaslon kako biste dešifrirali telefon svaki put kada ga uključite. Jedini drugi način za dešifriranje je vraćanje na tvorničko stanje brisanjem svih vaših podataka.</string>
+  <string name="crypt_keeper_decrypt_methods_title">Dešifriranje vašeg uređaja</string>
   <string name="crypt_keeper_desc">"Možete šifrirati svoje račune, postavke, preuzete aplikacije i njihove podatke, multimedijske i druge datoteke. Nakon šifriranja telefona, pod pretpostavkom da ste postavili zaključavanje zaslona (to jest obrazac, brojčani PIN ili zaporku), prilikom svakog uključivanja morat ćete otključati zaslon kako biste dešifrirali telefon . Jedini drugi način dešifriranja jest vraćanje na tvorničko stanje, čime se brišu svi vaši podaci.Šifriranje traje najmanje sat vremena. Morate započeti s punom baterijom i tijekom postupka držati telefon priključen na napajanje. Ako prekinete postupak, izgubit ćete neke ili sve svoje podatke."</string>
   <string name="crypt_keeper_dialog_need_password_message">Prije nego što ćete moći započeti šifriranje morati ćete postaviti PIN za zaključavanje zaslona ili zaporku.</string>
   <string name="crypt_keeper_dialog_need_password_title">Nema PIN-a ili zaporke za zaključani zaslon</string>
