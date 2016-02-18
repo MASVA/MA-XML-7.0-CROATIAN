@@ -103,7 +103,7 @@
         <item quantity="two">Prije %1$d min.</item>
         <item quantity="few">Prije %1$d min.</item>
         <item quantity="many">Prije %1$d min.</item>
-    </plurals>
+	</plurals>
     <plurals name="hours_ago">
         <item quantity="other">Prije %1$d sati</item>
         <item quantity="zero">Prije %1$d sati</item>
