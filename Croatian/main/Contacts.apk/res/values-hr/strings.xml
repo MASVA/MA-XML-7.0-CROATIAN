@@ -871,8 +871,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="pref_key_rebuild_t9_index_message">Ponovo izgradi indeks da se uklone problemi pretrage</string>
   <string name="pref_key_rebuild_t9_index_title">Ponovo izgradi podatke indeksa</string>
   <string name="pref_key_sim_manage">SIM kartice</string>
-  <string name="pref_key_sim_manage1">Postavljenje SIM kartice 1</string>
-  <string name="pref_key_sim_manage2">Postavljenje SIM kartice 2</string>
+  <string name="pref_key_sim_manage1">Postavljanje SIM kartice 1</string>
+  <string name="pref_key_sim_manage2">Postavljanje SIM kartice 2</string>
   <string name="pref_summary_import_from_account">Premjesti kontakte sa Google i Exchange računa na moj Mi Račun</string>
   <string name="pref_title_account_import">Uvezi kontakte</string>
   <string name="pref_title_import_from_account">Uvezi u Mi Račun</string>

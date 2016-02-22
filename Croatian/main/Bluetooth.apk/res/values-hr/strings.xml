@@ -46,7 +46,7 @@
   <string name="bt_share_picker_label">"Bluetooth"</string>
   <string name="bt_sm_2_1">Na USB pohrani nema dovoljno prostora za spremanje datoteke koju šalje pošiljatelj \"%1$s\"</string>
   <string name="bt_sm_2_2">Potrebno prostora: %1$s</string>
-  <string name="bt_toast_1">Datoteka će biti primljena. Napredak provjerite na ploči Obavijesti.</string>
+  <string name="bt_toast_1">Datoteka će biti primljena. Napredak provjerite na panelu Obavijesti.</string>
   <string name="bt_toast_2">Datoteka ne može biti primljena.</string>
   <string name="bt_toast_3">Zaustavljeno primanje datoteke od pošiljatelja \"%1$s\"</string>
   <string name="bt_toast_4">Slanje datoteke primatelju \"%1$s\"</string>

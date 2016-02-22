@@ -297,10 +297,12 @@
   <string name="more_online_release">Više</string>
   <string name="more_online_song">Više</string>
   <string name="more_online_suggest">Više</string>
+  <string name="more_settings">Više naprednih postavki</string>
+  <string name="more_settings_summary">Postavke za preuzimanje, način rada spavanja, sustav kontrole protoka, filtriranje datoteke i tako dalje.</string>
   <string name="multichoice">Odaberi</string>
   <string name="music_browser_label">Glazba</string>
   <string name="music_filter">Filtriraj audio datoteke</string>
-  <string name="music_quality">Kvaliteta glazbe</string>
+  <string name="music_service">Glazbena usluga</string>
   <string name="music_settings">Glazba</string>
   <string name="music_traffic">Podatkovni plan za glazbu</string>
   <string name="music_traffic_summary">Slušajte i preuzmite pjesme bez korištenja podataka</string>
@@ -355,7 +357,6 @@
   <string name="online_playlist_is_empty">Popis pjesama je prazan</string>
   <string name="order_pending">Čekanje potvrde</string>
   <string name="order_process_fail">"Nije bilo moguće autorizirati vaš račun. Pričekajte nekoliko minuta i pokušajte ponovno."</string>
-  <string name="page_local_setting">Postavke</string>
   <string name="pay">Plati:</string>
   <string name="pay_now">Plati sada</string>
   <string name="payment_fail">Plaćanje nije uspjelo</string>
@@ -407,6 +408,7 @@
   <string name="send_to">Dijeli</string>
   <string name="send_to_title">Pošalji (%1$s)</string>
   <string name="server_error">Pogreška poslužitelja. Pokušajte ponovo kasnije</string>
+  <string name="service_and_settings">Usluga i postavke</string>
   <string name="service_stop">Usluga je obustavljena</string>
   <string name="set_album_successful">Albuma je spremljen</string>
   <string name="set_as_ring">Postavi za zvuk zvona</string>
@@ -417,6 +419,7 @@
   <string name="set_lyric_successful">Tekst je spremljen</string>
   <string name="set_ringtones_failed">Ne mogu postaviti zvuk zvona.</string>
   <string name="set_ringtones_successful">%s postavljen za zvuk zvona.</string>
+  <string name="settings">Postavke</string>
   <string name="settings_notification_text">Prikaži widget glazbe u panelu obavijesti</string>
   <string name="settings_notification_title">Widget panela obavijesti</string>
   <string name="share_append_text">Od @MIUI</string>
@@ -450,6 +453,7 @@
   <string name="streamloadingtext">Povezivanje na %s</string>
   <string name="sub_explanation">Plan podataka glazbe</string>
   <string name="sub_explanation_message">Plan podataka glazbe je trenutno podržan od strane China Unicom. Vaš mobilni operater ne podržava ovu značajku. Možete kupiti redovite mobilne podataka."</string>
+  <string name="subed">Uključeno</string>
   <string name="suggest_text">Osobe kojima se ovo sviđa</string>
   <string name="sync_only_in_wifi">Sinkr. samo preko WLAN-a</string>
   <string name="sync_only_in_wifi_summary">Sinkronizirajte svoju glazbu na svim svojim uređajima s Mi Cloudom. Korištenje mobilne podatkovne veze za sinkronizaciju glazbe će povećati uporabu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš operater vam može naplatiti dodatne troškove.</string>
@@ -466,6 +470,8 @@
   <string name="tab_track">Pjesme</string>
   <string name="tab_track_list">Pjesme</string>
   <string name="take_effect_afater_restart">Morate ponovno pokrenuti aplikaciju da ove postavke stupe na snagu.</string>
+  <string name="ticket_summary">Kupite ulaznice za predstave, koncerte, predstave i druge manifestacije</string>
+  <string name="ticket_title">Prikaži ulaznice</string>
   <string name="time_to_upgrade">Potrebno je ažurirati Mi Glazbu</string>
   <string name="title_online_artist">Izvođači u trendu</string>
   <string name="title_online_billboard">Ljestvice</string>

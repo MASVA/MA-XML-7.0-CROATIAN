@@ -1044,7 +1044,7 @@ za račun %s."</string>
   <string name="permlab_asec_destroy">uništi unutarnju pohranu</string>
   <string name="permlab_asec_mount_unmount">instaliranje/deinstaliranje interne pohrane</string>
   <string name="permlab_asec_rename">preimenuj unutarnju pohranu</string>
-  <string name="permlab_authenticateAccounts">stvaranje računa i postavljenje zaporki</string>
+  <string name="permlab_authenticateAccounts">stvaranje računa i postavljanje zaporki</string>
   <string name="permlab_backup">sigurnosna kopija i oporavak nadzornog sustava</string>
   <string name="permlab_batteryStats">očitavanje statistike o bateriji</string>
   <string name="permlab_bindAccessibilityService">vezivanje uz uslugu dostupnosti</string>

@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="date_of_traffic_cmcc">
+         <item>"Ovaj tjedan "</item>
+         <item>"Danas "</item>
+         <item>"Ovaj mjesec "</item>
+     </string-array>
     <string-array name="date_of_traffic">
         <item>"Jučer "</item>
         <item>"Danas "</item>
         <item>"Ovaj mjesec "</item>
+    </string-array>
+	<string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Ovaj tjedan: "</item>
+        <item>"Danas: "</item>
+        <item>"Ovaj mjesec: "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
         <item>"Jučer: "</item>

@@ -74,12 +74,14 @@
   <string name="callFailed_unobtainable_number">Neispravan broj</string>
   <string name="callFailed_userBusy">Linija zauzeta</string>
   <string name="callUnanswered_forwarded">Proslijeđen neodgovoren poziv</string>
+  <string name="call_contacts_deny_permission_msg">"Odbili ste dopuštenje za čitanje kontakata ne mogu prikazati informacije o kontaktima."</string>
   <string name="call_description_recording">Snimanje…</string>
   <string name="call_extension_conference_mode">Konferencija</string>
   <string name="call_forwarding_settings">Postavke poziva za prosljeđivanje</string>
   <string name="call_lost">Poziv je izgubljen.</string>
   <string name="call_record_button_label">Snimanje %s</string>
   <string name="call_record_wait_label">Čekanje</string>
+  <string name="call_recording_deny_permission_msg">"Odbili ste dopuštenje za snimanje, ne mogu snimiti."</string>
   <string name="call_recording_error_low_storage">Nema dovoljno mjesta na SD kartici</string>
   <string name="call_recording_error_privacy">"Nije moguće snimati u Gost načinu rada"</string>
   <string name="call_recording_error_sd_access">Pogreška pristupa SD kartice</string>
