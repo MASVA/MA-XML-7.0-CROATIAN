@@ -553,7 +553,7 @@
   <string name="summary_never_flow_verify">"Ovaj broj nije potvrđen s vašim operaterom"</string>
   <string name="summary_permission">Izbjegnite neželjena plaćanja i zaštitite osobne podatke</string>
   <string name="summary_permission_root">Vaš uređaj i osobni podaci su ranjiviji na napad od aplikacija koje imaju ROOT pristup.</string>
-  <string name="summary_power_optimizer">"Smanjite performanse vašeg uređaja"</string>
+  <string name="summary_power_optimizer">"Smanjite performanse vašeg uređaja kada je baterija slaba"</string>
   <string name="summary_saving_switch">Ograničite aplikacije od korištenja vaše mobilne podatkovne veze za prijenos podataka.</string>
   <string name="summary_show_notification">"Prikvači kontrole Sigurnosti u panel obavijesti."</string>
   <string name="summary_telecom_operator">Nabavite statistiku vaše mjesečne uporabe podataka od vašeg operatera.</string>
@@ -561,6 +561,7 @@
   <string name="summary_virus">Uklonite viruse da održite svoj uređa sigurnim</string>
   <string name="summary_virus_cloudscan">Pošaljite i skenirajte nazive i detalje aplikacija koristeći online definicije virusa</string>
   <string name="summary_virus_update">Dobijte najnovije definicije virusa automatski</string>
+  <string name="summary_xiaomi_roaming">0.01 yuan po MB za međunarodni mrežni promet.</string>
   <string name="system_check_content">Rizika %1$d</string>
   <string name="system_check_content_none">Sigurno</string>
   <string name="system_header_title">Čišćenjem %1$d procesa oslobođeno %2$s memorije</string>
@@ -582,7 +583,7 @@
   <string name="title_garbage_lib">Automatska ažuriranja su isključena</string>
   <string name="title_install_virus_no">Instaliranje nadzora isključeno</string>
   <string name="title_install_virus_yes">Instaliranje nadzora uključeno</string>
-  <string name="title_live_talk_purchase">Nadoplatite sada</string>
+  <string name="title_live_talk_purchase">Uključite paket nadoplate</string>
   <string name="title_miui_update">Dostupno ažuriranje</string>
   <string name="title_mms_no">Filter poruka je isključen</string>
   <string name="title_mms_yes">Filter poruka je uključen</string>
@@ -601,6 +602,7 @@
   <string name="title_virus_update_no">Autom. ažuriranje definicija virusa isključeno</string>
   <string name="title_virus_update_yes">Autom. ažuriranje definicija virusa uključeno</string>
   <string name="title_virus_yes">Nema otkrivenih virusa</string>
+  <string name="title_xiaomi_roaming">Mi Roaming</string>
   <string name="toast_cleaner_cloudscan">Čistač će koristiti online definicije</string>
   <string name="toast_default_app">"%1$s postaviti kao zadanu sustava %2$s"</string>
   <string name="toast_flow_notification">Obavijesti uporabe podataka su uključenes</string>

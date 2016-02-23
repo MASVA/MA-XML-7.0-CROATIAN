@@ -495,6 +495,7 @@ Razlog: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_title">Uvezi kontakte u Mi Račun</string>
   <string name="import_to_xiaomi_account_title">Uvezi u Mi Račun</string>
   <string name="import_vcard_description">Uvezi kontakte iz unutarnje pohrane vašeg uređaja</string>
+  <string name="import_vcard_dialog_message">Uvesti vCard?</string>
   <string name="import_weibo_dialog_title">Uvezi Weibo kontakte</string>
   <string name="import_weibo_error_no_matched_contacts">Nema odgovarajućih kontakata.</string>
   <string name="import_weibo_error_no_network">Pogreška mreže.</string>

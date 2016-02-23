@@ -40,6 +40,13 @@
         <item>30 minuta</item>
     </string-array>
     <string-array name="entries_font_size">
+       <item>Normalan</item>
+       <item>Srednji</item>
+       <item>Velik</item>
+       <item>Ogroman</item>
+	   <item>Godzilla</item>
+    </string-array>
+	<string-array name="miui_entries_font_size">
         <item>S</item>
         <item>M</item>
         <item>L</item>
