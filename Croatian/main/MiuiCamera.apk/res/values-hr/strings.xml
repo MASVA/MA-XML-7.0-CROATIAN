@@ -186,8 +186,10 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Čekanje završetka prethodne panorame</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+  <string name="pano_how_to_use_prompt_align_reference_line">Poravnajte strelicu s referentnom linijom</string>
   <string name="pano_how_to_use_prompt">Dodirnite tipku okidača za snimanje panoramske fotografije.</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Nastavite s pomicanjem…</string>
+  <string name="pano_how_to_use_prompt_slow_down">Usporite</string>
   <string name="pano_how_to_use_prompt_to_move">Započnite polako pomicati</string>
   <string name="pano_review_saving_indication_str">Spremanje…</string>
   <string name="pano_too_fast_prompt">Prebrzo</string>

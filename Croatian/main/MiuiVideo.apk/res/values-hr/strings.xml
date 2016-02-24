@@ -92,7 +92,7 @@
   <string name="debug_mode_desc">Ako je označeno, pokreni u debug načinu rada i pokaži id videozapisa u lijevom gornjem kutu.</string>
   <string name="declaration">Uvjeti korištenja</string>
   <string name="declaration_allow">Slažem se</string>
-  <string name="declaration_content">"1.Korištenjem ove usluge, slažete se sa Sohu Video, iQiyi i ostale pružatelje video sadržaja" href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1" Uvjeti Korištenja".
+  <string name="declaration_content">"1.Korištenjem ove usluge, slažete se sa Sohu Video, iQiyi i ostale pružatelje video sadržaja' "&lt;a href="file:///android_asset/terms.html"&gt;Uvjeti Korištenja"&lt;/a&gt;".
 2.Pomozite nam poboljšati ovaj proizvod, automatskim slanjem dijagnostičkih i podataka korištenja Xiaomi-u.
 3.Naš HD video dodatak će biti automatski instaliran.
 4.Ova usluga treba povezivanje s internetom da funkcionira ispravno."</string>
@@ -246,6 +246,7 @@
   <string name="online_video">Internet</string>
   <string name="online_video_oneweek">Tijekom prošlog tjedna</string>
   <string name="online_video_oneweek_ago">Prije tjedan dana</string>
+  <string name="open_in_browser">Otvori u Pregledniku</string>
   <string name="operator_test">Postavke operatora</string>
   <string name="operator_test_summary">Ako je označeno, uđi u način rada operatera</string>
   <string name="other_setting">Ostalo</string>
