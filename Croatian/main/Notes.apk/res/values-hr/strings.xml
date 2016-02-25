@@ -115,6 +115,6 @@
   - Sinkronizacija s MiCloud
   - Postavljanje podsjetnika"</string>
   <string name="widget_content_loading">Samo trenutak…</string>
-  <string name="widget_havenot_content">"Ne mogu naći bilješku. Dodirnite za izradu bilješke. Da promijenite veličinu, dodirnite &amp; povucite rub."</string>
+  <string name="widget_havenot_content">"Dodirnite za stvaranje bilješke. Držite widget za promjenu veličine."</string>
   <string name="widget_under_privacy_mode">"Ne mogu prikazati bilješku u Gost načinu rada"</string>
 </resources>

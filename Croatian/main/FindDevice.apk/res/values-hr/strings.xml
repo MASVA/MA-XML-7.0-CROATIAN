@@ -5,7 +5,7 @@
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne mogu otključati. %s."</string>
   <string name="default_lock_msg_words">Bok! Izgubio sam mobitel. Kontaktirati ću vas kasnije. Hvala na razumijevanju!</string>
-  <string name="default_lock_msg_words_with_phone">Bok! Izgubio sam mobitel. Možete li,molim vas kontaktirati? Hvala!</string>
+  <string name="default_lock_msg_words_with_phone">Bok! Izgubio sam mobitel. Možete li me, molim vas kontaktirati? Hvala!</string>
   <string name="device_lost">Ovaj uređaj je izgubljen!</string>
   <string name="disable_find_device_error">"Ne mogu isključiti Pronađi uređaj. %1$s"</string>
   <string name="disable_find_device_success">Pronađi Uređaj je isključen.</string>
@@ -14,10 +14,11 @@
   <string name="find_device">Pronađi uređaj</string>
   <string name="find_device_crash">Pronađi uređaj je neočekivano prekinut</string>
   <string name="find_device_error_account_sys_timeout">"Ne mogu se povezati na Mi Račun"</string>
+  <string name="find_device_error_account_unknown_error">Pogreška Mi Računa (%s)</string>
   <string name="find_device_error_network">Provjerite podatkovnu vezu i pokušajte ponovo.</string>
   <string name="find_device_error_password_changed">Zaporka računa je nedavno promijenjena.</string>
-  <string name="find_device_error_server">Pogreška poslužitelja</string>
-  <string name="find_device_error_unknown">Nepoznata pogreška.</string>
+  <string name="find_device_error_server">Pogreška poslužitelja (%s)</string>
+  <string name="find_device_error_unknown">Nepoznata pogreška (%s)</string>
   <string name="find_device_noise_title">Pronađi uređaj alarma</string>
   <string name="find_device_notice_p1">Idite na</string>
   <string name="find_device_notice_p2">i.mi.com</string>
