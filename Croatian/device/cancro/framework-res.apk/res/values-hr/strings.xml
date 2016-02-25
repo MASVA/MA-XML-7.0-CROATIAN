@@ -64,7 +64,7 @@
   <string name="allow">Dopusti</string>
   <string name="alwaysUse">Koristi se kao zadana postavka za ovu lokaciju.</string>
   <string name="android_preparing_apk">Pripremanje aplikacije %1$s.</string>
-  <string name="android_start_title">Pokretanje Androida...</string>
+  <string name="android_start_title">Pokretanje Androida…</string>
   <string name="android_system_label">Sustav Android</string>
   <string name="android_upgrading_apk">Optimiziranje aplikacije %1$d od %2$d.</string>
   <string name="android_upgrading_complete">Završetak inicijalizacije.</string>
@@ -119,10 +119,10 @@ Ušteda baterije isključuje se automatski dok se uređaj puni."</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Uključuje osobne podatke kao što su brojevi kreditnih kartica i zaporke.</string>
   <string name="capability_desc_canRequestTouchExploration">Dodirnute stavke izgovorit će se naglas, a zaslon se može istraživati pokretima.</string>
   <string name="capability_desc_canRetrieveWindowContent">Istražite sadržaj prozora koji upotrebljavate.</string>
-  <string name="capability_title_canRequestEnhancedWebAccessibility">Uključiti poboljšanu pristupačnost weba</string>
-  <string name="capability_title_canRequestFilterKeyEvents">Pratiti tekst koji pišete</string>
-  <string name="capability_title_canRequestTouchExploration">Uključiti značajku Istraži dodirom</string>
-  <string name="capability_title_canRetrieveWindowContent">Dohvaćati sadržaj prozora</string>
+  <string name="capability_title_canRequestEnhancedWebAccessibility">Uključivanje poboljšane pristupačnosti weba</string>
+  <string name="capability_title_canRequestFilterKeyEvents">Praćenje teksta koji pišete</string>
+  <string name="capability_title_canRequestTouchExploration">Uključivanje značajke Istraži dodirom</string>
+  <string name="capability_title_canRetrieveWindowContent">Dohvaćanje sadržaja prozora</string>
   <string name="capital_off">Isklj.</string>
   <string name="capital_on">Uklj.</string>
   <string name="car_mode_disable_notification_message">Dodirnite za izlaz iz načina rada u automobilu.</string>
@@ -151,19 +151,19 @@ Ušteda baterije isključuje se automatski dok se uređaj puni."</string>
 koristeći %s"</string>
   <string name="cut">Izreži</string>
   <string name="data_usage_3g_limit_snoozed_title">Prekoračeno ograničenje 2G-3G</string>
-  <string name="data_usage_3g_limit_title">Dost. ogr. 2G–3G prijenosa pod.</string>
+  <string name="data_usage_3g_limit_title">2G-3G podaci su onemogućeni</string>
   <string name="data_usage_4g_limit_snoozed_title">Prekoračeno je ograničenje 4G podataka</string>
-  <string name="data_usage_4g_limit_title">Dost. ogr. 4G prijenosa podataka</string>
-  <string name="data_usage_limit_body">Podaci su pauz. za ostatak cikl.</string>
+  <string name="data_usage_4g_limit_title">4G podaci su onemogućeni</string>
+  <string name="data_usage_limit_body">Dodirnite za omogućavanje.</string>
   <string name="data_usage_limit_snoozed_body">Veličina %s prelazi navedeno ograničenje.</string>
-  <string name="data_usage_mobile_limit_snoozed_title">Limit mobilnih podataka premašen</string>
-  <string name="data_usage_mobile_limit_title">Dost. ogr. mob. prijenosa podat.</string>
+  <string name="data_usage_mobile_limit_snoozed_title">Prekoračeno je ograničenje za podatke na mobilnom uređaju</string>
+  <string name="data_usage_mobile_limit_title">Mobilni podaci su onemogućeni</string>
   <string name="data_usage_restricted_body">Dodirnite za uklanjanje ograničenja.</string>
   <string name="data_usage_restricted_title">Pozadinski podaci ograničeni</string>
   <string name="data_usage_warning_body">Dod. za prikaz upotrebe i post.</string>
   <string name="data_usage_warning_title">Upozorenje o upotrebi podataka</string>
   <string name="data_usage_wifi_limit_snoozed_title">Prekorač. WLAN ogranič. pod.</string>
-  <string name="data_usage_wifi_limit_title">Dost. ogr. WLAN prijenosa pod.</string>
+  <string name="data_usage_wifi_limit_title">WLAN podaci onemogućeni</string>
   <string name="date_and_time" formatted="false">%H:%M:%S %-e.%b.%Y.</string>
   <string name="date_picker_decrement_day_button">Smanjenje dana</string>
   <string name="date_picker_decrement_month_button">Smanjenje mjeseca</string>
@@ -328,9 +328,9 @@ koristeći %s"</string>
   <string name="global_action_toggle_silent_mode">Bešumni način</string>
   <string name="global_action_voice_assist">Glasovna pomoć</string>
   <string name="global_actions">Opcije telefona</string>
-  <string name="global_actions_airplane_mode_off_status">Isključen je način rada u zrakoplovu</string>
-  <string name="global_actions_airplane_mode_on_status">Uključen je način rada u zrakoplovu</string>
-  <string name="global_actions_toggle_airplane_mode">Način rada u zrakoplovu</string>
+  <string name="global_actions_airplane_mode_off_status">Zrakoplovni način je isključen</string>
+  <string name="global_actions_airplane_mode_on_status">Zrakoplovni način je uključen</string>
+  <string name="global_actions_toggle_airplane_mode">Zrakoplovni način</string>
   <string name="gpsNotifMessage">Zatražio %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Zahtjev za lokaciju koji upućuje %s</string>
   <string name="gpsNotifTitle">Zahtjev za lokaciju</string>
@@ -348,13 +348,13 @@ koristeći %s"</string>
   <string name="heavy_weight_notification_detail">Dodirnite da biste se prebacili na aplikaciju</string>
   <string name="heavy_weight_switcher_text">Već se izvodi neka druga aplikacija koja se mora zaustaviti prije pokretanja nove.</string>
   <string name="heavy_weight_switcher_title">Izmijeniti aplikacije?</string>
-  <string name="hour">h</string>
+  <string name="hour">sat</string>
   <string name="hour_ampm" formatted="false">%-l %P</string>
   <string name="hour_cap_ampm" formatted="false">%-l %p</string>
   <string name="hour_picker_description">Kružni klizač sati</string>
   <string name="hours">h</string>
   <string name="httpError">Došlo je pogreška mreže.</string>
-  <string name="httpErrorAuth">Autentifikacija nije moguća.</string>
+  <string name="httpErrorAuth">Autentikacija nije moguća.</string>
   <string name="httpErrorBadUrl">Stranicu nije moguće otvoriti zbog nevažećeg URL-a.</string>
   <string name="httpErrorConnect">Povezivanje s poslužiteljem nije moguće.</string>
   <string name="httpErrorFailedSslHandshake">Sigurnu vezu nije moguće uspostaviti.</string>
@@ -380,9 +380,9 @@ koristeći %s"</string>
   <string name="imProtocolSkype">Skype</string>
   <string name="imProtocolYahoo">Yahoo</string>
   <string name="imTypeCustom">Prilagođeno</string>
-  <string name="imTypeHome">Privatna</string>
+  <string name="imTypeHome">Početna</string>
   <string name="imTypeOther">Ostalo</string>
-  <string name="imTypeWork">Službeni</string>
+  <string name="imTypeWork">Posao</string>
   <string name="ime_action_default">Pokreni</string>
   <string name="ime_action_done">Gotovo</string>
   <string name="ime_action_go">Idi</string>
@@ -407,7 +407,7 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="js_dialog_before_unload_negative_button">Ostani na ovoj stranici</string>
   <string name="js_dialog_before_unload_positive_button">Napusti stranicu</string>
   <string name="js_dialog_before_unload_title">Potvrda kretanja</string>
-  <string name="js_dialog_title">Stranica na adresi \"%s\" sadrži sljedeće:</string>
+  <string name="js_dialog_title">Stranica „%s“ sadrži sljedeće:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalice kako biste čuli izgovaranje tipki zaporke.</string>
   <string name="keyboard_password_character_no_headset">Točka.</string>
@@ -433,7 +433,7 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Područje za otključavanje sažeto je.</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Područje za otključavanje prošireno je.</string>
   <string name="keyguard_accessibility_user_selector">Birač korisnika</string>
-  <string name="keyguard_accessibility_widget">%1$s widget.</string>
+  <string name="keyguard_accessibility_widget">Widget %1$s</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d od %3$d.</string>
   <string name="keyguard_accessibility_widget_deleted">Widget %1$s izbrisan je.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Prazno</string>
@@ -501,8 +501,8 @@ Pokušajte ponovo za %d s."</string>
   <string name="loading">Učitavanje…</string>
   <string name="lock_to_app_exit">Zaslon je otkvačen</string>
   <string name="lock_to_app_start">Zaslon je pričvršćen</string>
-  <string name="lock_to_app_toast">Da biste otkvačili ovaj zaslon, istovremeno dodirnite i zadržite Natrag i Pregled.</string>
-  <string name="lock_to_app_toast_accessible">Da biste otkvačili ovaj zaslon, dodirnite i zadržite Pregled.</string>
+  <string name="lock_to_app_toast">Da otkvačite ovaj zaslon, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanje\".</string>
+  <string name="lock_to_app_toast_accessible">Da otkvačite ovaj zaslon, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanje\".</string>
   <string name="lock_to_app_toast_locked">Aplikacija je prikvačena: otkvačivanje nije dopušteno na tom uređaju.</string>
   <string name="lock_to_app_unlock_password">Traži zaporku radi otkvačivanja</string>
   <string name="lock_to_app_unlock_pattern">Traži uzorak za otključavanje radi otkvačivanja</string>
@@ -578,7 +578,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="managed_profile_label">Posao</string>
   <string name="managed_profile_label_badge">%1$s za posao</string>
   <string name="me">Ja</string>
-  <string name="media_route_button_content_description">Emitiranje</string>
+  <string name="media_route_button_content_description">Medijski izlaz</string>
   <string name="media_route_chooser_extended_settings">Postavke</string>
   <string name="media_route_chooser_searching">Traženje uređaja…</string>
   <string name="media_route_chooser_title">Povezivanje s uređajem</string>
@@ -659,14 +659,14 @@ Pokušajte ponovo za %d s."</string>
   <string name="mediasize_japanese_oufuku">Oufuku</string>
   <string name="mediasize_japanese_you4">You4</string>
   <string name="mediasize_na_foolscap">Foolscap</string>
-  <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
+  <string name="mediasize_na_gvrnmt_letter">Veliko slovo</string>
   <string name="mediasize_na_index_3x5">Kartica indeksa 3 x 5</string>
   <string name="mediasize_na_index_4x6">Kartica indeksa 4 x 6</string>
   <string name="mediasize_na_index_5x8">Kartica indeksa 5 x 8</string>
   <string name="mediasize_na_junior_legal">Junior Legal</string>
   <string name="mediasize_na_ledger">Ledger</string>
   <string name="mediasize_na_legal">Legal</string>
-  <string name="mediasize_na_letter">Letter</string>
+  <string name="mediasize_na_letter">Slovo</string>
   <string name="mediasize_na_monarch">Monarch</string>
   <string name="mediasize_na_quarto">Quarto</string>
   <string name="mediasize_na_tabloid">Tabloid</string>
@@ -680,7 +680,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="midnight">ponoć</string>
   <string name="minute">min</string>
   <string name="minute_picker_description">Kružni klizač minuta</string>
-  <string name="minutes">min</string>
+  <string name="minutes">min.</string>
   <string name="mismatchPin">PIN-ovi koje ste unijeli međusobno se ne podudaraju.</string>
   <string name="mmiComplete">MMI dovršen.</string>
   <string name="mmiError">Problem s vezom ili nevažeći MMI kôd.</string>
@@ -690,7 +690,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="muted_by">Zvuk je isklj. treća strana %1$s</string>
   <string name="needPuk">Vaša je SIM kartica zaključana PUK-om. Unesite PUK kôd da biste je otključali.</string>
   <string name="needPuk2">Unesite PUK2 da biste odblokirali SIM karticu.</string>
-  <string name="network_available_sign_in">Prijava na mrežu</string>
+  <string name="network_available_sign_in">Prijavite se na mrežu</string>
   <string name="new_app_action">Pokreni %1$s</string>
   <string name="new_app_description">Zaustavi staru aplikaciju bez spremanja.</string>
   <string name="next_button_label">Dalje</string>
@@ -708,6 +708,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="number_picker_increment_button">Povećavanje</string>
   <string name="number_picker_increment_scroll_action">Kliznite prema gore za povećavanje i prema dolje za smanjivanje.</string>
   <string name="number_picker_increment_scroll_mode">%s pritisnite i držite.</string>
+  <string name="numeric_date_template" formatted="false">%s.%s.%s.</string>
   <string name="ok">U redu</string>
   <string name="old_app_action">Natrag na %1$s</string>
   <string name="old_app_description">Ne pokreći novu aplikaciju.</string>
@@ -769,7 +770,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_disableKeyguard">Aplikaciji omogućuje onemogućavanje zaključavanja tipkovnice i svih pripadajućih sigurnosnih zaporki. Na primjer, telefon onemogućuje zaključavanje tipkovnice kod primanja dolaznog telefonskog poziva, nakon kojeg se zaključavanje tipkovnice ponovo omogućuje.</string>
   <string name="permdesc_enableCarMode">Aplikaciji omogućuje uključivanje načina rada u vožnji.</string>
   <string name="permdesc_expandStatusBar">Omogućuje aplikaciji proširivanje ili sažimanje trake statusa.</string>
-  <string name="permdesc_flashlight">Aplikaciji omogućuje upravljanje svjetiljkom.</string>
+  <string name="permdesc_flashlight">Aplikaciji omogućuje upravljanje bljeskalicom.</string>
   <string name="permdesc_getAccounts">Aplikaciji omogućuje dobivanje popisa računa koje telefon poznaje. Uključeni mogu biti svi računi koje izrade aplikacije koje ste instalirali.</string>
   <string name="permdesc_getPackageSize">Aplikaciji omogućuje dohvaćanje koda, podataka i veličine predmemorije</string>
   <string name="permdesc_getTasks">Aplikaciji omogućuje dohvaćanje informacija o trenutačnim i nedavnim tekućim zadacima. To aplikaciji može omogućiti otkrivanje informacija o tome koje se aplikacije upotrebljavaju na uređaju.</string>
@@ -808,7 +809,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_requestInstallPackages">Aplikaciji omogućuje zahtijevanje instaliranja paketa.</string>
   <string name="permdesc_route_media_output">Aplikaciji omogućuje usmjeravanje medijskog izlaza na druge vanjske uređaje.</string>
   <string name="permdesc_sdcardRead">Aplikaciji omogućuje čitanje sadržaja vaše USB pohrane.</string>
-  <string name="permdesc_sdcardWrite">Dopušta pisanje u USB pohranu.</string>
+  <string name="permdesc_sdcardWrite">Aplikaciji omogućuje pisanje na USB pohranu.</string>
   <string name="permdesc_sendSms">Aplikaciji omogućuje slanje SMS poruka. To može dovesti do neočekivanih troškova. Zlonamjerne aplikacije mogu vam uzrokovati dodatne troškove slanjem poruka bez vašeg odobrenja.</string>
   <string name="permdesc_setAlarm">Omogućuje aplikaciji postavljanje alarma na instaliranoj aplikaciji budilici. Neke aplikacije budilice možda neće primijeniti tu značajku.</string>
   <string name="permdesc_setInputCalibration">Omogućuje aplikaciji izmjenu parametara kalibracije dodirnog zaslona. Ne bi trebalo biti potrebno za uobičajene aplikacije.</string>
@@ -833,26 +834,26 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_writeHistoryBookmarks">Aplikaciji omogućuje izmjenu povijesti i oznaka Preglednika pohranjenih na telefonu. To aplikaciji može omogućiti brisanje ili izmjenu podataka Preglednika. Napomena: tu dozvolu ne mogu primijeniti preglednici treće strane ili druge aplikacije s mogućnostima pregledavanja weba.</string>
   <string name="permdesc_writeSettings">Omogućuje aplikaciji izmjenu podataka postavki sustava. Zlonamjerne aplikacije mogu oštetiti konfiguraciju sustava.</string>
   <string name="permdesc_writeSyncSettings">Aplikaciji omogućuje izmjenu postavki sinkronizacije za račun. Na primjer, to se može upotrijebiti za omogućavanje sinkronizacije aplikacije Osobe s računom.</string>
-  <string name="permgroupdesc_calendar">pristupati kalendaru</string>
-  <string name="permgroupdesc_camera">snimati fotografije i videozapise</string>
-  <string name="permgroupdesc_contacts">pristupati vašim kontaktima</string>
-  <string name="permgroupdesc_location">pristupiti lokaciji ovog uređaja</string>
-  <string name="permgroupdesc_microphone">snimati zvuk</string>
-  <string name="permgroupdesc_phone">uspostavljati telefonske pozive i upravljati njima</string>
+  <string name="permgroupdesc_calendar">Izravan pristup kalendaru i događajima.</string>
+  <string name="permgroupdesc_camera">Izravan pristup fotoaparatu za slikanje ili snimanje videozapisa.</string>
+  <string name="permgroupdesc_contacts">Izravan pristup vašim kontaktima</string>
+  <string name="permgroupdesc_location">Pratite svoju fizičku lokaciju.</string>
+  <string name="permgroupdesc_microphone">Izravan pristup mikrofonu za snimanje zvuka.</string>
+  <string name="permgroupdesc_phoneCalls">Praćenje, evidencija i obrada telefonskih poziva.</string>
   <string name="permgroupdesc_sensors">pristupiti podacima senzora o vašim vitalnim znakovima</string>
   <string name="permgroupdesc_sms">slati i pregledavati SMS poruke</string>
-  <string name="permgroupdesc_storage">pristupiti fotografijama, medijima i datotekama na vašem uređaju</string>
+  <string name="permgroupdesc_storage">Pristupi memoriji USB.</string>
   <string name="permgrouplab_calendar">Kalendar</string>
   <string name="permgrouplab_camera">Fotoaparat</string>
   <string name="permgrouplab_contacts">Kontakti</string>
-  <string name="permgrouplab_location">Lokacija</string>
+  <string name="permgrouplab_location">Vaša lokacija</string>
   <string name="permgrouplab_microphone">Mikrofon</string>
   <string name="permgrouplab_phone">Telefon</string>
   <string name="permgrouplab_sensors">Biometrijski senzori</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Prostor za pohranu</string>
-  <string name="permission_request_notification_title">Zatražena je dozvola</string>
-  <string name="permission_request_notification_with_subtitle">"Zatražena je dozvola
+  <string name="permission_request_notification_title">Zatraženo je dopuštenje</string>
+  <string name="permission_request_notification_with_subtitle">"Zatraženo je dopuštenje
 za račun %s."</string>
   <string name="permlab_accessCoarseLocation">približna lokacija (mreža)</string>
   <string name="permlab_accessDrmCertificates">pristup DRM certifikatima</string>
@@ -890,7 +891,7 @@ za račun %s."</string>
   <string name="permlab_disableKeyguard">onemogućavanje zaključavanja zaslona</string>
   <string name="permlab_enableCarMode">omogućavanje načina rada za automobil</string>
   <string name="permlab_expandStatusBar">proširivanje/sažimanje trake statusa</string>
-  <string name="permlab_flashlight">upravljanje svjetiljkom</string>
+  <string name="permlab_flashlight">nadzor bljeskalice</string>
   <string name="permlab_getAccounts">pronalaženje računa na uređaju</string>
   <string name="permlab_getPackageSize">mjerenje prostora za pohranu aplikacije</string>
   <string name="permlab_getTasks">dohvaćanje pokrenutih aplikacija</string>
@@ -930,11 +931,11 @@ za račun %s."</string>
   <string name="permlab_route_media_output">Usmjeravanje medijskog izlaza</string>
   <string name="permlab_sdcardRead">čitanje sadržaja USB pohrane</string>
   <string name="permlab_sdcardWrite">izmjena/brisanje sadržaja USB-a</string>
-  <string name="permlab_sendSms">slati i pregledavati SMS poruke</string>
+  <string name="permlab_sendSms">slanje SMS poruka</string>
   <string name="permlab_setAlarm">postavljanje alarma</string>
   <string name="permlab_setInputCalibration">promjena kalibracije uređaja za unos</string>
   <string name="permlab_setTimeZone">postavljanje vremenske zone</string>
-  <string name="permlab_setWallpaper">postavi pozadinu</string>
+  <string name="permlab_setWallpaper">postavi sliku pozadine</string>
   <string name="permlab_setWallpaperHints">prilagođavanje veličine pozadinske slike</string>
   <string name="permlab_sim_communication">komunikacija sa SIM-om</string>
   <string name="permlab_statusBar">onemogućavanje ili izmjena trake statusa</string>
@@ -946,7 +947,7 @@ za račun %s."</string>
   <string name="permlab_useFingerprint">upotreba hardvera za čitanje otisaka prstiju</string>
   <string name="permlab_use_sip">upućivanje/primanje SIP poziva</string>
   <string name="permlab_vibrate">upravljanje vibracijom</string>
-  <string name="permlab_wakeLock">sprečava telefon da prijeđe u stanje mirovanja</string>
+  <string name="permlab_wakeLock">spriječi mirovanje uređaja</string>
   <string name="permlab_writeCalendar">dodajte ili izmijenite kalendarske događaje i pošaljite e-poštu gostima bez znanja vlasnika</string>
   <string name="permlab_writeCallLog">pisanje u dnevnik poziva</string>
   <string name="permlab_writeContacts">izmjena kontakata</string>
@@ -964,7 +965,7 @@ za račun %s."</string>
   <string name="phoneTypeCustom">Prilagođeno</string>
   <string name="phoneTypeFaxHome">Faks kod kuće</string>
   <string name="phoneTypeFaxWork">Službeni faks</string>
-  <string name="phoneTypeHome">Privatni</string>
+  <string name="phoneTypeHome">Početna</string>
   <string name="phoneTypeIsdn">ISDN</string>
   <string name="phoneTypeMain">Glavni telefon</string>
   <string name="phoneTypeMms">MMS</string>
@@ -975,8 +976,8 @@ za račun %s."</string>
   <string name="phoneTypeRadio">Radio</string>
   <string name="phoneTypeTelex">Teleks</string>
   <string name="phoneTypeTtyTdd">TTY TDD</string>
-  <string name="phoneTypeWork">Službeni</string>
-  <string name="phoneTypeWorkMobile">Službeni mobitel</string>
+  <string name="phoneTypeWork">Posao</string>
+  <string name="phoneTypeWorkMobile">Poslovni mobitel</string>
   <string name="phoneTypeWorkPager">Poslovni dojavljivač</string>
   <string name="policydesc_disableCamera">Spriječite upotrebu svih kamera uređaja.</string>
   <string name="policydesc_disableKeyguardFeatures">Sprječava upotrebu nekih značajki zaključavanja zaslona.</string>
@@ -1013,15 +1014,15 @@ za račun %s."</string>
   <string name="preposition_for_year">%s.</string>
   <string name="print_service_installed_message">Dotaknite za omogućivanje</string>
   <string name="print_service_installed_title">Instalirana je usluga %s</string>
-  <string name="progress_erasing">Brisanje USB pohrane...</string>
-  <string name="quick_contacts_not_available">Nema aplikacije za prikazivanje tog kontakta.</string>
+  <string name="progress_erasing">Brisanje USB pohrane…</string>
+  <string name="quick_contacts_not_available">Nema pronađene aplikacije za prikaz ovog kontakta.</string>
   <string name="reason_service_unavailable">Usluga ispisa nije omogućena</string>
   <string name="reason_unknown">nepoznato</string>
   <string name="reboot_safemode_confirm">Želite li ponovo pokrenuti uređaj u sigurnom načinu rada? To će onemogućiti sve aplikacije treće strane koje ste instalirali. Bit će vraćene kada ponovo pokrenete uređaj.</string>
   <string name="reboot_safemode_title">Ponovno pokretanje u sigurnom načinu rada</string>
   <string name="reboot_to_reset_message">Ponovno pokretanje…</string>
-  <string name="reboot_to_reset_title">Vraćanje na tvorničko stanje</string>
-  <string name="reboot_to_update_package">Obrada paketa za ažuriranje…</string>
+  <string name="reboot_to_reset_title">Vraćanje tvorničkih postavki</string>
+  <string name="reboot_to_update_package">Obrada paketa ažuriranja…</string>
   <string name="reboot_to_update_prepare">Priprema za ažuriranje…</string>
   <string name="reboot_to_update_reboot">Ponovno pokretanje…</string>
   <string name="reboot_to_update_title">Ažuriranje sustava Android</string>
@@ -1059,7 +1060,7 @@ za račun %s."</string>
   <string name="ringtone_default">Zadana melodija zvona</string>
   <string name="ringtone_default_with_actual">Zadana melodija zvona (%1$s)</string>
   <string name="ringtone_picker_title">Melodije zvona</string>
-  <string name="ringtone_silent">Nijedna</string>
+  <string name="ringtone_silent">Nijedan</string>
   <string name="ringtone_unknown">Nepoznata melodija zvona</string>
   <string name="roamingText0">Pokazivač roaminga je uključen</string>
   <string name="roamingText1">Isključen pokazivač roaminga</string>
@@ -1089,7 +1090,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="screen_compat_mode_show">Uvijek prikaži</string>
   <string name="screen_lock">Zaključavanje zaslona</string>
   <string name="search_go">Pretraži</string>
-  <string name="search_hint">Pretraživanje...</string>
+  <string name="search_hint">Pretraživanje…</string>
   <string name="searchview_description_clear">Izbriši upit</string>
   <string name="searchview_description_query">Upit za pretraživanje</string>
   <string name="searchview_description_search">Pretraživanje</string>
@@ -1102,13 +1103,13 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="select_character">Umetni znak</string>
   <string name="select_day">Odaberite mjesec i dan</string>
   <string name="select_hours">Odaberite sate</string>
-  <string name="select_input_method">Promjena tipkovnice</string>
+  <string name="select_input_method">Odabir načina unosa</string>
   <string name="select_keyboard_layout_notification_message">Dodirnite za odabir izgleda tipkovnice.</string>
   <string name="select_keyboard_layout_notification_title">Odaberite izgled tipkovnice</string>
   <string name="select_minutes">Odaberite minute</string>
   <string name="select_year">Odaberite godinu</string>
   <string name="sendText">Izaberite radnju za tekst</string>
-  <string name="sending">Slanje...</string>
+  <string name="sending">Slanje…</string>
   <string name="serial_number">Serijski broj:</string>
   <string name="serviceClassData">Podaci</string>
   <string name="serviceClassDataAsync">Asinkrono</string>
@@ -1160,7 +1161,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="sms_short_code_confirm_deny">Odustani</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; želi poslati poruku na &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Ne dopuštaj nikada</string>
-  <string name="sms_short_code_details">To &lt;b&gt;&amp;#263;e se mo&amp;#382;da naplatiti&lt;/b&gt; putem va&amp;#353;eg mobilnog ra&amp;#269;una.</string>
+  <string name="sms_short_code_details">Ovo će se možda naplaćivati putem vašeg mobilnog računa.</string>
   <string name="sms_short_code_remember_choice">Zapamti odabir</string>
   <string name="sms_short_code_remember_undo_instruction">Kasnije to možete promijeniti u odjeljku Postavke &gt; Aplikacije</string>
   <string name="smv_application">Aplikacija %1$s (proces %2$s) prekršila je vlastito pravilo StrictMode.</string>
@@ -1178,7 +1179,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="stk_cc_ussd_to_dial">USSD zahtjev izmijenjen je u DIAL zahtjev.</string>
   <string name="stk_cc_ussd_to_ss">USSD zahtjev izmijenjen je u SS zahtjev.</string>
   <string name="stk_cc_ussd_to_ussd">USSD zahtjev izmijenjen je u novi USSD zahtjev.</string>
-  <string name="storage_internal">Interna pohrana</string>
+  <string name="storage_internal">Unutarnja pohrana</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_sd_card_label">%s SD kartica</string>
   <string name="storage_usb">USB pohrana</string>
@@ -1210,7 +1211,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="turn_off_radio">Isključi bežičnu vezu</string>
   <string name="turn_on_radio">Uključi bežični prijenos</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Dodirnite dvaput za upravljanje zumiranjem</string>
-  <string name="unknownName">Nepoznato</string>
+  <string name="unknownName">(Nepoznato)</string>
   <string name="untitled">&lt;Bez naslova&gt;</string>
   <string name="upload_file">Odaberite datoteku</string>
   <string name="usb_accessory_notification_title">Spojen na USB pribor</string>
@@ -1263,7 +1264,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="vpn_title">VPN aktiviran</string>
   <string name="vpn_title_long">Aplikacija %s aktivirala je VPN</string>
   <string name="wait">Pričekaj</string>
-  <string name="wallpaper_binding_label">Pozadinska slika</string>
+  <string name="wallpaper_binding_label">Slika pozadine</string>
   <string name="webpage_unresponsive">"Stranica ne reagira.
 
 Želite li ju zatvoriti?"</string>
@@ -1286,7 +1287,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="whichSendApplicationNamed">Dijeljenje pomoću aplikacije %1$s</string>
   <string name="whichViewApplication">Otvaranje pomoću aplikacije</string>
   <string name="whichViewApplicationNamed">Otvaranje pomoću aplikacije %1$s</string>
-  <string name="wifi_available_sign_in">Prijava na WLAN mrežu</string>
+  <string name="wifi_available_sign_in">Prijavite se na WLAN mrežu</string>
   <string name="wifi_calling_off_summary">Isključeno</string>
   <string name="wifi_connect_alert_message">Aplikacija %1$s traži povezivanje s WLAN mrežom %2$s</string>
   <string name="wifi_connect_alert_title">Dopustiti povezivanje?</string>

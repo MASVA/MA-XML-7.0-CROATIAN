@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Početna</item>
+        <item>Posao</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Posao</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Početna</item>
+        <item>Mobilni</item>
+        <item>Posao</item>
+        <item>Službeni faks</item>
+        <item>Faks kod kuće</item>
+        <item>Dojavljivač</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Početna</item>
+        <item>Posao</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Početna</item>
+        <item>Posao</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibriranje</item>
+        <item>Čitanje kontakata</item>
+        <item>Izmjena kontakata</item>
+        <item>Čitanje zapisnika poziva</item>
+        <item>Izmjena zapisnika poziva</item>
+        <item>Čitanje kalendara</item>
+        <item>Izmjena kalendara</item>
+        <item>Lokacija</item>
+        <item>Objavljivanje obavijesti</item>
+        <item>Lokacija</item>
+        <item>Poziv na telefon</item>
+        <item>Čitanje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Slanje SMS-a/MMS-a</item>
+        <item>Čitanje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Izmjena postavki</item>
+        <item>Povlačenje na vrh</item>
+        <item>Pristup obavijestima</item>
+        <item>Kamera</item>
+        <item>Snimanje zvuka</item>
+        <item>Reprodukcija audiozapisa</item>
+        <item>Čitaj međuspremnik</item>
+        <item>Izmjena dolazne pošte</item>
+        <item>Izmijeni međuspremnik</item>
+        <item>Medijski gumbi</item>
+        <item>Audiofokus</item>
+        <item>Glavna glasnoća</item>
+        <item>Glasnoća glasa</item>
+        <item>Glasnoća zvona</item>
+        <item>Glasnoća medija</item>
+        <item>Glasnoća alarma</item>
+        <item>Glasnoća obavijesti</item>
+        <item>Glasnoća Bluetootha</item>
+        <item>Zadrži u aktivnom stanju</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Uklj./isklj Wi-Fi</item>
+        <item>Uklj./isklj Bluetootha</item>
+        <item>Uklj./isklj podatak</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+    </string-array>
+</resources>
