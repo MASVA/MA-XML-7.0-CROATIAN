@@ -165,7 +165,7 @@ koristeći %s"</string>
   <string name="data_usage_warning_title">Upozorenje o upotrebi podataka</string>
   <string name="data_usage_wifi_limit_snoozed_title">Prekorač. Wi-Fi ogranič. pod.</string>
   <string name="data_usage_wifi_limit_title">Dost. ogr. Wi-Fi prijenosa pod.</string>
-  <string name="date_and_time" formatted="false">%-k:%M:%S %-e.%-m.%Y</string>
+  <string name="date_and_time" formatted="false">%H:%M:%S %-e.%b.%Y.</string>
   <string name="date_picker_decrement_day_button">Smanjenje dana</string>
   <string name="date_picker_decrement_month_button">Smanjenje mjeseca</string>
   <string name="date_picker_decrement_year_button">Smanjenje godine</string>
@@ -1499,7 +1499,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="tethered_notification_title">Ograničenje ili aktivan hotspot</string>
   <string name="textSelectionCABTitle">Odabir teksta</string>
   <string name="text_copied">Tekst kopiran u međuspremnik.</string>
-  <string name="time_of_day" formatted="false">%-k:%M:%S</string>
+  <string name="time_of_day" formatted="false">%H:%M:%S</string>
   <string name="time_picker_decrement_hour_button">Smanjenje sati</string>
   <string name="time_picker_decrement_minute_button">Smanjenje minuta</string>
   <string name="time_picker_decrement_set_am_button">Postavi AM</string>
