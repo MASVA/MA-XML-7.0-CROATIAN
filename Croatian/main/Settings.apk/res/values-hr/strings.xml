@@ -2950,6 +2950,7 @@ Za prikvačivanje zaslona:
   <string name="settings_backup">Sigurnosna pohrana postavki</string>
   <string name="settings_backup_summary">Stvori sigurnosnu pohranu mojih postavki</string>
   <string name="settings_button">Postavke</string>
+  <string name="settings_forbidden_message">Ova postavka je onemogućena</string>
   <string name="settings_label">Postavke</string>
   <string name="settings_label_launcher">Postavke</string>
   <string name="settings_license_activity_loading">Učitavanje…</string>

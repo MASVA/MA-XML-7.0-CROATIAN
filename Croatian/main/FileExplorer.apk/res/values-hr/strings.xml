@@ -423,6 +423,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_show_sys">Pokaži skrivene datoteke</string>
   <string name="operation_unfavorite">Odznači</string>
   <string name="operation_unlike">Ne sviđa mi se</string>
+  <string name="otg_file_can_not_open">"Ne mogu otvoriti datoteku na USB-u. Kopirajte prvo datoteku na unutarnju pohranu."</string>
   <string name="pan_settting">KuaiPan postavke</string>
   <string name="partial_cancel_successful">"Ne mogu ukloniti neke datoteke. Ostale datoteke premještene su u %s."</string>
   <string name="partial_delete_failure">"Ne mogu izbrisati neke datoteke, pokušajte ponovo"</string>

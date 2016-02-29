@@ -2,7 +2,7 @@
 <resources>
   <string name="add_miservice_dialog_content">"%s zahtijeva od vas da dodate MIUI Service Framework na popis iznimaka. Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih proizvođača."</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
-  <string name="add_to_whitelist_button">Upravljanje iznimkama</string>
+  <string name="add_to_whitelist_button">Iznimke podataka roaminga</string>
   <string name="add_white_list">Dodaj</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Ažurirano prije više od mjesec dana</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Ažurirano prije više od tjedan dana</string>
@@ -342,8 +342,9 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_package_traffic_overlay">%1$s | Dodatno: %2$s</string>
   <string name="pref_package_traffic_settings">Ograničenje Mobilnih podataka</string>
   <string name="pref_pkg_begin_date">Datum resetiranja uporabe</string>
-  <string name="pref_roaming_daily_limit_setting">Dnevno ograničenje podataka za roaming</string>
-  <string name="pref_roaming_setting_gategory">Data roaming</string>
+  <string name="pref_roaming_daily_limit_setting">Postavi dnevno ograničenje podataka za roaming</string>
+  <string name="pref_roaming_daily_limit_setting_cat_title">Dnevno ograničenje podataka</string>
+  <string name="pref_roaming_setting_gategory">Postavke</string>
   <string name="pref_setting_operators_message">Uredite poruku koju vaš uređaj šalje operaterU za sinkronizaciju statistike uporabe podataka</string>
   <string name="pref_show_mobile_traffic">Prikaži statistiku uporabe podataka tijekom otključavanja nakon što je uređaj zaključan više od 5 minuta</string>
   <string name="pref_special_traffic_exceed_limit">Obavijesti me kada uporaba podataka dostigne ograničenje</string>
@@ -381,7 +382,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="pref_traffic_saving_whitelist_hint">"Ne ograničavaj up. pod. za odabrane aplikacije"</string>
   <string name="pref_version">Verzija %s</string>
   <string name="pref_warning_values">Stupanj upozorenja uporabe podataka</string>
-  <string name="pref_whitelist_setting">Upravljanje iznimkama</string>
+  <string name="pref_whitelist_setting">Iznimke podataka roaminga</string>
   <string name="privacy_declare_dialog_message">"Korištenjem ove usluge, slažete se s Opera &lt;a href=%s&gt; Uvjeti Pružanja Usluge&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Uvjeti Pružanja Usluge</string>
   <string name="privacy_prompt_tc_sms_report_message">"Vaš telefonski broj i detalji mobilnog operatera će biti šifrirani i učitani na Mi poslužitelje kako bi se ažurirale informacije uporabe podataka."</string>

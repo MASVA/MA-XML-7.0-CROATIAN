@@ -244,8 +244,13 @@
   <string name="total_num">Stavki %d,</string>
   <string name="trans_backingup">Izrada Sig. kopije …</string>
   <string name="trans_backingup_no_items">Sinkr. …</string>
+  <string name="trans_calculating">Izračunavanje…</string>
+  <string name="trans_calculating_app_sd_size">Izračun veličine podataka za slanje, %s skenirano</string>
+  <string name="trans_calculating_base_size">"Izračun veličine baze aplikacije"</string>
   <string name="trans_cancel_confirm">Prijenos u tijeku, zaustaviti sada?</string>
   <string name="trans_cancelling">Otkazivanje…</string>
+  <string name="trans_connect_failed_message">"Povezivanje nije uspjelo. Pokušajte ponovo ili ponovno pokrenite uređaj. A na drugom uređaju idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover, Dodirnite [Ja sam pošiljatelj], ili ponovno pokrenite Mi Mover nakon ponovnog pokretanja uređaja"</string>
+  <string name="trans_connect_failed_title">Povezivanje nije uspjelo</string>
   <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>
   <string name="trans_connecting_toast">Povezivanje…</string>
   <string name="trans_detail_category_account">Računi i kontakti</string>
@@ -256,6 +261,8 @@
   <string name="trans_generate_qr_code_failed">"Nije moguće izraditi QR kod"</string>
   <string name="trans_main_tutor">Premjestite kontakte, povijest poziva, poruke, raspored početnog zaslona, aplikacije, postavke, itd. na novi uređaj</string>
   <string name="trans_my_device">Moj uređaj</string>
+  <string name="trans_native_no_space">"Ovaj uređaj nema dovoljno prostora
+Izbrišite najmanje %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Metoda A</string>
   <string name="trans_operate_func_two">Metoda B</string>
@@ -267,12 +274,15 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
 3. Skenirajte QR kod s vašim drugim uređajem"</string>
   <string name="trans_operate_old_phone_tips2">Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
  Dodirnite [Ja sam pošiljatelj]"</string>
+  <string name="trans_please_waiting">Pričekajte molim…</string>
   <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_transing_receiver">Primanje %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_transing_sender">Slanje %1$s, %2$s završeno</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Primanje datoteka, %s završeno</string>
   <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka, %s završeno</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Primanje podataka SD kartice %1$s, %2$s završeno</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Sending sdcard datas of %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_waiting">Čekanje na primanje %s</string>
   <string name="trans_receiver">"Ja sam primatelj"</string>
   <string name="trans_receiver_time_remained">"%s preostalo.
@@ -281,6 +291,7 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
   <string name="trans_receiving_completed">Uspješno primljeno</string>
   <string name="trans_restoring">Vraćanje…</string>
   <string name="trans_restoring_no_items">Sinkr. stavaka</string>
+  <string name="trans_retry">Pokušaj ponovno</string>
   <string name="trans_scan_invalid_qrcode">Nevažeći QR kod</string>
   <string name="trans_scan_qr_code_tips">Skenirajte QR kod s vašim novim uređajem</string>
   <string name="trans_select_data">Odaberite podatke</string>
@@ -301,6 +312,8 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
   <string name="trans_sending_completed">Uspješno poslano</string>
   <string name="trans_show_qr_code_label">Povežite drugi uređaj</string>
   <string name="trans_show_qr_code_tips">Skenirajte QR kod s vašim starim uređajem</string>
+  <string name="trans_start_failed_message">Pokretanje nije uspjelo, pokušajte ponovo ili ponovno pokrenite uređaj i pokušajte ponovno</string>
+  <string name="trans_start_failed_title">Pokretanje nije uspjelo</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_spent">"
  Potrošeno vrijeme %s"</string>
