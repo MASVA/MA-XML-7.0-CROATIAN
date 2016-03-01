@@ -443,6 +443,7 @@ Napustiti ovu stranicu?"</string>
   <string name="paused_waiting_to_retry">Ponovni pokušaj…</string>
   <string name="popup_window_attempt">Dozvoliti ovoj stranici otvaranje skočnih prozora?</string>
   <string name="positive_confirm_message">Isključi svejedno</string>
+  <string name="pref_accessibility">Pristupačnost</string>
   <string name="pref_accessibility_title">Pristupačnost</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Kod unosa iz adresne trake, zajedničke kombinacije slova mogu se unijeti jednim pritiskom na tipku</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Brzi unos Poveznice</string>

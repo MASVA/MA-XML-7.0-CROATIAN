@@ -249,7 +249,7 @@
   <string name="trans_calculating_base_size">"Izračun veličine baze aplikacije"</string>
   <string name="trans_cancel_confirm">Prijenos u tijeku, zaustaviti sada?</string>
   <string name="trans_cancelling">Otkazivanje…</string>
-  <string name="trans_connect_failed_message">"Povezivanje nije uspjelo. Pokušajte ponovo ili ponovno pokrenite uređaj. A na drugom uređaju idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover, Dodirnite [Ja sam pošiljatelj], ili ponovno pokrenite Mi Mover nakon ponovnog pokretanja uređaja"</string>
+  <string name="trans_connect_failed_message">"Povezivanje nije uspjelo. Pokušajte ponovno ili ponovno pokrenite uređaj. Na drugom uređaju idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover, Dodirnite [Ja sam pošiljatelj], ili ponovno pokrenite Mi Mover nakon ponovnog pokretanja uređaja"</string>
   <string name="trans_connect_failed_title">Povezivanje nije uspjelo</string>
   <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>
   <string name="trans_connecting_toast">Povezivanje…</string>
@@ -275,14 +275,14 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
   <string name="trans_operate_old_phone_tips2">Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
  Dodirnite [Ja sam pošiljatelj]"</string>
   <string name="trans_please_waiting">Pričekajte molim…</string>
-  <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s završeno</string>
-  <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s završeno</string>
-  <string name="trans_progress_subdescript_transing_receiver">Primanje %1$s, %2$s završeno</string>
-  <string name="trans_progress_subdescript_transing_sender">Slanje %1$s, %2$s završeno</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Primanje datoteka, %s završeno</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka, %s završeno</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">Primanje podataka SD kartice %1$s, %2$s završeno</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">Sending sdcard datas of %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_transing_receiver">Primanje %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_transing_sender">Slanje %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Primanje datoteka, %s dovršeno</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka, %s dovršeno</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Primanje podataka SD kartice %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Slanje podataka SD kartice %1$s, %2$s dovršeno</string>
   <string name="trans_progress_subdescript_waiting">Čekanje na primanje %s</string>
   <string name="trans_receiver">"Ja sam primatelj"</string>
   <string name="trans_receiver_time_remained">"%s preostalo.
@@ -312,8 +312,8 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
   <string name="trans_sending_completed">Uspješno poslano</string>
   <string name="trans_show_qr_code_label">Povežite drugi uređaj</string>
   <string name="trans_show_qr_code_tips">Skenirajte QR kod s vašim starim uređajem</string>
-  <string name="trans_start_failed_message">Pokretanje nije uspjelo, pokušajte ponovo ili ponovno pokrenite uređaj i pokušajte ponovno</string>
-  <string name="trans_start_failed_title">Pokretanje nije uspjelo</string>
+  <string name="trans_start_failed_message">Slanje nije uspjelo, pokušajte ponovno ili ponovno pokrenite uređaj i pokušajte ponovno</string>
+  <string name="trans_start_failed_title">Slanje nije uspjelo</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_spent">"
  Potrošeno vrijeme %s"</string>
