@@ -125,4 +125,12 @@
         <item quantity="one">Promijeni na \"Samo alarmi\" u trajanju od %1$d minute (do %2$s)</item>
         <item quantity="few">Promijeni na \"Samo alarmi\" u trajanju od %1$d minute (do %2$s)</item>
      </plurals>
+	 <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Uvijek onemogući za ovoliko %d aplikacija</item>
+        <item quantity="one">Uvijek onemogući za 1 aplikaciju</item>
+    </plurals>
+     <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nikad ne omogućuj za ovoliko %d aplikacija</item>
+        <item quantity="one">Nikad ne omogućuj za 1 aplikaciju</item>
+    </plurals>
 </resources> 

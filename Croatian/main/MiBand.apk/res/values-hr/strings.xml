@@ -1587,9 +1587,9 @@ Držite Mi Band i telefon udaljenim najmanje 5m."</string>
      <string name="unlock_for_smartlock_pair_success_tip">Mi Band uparen, podesite sada Smart Lock</string>
      <string name="unlock_for_smartlock_start_setting">Start</string>
      <string name="unlock_for_smartlock_tip">Za korištenje otključavanja, vaša aplikacija bi se trebala izvoditi u pozadini</string>
-     <string name="unlock_for_smartlock_tip_step1">1. Idite na &lt;b&gt;Postavke&lt;/b&gt; - &lt;b&gt;Sigurnost&lt;/b&gt;</string>
-     <string name="unlock_for_smartlock_tip_step2">2. Podesite &lt;b&gt;Zaklj. zaslona&lt;/b&gt; uzorak, PIN, ili zaporka</string>
-     <string name="unlock_for_smartlock_tip_step3">3. Podesite &lt;b&gt;Smart&amp;#160;Lock&lt;/b&gt; to &lt;b&gt;Pouzdani uređaji&lt;/b&gt;</string>
+     <string name="unlock_for_smartlock_tip_step1">1. Idite na Postavke - Sigurnost</string>
+     <string name="unlock_for_smartlock_tip_step2">2. Podesite Zaklj. zaslona - uzorak, PIN ili zaporka</string>
+     <string name="unlock_for_smartlock_tip_step3">3. Podesite Smart Lock - Pouzdani uređaji</string>
      <string name="unlock_screen">Otključavanje zaslona</string>
      <string name="unlock_screen_help_info0">Uvjerite se da se Mi Band nalazi u blizini vašeg uređaja tijekom cijelog procesa uparivanja.</string>
      <string name="unlock_screen_help_info1">Ponovno pokrenite Bluetooth isključivanjem/uključivanjem u Postavkama.</string>

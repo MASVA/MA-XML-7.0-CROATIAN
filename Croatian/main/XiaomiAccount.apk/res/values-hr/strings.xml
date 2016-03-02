@@ -56,6 +56,7 @@
   <string name="activate_desc_mixed_sim_cards">SMS i međunarodni SMS će biti poslani za aktiviranje vaše 2 SIM kartice</string>
   <string name="activate_desc_sim_card">SMS će biti poslan za aktiviranje vaše SIM kartice</string>
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
+  <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="activate_feature_call_log_sync">Sinkronizacija popisa poziva</string>
   <string name="activate_feature_find_device">Pronađi uređaj</string>
   <string name="activate_feature_mms_sync">Sinkronizacija SMS-a</string>

@@ -222,7 +222,7 @@
   <string name="add_pre_message_attachments">Dodati privitke za gotove poruke?</string>
   <string name="add_pre_message_attachments_no">"Nemoj dodati"</string>
   <string name="add_pre_message_attachments_yes">Dodaj</string>
-  <string name="add_star">Odznači</string>
+  <string name="add_star">Favoriti</string>
   <string name="add_video_attachment">Priloži videozapis</string>
   <string name="address_display_format">%1$s, %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s, %2$s putem %3$s</string>
@@ -321,6 +321,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Želite li izbrisati odobrenja za slike?</string>
   <string name="clear_display_images_whitelist_title">Brisanje odobrenja za slike</string>
   <string name="click_download_all_content">[ Dodirnite za preuzimanje sadržaja ]</string>
+  <string name="click_to_reload">Dodirnite zaslon za ponovno učitavanje</string>
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="colon">:</string>
   <string name="compose">Nova poruka</string>
@@ -576,6 +577,18 @@
   <string name="hint_quick_reply_all">Odgovori svima</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Pogrešna zaporka dolaznog poslužitelja</string>
+  <string name="info_actionbar_normal_detail">Pojedinosti o članku</string>
+  <string name="info_actionbar_subscribe">Linija pretplate</string>
+  <string name="info_item_from">Šalje </string>
+  <string name="info_item_hide">Sakrij</string>
+  <string name="info_loading">Učitavanje</string>
+  <string name="info_name_title">NOVOSTI</string>
+  <string name="info_no_message">Nema članka!</string>
+  <string name="info_no_more_message">"Nema više"</string>
+  <string name="info_switch_summary">Otvorite Inbox NOVOSTI</string>
+  <string name="info_switch_title">Inbox NOVOSTI</string>
+  <string name="info_sync_error">Pogreška sinkr., pokušajte ponovo kasnije.</string>
+  <string name="information_subscribe_first_intro">Ovo je prvi put da koristite 「Subscribe」 , odaberite neke od oznaka za koje ste zainteresirani tako da vam možemo dati preporuku za vaš sadržaj~</string>
   <string name="inbox_folders_heading">Pristigla pošta</string>
   <string name="info">Informacije</string>
   <string name="inline_picture_deleted">Preuzimanje slike koja nedostaje…"</string>
@@ -656,6 +669,7 @@
   <string name="menu_att_mgr_order_size">Poredaj po veličini</string>
   <string name="menu_change_folders">Premjesti</string>
   <string name="menu_compose">Nova poruka</string>
+  <string name="menu_discovery">Discovery</string>
   <string name="menu_folder_options">Opcije sinkronizacije</string>
   <string name="menu_manage_folders">Postavke mapa</string>
   <string name="menu_move_to">Premjesti u/na</string>
@@ -710,8 +724,11 @@ Kopija: %4$s
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt; %2$s</string>
   <string name="mute">Isključi zvuk</string>
   <string name="name_or_number_is_error">Korisničko ime ili zaporka nije točna</string>
+  <string name="net_check_title">Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo.</string>
   <string name="network_error">Nema veze</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
+  <string name="network_try_again">Provjerite mrežu</string>
+  <string name="network_unavailable">Mreža nije dostupna</string>
   <string name="new_incoming_messages_one">Novu poruku šalje %s. Prikaži.</string>
   <string name="new_messages">Novih poruka: %1$d</string>
   <string name="next_action">Dalje</string>
@@ -856,6 +873,7 @@ Kopija: %4$s
   <string name="provider_note_live">Samo neki računi usluge \"Plus\" uključuju POP pristup koji ovom programu omogućuje povezivanje. Ako se ne možete prijaviti sa svojom ispravnom adresom e-pošte i zaporkom, možda nemate plaćeni račun usluge \"Plus\". Pokrenite web-preglednik kako biste dobili pristup tim računima e-pošte.</string>
   <string name="provider_note_t_online">Prije postavljanja ovog računa e-pošte posjetite web-lokaciju T-Online i stvorite zaporku za POP3 pristup e-pošti.</string>
   <string name="pull_to_refresh">Povucite dolje za osvježiti</string>
+  <string name="pull_up_to_load_more">Učitaj više</string>
   <string name="push_wps_better_confirm_download">Preuzmi</string>
   <string name="push_wps_better_confirm_exit">Ne sada</string>
   <string name="push_wps_better_confirm_message">Pokušajte koristiti WPS Office za otvaranje ovog privitka.</string>
@@ -971,6 +989,7 @@ Kopija: %4$s
   <string name="security_unsupported_ticker_fmt">Račun \"%s\" nije moguće sinkronizirati zbog sigurnosnih zahtjeva.</string>
   <string name="select_attachment_type">Odaberite privitak iz</string>
   <string name="select_no_file">Nema odabranih privitaka</string>
+  <string name="selected_lable">Odabrano</string>
   <string name="send">Pošalji</string>
   <string name="send_att_title">Upozorenje</string>
   <string name="send_failed">Poruka nije poslana.</string>
@@ -1068,6 +1087,7 @@ Kopija: %4$s
   <string name="undo">Poništi</string>
   <string name="unread_from_someone">Nepročitana pošta od %s</string>
   <string name="unread_string">Razgovor nije pročitan</string>
+  <string name="unselected_lable">Više</string>
   <string name="unsent_messages_in_outbox">Broj neposlanih poruka u mapi %2$s: %1$s</string>
   <string name="unzip_file_failed">"Ne mogu raspakirati!"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
@@ -1103,6 +1123,7 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="widget_other_views">Ostalo</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
   <string name="yes">Da</string>
+  <string name="yidianzixun">yidianzixun</string>
   <string name="you_are_in_mobile_network">Poslati dnevnik korištenjem mobilne podatkovne veze? Ako prekoračite preko vaše ograničenje podataka, vaš mobilni operater može vam naplatiti dodatne naknade.</string>
   <string name="zip_viewer_no_file">Nema datoteka</string>
 </resources>

@@ -119,11 +119,13 @@
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrditi Sig.kopiju i deinstalirati odabrane aplikacije?</string>
   <string name="dialog_msg_check_all">Potvrdi odabir %1$s koji sadrži %2$d stavaka</string>
   <string name="dialog_msg_load_cleanup_engine_error">Alat za čišćenje je oštećen, morate ponovno instalirati ROM!</string>
+  <string name="dialog_msg_stop_scan">"Zaustaviti skeniranje smeća prije nego što je završeno?"</string>
   <string name="dialog_msg_uninstall_apps">Deinstalirati ove aplikacije?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Napravi Sig.kopiju i deinstaliraj</string>
   <string name="dialog_title_check_all">Odaberi sve</string>
   <string name="dialog_title_delete_image">Izbriši odabrane slike</string>
   <string name="dialog_title_load_cleanup_engine_error">Nešto nije u redu</string>
+  <string name="dialog_title_stop_scan">Zaustavi skeniranje</string>
   <string name="dialog_title_uninstall_apps">Deinstaliraj</string>
   <string name="download">Preuzmi</string>
   <string name="downloading">Preuzimanje…</string>
