@@ -424,8 +424,8 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_skinToneEnhancement_title">Poboljšanje boje kože</string>
   <string name="pref_camera_snap_enable_title">Quick snap način</string>
   <string name="pref_camera_snap_entry_off">Isklj.</string>
-  <string name="pref_camera_snap_entry_take_movie">Snimanje: Kod isklj. zaslona pritisnite tipku Glasnoća dolje.</string>
-  <string name="pref_camera_snap_entry_take_picture">Slikanje: Kod isklj. zaslona zaslona pritisnite tipku Glasnoća dolje.</string>
+  <string name="pref_camera_snap_entry_take_movie">Snimanje: Kod isklj. zaslona pritisnite tipku Glasnoća -</string>
+  <string name="pref_camera_snap_entry_take_picture">Slikanje: Kod isklj. zaslona pritisnite tipku Glasnoća -</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Ne možete koristiti Quick snap način dok je \"Probudi tipkama za glasnoću\" uključen."</string>
   <string name="pref_camera_sound_entry_off">Isključeno</string>
   <string name="pref_camera_sound_entry_on">Uključeno</string>
@@ -514,7 +514,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval od 30 sek. (900 puta)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Interval protoka vremena</string>
   <string name="preparing_sd">Provjera unutanje pohrane…</string>
-  <string name="qq_details">Detaily o QQ:</string>
+  <string name="qq_details">Detalji o QQ:</string>
   <string name="qr_code_details">"QR kód: "</string>
   <string name="raw_data_exit_button_text">Isključi RAW način</string>
   <string name="record_back_pressed_hint">Dodirnite ponovno za zaustavljanje snimanja</string>
@@ -572,7 +572,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="simple_mode_button_text_ubifocus">Isključi</string>
   <string name="simple_mode_title">Jednostavan način</string>
   <string name="slideshow">Prezentacija</string>
-  <string name="snapshot_lower_than_video">Veličina pregledane snimke manja od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>
+  <string name="snapshot_lower_than_video">Veličina pregledane snimke manja je od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>
   <string name="snapshot_qcif_and_d1">Samo je veličina video snimke podržana za ovu rezoluciju.</string>
   <string name="snapshotsize_low_powermode">"Razlučivost slike nije podržana trenutnim postavkama upravljanja napajanjem. Veličina snimanja videozapisa će se koristiti".</string>
   <string name="spaceIsLow_content">USB memoriji ponestaje prostora.</string>

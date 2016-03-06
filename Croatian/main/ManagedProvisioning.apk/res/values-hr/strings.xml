@@ -17,6 +17,7 @@
   <string name="delete_profile_title">Ukloniti radni profil?</string>
   <string name="device_owner_cancel_cancel">ODUSTANI</string>
   <string name="device_owner_cancel_message">Želite li zaustaviti postavljanje i izbrisati podatke uređaja?</string>
+  <string name="device_owner_cancel_title">Zaustaviti postavljanje?</string>
   <string name="device_owner_error_already_provisioned">Ovaj je uređaj već postavljen.</string>
   <string name="device_owner_error_already_provisioned_user">Ovaj je uređaj već postavljen za tog korisnika.</string>
   <string name="device_owner_error_download_failed">Preuzimanje administratorske aplikacije nije uspjelo</string>
@@ -29,16 +30,17 @@
   <string name="device_owner_error_package_name_invalid">Nije moguće instalirati administratorsku aplikaciju. Naziv paketa je nevažeći. Kontaktirajte svoj IT odjel.</string>
   <string name="device_owner_error_package_not_installed">Na uređaju nije instalirana administratorska aplikacija</string>
   <string name="device_owner_error_reset">PONIŠTI</string>
-  <string name="device_owner_error_wifi">Spajanje na Wi-Fi nije uspjelo</string>
+  <string name="device_owner_error_wifi">Spajanje na WLAN nije uspjelo</string>
   <string name="device_owner_exists">Radne profile nije moguće postavljati na upravljanim uređajima</string>
-  <string name="encrypt_device_cancel">ODUSTANI</string>
-  <string name="encrypt_device_launch_settings">KRIPTIRAJ</string>
-  <string name="encrypt_device_text_for_device_owner_setup">Da biste nastavili s postavljanjem uređaja, morat ćete ga šifrirati. To može potrajati.</string>
+  <string name="encrypt_device_cancel">Odustani</string>
+  <string name="encrypt_device_launch_settings">Šifriraj</string>
+  <string name="encrypt_device_text">"Za nastavak postavljanja vašeg radnog profila, morat ćete šifrirati vaš uređaj. To može potrajati neko vrijeme."</string>
   <string name="encrypt_device_text_for_profile_owner_setup">Da biste nastavili s postavljanjem svog radnog profila, morat ćete šifrirati uređaj. To može potrajati.</string>
-  <string name="frp_clear_progress_text">Pričekajte...</string>
+  <string name="frp_clear_progress_text">Pričekajte…</string>
   <string name="frp_clear_progress_title">Brisanje</string>
   <string name="learn_more_label">Gumb Saznajte više</string>
   <string name="learn_more_link">Saznajte više</string>
+  <string name="managed_profile_already_present">Već imate radni profil na vašem uređaju. Želite li ga ukloniti?</string>
   <string name="managed_provisioning_error_text">Postavljanje vašeg radnog profila nije uspjelo. Obratite se IT odjelu ili pokušajte ponovno kasnije.</string>
   <string name="managed_provisioning_not_supported">Vaš uređaj ne podržava radne profile.</string>
   <string name="managed_provisioning_not_supported_by_launcher">Ta aplikacija pokretača ne podržava vaš radni profil. Morat ćete prijeći na kompatibilni pokretač.</string>
@@ -53,7 +55,7 @@
   <string name="profile_owner_cancel_ok">DA</string>
   <string name="profile_owner_cancel_title">Želite li zaustaviti postavljanje?</string>
   <string name="profile_owner_cancelling">Poništavanje…</string>
-  <string name="progress_connect_to_wifi">Povezivanje s Wi-Fi-jem…</string>
+  <string name="progress_connect_to_wifi">Povezivanje s WLAN-om…</string>
   <string name="progress_data_process">Obrada podataka o postavljanju…</string>
   <string name="progress_download">Preuzimanje administratorske aplikacije…</string>
   <string name="progress_install">Instaliranje administratorske aplikacije…</string>
@@ -62,6 +64,7 @@
   <string name="provisioning_error_title">Ups!</string>
   <string name="read_more_delete_profile">Prije nego što nastavite, &lt;a href="#read_this_link"&gt;pro&amp;#269;itajte ovo&lt;/a&gt;.</string>
   <string name="set_up">Postavi</string>
+  <string name="setup_device">Postavljanje vašeg uređaja</string>
   <string name="setting_up_workspace">Postavljanje radnog profila…</string>
   <string name="setup_device_encryption">Postavljanje uređaja. Enkripcija</string>
   <string name="setup_device_progress">Postavljanje uređaja. Prikazivanje napretka</string>
@@ -70,6 +73,7 @@
   <string name="setup_profile_progress">Postavljanje profila. Prikazivanje napretka</string>
   <string name="setup_profile_start_setup">Postavljanje profila. Pokretanje postavljanja</string>
   <string name="setup_work_device">Postavljanje uređaja</string>
+  <string name="setup_work_space">Postavljanje vašeg profila</string>
   <string name="setup_work_profile">Postavljanje profila</string>
   <string name="sure_you_want_to_delete_profile">Ako nastavite, izbrisat će se sve aplikacije i podaci u profilu.</string>
   <string name="suw_back_button_label">Natrag</string>

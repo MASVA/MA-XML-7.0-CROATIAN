@@ -227,7 +227,7 @@
   <string name="ir_device_ir">Infracrveni daljinski</string>
   <string name="ir_device_lamp">Svjetiljka</string>
   <string name="ir_device_mibox">Mi Box</string>
-  <string name="ir_device_milink">Mi WiFi</string>
+  <string name="ir_device_milink">Mi WLAN</string>
   <string name="ir_device_mitv">Mi TV</string>
   <string name="ir_device_mitvbox">Mi TV/Mi Box</string>
   <string name="ir_device_name">Naziv daljinskog</string>
@@ -238,7 +238,7 @@
   <string name="ir_device_sound">Zvučnici</string>
   <string name="ir_device_stb">STB</string>
   <string name="ir_device_tv">TV</string>
-  <string name="ir_device_wifi">Wi-Fi daljinski</string>
+  <string name="ir_device_wifi">WLAN daljinski</string>
   <string name="jump_to_mivideo">Pogledaj na mobilnom uređaju</string>
   <string name="just_now">Upravo sada</string>
   <string name="just_used">Upravo korišten</string>
@@ -337,7 +337,7 @@ pričekajte trenutak nakon radnje"</string>
   <string name="mi_brand">Mi</string>
   <string name="mi_rc">Mi Remote</string>
   <string name="mibox">Mi Box</string>
-  <string name="milink_nowifi">WiFi mreža nije povezana, ne mogu se povezati</string>
+  <string name="milink_nowifi">WLAN mreža nije povezana, ne mogu se povezati</string>
   <string name="minute">min.</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Control Verzija: %1$s</string>
@@ -393,14 +393,14 @@ pričekajte trenutak nakon radnje"</string>
   <string name="passport_btn_return">Natrag</string>
   <string name="passport_button_cancel">Odustani</string>
   <string name="passport_captcha">Unesite kod</string>
-  <string name="passport_change_account">&lt;u&gt;Promjena računa&lt;/u&gt;</string>
+  <string name="passport_change_account">Promjena računa</string>
   <string name="passport_checking_account">Provjera zaporke…</string>
   <string name="passport_checking_input">Provjera unosa…</string>
   <string name="passport_choose_which_one_sim">Odaberite broj telefona</string>
   <string name="passport_click_email_to_valid">"
 
 Da aktivirate svoj korisnički račun, slijedite
- poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
+poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="passport_completed">Završeno</string>
   <string name="passport_confirm">Potvrdi zaporku</string>
   <string name="passport_data_keep_in_device">Zapamti zaporku</string>
@@ -453,7 +453,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_login_instead_reg_with_email">Koristi ovu E-poštu</string>
   <string name="passport_login_notice">Prijava…</string>
   <string name="passport_login_title">Prijavite se u vaš Mi Račun</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Prijavite se sa drugim računom&lt;/u&gt;</string>
+  <string name="passport_login_with_email_or_id">Prijavite se sa drugim računom</string>
   <string name="passport_next">Dalje</string>
   <string name="passport_notification_title">Pogreška prijave za %1$s</string>
   <string name="passport_password">Unesite vašu zaporku</string>
@@ -461,7 +461,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_phone_num_hint_text">Tel. broj</string>
   <string name="passport_prev">Natrag</string>
   <string name="passport_privacy_policy">Pravila o Privatnosti</string>
-  <string name="passport_provision_skip_login">&lt;u&gt;Preskoči&lt;/u&gt;</string>
+  <string name="passport_provision_skip_login">Preskoči</string>
   <string name="passport_quick_login_dialog_step2_title">Provjera u 2 koraka</string>
   <string name="passport_quick_login_dialog_title">Provjera zaporke</string>
   <string name="passport_quick_login_step2_title">Provjera u 2 koraka</string>
@@ -474,7 +474,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_reg_success">Račun izrađen</string>
   <string name="passport_reg_success_summary">%1$s je dodan na vaš Mi Račun. Možete ga koristiti za prijavu ili resetiranje vaše zaporke.</string>
   <string name="passport_reg_type_email">Izradi račun koristeći e-poštu</string>
-  <string name="passport_reg_type_other_ways">&lt;u&gt;Izradi račun koristeći druge načine&lt;/u&gt;</string>
+  <string name="passport_reg_type_other_ways">Izradi račun koristeći druge načine</string>
   <string name="passport_reg_type_other_ways_title">Izradi račun koristeći druge načine</string>
   <string name="passport_reg_using_other_phone">Registriraj se koristeći drugi broj telefona</string>
   <string name="passport_reg_using_other_phone_number_prompt">Registriraj se koristeći drugi broj telefona</string>
@@ -508,7 +508,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="passport_vcode_prompt_long">Unesite kôd provjere</string>
   <string name="passport_verification_failed">Autentikacija nije uspjela</string>
   <string name="passport_verify">Provjeri</string>
-  <string name="passport_welcome_skip_login">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
+  <string name="passport_welcome_skip_login">Preskoči ovaj korak</string>
   <string name="passport_wrong_captcha">Uneseni kôd nije ispravan</string>
   <string name="passport_wrong_phone_number_format">Format broja telefona koji ste unijeli nije važeći</string>
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
@@ -525,7 +525,7 @@ Da aktivirate svoj korisnički račun, slijedite
   <string name="power">Uklj./Isklj.</string>
   <string name="press_to_continue_match">Dodirnite za nastavak</string>
   <string name="press_to_match">Dodirnite za uparivanje</string>
-  <string name="privacy_content">"Pročitajte Xiaomi "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Pravila o Privatnosti&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Korisnički Sporazum&lt;/a&gt; prije korištenja Mi Remote. Aplikaciji je potreban pristup Internetu i usluga lociranja da radi normalno.</string>
+  <string name="privacy_content">"Pročitajte Xiaomi Pravila o Privatnosti i Korisnički Sporazum prije korištenja Mi Remote. Aplikaciji je potreban pristup Internetu i usluga lociranja da radi normalno.</string>
   <string name="privacy_nohit">"Ne prikazuj ponovo"</string>
   <string name="privacy_title">Uvjeti i Odredbe</string>
   <string name="projection_failed_for_disconnect">Nije upareno</string>
