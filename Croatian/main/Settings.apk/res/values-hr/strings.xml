@@ -2733,6 +2733,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="scan_list_label">Rezultati skeniranja:</string>
   <string name="screen">Zaslon</string>
   <string name="screen_color_and_optimize">Boje &amp; kontrast</string>
+  <string name="screen_color_and_optimize_disabled">"Ne mogu podesiti temperaturu boje u načinu čitanja"</string>
   <string name="screen_color_temperature">Boje</string>
   <string name="screen_color_temperature_and_saturation">Boje &amp; zasićenje</string>
   <string name="screen_compatibility_label">Kompatibilnost zaslona</string>

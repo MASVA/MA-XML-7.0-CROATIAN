@@ -2,6 +2,7 @@
 <resources>
   <string name="app_name">Dnevne pozadine zaklj. zaslona</string>
   <string name="at_least_one">Odaberite barem jednu kategoriju</string>
+  <string name="auto_interval">Auto</string>
   <string name="cancel">Izlaz</string>
   <string name="cancel_international">Odustani</string>
   <string name="change_time">Promjeni interval</string>
@@ -15,6 +16,7 @@
   <string name="lockscreen_magazine_system_subscribe">%1$s slika pozadine</string>
   <string name="lockscreen_magazine_system_title">Zadano</string>
   <string name="lockscreen_magazine_title">Dnevne pozadine zaklj. zaslona</string>
+  <string name="minutes_15">15 min.</string>
   <string name="no_long_show">"Ne prikazuj ponovo"</string>
   <string name="ok_international">U redu</string>
   <string name="ok_lockscreen">U redu</string>

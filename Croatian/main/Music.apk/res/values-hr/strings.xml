@@ -21,6 +21,7 @@
   <string name="action_item_send">Pošalji</string>
   <string name="action_item_share">Podijeli</string>
   <string name="add_music">Dodaj pjesme</string>
+  <string name="add_to_last_of_playlist">Dodaj na kraj popisa pjesama.</string>
   <string name="alaka_required">"Ova pjesma nije dostupna."</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
@@ -241,6 +242,7 @@
   <string name="japan_korea_group">Bendovi (Japan/Koreja)</string>
   <string name="japan_korea_male">Muški izvođači (Japan/Koreja)</string>
   <string name="ktv_playlist">KTV popis reprodukcije</string>
+  <string name="latest_song">Povijest reprodukcije (%d).</string>
   <string name="like">Sviđa mi se</string>
   <string name="list_detail_title">Detalji</string>
   <string name="list_item_play_FM_radio">Dodirnite za reprodukciju FM Radija</string>
@@ -363,6 +365,7 @@
   <string name="payment_fail">Plaćanje nije uspjelo</string>
   <string name="payment_success">Plaćanje završeno</string>
   <string name="play_all_song">Reproduciraj sve</string>
+  <string name="play_next">Sljedeća pjesma</string>
   <string name="playback_failed_no_title_by_bad_file">"Format ove pjesme nije podržan ili datoteka ne postoji."</string>
   <string name="playlist_deleted_message">Popis pjesama izbrisan.</string>
   <string name="playlist_renamed_message">Popis pjesama preimenovan.</string>
@@ -377,10 +380,20 @@
   <string name="priority_storage_summary">Automatsko preuzimanje na vanjsku SD karticu ako je dostupna</string>
   <string name="project_device">Mi Telefon</string>
   <string name="project_device_mobile">Mobilni uređaj</string>
+  <string name="radar">ACRCloud</string>
+  <string name="radar_click_to_retry">Kliknite za ponovni pokušaj</string>
+  <string name="radar_fail">Nema rezultata</string>
+  <string name="radar_fail_by_noise">Može biti previše bučno</string>
+  <string name="radar_listening_state">Prepoznavanje u tijeku</string>
+  <string name="radar_possible_result">Moguće pjesme</string>
+  <string name="radar_retry">Pokušaj ponovno</string>
+  <string name="radar_searching_state">Pretraživanje u tijeku</string>
+  <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Platiti sada?</string>
   <string name="recommend_fragment_title">Istaknuto</string>
   <string name="remaining">Preostalo ovaj mjesec:</string>
   <string name="remove">Ukloni</string>
+  <string name="remove_from_nowplaying">Ukloni sa popisa pjesama.</string>
   <string name="renew">Obnovi:</string>
   <string name="renew_1">Obnovi</string>
   <string name="renew_period">"Ističe: "</string>
@@ -389,6 +402,7 @@
   <string name="restart_immediate">Sada ponovno pokreni</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="ringtone_not_support">"Format ove pjesme nije podržan."</string>
+  <string name="save_to_playlist">Spremi kao popis pjesama.</string>
   <string name="search_album">Potražite album na internetu</string>
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Izvođač</string>
@@ -398,6 +412,7 @@
   <string name="search_title_album">Albumi</string>
   <string name="search_title_singer">Izvođači</string>
   <string name="search_title_song">Pjesme</string>
+  <string name="second_symbol">s</string>
   <string name="sel_svc">Odaberite uslugu</string>
   <string name="select_album">Odaberi album</string>
   <string name="select_all">Odaberi sve</string>

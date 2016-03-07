@@ -378,6 +378,7 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Ova vrsta datoteke nije podržana."</string>
   <string name="vp_VideoView_error_text_unknown">Došlo je do nepoznate pogreške.</string>
   <string name="vp_VideoView_error_title">Nepoznata pogreška</string>
+  <string name="vp_ad_skip">Preskoči</string>
   <string name="vp_adapt_height">Prilagodi visinu</string>
   <string name="vp_adapt_width">Prilagodi širinu</string>
   <string name="vp_app_name">Video Player</string>

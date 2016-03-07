@@ -42,7 +42,7 @@
   <string name="btn_text_install_security_version_in_appstore">Zamijeni sa sigurnom verzijom</string>
   <string name="btn_text_scaning">Skeniranje…</string>
   <string name="btn_text_security_install">Zamijeni sa sigurnom verzijom</string>
-  <string name="btn_text_security_scan">Plná kontrola</string>
+  <string name="btn_text_security_scan">Potpuna kontrola</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_delete">Izbriši</string>
   <string name="button_text_delete_timer">Izbriši (%d)</string>
