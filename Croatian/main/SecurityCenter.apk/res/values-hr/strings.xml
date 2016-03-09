@@ -228,7 +228,7 @@
   <string name="hints_virus_scan_result_descx">Ova je aplikacija opasna za sigurnost vašeg uređaja</string>
   <string name="history_details_title">Detalji povijesti</string>
   <string name="info_and_call">Pozivi i poruke</string>
-  <string name="install_title">Instaliraj koristeći računalo</string>
+  <string name="install_title">Instaliraj putem USB-a</string>
   <string name="item_app_permission">Dopuštenja aplikacija</string>
   <string name="item_dev_mode">Opcije Raz. programera</string>
   <string name="item_install_monitor">Instaliraj nadzor</string>
@@ -283,7 +283,7 @@
   <string name="menu_text_power_manager">Potrošnja baterije</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>
-  <string name="monitor_requests_from_pc">Upravljanje instalacijom aplikacija korištenjem računala</string>
+  <string name="monitor_requests_from_pc">Upravljanje instalacijom aplikacija putem USB-a</string>
   <string name="month_report_activity_label">Mjesečno izvješće</string>
   <string name="month_report_click_reconnect_network">Pokušaj ponovno</string>
   <string name="month_report_disconnect_tip">"Ne mogu se povezati na mrežu"</string>
@@ -306,8 +306,8 @@
   <string name="notification_title_firewall_blocked">Blokirano</string>
   <string name="ok">U redu</string>
   <string name="packages_subtitle">Uključeni paketi</string>
-  <string name="pc_install_manager">Upravitelj instaliranja</string>
-  <string name="pc_to_phone_install">Blokirano (%s) instalacija sa računala</string>
+  <string name="pc_install_manager">Instaliraj putem USB-a</string>
+  <string name="pc_to_phone_install">Blokirano (%s) instalacija putem USB-a</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Dopusti</string>
   <string name="permission_action_prompt">Obavijesti</string>
@@ -521,7 +521,7 @@
   <string name="recently_reject_message_one">Odbijeno(%1$s) zahtjeva za instalaciju</string>
   <string name="reject_all">Ograniči svima</string>
   <string name="reject_countdown">Odbij (%d)</string>
-  <string name="reject_usb_install">Odbijen pristup instalacije ovih aplikacija korištenjem računala</string>
+  <string name="reject_usb_install">Odbijen pristup instalacije ovih aplikacija putem USB-a</string>
   <string name="risk_list_header_title">Otkriveno (%d) sumnjivih aplikacija</string>
   <string name="root_apply_step_1">Odobriti %s ROOT pristup?</string>
   <string name="root_apply_step_2">Odobravanje ROOT pristupa stranim aplikacijama može uzrokovati nestabilnost sustava</string>
@@ -647,6 +647,6 @@
   <string name="usage_type_video">Videozapis</string>
   <string name="usage_type_wake_lock">Zadrži u aktivnom stanju</string>
   <string name="usage_type_wifi_running">WLAN uključen</string>
-  <string name="usb_install_desc">Instalirati ovu aplikaciju koristeći računalo?</string>
+  <string name="usb_install_desc">Instalirati ovu aplikaciju putem USB-a?</string>
   <string name="virus_list_header_title">Otriveno virusa (%d)</string>
 </resources>

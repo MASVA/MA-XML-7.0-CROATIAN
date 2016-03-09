@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <plurals name="power_config_ultimate_on_count">
+      <item quantity="other">Još %1$d koraka do uključivanja Ultimativnog načina</item>
+      <item quantity="one">%1$d korak do uključivanja Ultimativnog načina</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+       <item quantity="other">Još %1$d koraka do isključivanja Ultimativnog načina</item>
+       <item quantity="one">%1$d korak do isključivanja Ultimativnog načina</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Napravite još %1$d koraka za otključavanje svih stavki</item>
+        <item quantity="one">Napravite još %1$d korak za otključavanje svih stavki</item>
+    </plurals>
+</resources>

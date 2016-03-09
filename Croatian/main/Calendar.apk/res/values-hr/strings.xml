@@ -26,7 +26,7 @@
   <string name="acessibility_snooze_notification">Odgodi obavijest</string>
   <string name="action_label">Vrati</string>
   <string name="action_text_new_event">Novi događaj</string>
-  <string name="action_text_online">Online</string>
+  <string name="action_text_online">Traži</string>
   <string name="action_text_today">Danas</string>
   <string name="add_account">Dodavanje računa</string>
   <string name="add_calendar">Dodaj kalendar</string>
@@ -84,6 +84,14 @@
   <string name="card_title_change">换一换</string>
   <string name="change_response_title">Promijenite odgovor</string>
   <string name="chongsha"/>
+  <string name="click_watch">Kliknite za gledanje</string>
+  <string name="common_fri">Petak</string>
+  <string name="common_mon">Ponedjeljak</string>
+  <string name="common_sat">Subota</string>
+  <string name="common_sun">Nedjelja</string>
+  <string name="common_thu">Četvrtak</string>
+  <string name="common_tus">Utorak</string>
+  <string name="common_wed">Srijeda</string>
   <string name="copy_db">Pošalji bazu podataka</string>
   <string name="copy_email">Kopiranje e-adrese</string>
   <string name="copy_number">Kopiranje telefonskog broja</string>
@@ -92,6 +100,19 @@
 • Pristupite mu iz bilo kojeg web-preglednika.
 • Stvorite sigurnosnu kopiju svojih događaja.</string>
   <string name="creating_event">Događaj stvoren</string>
+  <string name="credit">信用卡</string>
+  <string name="credit_card_amount_label">账单金额：</string>
+  <string name="credit_card_date_label">还款日：</string>
+  <string name="credit_card_number_label">卡号：</string>
+  <string name="credit_card_overdue">已过期</string>
+  <string name="credit_card_repayment_count">最后%1$s天</string>
+  <string name="credit_currency">元</string>
+  <string name="credit_detail_amount_label">应还</string>
+  <string name="credit_detail_sms_content">短信原文</string>
+  <string name="credit_detail_today">今日：</string>
+  <string name="credit_event_card_title">信用卡还款</string>
+  <string name="credit_event_delete_successfully">信用卡还款事件删除成功</string>
+  <string name="credit_event_title">信用卡账单</string>
   <string name="creating_event_with_guest">Pozivnica će biti poslana</string>
   <string name="cta_notice_checkbox">"Zapamti ovaj izbor"</string>
   <string name="cta_notice_message">"Kalendar treba pristup vašim kontaktima za korištenje funkcije podsjetnik rođendana"</string>
@@ -100,6 +121,9 @@
   <string name="cta_notify_settings">Pitaj prilikom pristupa</string>
   <string name="custom">"Prilagođeno (ne može se prilagoditi na telefonu)"</string>
   <string name="daily">Dnevno</string>
+  <string name="date_pattern_mm_dd">M.d.</string>
+  <string name="date_pattern_mm_dd_kk_mm">M.d. HH:mm</string>
+  <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Dan</string>
   <string name="day_view_new_event_hint">Novi događaj</string>
@@ -122,6 +146,13 @@
   <string name="downloaded">Preuzeto</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_wallpaper">Preuzimanje slika pozadine</string>
+  <string name="drop_down_list_footer_default_text">Više</string>
+  <string name="drop_down_list_footer_loading_text">Samo trenutak…</string>
+  <string name="drop_down_list_footer_no_more_text">Nema više</string>
+  <string name="drop_down_list_header_default_text">Kliknite za osvježiti</string>
+  <string name="drop_down_list_header_loading_text">Učitavanje…</string>
+  <string name="drop_down_list_header_pull_text">Povucite dolje za osvježiti</string>
+  <string name="drop_down_list_header_release_text">Otpustite za osvježiti</string>
   <string name="dropdown_delete_button_desc">Ukloni %s iz primatelja</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>
   <string name="edit_event_calendar_label">Kalendar</string>
@@ -149,6 +180,7 @@
   <string name="event_hide_more">Sakrij</string>
   <string name="event_info_descrip">Opis\u0009\u0009\u0009</string>
   <string name="event_info_end">Kraj\u0009\u0009\u0009</string>
+  <string name="event_info_from">Šalje</string>
   <string name="event_info_organizer">Organizator:</string>
   <string name="event_info_reminders_label">Podsjetnik</string>
   <string name="event_info_reminders_label_1">Podsjetnik</string>
@@ -161,8 +193,11 @@
   <string name="event_lunar_month"/>
   <string name="event_not_found">Događaj nije pronađen.</string>
   <string name="event_show_more">Više opcija</string>
+  <string name="event_subscirbe_detail_title">Detalji o događaju</string>
+  <string name="event_title">Naslov</string>
   <string name="event_view">Prikaži događaj</string>
   <string name="every_weekday">Radnim danima (Pon – Pet)</string>
+  <string name="every_year_month_of_day">%1$s%2$s</string>
   <string name="exist_calendar">Kalendar već postoji</string>
   <string name="from_google_group_calendar">Google kalendar</string>
   <string name="gadget_no_events">Nema skorih događaja kalendara</string>
@@ -183,6 +218,7 @@
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label"/>
+  <string name="image_content">Slika</string>
   <string name="internet_connection_notification">Obavijest povezivanja s internetom</string>
   <string name="internet_connection_notification_descrip">Prikaži obavijest povezivanja s internetom svaki put kada otvorite Kalendar</string>
   <string name="joke_card_icon_text">|  %1$s 人笑过</string>
@@ -222,6 +258,7 @@
   <string name="monthly_on_day_count" formatted="false">Mjesečno (%1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kratak uvod</string>
+  <string name="my_subscribe_events">Moje pretplate</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="new_event_dialog_label">Novi događaj</string>
   <string name="new_event_dialog_option">Novi događaj</string>
@@ -258,6 +295,7 @@
   <string name="preferences_hide_declined_title">Sakrij odbačene događaje</string>
   <string name="preferences_home_tz_default">Europe/Zagreb</string>
   <string name="preferences_home_tz_title">Domaća vremenska zona</string>
+  <string name="preferences_import_credit_repayment">Plaćanja kreditnom karticom</string>
   <string name="preferences_reminder_title">Obavijesti &amp; podsjetnici</string>
   <string name="preferences_show_week_num_title">Pokaži broj tjedna</string>
   <string name="preferences_title">Kalendar</string>
@@ -316,6 +354,7 @@
   <string name="select_synced_calendars_title">Kalendari za sinkronizaciju</string>
   <string name="select_visible_calendars_title">Kalendari za prikaz</string>
   <string name="set_as_wallpaper">Postavi za sliku pozadine</string>
+  <string name="setting_sms_import">Uvezi SMS događanja</string>
   <string name="setting_wifi_mode">Sinkr. samo preko WLAN-a</string>
   <string name="show_controls">Pokaži kontrole</string>
   <string name="show_day_view">Pokaži dan</string>
@@ -323,7 +362,23 @@
   <string name="show_older_events">Dodirnite za pregled događaja prije %1$s</string>
   <string name="snooze_all_label">Odgodi sve</string>
   <string name="snooze_label">Odgodi</string>
+  <string name="str_dayofmonth">%s号</string>
+  <string name="str_everyday">每天</string>
+  <string name="str_everymonth">每月%s</string>
+  <string name="str_everyweek">每周%s</string>
+  <string name="str_everyyear">每年%s</string>
+  <string name="str_from_mon_to_fri">周一至周五</string>
+  <string name="str_hour_of_everyday">每天%s</string>
+  <string name="str_hour_of_next">下一次%s</string>
+  <string name="subscribe">订阅</string>
   <string name="subscribe_all">Prijava</string>
+  <string name="subscribe_card_more_default_text">更多</string>
+  <string name="subscribe_card_recommend_default_text">推荐订阅</string>
+  <string name="subscribe_description_card_default_title">订阅简介</string>
+  <string name="subscribe_description_card_more_cut">收起</string>
+  <string name="subscribe_description_card_more_launch">展开</string>
+  <string name="subscribe_detail_title">订阅详情</string>
+  <string name="subscribe_ed">已订阅</string>
   <string name="sync_notice_cancel_toast_message">"Lokalni Kalendar neće biti sinkroniziran s Mi Cloudom"</string>
   <string name="sync_notice_message">Sinkronizirati Kalendar s Mi Cloudom?</string>
   <string name="sync_notice_ok">Sinkr. sada</string>
@@ -366,10 +421,10 @@
   <string name="travel_event_title_train">Vlak: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Vlak: %1$s %2$s</string>
   <string name="travel_item_hotel">Hotel</string>
-  <string name="travel_item_reminder">Podsjeetnik</string>
-  <string name="travel_item_reminder_overdue">Pažnja</string>
+  <string name="travel_item_reminder">Podsjetnik</string>
+  <string name="travel_item_reminder_overdue">Podsjetnik</string>
   <string name="travel_item_trafic">Promet</string>
-  <string name="travel_item_virtual_sim">Mi Virtual SIM</string>
+  <string name="travel_item_virtual_sim">Mi Virtual Sim</string>
   <string name="travel_item_weather_forecast">Prognoza odredišta</string>
   <string name="travel_item_weather_now">Vrijeme odredišta</string>
   <string name="travel_load_failed">"Ne mogu učitati"</string>
@@ -383,7 +438,7 @@
   <string name="user_notice_button_exit">Izlaz</string>
   <string name="user_notice_button_ok">U redu</string>
   <string name="user_notice_declaration_ignore">"Ne prikazuj ponovo"</string>
-  <string name="user_notice_message">"Korištenjem ovog proizvoda, pristajete na Xiaomi %1$s i %2$s. Neke značajke trebaju povezivanje s internetom, pristup lokaciji i kontaktima za normalan rad."</string>
+  <string name="user_notice_message">"Korištenjem ovog proizvoda, pristajete na Xiaomi %1$s i %2$s. Neke značajke trebaju povezivanje s internetom, pristup sms-u i kontaktima za normalan rad."</string>
   <string name="user_notice_title">Obavijesti korisnika</string>
   <string name="user_notification">Obavijesti korisnika</string>
   <string name="user_notification_descrip">Prikaži obavijesti korisnika svaki put kada otvorite Kalendar</string>

@@ -148,6 +148,7 @@
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
   <string name="email_platform">E-pošta</string>
+  <string name="enable_documentsui">Omogućite prvo %s u Postavke/Instalirane aplikacije</string>
   <string name="enable_sd_card">Umetnite SD karticu ili onemogućite USB masovnu pohranu.</string>
   <string name="enable_usb">Povežite USB uređaj</string>
   <string name="encrypt_error">"Ne mogu sakriti datoteke, pokušajte ponovo"</string>
@@ -355,6 +356,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_tasks">Nema zadataka.</string>
   <string name="no_wifi">Nema dostupnih WLAN veza.</string>
   <string name="no_wifi_hint">Nema dostupnih veza</string>
+  <string name="not_installed_documentsui">"Nemate instaliranu DocumentsUI aplikaciju"</string>
   <string name="notif_server_starting">Pokretanje FTP poslužitelja…</string>
   <string name="notif_title">FTP poslužitelj pokrenut.</string>
   <string name="notification_content_hint">Dodirni za prikaz</string>
@@ -598,6 +600,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="tag_weixin_video">Video isječci</string>
   <string name="terabyteShort">TB</string>
   <string name="title_app_tags">Aplik.</string>
+  <string name="title_enable_documentsui">Omogući DocumentsUI</string>
   <string name="title_expire_video">O isteku</string>
   <string name="title_recent">NEDAVNO</string>
   <string name="title_report_video">Prijavi</string>

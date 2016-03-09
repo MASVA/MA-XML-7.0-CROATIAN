@@ -71,6 +71,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+  <string name="autofill_popup_content_description">Prikazivanje automatskog popunjavanja</string>
   <string name="autologin_bar_error">"Ne mogu se prijaviti."</string>
   <string name="autologin_bar_hide_text">Sakrij</string>
   <string name="autologin_bar_login_text">Prijava</string>
@@ -436,6 +437,7 @@ Napustiti ovu stranicu?"</string>
   <string name="page_info_address">Adresa:</string>
   <string name="page_info_view">Prikaz informacija o stranici</string>
   <string name="password">Zaporka</string>
+  <string name="password_generation_popup_content_description">Prikazivanje generiranja zaporke</string>
   <string name="pause_download">Pauzirano</string>
   <string name="paused_queued_for_wifi">Čeka se povezivanje…</string>
   <string name="paused_unknown">Pauzirano</string>
@@ -723,8 +725,9 @@ Napustiti ovu stranicu?"</string>
   <string name="version_update_file_download_toast">Preuzimanje</string>
   <string name="version_update_file_not_found">"Ne mogu pronaći ažuriranja"</string>
   <string name="video_activity_name">Favoriti</string>
+  <string name="video_buffering_percent">"Buffering "</string>
   <string name="video_buffering_percent_string">"Buffering "</string>
-  <string name="video_collect_cancel">Nefavoriti</string>
+  <string name="video_collect_cancel">Odznači</string>
   <string name="video_collect_success">Favorirano</string>
   <string name="video_download_complete">Preuzimanje završeno.</string>
   <string name="video_download_empty">Nema videozapisa</string>
@@ -750,6 +753,7 @@ Napustiti ovu stranicu?"</string>
   <string name="video_group_noupdates_list">Nema dostupnih ažuriranja</string>
   <string name="video_group_updates_list">Ažuriranja</string>
   <string name="video_history_empty">Nema povijesti</string>
+  <string name="video_play_error">Pogreška reprodukcije videozapisa</string>
   <string name="video_project_button">Zaustavi</string>
   <string name="video_project_msg">Videozapis se prikazuje na %s</string>
   <string name="video_project_title">Video Prikaz</string>
