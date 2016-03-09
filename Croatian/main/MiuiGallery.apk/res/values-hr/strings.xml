@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="__leak_canary_analysis_failed">Leak analysis failed</string>
-  <string name="__leak_canary_class_has_leaked">%s has leaked</string>
+  <string name="__leak_canary_analysis_failed">Analiza propusta nije uspjela</string>
+  <string name="__leak_canary_class_has_leaked">%s propusta</string>
   <string name="__leak_canary_delete">Izbriši</string>
   <string name="__leak_canary_delete_all">Izbriši sve</string>
-  <string name="__leak_canary_display_activity_label">Leaks</string>
-  <string name="__leak_canary_failure_report">"Please report this failure to http://github.com/square/leakcanary
+  <string name="__leak_canary_display_activity_label">Propusti</string>
+  <string name="__leak_canary_failure_report">"Prijavite taj propust na http://github.com/square/leakcanary
   "</string>
-  <string name="__leak_canary_leak_list_title">Leaks in %s</string>
-  <string name="__leak_canary_notification_message">Click for more details</string>   
-  <string name="__leak_canary_share_heap_dump">Share heap dump</string>
+  <string name="__leak_canary_leak_list_title">Premjesti u %s</string>
+  <string name="__leak_canary_notification_message">Kliknite za više detalja</string>   
+  <string name="__leak_canary_share_heap_dump">Podijeli heap dump</string>
   <string name="__leak_canary_share_leak">Podijeli informaciju</string>
   <string name="__leak_canary_share_with">Podijeli sa…</string>
-  <string name="__leak_canary_toast_heap_dump">Dumping memory, app will freeze. Brrrr.</string>
+  <string name="__leak_canary_toast_heap_dump">Dumping memorije, aplikacija će se zamrznuti. Brrrr.</string>
   <string name="Import">Uvezi</string>
   <string name="abandon">Odustani</string>
   <string name="accept">Prihvati</string>
