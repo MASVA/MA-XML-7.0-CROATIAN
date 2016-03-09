@@ -9,14 +9,14 @@
      </string-array>
      <string-array name="alarm_repeat_type">
         <item>Jednom</item>
-        <item>Svakodnevno</item>
+        <item>Svaki dan</item>
         <item>Radnim danima</item>
         <item>Vikendom</item>
         <item>Prilagođeno</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Jednom</item>
-        <item>Svakodnevno</item>
+        <item>Svaki dan</item>
         <item>Vikendom</item>
         <item>Prilagođeno</item>
     </string-array>

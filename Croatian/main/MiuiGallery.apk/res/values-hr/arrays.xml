@@ -19,4 +19,13 @@
         <item>Djed s majčine strane</item>
         <item>Baka s majčine strane</item>
     </string-array>
+    <string-array name="relation_with_me">
+         <item>Ja</item>
+         <item>Dijete</item>
+         <item>Obitelj</item>
+         <item>Prijatelj</item>
+         <item>Prijatelj</item>
+         <item>Prijatelj</item>
+         <item>Nepoznato</item>
+    </string-array>
 </resources> 

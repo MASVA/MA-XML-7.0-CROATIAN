@@ -267,11 +267,13 @@ Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
   <string name="micloud_member_webload_fail_toast_5xx">Pogreška poslužitelja</string>
   <string name="micloud_more">Saznaj više</string>
   <string name="micloud_notif_content_battery_low">Slaba baterija.</string>
+  <string name="micloud_notif_content_clipboard_push">Možete zalijepiti bilo gdje.</string>
   <string name="micloud_notif_content_depend_wifi">Povežite se na WLAN da sinkr.</string>
   <string name="micloud_notif_content_master_depend_wifi">Povežite se prvo na WLAN.</string>
   <string name="micloud_notif_content_memory_low">Nema dovoljno prostora za pohranu.</string>
   <string name="micloud_notif_content_sync_with_off">Dodirnite da sada sinkr. vaš uređaj.</string>
   <string name="micloud_notif_title_battery_low">"Ne mogu sinkr. s Mi Cloud"</string>
+  <string name="micloud_notif_title_clipboard_push">Sadržaj kopiran u međuspremnik</string>
   <string name="micloud_notif_title_depend_wifi">Čeka na sink. %d</string>
   <string name="micloud_notif_title_master_depend_wifi">"Ne mogu sinkr. s Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"Ne mogu sinkr. s Mi Cloud"</string>

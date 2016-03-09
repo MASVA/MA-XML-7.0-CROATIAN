@@ -16,6 +16,7 @@
   <string name="activity_find_city_dialog_message">Neka Vrijeme vidi vašu lokaciju</string>
   <string name="activity_find_city_dialog_set">Postavke</string>
   <string name="activity_find_city_dialog_title">Pristup lokaciji</string>
+  <string name="activity_main_clickable">&gt;</string>
   <string name="activity_main_alert"/>
   <string name="activity_main_one_alert"/>
   <string name="activity_main_refresh_fail">"Ne mogu se povezati na mrežu"</string>
@@ -25,8 +26,18 @@
   <string name="activity_weathermain_locationg">Lociranje…</string>
   <string name="activity_weathermain_locationg_error">"Ne mogu locirati"</string>
   <string name="add_city">Dodaj</string>
+  <string name="ads_extension"/>
+  <string name="ads_install_num"/>
+  <string name="ads_score_title"/>
   <string name="all_resources">Svi</string>
   <string name="app_name">Vrijeme</string>
+  <string name="aqi_detail_no2">NO&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt; : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
+  <string name="aqi_detail_null">--</string>
+  <string name="aqi_detail_pm10">PM10  : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
+  <string name="aqi_detail_pm25">PM2.5 : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
+  <string name="aqi_detail_so2">SO&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt; : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
+  <string name="aqi_detail_subtitle">AQI : %1$s</string>
+  <string name="aqi_detail_title">Aqi Indeks kvalitete</string>
   <string name="aqi_quality_index_break">AQI %1$s</string>
   <string name="aqi_quality_index_break_short_desc">%1$s</string>
   <string name="aqi_quality_index_dangerous">AQI %1$s</string>

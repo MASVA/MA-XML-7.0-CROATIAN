@@ -267,6 +267,7 @@
   <string name="metered_allow">Stream</string>
   <string name="metered_disallow">Odustani</string>
   <string name="metered_play_toast">Korištenje mobilne podatkovne veze za streaming</string>
+  <string name="milink_unavaliable_please_update">Milink funkcija nije dostupna. Trebate ažurirati MIUI sustav.</string>
   <string name="min_sleep_time">1</string>
   <string name="miui_music">Mi Glazba</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>

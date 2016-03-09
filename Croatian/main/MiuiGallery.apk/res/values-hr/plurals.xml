@@ -100,6 +100,18 @@
         <item quantity="other">Fotografija (%1$s) od %2$s</item>
         <item quantity="one">%1$s fotografija od %2$s</item>
     </plurals>
+	<plurals name="age_year">
+         <item quantity="other">%d godina</item>
+         <item quantity="one">%d godina</item>
+     </plurals>
+     <plurals name="age_month">
+         <item quantity="other">%d mjeseci</item>
+         <item quantity="one">%d mjesec</item>
+     </plurals>
+     <plurals name="age_day">
+         <item quantity="other">%d dana</item>
+         <item quantity="one">%d dan</item>
+      </plurals>		      
 	<plurals name="seconds">
         <item quantity="other">%d sek.</item>
         <item quantity="one">1 sek.</item>
@@ -127,33 +139,57 @@
 	<plurals name="baby_age_subtitle_day">
         <item quantity="other">"%1$d dana "</item>
         <item quantity="one">"%1$d dan "</item>
-     </plurals>
-	 <plurals name="baby_album_share_user_count_tip">
+    </plurals>
+	 <plurals name="album_already_share_user_count">
+	    <item quantity="other">Podijeljeno sa %d osoba</item>
+        <item quantity="one">Podijeljeno sa %d osobom</item>
+    </plurals>	
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Izbrisati %1$d fotografija %2$s?</item>
+        <item quantity="one">Izbrisati ovu fotografiju %2$s?</item>
+    </plurals>		      
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Izbrisati %1$d videozapisa %2$s?</item>
+        <item quantity="one">Izbrisati ovaj videozapis %2$s?</item>
+    </plurals>		     
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Izbrisati %1$d stavki %2$s?</item>
+        <item quantity="one">Izbrisati %1$d stavku %2$s?</item>
+      </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d stavki ukupno)</item>
+        <item quantity="one">(%d stavku ukupno)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">Fotografija %d</item>
+        <item quantity="one">%d fotografija</item>
+	</plurals>  
+	<plurals name="baby_album_share_user_count_tip">
         <item quantity="other">%1$d sljedbenika</item>
         <item quantity="one">%1$d sljedbenik</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">Fotografija (%1$d) čeka na sinkr.</item>
-        <item quantity="one">1 fotografija čeka na sinkr.</item>
+        <item quantity="other">Fotografija (%1$d) čeka na izradu Sig. kopije</item>
+        <item quantity="one">1 fotografija čeka na izradu Sig. kopije</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">Videozapisa (%1$d) čeka na sinkr.</item>
-        <item quantity="one">1 videozapis čeka na sinkr.</item>
+        <item quantity="other">Videozapisa (%1$d) čeka na izradu Sig. kopije</item>
+        <item quantity="one">1 videozapis čeka na izradu Sig. kopije</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">Ovoliko stavaka (%1$d) čeka na sinkr.</item>
-        <item quantity="one">1 stavka čeka na sinkr.</item>
+        <item quantity="other">Ovoliko stavaka (%1$d) čeka na izradu Sig. kopije</item>
+        <item quantity="one">1 stavka čeka na izradu Sig. kopije</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Sinkr. %1$d fotografija…</item>
-        <item quantity="one">Sinkr. 1 fotografiju…</item>
+        <item quantity="other">Izrada Sig. kopije %1$d fotografija…</item>
+        <item quantity="one">Izrada Sig. kopije 1 fotografije…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Sinkr. %1$d videozapisa…</item>
-        <item quantity="one">Sinkr. 1 videozapis…</item>
+        <item quantity="other">Izrada Sig. kopije %1$d videozapisa…</item>
+        <item quantity="one">Izrada Sig. kopije 1 videozapisa…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Sinkr. %1$d stavki…</item>
-        <item quantity="one">Sinkr. 1 stavku…</item>
+        <item quantity="other">Izrada Sig. kopije %1$d stavki…</item>
+        <item quantity="one">Izrada Sig. kopije 1 stavke…</item>
     </plurals>
 </resources>
