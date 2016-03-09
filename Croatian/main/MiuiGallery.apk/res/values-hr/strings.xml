@@ -186,7 +186,6 @@
   <string name="camera_setas_wallpaper">Pozadine</string>
   <string name="camera_view_none_message">Snimljene fotografije i videozapisi će ovdje biti prikazani.</string>
   <string name="cancel">Odustani</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Vratiti na zadanu pozadinu zaklj. zaslona?</string>
   <string name="cancel_hint">Radnja otkazana</string>
   <string name="cannot_delete_sharer_photo">"Ne mogu izbrisati stavke (%s) dodanih od strane drugih korisnika."</string>
   <string name="cannot_remove_creator">"Ne mogu ukloniti autora"</string>
@@ -868,8 +867,6 @@ uređaja"</string>
   <string name="slideshow_category">Dijaprojekcija</string>
   <string name="slideshow_dream_name">Dijaprojekcija</string>
   <string name="slideshow_interval">Interval trajanja dijaprojekcije</string>
-  <string name="slideshow_interval_dialog_title">Interval mora biti veći od 0 sekundi</string>
-  <string name="slideshow_interval_invalid">Interval mora biti između 1 i 3600 sekundi</string>
   <string name="slideshow_repeat_mode">Ponovi</string>
   <string name="sports_camera">Sportska Kamera</string>
   <string name="square">Kvadrat</string>
@@ -924,7 +921,6 @@ uređaja"</string>
   <string name="to_enable_sync_dialog_positive_button_text">Kreni</string>
   <string name="to_enable_sync_dialog_title">Sinkr.</string>
   <string name="title">Naslov</string>
-  <string name="title_set_name">Odaberite ime</string>
   <string name="too_many_recipients">"Ne možete dodati više od %2$s primatelja (Trenutno ste dodali %1$s)."</string>
   <string name="trash_bin">Kanta za smeće</string>
   <string name="trash_bin_summary">Pregledajte pohranjene fotografije koje su izbrisane nedavno</string>
