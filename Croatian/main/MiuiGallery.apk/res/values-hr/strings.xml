@@ -57,10 +57,10 @@
   <string name="album_already_forced_top">Već na vrhu</string>
   <string name="album_camera_name">Kamera</string>
   <string name="album_detail_page_empty">Nema slika ili videozapisa</string>
-  <string name="album_faces_name">Lica</string>
+  <string name="album_faces_name">Osobe</string>
   <string name="album_member">Član albuma %s</string>
   <string name="album_name">Naziv albuma</string>
-  <string name="album_others_share_baby_info_format">Baby album od %s</string>
+  <string name="album_others_share_baby_info_format">Dječji album od %s</string>
   <string name="album_others_share_info_format">Šalje %s</string>
   <string name="album_owner_share">Moje</string>
   <string name="album_page_empty">Prazno</string>
@@ -80,10 +80,10 @@
   <string name="album_share_subtitle_requesting">Preuzimanje detalja albuma…</string>
   <string name="album_share_title_new_album">Podijeli novi album</string>
   <string name="album_type_baby">Podijeli album</string>
-  <string name="album_type_share">Baby album</string>
+  <string name="album_type_share">Dječji album</string>
   <string name="album_type_system">Album sustava</string>
   <string name="album_videos_name">Videozapisi</string>
-  <string name="alert_secret_album_enter">Known</string>
+  <string name="alert_secret_album_enter">U redu</string>
   <string name="alert_secret_album_message">Povucite prema dolje sa vrha stranice vaših albuma za prikaz skrivenih albuma.</string>
   <string name="alert_secret_album_title">Kako vidjeti skriveni album</string>
   <string name="albums">Albumi</string>
@@ -181,7 +181,6 @@
   <string name="camera_connected">Kamera uključena.</string>
   <string name="camera_disconnected">Kamera isključena.</string>
   <string name="camera_folder_display_name">Kamera</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Otkazati sliku pozadinu djeteta i promjeniti na zadanu pozadinu zaklj. zaslona?</string>
   <string name="camera_setas_wallpaper">Pozadine</string>
   <string name="camera_view_none_message">Snimljene fotografije i videozapisi će ovdje biti prikazani.</string>
@@ -246,8 +245,8 @@
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
   <string name="confirm_face">Podudaranje</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt;Spojiti ovaj album s %s?&lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt;Spojiti ove albume s %s?&lt;/Data&gt;" "</string>
+  <string name="confirm_merge_face_albums">" "Spojiti ovaj album s %s" "</string>
+  <string name="confirm_merge_many_face_albums">" "Spojiti ove albume s %s?" "</string>
   <string name="confirm_not_face">Nema podudaranja</string>
   <string name="confirm_recommandation_face_is">"Jeste li sigurni da je ovo %1$s? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde."</string>
   <string name="confirm_recommandation_face_not">"Jeste li sigurni da ovo nije %1$s? Ovo lice će biti premješteno u \"%2$s\" album nakon potvrde."</string>
@@ -270,7 +269,7 @@
   <string name="create_new_cloud_folder">Napravi novi Album</string>
   <string name="create_new_face">Nova osoba</string>
   <string name="create_quick_icon_on_desk">Napravi prečace</string>
-  <string name="creating_baby_album">Pravljenje albuma…</string>
+  <string name="creating_baby_album">Izrada albuma…</string>
   <string name="crop">Obreži</string>
   <string name="crop_fail_to_load_image">"Ne mogu učitati sliku"</string>
   <string name="crop_label">Obrezivanje</string>
@@ -555,8 +554,8 @@
   <string name="message_no_delete_access">"Nemate dopuštenje za brisanje %s"</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="miliao">Mi Talk</string>
-  <string name="miliao_folder_display_name">MiTalk</string>
-  <string name="miliao_painting_folder_display_name">MiTalk bojanje</string>
+  <string name="miliao_folder_display_name">Mi Talk</string>
+  <string name="miliao_painting_folder_display_name">Mi Talk bojanje</string>
   <string name="miliao_saved_folder_display_name">Mi Talk</string>
   <string name="mimetype">Vrsta MIME-a</string>
   <string name="mishop">MiShop</string>
@@ -580,7 +579,7 @@
   <string name="name_wrong">"Ovo nije %s"</string>
   <string name="need_to_log_in_xiaomi_account">Prijavite se da automatski napravite izradu Sig. kopiju fotografija i videozapisa na MiCloud</string>
   <string name="need_to_turn_on_network">"Nemate internetsku vezu."</string>
-  <string name="need_to_turn_on_sync">Uključite prvo izradu Sig. kopiju na Mi Cloud</string>
+  <string name="need_to_turn_on_sync">Uključite prvo izradu Sig. kopije na Mi Cloud</string>
   <string name="need_to_turn_on_wlan">Povežite se prvo na WLAN</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
@@ -601,7 +600,7 @@ uređaja"</string>
   <string name="no_thumbnail">Nema sličica</string>
   <string name="none_picture">Nema slika</string>
   <string name="not_ask_any_more">"Ne pitaj ponovo za \"%s\" odgovore"</string>
-  <string name="not_auto_create_recent_album">Poništi pravljenje favorita</string>
+  <string name="not_auto_create_recent_album">Poništi izradu favorita</string>
   <string name="not_is">Ne</string>
   <string name="not_now">Ne sada</string>
   <string name="not_remind_any_more">"Ne prikazuj ponovo"</string>
@@ -671,7 +670,7 @@ uređaja"</string>
   <string name="paint_highlight_cancel_context">Spremiti iscrtanu sliku?</string>
   <string name="paint_highlight_cancel_title">Odbaci promjene</string>
   <string name="path">Putanja</string>
-  <string name="people_page_label">Lica</string>
+  <string name="people_page_label">Osobe</string>
   <string name="people_page_unname">Bez imena</string>
   <string name="people">Osobe</string>
   <string name="pet_album_display_name">Fotografije ljubimaca</string>
@@ -807,10 +806,10 @@ uređaja"</string>
   <string name="send_too_many_files_error">"Ne mogu poslati toliko stavaka (maks. %d)."</string>
   <string name="sepia">Sepija</string>
   <string name="set_as_baby_lock_wallpaper">Postavi za pozadinu zaklj. zaslona</string>
-  <string name="set_face_group_toast_msg_new_user">Long press the face cover, faces can be merged or ignored.</string>
-  <string name="set_face_group_toast_msg_old_user">Long press the face cover, faces can be divided into family, friends, classmates, etc.</string>
+  <string name="set_face_group_toast_msg_new_user">Dugi pritisak na sliku osobe, osobe se mogu spojiti ili ignorirati.</string>
+  <string name="set_face_group_toast_msg_old_user">Dugi pritisak na sliku osobe, osobe se mogu podijeliti u obitelj, prijatelje, kolege, itd.</string>
   <string name="set_face_group_toast_title_new_user">Prijedlozi</string>
-  <string name="set_face_group_toast_title_old_user">Lica mogu biti postavljena u grupi</string>
+  <string name="set_face_group_toast_title_old_user">Osobe mogu biti postavljena u grupi</string>
   <string name="set_group">Postavite grupu</string>
   <string name="set_baby_icon_picker_default_title">Postavi sliku djeteta</string>
   <string name="set_bg_file_exist_message">Ova stavka već postoji</string>
