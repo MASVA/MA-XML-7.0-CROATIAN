@@ -127,7 +127,7 @@
   "download_default_title":"Aplik.",
   "download_confirm_text":"Mi Glazba će preuzeti i instalirati “${v}”",
   "download_ticket_confirm_text":"Preuzmite “${v}” da gledate popularne filmove i dobijete jeftinije ulaznice za kino",
-  "download_confirm_button_text":"Instaliraj"
+  "download_confirm_button_text":"Instaliraj",
   "web_search":"Više sadržaja s ${v}",
   "title_app_list":"Ostanite s nama dok slušate",
   "title_game_list":"Igrajte se tijekom reprodukcije",
