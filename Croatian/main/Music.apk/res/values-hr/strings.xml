@@ -361,6 +361,7 @@
   <string name="online_playlist_is_empty">Popis pjesama je prazan</string>
   <string name="order_pending">Čekanje potvrde</string>
   <string name="order_process_fail">"Nije bilo moguće autorizirati vaš račun. Pričekajte nekoliko minuta i pokušajte ponovno."</string>
+  <string name="page_local_setting">Postavke</string>
   <string name="pay">Plati:</string>
   <string name="pay_now">Plati sada</string>
   <string name="payment_fail">Plaćanje nije uspjelo</string>
