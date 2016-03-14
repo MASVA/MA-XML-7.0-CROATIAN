@@ -148,7 +148,7 @@
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
   <string name="email_platform">E-pošta</string>
-  <string name="enable_documentsui">Omogućite prvo %s u Postavke/Instalirane aplikacije</string>
+  <string name="enable_documentsui">Uključite prvo %s u Postavke &gt; Instalirane aplikacije</string>
   <string name="enable_sd_card">Umetnite SD karticu ili onemogućite USB masovnu pohranu.</string>
   <string name="enable_usb">Povežite USB uređaj</string>
   <string name="encrypt_error">"Ne mogu sakriti datoteke, pokušajte ponovo"</string>
@@ -600,7 +600,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="tag_weixin_video">Video isječci</string>
   <string name="terabyteShort">TB</string>
   <string name="title_app_tags">Aplik.</string>
-  <string name="title_enable_documentsui">Omogući DocumentsUI</string>
+  <string name="title_enable_documentsui">Uključi DocumentsUI</string>
   <string name="title_expire_video">O isteku</string>
   <string name="title_recent">NEDAVNO</string>
   <string name="title_report_video">Prijavi</string>

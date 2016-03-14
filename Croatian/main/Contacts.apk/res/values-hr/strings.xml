@@ -470,7 +470,7 @@ Razlog: \"%s\""</string>
   <string name="ic_menu_back">"Natrag"</string>
   <string name="ic_menu_done">Gotovo</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imei">"IMEI : "</string>
   <string name="imei_invalid">Nevažeći IMEI</string>
   <string name="import_all_sim_entries_miui">Uvezi sve kontakte</string>
   <string name="import_all_vcard_string">"Uvezi sve vCard datoteke"</string>
@@ -587,7 +587,7 @@ Razlog: \"%s\""</string>
   <string name="map_home">"Prikaz kućne adrese"</string>
   <string name="map_other">"Prikaz adrese"</string>
   <string name="map_work">"Prikaz adrese na poslu"</string>
-  <string name="meid">"MEID"</string>
+  <string name="meid">"MEID: "</string>
   <string name="meid_invalid">Nevažeći MEID</string>
   <string name="menu_accounts">Računi</string>
   <string name="menu_addStar">Favoriti</string>
@@ -700,6 +700,7 @@ Razlog: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Uključi</string>
   <string name="miprofile_switch_on_alertdialog_title">Ažuriranje slike profila</string>
   <string name="missing_name">"(Bez imena)"</string>
+  <string name="mobile_equipment_identification">Identifikacija mobilne opreme</string>
   <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
   <string name="more_call_logs">Pogledajte detaljnu povijest poziva na i.mi.com</string>
   <string name="move_and_resize">Premjesti i promjeni veličinu</string>

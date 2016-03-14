@@ -308,6 +308,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_get_verify_code">Nabavite kod</string>
   <string name="passport_getting_verify_code">Nabava</string>
   <string name="passport_identitfication_expired">Provjera koda je istekla, započnite ispočetka</string>
+  <string name="passport_imei_permission_denied_message">"Tražimo dopuštenje za dobivanje IMEI vašeg uređaja. Mi Račun koristi IMEI za identitifikaciju uređaja na kojeg ste se prijavili/prijavljujete, kako bi održali svoj Mi Račun sigurnim."</string>
+  <string name="passport_imei_permission_denied_title">Zahtjev za IMEI Dopuštenje</string>
   <string name="passport_input_captcha_hint">Unesite kod</string>
   <string name="passport_input_password_for_login">Ovaj je broj povezan s postojećim računom, unesite svoju zaporku</string>
   <string name="passport_input_password_hint">Unesite zaporku</string>
