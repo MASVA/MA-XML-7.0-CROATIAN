@@ -48,6 +48,7 @@
   <string name="bookmark_confirm_delete_message">Odabrana poruka će biti uklonjena iz favorita</string>
   <string name="bookmark_empty">Nema Oznaka</string>
   <string name="bookmark_list_title">Favoriti</string>
+  <string name="call_sender">Nazovi pošiljatelja</string>
   <string name="cannot_add_picture_and_video">Na jedan slajd nije moguće dodati videozapis i sliku.</string>
   <string name="cannot_add_slide_anymore">Nije moguće dodati više slajdova.</string>
   <string name="cannot_forward_drm_obj">DRM objekt koji se nalazi u poruci nije moguće proslijediti.</string>
@@ -516,6 +517,7 @@
   <string name="set">Podesi</string>
   <string name="share_img">Dijeli</string>
   <string name="show_all_messages">Prikaži sve poruke</string>
+  <string name="show_sender">Prikaži detalje pošiljatelja</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
   <string name="sim_card_cloud">%s (Mi Poruka)</string>

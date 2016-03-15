@@ -129,6 +129,7 @@
   <string name="autohomemain">Autohomemain</string>
   <string name="baby_album">Dječji album</string>
   <string name="baby_album_change_background">Promjeni fotografiju pozadine</string>
+  <string name="baby_album_needs_auto_backup_tip">Dječji album ne može onemogućiti izradu Sig. kopije</string>
   <string name="baby_album_new_photo_page_title">"Album od %1$s"</string>
   <string name="baby_album_new_photo_remind">Imate nove fotografije u vašem dječjem albumu.</string>
   <string name="baby_album_no_share_user_tip">Trenutno nemate sljedbenika</string>
@@ -178,6 +179,7 @@
   <string name="calculated_pictures_time_tip_for_no_vip">Poredano fotografija iz %1$s do sada. Preostale fotografije će biti poredane postupno.</string>
   <string name="calculated_pictures_time_tip_for_vip">Poredano fotografija iz %1$s do sada. Preostale fotografije će uskoro biti poredane.</string>
   <string name="camera_black_white">Crno &amp; Bijelo</string>
+   <string name="camera_needs_auto_backup_tip">Za album kamere treba izraditi Sig. kopiju</string>
   <string name="camera_connected">Kamera uključena.</string>
   <string name="camera_disconnected">Kamera isključena.</string>
   <string name="camera_folder_display_name">Kamera</string>
@@ -213,6 +215,8 @@
   <string name="cloud_be_shared_guide_message">"Pregledajte fotografije svojih prijatelja, i također dodajte fotografije u album."</string>
   <string name="cloud_be_shared_guide_title">Ovaj album je podijelio prijatelj</string>
   <string name="cloud_camera_display_name">Fotografije kamere</string>
+  <string name="cloud_guide_auto_backup_title">Odaberite albume koji će biti pohranjeni na Mi Cloud</string>
+  <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_folder_chooser_move">Izbriši slike iz izvornog albuma</string>
   <string name="cloud_full_tip_str">Nema dovoljno prostora na Cloudu</string>
   <string name="cloud_gallery_recyclebin_full">Kanta za smeće je puna. Ispraznite koš na www.mi.com/Mi Cloud.</string>
@@ -343,6 +347,8 @@
   <string name="enable">Uključi</string>
   <string name="enable_cloud_for_sharing">Trebate uključiti Mi Cloud albume za prikaz dijeljenih fotografija.</string>
   <string name="enable_face_album_summary">Automatski poredaj fotografije osoba koje su na njima</string>
+  <string name="enable_face_album_title">Poredaj po osobama</string>
+  <string name="enable_micloud_service">Započnite koristiti Mi Cloud</string>
   <string name="enabling_face_feature">Samo trenutak…</string>
   <string name="enter_email_hint">"Unesite adresu E-pošte"</string>
   <string name="error_album_not_exist">"Album ne postoji."</string>
@@ -422,6 +428,7 @@
   <string name="free">Slobodno</string>
   <string name="gallery_cloud_provider_name">Mi Cloud fotografije</string>
   <string name="gallery_setting">Postavke</string>
+  <string name="gallery_sync_disable_toast">Sinkr.Galerije nije omogućena</string>
   <string name="get_album_info_in_process">"Dobivanje pojedinosti dijeljenog albuma…"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
@@ -483,6 +490,7 @@
   <string name="input_cloudfolder_name">Naziv Albuma</string>
   <string name="input_nickname_toast">"Unesite ime djeteta"</string>
   <string name="input_or_select_a_name">Unesite ili odaberite ime</string>
+  <string name="introduce">Automatski izradi Sig. kopiju fotografija i videozapisa</string>
   <string name="internal_camera_folder_display_name">Unutarnje fotografije</string>
   <string name="internal_miui_capture_screen_folder_display_name">Unutarnje snimke zaslona</string>
   <string name="internal_sd_card">Unutarnja pohrana</string>
@@ -577,7 +585,7 @@
   <string name="multiface_crop_help">Dodirnite lice za početak</string>
   <string name="must_pick_file">Odaberi sliku</string>
   <string name="name_wrong">"Ovo nije %s"</string>
-  <string name="need_to_log_in_xiaomi_account">Prijavite se da automatski napravite izradu Sig. kopiju fotografija i videozapisa na MiCloud</string>
+  <string name="need_to_log_in_xiaomi_account">Prijavite se da automatski napravite izradu Sig. kopiju fotografija i videozapisa na Mi Cloud</string>
   <string name="need_to_turn_on_network">"Nemate internetsku vezu."</string>
   <string name="need_to_turn_on_sync">Uključite prvo izradu Sig. kopije na Mi Cloud</string>
   <string name="need_to_turn_on_wlan">Povežite se prvo na WLAN</string>
@@ -849,6 +857,7 @@ uređaja"</string>
   <string name="slideshow_interval_title">Prikaži svaki slajd na</string>
   <string name="slideshow_interval_value">%1$d sek.</string>
   <string name="slim_after_backuped_summary">Zamijenite fotografije pune rezolucije u lokalnoj pohrani s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. One s punom rezolucijom su još uvijek pohranjene na Mi Cloudu. To može uštedjeti mnogo lokalnog prostora za pohranu.</string>
+  <string name="slim_after_backuped_summary_with_size">Zamijenite fotografije pune rezolucije u lokalnoj pohrani s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. One s punom rezolucijom su još uvijek pohranjene na Mi Cloudu. To može uštedjeti %1$s.</string>
   <string name="slim_after_backuped_title">Optimiziraj lokalnu pohranu nakon napravljene Sig. kopije</string>
   <string name="show_hidden_album">Pokaži skrivene albume</string>
   <string name="show_hidden_albums">Pokaži skrivene albume</string>
@@ -912,10 +921,11 @@ uređaja"</string>
   <string name="tip_capture_time">Snimljeno:</string>
   <string name="tip_file_info">Detalji:</string>
   <string name="tip_file_path">Lokalna putanja</string>
-  <string name="tip_not_download">Nema preuzimanja. Automatski će se preuzeti kod repprodukcije.</string>
+  <string name="tip_not_download">Nema preuzimanja. Automatski će se preuzeti kod reprodukcije.</string>
   <string name="title_set_name">Unesite ime</string>
   <string name="title_warn">Upozorenje</string>
   <string name="to_count">%d ukupno</string>
+  <string name="to_enable_gallery_sync_dialog_message">Omogućite prvo sinkr. Galerije</string>
   <string name="to_enable_sync_dialog_message">Omogućite prvo značajku sinkr.</string>
   <string name="to_enable_sync_dialog_positive_button_text">Kreni</string>
   <string name="to_enable_sync_dialog_title">Sinkr.</string>
@@ -955,6 +965,7 @@ uređaja"</string>
   <string name="view_queuing_status">Provjerite status</string>
   <string name="view_sharers">Prikaži sudionike</string>
   <string name="vignette">Vinjeta</string>
+  <string name="welcome">Dobrodošli u Mi Cloud</string>
   <string name="wallpaper">Slika pozadine</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Upozorenje</string>

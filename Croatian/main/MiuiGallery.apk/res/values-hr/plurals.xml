@@ -192,4 +192,8 @@
         <item quantity="other">Izrada Sig. kopije %1$d stavki…</item>
         <item quantity="one">Izrada Sig. kopije 1 stavke…</item>
     </plurals>
+	<plurals name="album_count_and_size">
+         <item quantity="other">%1$d stavaka | %2$s</item>
+         <item quantity="one">%1$d stavka | %2$s</item>
+     </plurals>
 </resources>

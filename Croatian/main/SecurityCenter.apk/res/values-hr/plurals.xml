@@ -40,4 +40,45 @@
         <item quantity="other">Ažuriranja dostupna za (%d) aplikacija</item>
         <item quantity="one">Ažuriranja dostupna za (%d) aplikacija</item>
     </plurals>
+	 <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Zaporka treba sadržavati najmanje %d slova.</item>
+        <item quantity="one">"Zaporka treba sadržavati najmanje 1 slovo. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Zaporka treba sadržavati najmanje %d malih slova.</item>
+        <item quantity="one">Zaporka treba sadržavati najmanje 1 malo slovo …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Zaporka treba sadržavati najmanje %d velikih slova.</item>
+        <item quantity="one">Zaporka treba sadržavati najmanje 1 veliko slovo …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Zaporka treba sadržavati najmanje %d brojeva.</item>
+        <item quantity="one">Zaporka treba sadržavati najmanje 1 broj…</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Zaporka treba sadržavati najmanje %d posebnih simbola.</item>
+        <item quantity="one">Zaporka treba sadržavati najmanje 1 posebni simbol …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Zaporka treba sadržavati najmanje %d znakova osim slova.</item>
+        <item quantity="one">Zaporka treba sadržavati najmanje 1 znak osim slova …</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d aplik. zaključano</item>
+        <item quantity="one">%d aplik. zaključana</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d aplik. nije zaključano</item>
+        <item quantity="one">%d aplik. nije zaključana</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Pretraži između %d aplik.</item>
+        <item quantity="one">Pretraži između %d aplik.</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">Pronađeno %d aplik.</item>
+        <item quantity="zero">Pronađeno 0 aplik.</item>
+        <item quantity="one">Pronađena %d aplik.</item>
+    </plurals>
 </resources>

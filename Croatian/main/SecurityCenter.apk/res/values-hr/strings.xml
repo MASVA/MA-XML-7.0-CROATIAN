@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="SMS_and_MMS">SMS i MMS</string>
+  <string name="Setting_lock">Postavke</string>
   <string name="Settings_title_anti_spam">Postavke liste blokiranih</string>
   <string name="Settings_title_anti_virus">Postavke AntiVirusa</string>
   <string name="Settings_title_garbage_cleanup">Postavke Čištaća</string>
   <string name="Settings_title_network_assistants">Postavke uporabe podataka</string>
   <string name="Settings_title_power_center">Postavke baterije</string>
+  <string name="access_control_need_password">"Uspješno dodano %s zaključavanja
+ "</string>
+   <string name="access_control_need_to_unlock">"Otključajte sa otiskom prsta
+ili unesite zaporku"</string>
+   <string name="access_control_need_to_unlock_nofingerprint">Unesite zaporku za otključavanje</string>
+   <string name="access_control_recording_intro_header">Nacrtajte uzorak za dodavanje zaključavanja aplikacije</string>
+   <string name="access_control_reset_by_account">Prijavite se na svoj Mi Račun kako biste resetirali zaključavanje aplikacije</string>
   <string name="activity_title_antispam">AntiSpam</string>
   <string name="activity_title_antivirus">AntiVirus</string>
   <string name="activity_title_apps_manager">Apl.</string>
@@ -51,6 +59,7 @@
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_update_db">%s</string>
   <string name="app_install_intercept">Blokiraj instalaciju</string>
+  <string name="app_name">Zaklj. aplikacije</string>
   <string name="app_name_securitycenter">Sigurnost</string>
   <string name="app_not_installed_toast">"Aplikacija nije instalirana na vašem uređaju."</string>
   <string name="auto_handle_title">OPĆENITO</string>
@@ -92,6 +101,8 @@
   <string name="boot_time_day_tomorrow">Uključivanje: %1$s</string>
   <string name="brightness_auto_adjust_off">Osvjetljenje će ostati stalno u svim okruženjima</string>
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
+  <string name="btn_jump">Preskoči</string>
+  <string name="btn_lock">Dodaj zaključavanje</string>
   <string name="btn_text_cleanup_all">Očisti</string>
   <string name="btn_text_done">Gotovo</string>
   <string name="btn_text_network_speed_detail">Povezanost</string>
@@ -127,11 +138,13 @@
   <string name="button_text_view_power">Prikaži</string>
   <string name="cache_header_title">Obrisano %1$d datoteka memorije za oslobođenje %2$s</string>
   <string name="call_and_contact">Pozivi i Kontakti</string>
+  <string name="cancal_to_setting_fingerprint">Odustani</string>
   <string name="cancel">Odustani</string>
   <string name="cmcc_app_check_dialog_message">Ponovno pokrenite uređaj za dovršetak popravka.</string>
   <string name="cmcc_app_check_dialog_negative">Kasnije</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno pokreni</string>
   <string name="cmcc_app_check_dialog_title">Sustav je popravljen</string>
+  <string name="confirm_fingerprint_msg">Stavite prst na čitač otiska prsta</string>
   <string name="confirm_auto_cleaner">U redu</string>
   <string name="confirm_reject_all_permission">Ograničiti svim aplikacijama korištenje ove značajke?</string>
   <string name="continue_install">Instaliraj</string>
@@ -183,9 +196,24 @@
   <string name="examination_score_80_100_with_recommend">Stavaka (%d) može biti optimizirano</string>
   <string name="examination_score_80_60">Neke stavke mogu biti optimizirane</string>
   <string name="examination_score_has_virus">Otkrivene su sumnjive aplikacije.</string>
+  <string name="finger_remind_message">Zaklj. aplikacija podržava otključavanje pomoću otiska prsta. Dodati otisak prsta?</string>
+  <string name="fingerprint_identify_msg">Skeniranje otiska prsta…</string>
+  <string name="fingerprint_not_identified_msg">Da otključate uređaj, unesite svoju zaporku.</string>
+  <string name="fingerprint_not_remind">"Ne pitaj ponovno"</string>
+  <string name="fingerprint_remind_dialog_title">Otključavanje pomoću otiska prsta</string>
+  <string name="fingerprint_to_lock">Otključajte pomoću otiska prsta</string>
+  <string name="fingerprint_verification">Provjera otiska prsta</string>
+  <string name="fingerprint_verification_message">Potvrdite trenutne otiske prstiju da počnete koristiti ovu značajku.</string>
+  <string name="fingerprint_verify_failed">"Ne mogu potvrditi"</string>
+  <string name="fingerprint_verify_succeed">Uspješno potrvđeno</string>
+  <string name="fingerprint_verify_try_agin">"Ne mogu skenirati, pokušajte ponovo"</string>
+  <string name="forget_password_button_text">&lt;u&gt;Zaboravljena zaporka&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u&gt;Zaboravljen obrazac?&lt;/u&gt;</string>
+  <string name="go_to_setting_fingerprint">Idi u Postavke</string>
   <string name="handle_text_cache">Predmemorija</string>
   <string name="handle_text_memory">Memorija</string>
   <string name="handle_text_system">Sustav</string>
+  <string name="help_label">Pomoć</string>
   <string name="header_antivirus">"Ova značajka šifrira i učitava ID vašeg uređaja na Tencent poslužitelje (%s)."</string>
   <string name="hints_auto_start_warning_info">"Ako ograničite autom. pokretanje, neke aplikacija i usluge neće moći primati obavijesti."</string>
   <string name="hints_cleanning_text">Čišćenje…</string>
@@ -246,6 +274,28 @@
   <string name="legal_workday_invalidate">Pon.-Pet.(Informacije o radnim danima su istekli)</string>
   <string name="legal_workday_invalidate_message">Dodirnite za ažuriranje informacija o radnim danima</string>
   <string name="legal_workday_message">(Preskoči praznike)</string>
+  <string name="lock_settings_title">Zaklj. zaslon i zaporka</string>
+  <string name="lockpassword_confirm_your_password_header">Potvrdite zaporku</string>
+  <string name="lockpassword_confirm_your_pattern_header">Potvrdite uzorak</string>
+  <string name="lockpattern_confirm_button_text">U redu</string>
+  <string name="lockpattern_continue_button_text">Dalje</string>
+  <string name="lockpattern_need_to_confirm">Iscrtajte ponovno uzorak za potvrdu</string>
+  <string name="lockpattern_need_to_unlock">Potvrdite da spremite uzorak</string>
+  <string name="lockpattern_need_to_unlock_wrong">Pokušajte ponovno</string>
+  <string name="lockpattern_pattern_confirmed_header">Vaš novi uzorak za otključavanje</string>
+  <string name="lockpattern_pattern_entered_header">Uzorak je dodan</string>
+  <string name="lockpattern_recording_incorrect_too_short">Povežite najmanje %d točke</string>
+  <string name="lockpattern_recording_inprogress">Uklonite prst nakon što je uzorak završen</string>
+  <string name="lockpattern_recording_intro_header">Povežite najmanje 4 točke za izradu uzorka</string>
+  <string name="lockpattern_retry_button_text">Pokušaj ponovo</string>
+  <string name="lockpattern_settings_help_how_to_record">Kako iscrtati uzorak za otključavanje</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Pokušajte ponovo za %d s..</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Previše netočnih pokušaja!</string>
+  <string name="lockpattern_tutorial_cancel_label">Odustani</string>
+  <string name="lockpattern_tutorial_continue_label">Dalje</string>
+  <string name="lockscreen_glogin_checking_password">Provjera…</string>
+  <string name="lockscreen_glogin_password_hint">Zaporka</string>
+  <string name="lockscreen_glogin_submit_button">Prijavite se</string>
   <string name="manual_handle_title">DOSTUPNE ZNAČAJKE</string>
   <string name="manual_item_white_list_summary">Spriječi odabrane aplikacije od optimiziranja</string>
   <string name="manual_item_white_list_title">Iznimke</string>
@@ -283,6 +333,8 @@
   <string name="menu_text_power_manager">Potrošnja baterije</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>
+  <string name="modify_password_info">Uzorak za otključavanje</string>
+  <string name="modifypassword">Promjeni zaporku</string>
   <string name="monitor_requests_from_pc">Upravljanje instalacijom aplikacija putem USB-a</string>
   <string name="month_report_activity_label">Mjesečno izvješće</string>
   <string name="month_report_click_reconnect_network">Pokušaj ponovno</string>
@@ -306,6 +358,7 @@
   <string name="notification_title_firewall_blocked">Blokirano</string>
   <string name="ok">U redu</string>
   <string name="packages_subtitle">Uključeni paketi</string>
+  <string name="passwordIncorrect">Pogrešno korisničko ime ili zaporka</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
   <string name="pc_to_phone_install">Blokirano (%s) instalacija putem USB-a</string>
   <string name="percentage">%d%%</string>
@@ -511,6 +564,7 @@
   <string name="preferred_app_entries_launcher">Pokretač</string>
   <string name="preferred_app_entries_messaging">Poruke</string>
   <string name="preferred_app_entries_music">Glazba</string>
+  <string name="privacy_mode_dialog_title">Gost način</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
   <string name="prompt_input_time_illegal">"Ne mogu postaviti ovo vrijeme, promijenite ga i pokušajte ponovno"</string>
@@ -518,7 +572,8 @@
   <string name="protection_category_recommend_title">Preporučene promjene (%d)</string>
   <string name="protection_category_security_title">Očisti (%d)</string>
   <string name="recently_reject_message">Odbijeno instalacija (%1$s) i drugih aplikacija (%2$d)</string>
-  <string name="recently_reject_message_one">Odbijeno(%1$s) zahtjeva za instalaciju</string>
+  <string name="recently_reject_message_one">Odbijeno (%1$s) zahtjeva za instalaciju</string>
+  <string name="recommend_app">Preporučene aplikacije</string>
   <string name="reject_all">Ograniči svima</string>
   <string name="reject_countdown">Odbij (%d)</string>
   <string name="reject_usb_install">Odbijen pristup instalacije ovih aplikacija putem USB-a</string>
@@ -535,8 +590,11 @@
   <string name="scanning_bar_system_text">Dopuštenja aplikacija</string>
   <string name="scanning_bar_system_title">Skeniranje sustava…</string>
   <string name="score_pts">%</string>
+  <string name="security_app_lock">Zaklj. aplikacije</string>
   <string name="security_scan_optimizing">Optimiziranje…</string>
+  <string name="select_pattern">Odaberite uzorak</string>
   <string name="settings_title_permission">Postavke Dopuštenja</string>
+  <string name="showpattern">Prikaži uzorak</string>
   <string name="shutdown_boot">Uređaj će se isključiti u %1$s i uključiti u %2$s</string>
   <string name="shutdown_boot_day">Uređaj će se isključiti u %1$s i uključiti %2$dd u %3$s</string>
   <string name="shutdown_cancel_reminder">"Uređaj se nije isključio"</string>
@@ -548,6 +606,7 @@
   <string name="st_title_mode_choose_group">Odaberi profil</string>
   <string name="suffix_virus_count_bottom">ukupno</string>
   <string name="suffix_virus_count_top">rizika</string>
+  <string name="suggest_app_tolock">Prijedlozi</string>
   <string name="summary_cleaner_cloudscan">Učitaj i usporedi nazive mapa s online definicijama</string>
   <string name="summary_cloud_account">Dobijte najviše od Vašeg Mi Uređaja.</string>
   <string name="summary_cloud_service">Sinkronizirajte vaše fotografije, kontakte, i više na svim vašim uređajima</string>
@@ -580,9 +639,13 @@
   <string name="summary_virus_cloudscan">Pošaljite i skenirajte nazive i detalje aplikacija koristeći online definicije virusa</string>
   <string name="summary_virus_update">Dobijte najnovije definicije virusa automatski</string>
   <string name="summary_xiaomi_roaming">0.01 yuan po MB za međunarodni mrežni promet.</string>
+  <string name="system_application">Aplikacije sustava</string>
   <string name="system_check_content">Rizika %1$d</string>
   <string name="system_check_content_none">Sigurno</string>
   <string name="system_header_title">Čišćenjem %1$d procesa oslobođeno %2$s memorije</string>
+  <string name="system_info_remind">Dodajte zaključavanja za sprečavanje neovlaštenog pristupa vašim aplikacijama</string>
+  <string name="text_lock_info">Iscrtajte uzorak za otključavanje</string>
+  <string name="third_application">Aplikacije trećih strana</string>
   <string name="title_app_update">Dostupna ažuriranja</string>
   <string name="title_cleaner_cloudscan">Učitaj nazive mapa</string>
   <string name="title_cloud_account">Mi Račun</string>
@@ -625,6 +688,7 @@
   <string name="toast_default_app">"%1$s postaviti kao zadanu sustava %2$s"</string>
   <string name="toast_flow_notification">Obavijesti uporabe podataka su uključene</string>
   <string name="toast_garbage_lib">Automatska ažuriranja Čistača su uključena</string>
+  <string name="toast_lockscreen_glogin_empty_password">Potrebna ja zaporka</string>
   <string name="toast_network_switch">Ova se aplikacija može povezati na internet</string>
   <string name="toast_root_apply_accept">ROOT pristup odobren za %s</string>
   <string name="toast_root_apply_reject">ROOT pristup odbijen za %s</string>

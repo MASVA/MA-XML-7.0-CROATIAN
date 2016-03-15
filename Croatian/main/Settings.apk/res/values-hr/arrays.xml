@@ -698,6 +698,7 @@
         <item>Zaklj. zaslona</item>
         <item>Dječji način</item>
 		<item>Datoteke</item>
+		<item>Zaklj. aplikacija</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minuta</item>

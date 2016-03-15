@@ -34,6 +34,7 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Nepoznat broj</string>
   <string name="antispam_provider">Identificiran od %s</string>
+  <string name="areacode_set_default">Postavi kao zadano</string>
   <string name="apn_settings">Nazivi pristupnih točaka</string>
   <string name="atr_disable">Obavijesti o prometu onemogućene</string>
   <string name="atr_enable">Obavijesti o prometu omogućene</string>
@@ -99,6 +100,7 @@
   <string name="call_title_redialing_with_times_miui">%d puta ponovno pozvano</string>
   <string name="caller_manage_header">Konferencijski poziv %s</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
+  <string name="can_not_call_oneself">"Ne mogu dovršiti poziv na ovaj broj"</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_call">Poklopi</string>
   <string name="card_title_call_ended">"Poziv završen "</string>
@@ -155,6 +157,7 @@
   <string name="connect_later">Ne mogu se povezati na ovu mrežu trenutno. Pokušajte ponovno.</string>
   <string name="contactPhoto">Slika kontakta</string>
   <string name="contacts_icon_label">Kontakti</string>
+  <string name="default_area_code_setting">Zadani pozivni broj</string>
   <string name="custom_message_cancel">Odustani</string>
   <string name="custom_message_send">Pošalji</string>
   <string name="data_enable_summary">Pristup podacima putem mobilne mreže</string>
@@ -196,6 +199,10 @@
   <string name="description_image_button_zero">nula</string>
   <string name="description_target_accept_upgrade_to_video_request">Prihvati zahtjev za videozapis</string>
   <string name="description_target_answer">Odgovori</string>
+  <string name="dialog_activate_livetalk">Verify number</string>
+  <string name="dialog_call_ordinary_telephone">Regular call</string>
+  <string name="dialog_purchase">Nadoplati</string>
+  <string name="do_not_ask">Ne prikazuj ponovno</string>
   <string name="description_target_answer_audio_call">Prihvati kao audiopoziv</string>
   <string name="description_target_answer_rx_video">Prihvati kao RX Video</string>
   <string name="description_target_answer_tx_video">Prihvati kao TX Video</string>
@@ -338,6 +345,10 @@
   <string name="jeejen_end_call_text">Završi poziv</string>
   <string name="jeejen_reject_call_text">Odbij</string>
   <string name="jeejen_toggle_dialpad_text">Tipkovnica</string>
+  <string name="keep_wait_call_back">Nastavi čekati</string>
+  <string name="livetalk_dial">Korištenje nadoplate</string>
+  <string name="livetalk_hangup">Prekini poziv</string>
+  <string name="livetalk_left_minute">%smin preostalo</string>
   <string name="labelCDMAMore">CDMA postavke poziva</string>
   <string name="labelCF">Prosljeđivanje poziva</string>
   <string name="labelCFB">Proslijedi tokom zauzeća</string>
@@ -392,6 +403,12 @@
   <string name="modify_call_prompt_no">Ne</string>
   <string name="modify_call_prompt_yes">Da</string>
   <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="network_error_message">Trenutna je mreža nestabilna. Promjena na redoviti poziv koji može biti naplaćen od strane operatera.</string>
+  <string name="network_error_title">Nestabilna mreža</string>
+  <string name="no_balance_message">Nemate dovoljno sredstava u vašem paketu. Još uvijek možete uputiti redoviti poziv koji će biti naplaćen od strane operatera.</string>
+  <string name="no_balance_title">Nedovoljno sredstava</string>
+  <string name="no_call_back_message">Povezivanje traje predugo. Promjena na redoviti poziv koji može biti naplaćen od strane operatera.</string>
+  <string name="no_call_back_title">Pažnja</string>
   <string name="multi_category_disable">Multi-kategorije onemogućene</string>
   <string name="multi_category_enable">Multi-kategorije omogućene</string>
   <string name="name">Ime</string>
@@ -418,6 +435,11 @@
   <string name="no_wifi_available_title">Nema WLAN veze</string>
   <string name="non_ivr_menu_collapse_menu">Zatvori izbornik</string>
   <string name="non_ivr_menu_view_menu">Pokaži izbornik</string>
+  <string name="not_activate_sim_card_content">Potvrdite svoj broj telefona da počnete koristiti paket nadoplate. Još uvijek možete uputiti redoviti poziv koji će biti naplaćen od strane operatera.</string>
+  <string name="not_activate_sim_card_content_title">Broj telefona nije potvrđen</string>
+  <string name="not_activate_sim_card_content_with_operator">Potvrdite SIM %1$s (%2$s) za upućivanje poziva korištenjem paketa nadoplate. Još uvijek možete uputiti redoviti poziv koji će biti naplaćen od strane operatera.</string>
+  <string name="not_support_message">Ne mogu nazvati ovaj broj. Promjena na redoviti poziv koji može biti naplaćen od strane operatera.</string>
+  <string name="not_support_title">Ovaj broj nije podržan</string>
   <string name="not_a_valid_port">Broj porta mora biti od 1000 do 65534</string>
   <string name="not_allowed">"Vaša SIM kartica ne dopušta povezivanje s ovom mrežom."</string>
   <string name="not_support_message">"Nadoplata trenutno ne podržava takve brojeve. Umjesto toga, pokušajte napraviti redoviti poziv."</string>
@@ -721,6 +743,7 @@ Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string
   <string name="tty_mode_option_summary">Podesi TTY način</string>
   <string name="tty_mode_option_title">TTY način</string>
   <string name="unknown">Nepoznato</string>
+  <string name="time_left_livetalk">(%dS)</string>
   <string name="unlock_failed">Otključavanje mreže neuspješno.</string>
   <string name="unlock_success">Otključavanje mreže uspješno.</string>
   <string name="updating_fdn_contact">Ažuriranje broja za fiksno biranje (FDN)…</string>
