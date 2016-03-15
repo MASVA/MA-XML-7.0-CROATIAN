@@ -346,9 +346,7 @@
   <string name="jeejen_reject_call_text">Odbij</string>
   <string name="jeejen_toggle_dialpad_text">Tipkovnica</string>
   <string name="keep_wait_call_back">Nastavi čekati</string>
-  <string name="livetalk_dial">Korištenje nadoplate</string>
   <string name="livetalk_hangup">Prekini poziv</string>
-  <string name="livetalk_left_minute">%smin preostalo</string>
   <string name="labelCDMAMore">CDMA postavke poziva</string>
   <string name="labelCF">Prosljeđivanje poziva</string>
   <string name="labelCFB">Proslijedi tokom zauzeća</string>
@@ -414,15 +412,11 @@
   <string name="name">Ime</string>
   <string name="national_disable">Nacionalne vijesti onemogućene</string>
   <string name="national_enable">Nacionalne vijesti omogućene</string>
-  <string name="network_error_message">Pokušajte napraviti redoviti poziv. On će biti naplaćen od strane operatera.</string>
-  <string name="network_error_title">Pogreška mreže</string>
   <string name="network_message">Mrežna poruka</string>
   <string name="network_query_error">Pogreška tijekom pretraživanja mreža.</string>
   <string name="networks">Dostupne mreže</string>
   <string name="newPin2Label">Novi PIN2</string>
   <string name="newPinLabel">Novi PIN</string>
-  <string name="no_balance_message">Nema dovoljno preostalih sredstava na vašem računu. Umjesto toga, pokušajte napraviti redoviti poziv.</string>
-  <string name="no_balance_title">Nedovoljno sredstava</string>
   <string name="no_change">Nema promjena.</string>
   <string name="no_internet_available">Za upućivanje internetskog poziva, provjerite internetsku vezu</string>
   <string name="no_internet_available_title">Nema Internet veze</string>
@@ -442,8 +436,6 @@
   <string name="not_support_title">Ovaj broj nije podržan</string>
   <string name="not_a_valid_port">Broj porta mora biti od 1000 do 65534</string>
   <string name="not_allowed">"Vaša SIM kartica ne dopušta povezivanje s ovom mrežom."</string>
-  <string name="not_support_message">"Nadoplata trenutno ne podržava takve brojeve. Umjesto toga, pokušajte napraviti redoviti poziv."</string>
-  <string name="not_support_title">"Broj nije podržan"</string>
   <string name="not_voice_capable">Glasovni pozivi nisu podržani</string>
   <string name="notification_action_accept">Prihvaćam</string>
   <string name="notification_action_answer_video">Videozapis</string>
