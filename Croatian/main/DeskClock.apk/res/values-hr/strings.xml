@@ -61,6 +61,8 @@
   <string name="label_pref_summary">Tekst ovoga alarma</string>
   <string name="lap">Krug</string>
   <string name="lap_num">Krug</string>
+  <string name="legal_off_day">Neradni dan</string>
+  <string name="legal_off_day_message">" (Alarm isključen tijekom radnih dana)"</string>
   <string name="legal_workday">Radni dan</string>
   <string name="legal_workday_invalidate">Podaci istekli (Alarm zvoni od Pon do Pet)</string>
   <string name="legal_workday_invalidate_message">(Podaci istekli. Ažuriraj u Postavkama)</string>
@@ -75,6 +77,7 @@
   <string name="minute">1 minuta</string>
   <string name="minutes">%s minuta</string>
   <string name="never">Jednom</string>
+  <string name="oneshot_alarm">Izbriši nakon gašenja alarma</string>
   <string name="pause">Pauza</string>
   <string name="remind_ringtone">Melodija zvona</string>
   <string name="reset">Resetiraj</string>

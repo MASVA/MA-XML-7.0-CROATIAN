@@ -177,11 +177,19 @@
         <item quantity="many">Pohranjeno %1$d WeChat videozapisa.</item>
     </plurals>
 	<plurals name="remote_video_update">
-         <item quantity="other">Pronađeno %1$d novih videozapisa</item>
-         <item quantity="zero">Pronađeno %1$d novih videozapisa</item>
-         <item quantity="one">Pronađen %1$d novi videozapis</item>
-         <item quantity="two">Pronađeno %1$d novih videozapisa</item>
-         <item quantity="few">Pronađeno %1$d novih videozapisa</item>
-         <item quantity="many">Pronađeno %1$d novih videozapisa</item>
+         <item quantity="other">Pronađeno %1$s novih videozapisa</item>
+         <item quantity="zero">Pronađeno %1$s novih videozapisa</item>
+         <item quantity="one">Pronađen %1$s novi videozapis</item>
+         <item quantity="two">Pronađeno %1$s novih videozapisa</item>
+         <item quantity="few">Pronađeno %1$s novih videozapisa</item>
+         <item quantity="many">Pronađeno %1$s novih videozapisa</item>
      </plurals>
+	 <plurals name="video_ad_download_tip">
+         <item quantity="other"> Preuzimanja</item>
+         <item quantity="zero"> Preuzimanja</item>
+         <item quantity="one"> Preuzimanje</item>
+         <item quantity="two"> Preuzimanja</item>
+         <item quantity="few"> Preuzimanja</item>
+         <item quantity="many"> Preuzimanja</item>
+      </plurals>		      
 </resources> 

@@ -266,8 +266,8 @@ Oslobodite najmanje %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Metoda A</string>
   <string name="trans_operate_func_two">Metoda B</string>
-  <string name="trans_operate_new_phone_tips">"Skenirajte QR kod koristeći novi uređaj
-Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
+  <string name="trans_operate_new_phone_tips">"Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
+  
  Dodirnite [Ja sam primatelj] da izradite QR kod"</string>
   <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikaciju Mi Mover na vašem drugom uređaju
 2. Otvorite aplikaciju i dodirnite Start
@@ -293,7 +293,7 @@ Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
   <string name="trans_restoring_no_items">Sinkr. stavaka</string>
   <string name="trans_retry">Pokušaj ponovno</string>
   <string name="trans_scan_invalid_qrcode">Nevažeći QR kod</string>
-  <string name="trans_scan_qr_code_tips">Skenirajte QR kod s vašim novim uređajem</string>
+  <string name="trans_scan_qr_code_tips">Skenirajte QR kod na novom uređaju</string>
   <string name="trans_select_data">Odaberite podatke</string>
   <string name="trans_select_data_no_space">"%s dostupno na novom uređaju.
  Odaberite datoteke ponovno ili oslobodite prostor za pohranu"</string>

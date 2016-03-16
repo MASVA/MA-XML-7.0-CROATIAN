@@ -26,6 +26,80 @@
         <item>Nakon 10 minuta</item>
         <item>Nikad</item>
     </string-array>
+	<string-array name="date_of_traffic_cmcc">
+         <item>"Ovaj tjedan "</item>
+         <item>"Danas "</item>
+         <item>"Ovaj mjesec "</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+         <item>"Jučer "</item>
+         <item>"Danas "</item>
+         <item>"Ovaj mjesec "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix_cmcc">
+         <item>"Ovaj tjedan: "</item>
+         <item>"Danas: "</item>
+         <item>"Ovaj mjesec: "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+         <item>"Jučer: "</item>
+         <item>"Danas: "</item>
+         <item>"Ovaj mjesec: "</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+         <item>Jučer (podaci)</item>
+         <item>Danas (podaci)</item>
+         <item>Ovaj mjesec (podaci)</item>
+         <item>Jučer WLAN</item>
+         <item>Danas WLAN</item>
+         <item>Ovaj mjesec WLAN</item>
+     </string-array>
+     <string-array name="date_of_app">
+         <item>Jučer (podaci)</item>
+         <item>Danas (podaci)</item>
+         <item>Ovaj mjesec (podaci)</item>
+     </string-array>
+     <string-array name="network_speed_update_internals">
+        <item>3 sek.</item>
+        <item>4 sek.</item>
+        <item>5 sek.</item>
+        <item>6 sek.</item>
+        <item>7 sek.</item>
+        <item>8 sek.</item>
+        <item>9 sek.</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobilni podaci "</item>
+        <item>"WLAN uporaba "</item>
+        <item>"Ušteđeno podataka "</item>
+     </string-array>
+     <string-array name="mi_service_traffic_type">
+        <item>"Mobilni podaci "</item>
+        <item>"WLAN uporaba "</item>
+     </string-array>
+     <string-array name="traffic_sort_type">
+        <item>"Mobilni podaci "</item>
+        <item>"WLAN uporaba "</item>
+        <item>"Ušteđeno podataka "</item>
+     </string-array>
+     <string-array name="traffic_setting_sms_template">
+        <item>Nabavite automatski</item>
+        <item>Postavite ručno</item>
+     </string-array>
+     <string-array name="over_limit_traffic_waring_style">
+        <item>Pokaži upozorenje</item>
+        <item>Upozori i isključi mobilne podatke</item>
+     </string-array>
+     <string-array name="roaming_apps_sorted_type">
+         <item>Najviše korišteno</item>
+         <item>Naziv</item>
+     </string-array>
+     <string-array name="traffic_saving_compress_level_string_array">
+        <item>Ništa</item>
+        <item>Niska</item>
+        <item>Srednja</item>
+        <item>Visoka</item>
+     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15 sekundi</item>
         <item>30 sekundi</item>

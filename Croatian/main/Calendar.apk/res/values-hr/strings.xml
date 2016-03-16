@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="event_subscirbe_detail_title">Pojedinosti</string>
+  <string name="data_notice_online_large_image">订阅日历页面的图片较大，为帮助您节省流量，已经设置为“仅在WLAN下同步订阅日历大图”。</string>
+  <string name="data_notice_change_settings">Postavke</string>
+  <string name="data_notice_continue_confirm">Nastavi</string>
   <string name="accessbility_suggestion_dropdown_opened">Prijedlozi kontakata otvoreni</string>
   <string name="accessibility_add_attendee">Dodaj sudionika</string>
   <string name="accessibility_add_reminder">Dodaj podsjetnik</string>

@@ -132,7 +132,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
   <string name="gateway_exception_title">Test routera</string>
   <string name="hints_input_roaming_daily_limit">Unesite ograničenje uporabe podataka</string>
-  <string name="hints_install_apps_new">Nije korišteno</string>
+  <string name="hints_install_apps_new">Nikad korišteno</string>
   <string name="hints_install_apps_today">Korišteno danas</string>
   <string name="input_aviable_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="input_traffic_pkg">Unesite uporabu podataka</string>
@@ -601,11 +601,11 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="unable_connect_internet">"Ne mogu se povezati na mrežu"</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
   <string name="usage_sorted_empty_text">Prazno</string>
-  <string name="usage_sorted_loading_text">Učitavanje…</string>
+  <string name="usage_sorted_loading_text">Samo trenutak…</string>
   <string name="usbsharenet_exception_summary">"Ne mogu se povezati na internet putem USB veze. Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test povezivanja putem USB-a</string>
   <string name="usbsharenet_pc_exception_summary">"Ne mogu se povezati na internet putem dijeljene veze. Provjerite internetsku vezu vašeg računala."</string>
-  <string name="wifi_exception_summary">Test povezivanja dostupne WLAN mreže</string>
+  <string name="wifi_exception_summary">Test dostupnih WLAN mreža</string>
   <string name="wifi_exception_title">Test WLAN mreže</string>
   <string name="wifi_network_blocked_notification_title">Nema povezivanja s internetom</string>
 </resources>

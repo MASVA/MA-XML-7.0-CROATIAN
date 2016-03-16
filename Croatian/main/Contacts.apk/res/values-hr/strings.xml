@@ -1282,6 +1282,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="type_mx_msg">Mi Poruke</string>
   <string name="type_outgoing">Odlazni poziv</string>
   <string name="type_voicemail">"Govorna pošta"</string>
+  <string name="unable_get_device_id">"Ne mogu dobiti IMEI"</string>
   <string name="unknow_phone_number_call_failed">"Ne mogu nazvati nepoznat broj"</string>
   <string name="unknow_phone_number_mms_failed">"Ne mogu poslati SMS na nepoznat broj"</string>
   <string name="unknown">Nepoznato</string>

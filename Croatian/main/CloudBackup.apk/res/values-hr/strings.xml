@@ -8,6 +8,7 @@
   <string name="back_up_task_unfinished">Sig. kopija nije završena</string>
   <string name="backing_up_to_micloud">Izrada u tijeku…</string>
   <string name="backup_fail">"Ne mogu izraditi Sig. kopiju"</string>
+  <string name="backup_finished_notification_content">Pohranjene su aplikacije Poč.zaslona, postavke sustava, itd.</string>
   <string name="backup_size">Veličina: %s</string>
   <string name="backup_success">Sig. kopija uspješno napravljena</string>
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>
