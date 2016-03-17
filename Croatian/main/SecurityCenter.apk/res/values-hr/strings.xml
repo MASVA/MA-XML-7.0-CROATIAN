@@ -92,7 +92,7 @@ ili unesite zaporku"</string>
   <string name="battery_desc_voice">Baterija iskorištena uslugom glasovnog poziva</string>
   <string name="battery_desc_wifi">Baterija iskorištena za WLAN</string>
   <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
-  <string name="battery_history_days_no_seconds">%1$dd %2$ds %3$dm</string>
+  <string name="battery_history_days_no_seconds">%1$dd %2$dh %3$dm</string>
   <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
   <string name="battery_history_hours_no_seconds">%1$dh %2$dm</string>
   <string name="battery_history_minutes">%1$dm %2$ds</string>
@@ -105,6 +105,7 @@ ili unesite zaporku"</string>
   <string name="battery_stats_screen_on_label">Zaslon</string>
   <string name="battery_stats_wake_lock_label">Budan</string>
   <string name="battery_stats_wifi_running_label">WLAN</string>
+  <string name="begin_date">Datum resetiranja upotrebe</string>
   <string name="boot_day_shutdown_day">Uređaj će se uključiti %1$dd u %2$s i isključiti %3$dd u %4$s</string>
   <string name="boot_reminder">Uključivanje vašeg uređaja u planirano vrijeme</string>
   <string name="boot_reminder_day">Uređaj će se uključiti u %1$dd %2$dh %3$dm</string>
@@ -118,10 +119,13 @@ ili unesite zaporku"</string>
   <string name="boot_time">Uključivanje: %1$s</string>
   <string name="boot_time_day">Uključivanje: %2$s %1$dd</string>
   <string name="boot_time_day_tomorrow">Uključivanje: %1$s</string>
+  <string name="brand_diagnostic">Dijagnostika tipa mreže operatera</string>
   <string name="brightness_auto_adjust_off">Osvjetljenje će ostati stalno u svim okruženjima</string>
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
   <string name="btn_jump">Preskoči</string>
   <string name="btn_lock">Dodaj zaključavanje</string>
+  <string name="btn_start_diagnostic">Test mreže</string>
+  <string name="btn_stop_diagnostic">Zaustavi</string>
   <string name="btn_text_cleanup_all">Očisti</string>
   <string name="btn_text_done">Gotovo</string>
   <string name="btn_text_network_speed_detail">Povezanost</string>
@@ -386,7 +390,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Ova je aplikacija opasna za sigurnost vašeg uređaja</string>
   <string name="history_details_title">Detalji povijesti</string>
-  <string name="info_and_call">Pozivi i poruk</string>
+  <string name="info_and_call">Pozivi i poruke</string>
   <string name="input_aviable_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="input_traffic_pkg">Unesite uporabu podataka</string>
   <string name="input_used_hint">Unesite uporabu podataka</string>
@@ -416,7 +420,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="legal_workday_message">(Preskoči praznike)</string>
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne mogu učitati"</string>
-  <string name="local_ip_exception_summary">"Nije bilo moguće dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja."</string>
+  <string name="local_ip_exception_summary">"Ne mogu dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja."</string>
   <string name="lock_screen_traffic_guide_notification_summary">Iskorišteno %s kod zaklj. zaslona</string>
   <string name="lock_screen_traffic_guide_notification_title">Dodirnite za upravljanje uporab. podataka</string>
   <string name="lock_screen_traffic_notify_body">Zaklj. na %2$s; %1$s, iskoriš. %3$s pod.</string>
@@ -537,6 +541,10 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="miuishare_title_more">Više</string>
   <string name="miuishare_title_share">Podijeli</string>
   <string name="miuishare_wechat_timeline_title">Wechat Moments</string>
+  <string name="modify_password_info">Uzorak za otključavanje</string>
+  <string name="modifypassword">Promjenite zaporku</string>
+  <string name="monitor_requests_from_pc">Upravljanje instalacijom aplikacija putem USB-a</string>
+  <string name="month_report_month_report_switch">Prikaži mjesečne prijave</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Dodirnite za prikaz</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>
@@ -593,6 +601,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="network_speed_for_apps_total">Brzina veze</string>
   <string name="networkchanged_exception_summary">Mrežno povezivanje se promijenilo. Testirajte ponovo.</string>
   <string name="networkchanged_exception_title">Način povezivanja se promijenio</string>
+  <string name="never">jedanput</string>
   <string name="no_network_btn">Pokušajte ponovo</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="notification_button_text_of_low_memory">Počisti</string>
@@ -811,14 +820,16 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary">Do</string>
+  <string name="power_save_on_time_end_time_summary_na">Od</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_goout_title">Nakon ovog razdoblja vrati natrag na</string>
   <string name="power_save_on_time_option_recovery_title">Kada to razdoblje završi, promjeni na</string>
   <string name="power_save_on_time_option_summary">Na kraju tog razdoblja uređaj će primjeniti često korišteni profil</string>
   <string name="power_save_on_time_option_title">Tijekom tog perioda promjeni na</string>
   <string name="power_save_on_time_start_time_summary">Od</string>
+  <string name="power_save_on_time_start_time_summary_na">Do</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_title">Odabir rasporeda profila</string>
+  <string name="power_save_on_time_title">Raspored promjene profila</string>
   <string name="power_screen">Zaslon</string>
   <string name="power_settings_category_title">Izgled baterije</string>
   <string name="power_settings_number">Postotak</string>
