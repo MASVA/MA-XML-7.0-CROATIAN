@@ -383,7 +383,6 @@ pričekajte trenutak nakon radnje"</string>
   <string name="no_program">Nema sadržaja.</string>
   <string name="no_qq">"QQ nije instaliran na ovom uređaju."</string>
   <string name="no_save_brand_service">Trebate dodati daljinski upravljač koji je podržan</string>
-  <string name="none">Prazno</string>
   <string name="not_login">Niste prijavljeni</string>
   <string name="not_respond">Nema odgovora</string>
   <string name="notification_found_shared_remote_text">Dodirnite da ga kontrolirate</string>
@@ -475,7 +474,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_loading">Učitavanje…</string>
   <string name="passport_login">Prijavite se na postojeći račun</string>
-  <string name="passport_login_check_find_device">Provjera statusa 'Pronađi uređaj'…</string>
+  <string name="passport_login_check_find_device">Provjera statusa Pronađi uređaj…</string>
   <string name="passport_login_check_find_device_failed">"Ne mogu provjeriti status 'Pronađi uređaj'. Provjerite mrežnu vezu."</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>
   <string name="passport_login_find_device_bind">Ovaj broj je povezan s postojećim Mi Računom ID (%s). Prijavite se da biste aktivirali ovaj uređaj.</string>
@@ -516,12 +515,11 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="passport_register_account_goto_email">Idi u dolaznu poštu</string>
   <string name="passport_register_account_verified_confirm">"Već ste potvrdili vaš račun"</string>
   <string name="passport_register_by_email">Izradi račun koristeći adresu e-pošte</string>
-  <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
+  <string name="passport_register_restricted">Previše je računa povezanih s ovim brojem, pokušajte s drugim</string>
   <string name="passport_register_restricted_title">"Can't use this phone number"</string>
   <string name="passport_reject_recycle_account">Nope</string>
   <string name="passport_relogin">Prijavi se ponovo</string>
   <string name="passport_relogin_notice">Morate se prijaviti ponovno</string>
-  <string name="passport_remove_confirm">Sign out</string>
   <string name="passport_remove_account_notice">Nakon izlaska, kako želite rukovati kontaktima i bilješkama na vašem telefonu?</string>
   <string name="passport_remove_confirm">Odjava</string>
   <string name="passport_resend_active_email">Pošalji ponovo e-poštu</string>
@@ -532,7 +530,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="passport_restart_register_prompt">Još jedna poruka potvrde može biti potrebna da izradite svoj račun.</string>
   <string name="passport_restart_register_title">Izradite Mi Račun</string>
   <string name="passport_send_too_many_code">Previše je kodova provjere poslano na ovaj broj. Pričekajte 24 sata i pokušajte ponovo.</string>
-  <string name="passport_setting">Setting up…</string>
+  <string name="passport_setting">Postavljanje…</string>
   <string name="passport_sim_index_info">SIM kartica %1$d - %2$s</string>
   <string name="passport_skip_login">Preskoči ovaj korak</string>
   <string name="passport_skip_register">Preskoči registraciju</string>
