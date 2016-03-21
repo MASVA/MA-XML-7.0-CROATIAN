@@ -1490,7 +1490,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="tethered_notification_multi_device_message">%1$s povezanih uređaja</string>
   <string name="tethered_notification_no_device_message">Nema povezanih uređaja</string>
   <string name="tethered_notification_one_device_message">%1$s povezan uređaj</string>
-  <string name="tethered_notification_title">Ograničenje ili aktivan hotspot</string>
+  <string name="tethered_notification_title">Dijeljenje veze ili aktivan hotspot</string>
   <string name="textSelectionCABTitle">Odabir teksta</string>
   <string name="text_copied">Tekst kopiran u međuspremnik.</string>
   <string name="time_of_day" formatted="false">%H:%M:%S</string>

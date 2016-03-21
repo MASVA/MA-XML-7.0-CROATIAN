@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Izbrisati (%d) stavki?</item>
+        <item quantity="one">Izbrisati ovu stavku?</item>
+	</plurals>
+</resources> 

@@ -25,6 +25,7 @@
   <string name="advanced_settings_show">▷ Dodirnite da biste prikazali sve</string>
   <string name="advertisements_disable">Oglašavanje je isključeno</string>
   <string name="advertisements_enable">Oglašavanje je uključeno</string>
+  <string name="agree_provision">Slažem se i nastavi</string>
   <string name="alert_dialog_close">Zatvori profil</string>
   <string name="alert_dialog_dismiss">Odbaci</string>
   <string name="alert_dialog_in_ecm_call">Odabrana radnja nije dostupna tijekom hitnog poziva.</string>
@@ -42,6 +43,7 @@
   <string name="answer_state_setting_title">Postavke statusa dolaznog poziva</string>
   <string name="antispam_notification_title">Nepoznat broj</string>
   <string name="apn_settings">Nazivi pristupnih točaka</string>
+  <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="area_code_preference_summary">Autom. biraj pozivni broj</string>
   <string name="areacode_set_default">Zadano</string>
   <string name="atr_disable">Obavijesti o prometu su isključene</string>
@@ -260,6 +262,8 @@
   <string name="cloud_antispam_title">Identificiraj nepoznate brojeve</string>
   <string name="cmcc_ut_data_enable_prompt">"Nije moguće povezati se pomoću VoLTE mreže. Uključite mobilnu podatkovnu vezu sada."</string>
   <string name="command_error_fdn_failure">Morate prvo isključiti FDN</string>
+  <string name="common_problem_message">Saznajte više u %1$s, ili nazovite našu službu za korisnike na 400-100-5678</string>
+  <string name="common_setting">Opće postavke</string>
   <string name="config_default_data_sim">Postavke</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="config_world_mode"/>
@@ -285,6 +289,8 @@
   <string name="contactdeleteSuccess">Kontakt izbrisan sa SIM kartice</string>
   <string name="corporate_unlock_failed">SIM Korporativno otključavanje nije uspjelo.</string>
   <string name="corporate_unlock_success">SIM Korporativno otključavanje uspješno.</string>
+  <string name="creat_account_error">"Ne mogu izraditi račun. Pokušati ponovno?"</string>
+  <string name="creating_account">Izrada računa…</string>
   <string name="cursorError">Pokazivač ne daje odgovarajuće podatke</string>
   <string name="data_enable_summary">Dopusti uporabu podataka</string>
   <string name="data_enabled">Mob. Podaci</string>
@@ -380,6 +386,7 @@
   <string name="display_name_title">Ime za prikaz</string>
   <string name="do_not_ask">"Ne pitaj ponovno"</string>
   <string name="domain_address_title">Poslužitelj</string>
+  <string name="domestic_calls">Samo domaći</string>
   <string name="doneButton">Gotovo</string>
   <string name="dtmf_tone_entries_long">Dugi</string>
   <string name="dtmf_tone_entries_normal">Normalan</string>
@@ -513,6 +520,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="hac_mode_title">Pomoć za osobe oštećenog sluha</string>
   <string name="handon_ringer_summary">"Smanjite glasnoću zvona za dolazne pozive kada je telefon podignut. Ova značajka ne radi kada je vibracija za dolazne pozive uključena."</string>
   <string name="handon_ringer_title">Zaustavi vibraciju kada je podignut</string>
+  <string name="help_view">Pomoć</string>
   <string name="hintName">Ime</string>
   <string name="hintPhonenumber">Broj telefona</string>
   <string name="importAllSimEntries">Uvezi sve</string>
@@ -559,6 +567,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="incall_status_dialed_mmi">Pokretanje MMI sekvence…</string>
   <string name="incoming_video_show_pref_summary">Prikaži Video pozivatelja. Za korištenje ove značajke, uključite posjetnicu kontakata.</string>
   <string name="incoming_video_show_pref_title">"Prikaži Video pozivatelja"</string>
+  <string name="international_calls">Samo međunarodni</string>
   <string name="input_password">Unesite zaporku</string>
   <string name="international_dial_complete_intention">Uštedite novac na međunarodnim pozivima.</string>
   <string name="international_dial_complete_no">Ne sada</string>
@@ -658,6 +667,8 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="livetalk_introduction_text">"Low flow, low cost and high quality 
 Super cheap international calls over the Internet"</string>
   <string name="livetalk_last_step">Back</string>
+  <string name="livetalk_login_message">"Sign in with Mi Account
+to start using Top-up package"</string>
   <string name="livetalk_login_experience_button">Sign in</string>
   <string name="livetalk_name">Top-up package</string>
   <string name="livetalk_network_confirm">OK</string>
@@ -696,6 +707,7 @@ Super cheap international calls over the Internet"</string>
   <string name="local_weather_enable">Lokalna vremenska prognoza je uključena</string>
   <string name="lodgings_disable">Boravište je isključeno</string>
   <string name="lodgings_enable">Boravište je uključeno</string>
+  <string name="login_account_button_text">Prijavite se</string>
   <string name="lte_checkbox_text">Postavite mobilne podatke za odabranu SIM karticu jednom kao zadano kada je 4G/3G SIM kartica promijenjena</string>
   <string name="lte_recognition_title">Prepoznavanje SIM kartice</string>
   <string name="lte_recognize_summary">Otkrivene su dvije 4G/3G SIM kartice, morate postaviti zadanu 4G/3G SIM karticu:</string>
@@ -895,6 +907,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="onscreenSwapCallsText">Zamijeni</string>
   <string name="onscreenVideoCallText">Videopoziv</string>
   <string name="open_miui">Otvori</string>
+  <string name="operator_first">"Dati prioritet planu operatera"</string>
   <string name="operator_first_mins_hint">xx minuta</string>
   <string name="operator_first_mins_none_summary">Paket nadoplate prvo</string>
   <string name="operator_first_mins_none_title">Sve minute potrošene</string>
@@ -903,6 +916,8 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="operator_first_sim_card_changed_summary">Resetiraj paket minuta</string>
   <string name="operator_first_sim_card_changed_title">Promjena SIM kartice</string>
   <string name="operator_first_title">Operator prvo</string>
+  <string name="operator_mins_first">"Dati prioritet planu operatera"</string>
+  <string name="operator_mins_first_close">Isključi</string>
   <string name="operator_remain_mins">Paket minuta Operatora</string>
   <string name="operator_remain_mins_value">%1$s minutes</string>
   <string name="operation_successfully">Radnja je uspjela!</string>
@@ -1090,6 +1105,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_networks"/>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="private_num">Privatni broj</string>
+  <string name="product_reflash_button">Osvježi…</string>
   <string name="proceed">Nastavi</string>
   <string name="progress_dialog_exiting_ecm">Izlaz iz načina hitnog povratnog poziva</string>
   <string name="provision_content">Ova značajka treba povezivanje s internetom za normalan rad.</string>
@@ -1117,6 +1133,8 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="purchase_limit">Dosegli ste ograničenje nadoplate</string>
   <string name="purchase_list">Povijest kupovine</string>
   <string name="purchase_notes">Note: It can be used for international calls. The amount paid for 1 min of the international call equals the amount for 6 min domestic.</string>
+  <string name="purchase_primary">Purchase</string>
+  <string name="purchase_summary">Save up to 70% on your calling charges</string>
   <string name="purchase_notification">"Gore navedene cijene su za domaće pozive. Za međunarodne pozive pogledajte "</string>
   <string name="purchase_notification_title">Provjerite podržane regije</string>
   <string name="purchase_rates_title">Cjenik</string>
@@ -1153,8 +1171,8 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="reject_via_sms_summary">Uredi prethodno napisane poruke</string>
   <string name="reject_via_sms_title">Brzi odgovori</string>
   <string name="remain_mins_divider">ili</string>
-  <string name="remain_mins_domestic">Preostalo (domestic)</string>
-  <string name="remain_mins_international">Preostalo (international)</string>
+  <string name="remain_mins_domestic">Domaći</string>
+  <string name="remain_mins_international">Međunarodni</string>
   <string name="remain_mins_unit">min</string>
   <string name="remember_my_choice">Uvijek koristi za pozive preko interneta</string>
   <string name="remove">Ukloni</string>
@@ -1411,6 +1429,9 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">Novi PLMN</string>
   <string name="uplmn_list_setting_title">Poželjne mreže</string>
   <string name="uplmn_numeric_is_empty">Unesite ID mreže</string>
+  <string name="use_current_account_creat_livetalk">"Prijavljeni ste s ovim Mi Računom: %1$s.
+Koristiti ga za nadoplatu paketa?"</string>
+  <string name="use_current_account_creat_livetalk_button">Koristi</string>
   <string name="use_history">Aktivnost</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_range">Značajke</string>
@@ -1450,6 +1471,7 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="volte_switch_title">VoLTE omogućen</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?
 "</string>
+  <string name="whole_calls">Svi pozivi</string>
   <string name="wifi_call_setting">Postavke WLAN poziva</string>
   <string name="wifi_calling">WLAN pozivi</string>
   <string name="wifi_calling_call_assistant">Asistent poziva</string>

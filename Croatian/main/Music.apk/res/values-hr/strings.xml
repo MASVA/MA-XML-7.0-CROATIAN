@@ -504,6 +504,7 @@
   <string name="title_search_hot">Popularno</string>
   <string name="to_mi_pay">Mi Krediti</string>
   <string name="toast_cancel_download">Preuzimanje otkazano</string>
+  <string name="toast_cancel_play">Reprodukcija otkazana</string>
   <string name="toast_download_error_by_count_limit">"Dosegli ste ograničenje vaših preuzimanja za ovaj mjesec."</string>
   <string name="toast_download_error_by_vip_required">Nabavite Premium pretplatu da preuzmete ovu pjesmu.</string>
   <string name="toast_download_in_process">Preuzimanje u tijeku</string>
@@ -558,5 +559,5 @@
   <string name="vip_renew_title">Pretplata istekla</string>
   <string name="vip_required">Nabavite Premium pretplatu za reprodukciju ove pjesme.</string>
   <string name="vip_required_with_song">Nabavite Premium pretplatu za reprodukciju “%s”.</string>
-  <string name="welcome_to_new_music">Dobrodošli u novu verziju Mi Glazbe!</string>
+  <string name="welcome_to_new_music">Dobrodošli u novu verziju Mi Glazbe</string>
 </resources>

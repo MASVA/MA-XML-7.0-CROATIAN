@@ -25,7 +25,7 @@
   <string name="default_name">Zadano</string>
   <string name="fc_dialog_body">Poslati izvještaj o pogreškama Mi za analizu? Ovo izvješće može sadržavati osobne podatke. Vaše će se izvješće koristiti za pomoć rješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>
   <string name="fc_dialog_jump_to_preview">Prikaži izvještaj</string>
-  <string name="first_back_long_press_message">"Za postavljanje prilagođenog pritisnite &amp; zadržite radnju za Navigacijske tipke, idite na Postavke &gt; Sustav &gt; Tipke</string>
+  <string name="first_back_long_press_message">"Za postavljanje prilagođenog pritisnite &amp; zadržite radnju za Navigacijske tipke, idite na Postavke &gt; Dodatne postavke &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="force_exit_message">Prisilno zatvorena \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>

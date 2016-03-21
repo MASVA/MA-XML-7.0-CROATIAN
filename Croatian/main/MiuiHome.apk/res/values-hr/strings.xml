@@ -56,9 +56,11 @@
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutna</string>
   <string name="custom_wallpaper_picker">Prilagođeno</string>
+  <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_game">Igre</string>
   <string name="default_folder_title_recommend">Razno</string>
   <string name="default_folder_title_security">Sustav</string>
+  <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Alati</string>
   <string name="default_theme_name">Zadano</string>
   <string name="delete">Izbriši</string>

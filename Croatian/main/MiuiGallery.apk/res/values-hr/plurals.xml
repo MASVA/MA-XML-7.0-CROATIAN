@@ -97,8 +97,8 @@
         <item quantity="one">%1$d stavka</item>
     </plurals>
 	<plurals name="more_face">
-        <item quantity="other">Fotografija (%1$s) od %2$s</item>
-        <item quantity="one">%1$s fotografija od %2$s</item>
+        <item quantity="other">Fotografija (%1$s) iz %2$s</item>
+        <item quantity="one">%1$s fotografija iz %2$s</item>
     </plurals>
 	<plurals name="age_year">
          <item quantity="other">%d godina</item>
@@ -121,12 +121,12 @@
         <item quantity="one">"Ne prikazivati ovo lice?"</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d fotografija od %2$s će biti dodano</item>
-        <item quantity="one">%1$d fotografija od %2$s će biti dodana</item>
+        <item quantity="other">%1$d fotografija iz %2$s će biti dodano</item>
+        <item quantity="one">%1$d fotografija iz %2$s će biti dodana</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d fotografija od %2$s će biti dodano</item>
-        <item quantity="one">%1$d fotografija od %2$s će biti dodana</item>
+        <item quantity="other">%1$d fotografija iz %2$s će biti dodano</item>
+        <item quantity="one">%1$d fotografija iz %2$s će biti dodana</item>
     </plurals>
     <plurals name="baby_age_subtitle_year">
         <item quantity="other">"%1$d godina "</item>

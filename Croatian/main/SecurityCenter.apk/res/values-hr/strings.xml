@@ -853,7 +853,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_avaible_traffic">Mobilni podaci</string>
   <string name="pref_category_title_lock_screen_memory_clean">Očisti pri zaključanom zaslonu</string>
   <string name="pref_category_title_module_settings">Postavke značajki</string>
-  <string name="pref_category_title_other">Additional settings</string>
+  <string name="pref_category_title_other">Dodatne postavke</string>
   <string name="pref_category_title_reference_settings">Dodatne postavke</string>
   <string name="pref_category_title_securitycenter_settings">Općenito</string>
   <string name="pref_category_title_virus_lib_auto_update">Automatski ažuriraj Definicije</string>

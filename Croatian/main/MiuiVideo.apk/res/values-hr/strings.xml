@@ -103,6 +103,7 @@
   <string name="delete_addon">Izbriši</string>
   <string name="delete_addon_content">Izbrisati ovu stavku?</string>
   <string name="delete_with">Izbriši (%d)</string>
+  <string name="detail">Detalj</string>
   <string name="detail_comment_empty">Prazno</string>
   <string name="develop_version">Razvijanje aplikacije</string>
   <string name="development_setting">Postavke Razvijanja</string>
@@ -273,7 +274,9 @@
   <string name="pulltorefresh">Povuci za osvježiti</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Film</string>
-  <string name="receive_develop_summary">Primanje ažuriranja aplikacije kada je nova verzija dostupna</string>
+  <string name="receive_develop_summary">Primaj ažuriranja beta verzije aplikacije kada je dostupna</string>
+  <string name="receive_follow">Obavijesti nove epizode</string>
+  <string name="receive_follow_summary">Primaj obavijesti kada je nova epizoda dostupna</string>
   <string name="receive_mipush">Obavijesti novih videozapisa</string>
   <string name="receive_mipush_summary">Primanje obavijesti kada je novi sadržaj dostupan za gledanje na internetu</string>
   <string name="recent_play">Nedavno reproducirano: Ep.%d</string>
@@ -321,6 +324,7 @@
   <string name="start_addon">Pokreni dodatke</string>
   <string name="storage_remain">"Dostupno: "</string>
   <string name="storage_total">"Ukupno: "</string>
+  <string name="subscribe">Pretplati se</string>
   <string name="suffix_countdown">sek.</string>
   <string name="system_setting">Video aplik.</string>
   <string name="tab_loading">&lt;CDATA&gt;…&lt;/CDATA&gt;</string>

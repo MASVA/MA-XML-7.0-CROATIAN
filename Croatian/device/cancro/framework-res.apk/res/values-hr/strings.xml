@@ -1196,7 +1196,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="system_error_wipe_data">Na vašem uređaju postoji interni problem i možda neće biti stabilan dok ga ne vratite na tvorničko stanje.</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dodirnite za postavljanje.</string>
-  <string name="tethered_notification_title">Ograničenje ili aktivan hotspot</string>
+  <string name="tethered_notification_title">Dijeljenje veze ili aktivan hotspot</string>
   <string name="textSelectionCABTitle">Odabir teksta</string>
   <string name="text_copied">Tekst kopiran u međuspremnik.</string>
   <string name="time_of_day" formatted="false">%H:%M:%S</string>
