@@ -402,7 +402,7 @@
   <string name="pref_title_fwd_sender_info">Proslijedi informaciju pošiljatelja</string>
   <string name="pref_title_hide_festival">Sakrij karticu Pozdravi</string>
   <string name="pref_title_manage_sim_messages">Pohrana SIM kartice</string>
-  <string name="pref_title_miui_card">Pošalji pomoću karticu</string>
+  <string name="pref_title_miui_card">Pošalji pomoću kartice</string>
   <string name="pref_title_mms_auto_retrieval">Preuzmi sadržaj MMS-a automatski</string>
   <string name="pref_title_mms_delete">Ograničenje multimedijske poruke</string>
   <string name="pref_title_mms_read_reports">Čitaj izvješća</string>

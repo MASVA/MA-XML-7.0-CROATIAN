@@ -101,6 +101,7 @@
   <string name="add_fingerprint_put_finger_edge_msg">Stavite i maknite prst nekoliko puta sve dok vaš otisak prsta nije potpuno zabilježen.</string>
   <string name="add_fingerprint_put_finger_msg">Stavite i maknite prst nekoliko puta sve dok vaš otisak prsta nije potpuno zabilježen.</string>
   <string name="add_fingerprint_put_finger_title">Stavite i maknite prst</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Promijenite položaj vašeg prsta</string>
   <string name="add_fingerprint_text">Dodaj otisak prsta</string>
   <string name="add_fingerprint_toast_text">Postavite prst na čitač otisaka prstiju</string>
   <string name="adding_profile_owner_warning">"Ako nastavite, vašim će korisnikom upravljati administrator, koji može i pohranjivati povezane podatke, kao i vaše osobne podatke.Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s ovim Kkorisnikom te njima upravljati, uključujući mrežnu aktivnost i podatke o lokaciji vašeg uređaja."</string>

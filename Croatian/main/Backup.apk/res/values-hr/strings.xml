@@ -249,8 +249,8 @@
   <string name="trans_calculating_base_size">"Izračun veličine aplikacije"</string>
   <string name="trans_cancel_confirm">Prijenos u tijeku, zaustaviti sada?</string>
   <string name="trans_cancelling">Otkazivanje…</string>
-  <string name="trans_connect_failed_message">"Ne mogu se povezati. Pokušajte ponovno ili ponovno pokrenite uređaj. Pokrenite Mi Mover nakon ponovnog pokretanja ili idite u Postavke &gt; Dodatne Postavke &gt; Mi Mover, i dodirnite [Ja sam pošiljatelj] na drugom uređaju"</string>
-  <string name="trans_connect_failed_title">"Ne mogu se povezati"</string>
+  <string name="trans_connect_failed_message">"Ne mogu se povezati. Pokušajte ponovno ili ponovno pokrenite uređaj. Na drugom uređaju idite u Postavke &gt; Dodatne Postavke &gt; Mi Mover i dodirnite [Ja sam pošiljatelj], ili opet pokrenite Mi Mover nakon ponovnog pokretanja uređaja"</string>
+  <string name="trans_connect_failed_title">"Povezivanje nije uspjelo"</string>
   <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>
   <string name="trans_connecting_toast">Povezivanje…</string>
   <string name="trans_detail_category_account">Računi i kontakti</string>
@@ -261,8 +261,8 @@
   <string name="trans_generate_qr_code_failed">"Nije moguće izraditi QR kod"</string>
   <string name="trans_main_tutor">Premjestite kontakte, povijest poziva, poruke, raspored početnog zaslona, aplikacije, postavke, itd. na novi uređaj</string>
   <string name="trans_my_device">Moj uređaj</string>
-  <string name="trans_native_no_space">"Nema dovoljno prostora na raspolaganju
-Oslobodite najmanje %s"</string>
+  <string name="trans_native_no_space">"Nema dovoljno prostora na ovom uređaju.
+Oslobodite najmanje %s."</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Metoda A</string>
   <string name="trans_operate_func_two">Metoda B</string>
@@ -274,7 +274,7 @@ Oslobodite najmanje %s"</string>
 3. Skenirajte QR kod s vašim drugim uređajem"</string>
   <string name="trans_operate_old_phone_tips2">Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
  Dodirnite [Ja sam pošiljatelj]"</string>
-  <string name="trans_please_waiting">Samo trenutak…</string>
+  <string name="trans_please_waiting">Pričekajte trenutak…</string>
   <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s dovršeno</string>
   <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s dovršeno</string>
   <string name="trans_progress_subdescript_transing_receiver">Primanje %1$s, %2$s dovršeno</string>
@@ -295,8 +295,8 @@ Oslobodite najmanje %s"</string>
   <string name="trans_scan_invalid_qrcode">Nevažeći QR kod</string>
   <string name="trans_scan_qr_code_tips">Skenirajte QR kod na novom uređaju</string>
   <string name="trans_select_data">Odaberite podatke</string>
-  <string name="trans_select_data_no_space">"%s dostupno na novom uređaju.
- Odaberite datoteke ponovno ili oslobodite prostor za pohranu"</string>
+  <string name="trans_select_data_no_space">"Nema dovoljno prostora na novom uređaju.
+ Odaberite datoteke ponovno ili oslobodite %s prostora na novom uređaju"</string>
   <string name="trans_select_data_tips">"Odaberite datoteke za prijenos
  Slične datoteke na novom uređaju će biti presnimljene"</string>
   <string name="trans_select_device_receive">Odaberite jedan uređaj za primanje podataka.</string>
