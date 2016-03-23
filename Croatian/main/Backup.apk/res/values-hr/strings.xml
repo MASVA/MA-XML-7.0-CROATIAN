@@ -6,7 +6,7 @@
   <string name="account_summary">Sig. kopija Mi Računa, Google računa i ostalih korisničkih podataka</string>
   <string name="already_enable_encrypt">Šifriranje je već uključeno</string>
   <string name="app_name">Sig. kopija</string>
-  <string name="apps_and_data_item_desc">Aplikac. i podaci</string>
+  <string name="apps_and_data_item_desc">Aplik. i podaci</string>
   <string name="auto_backup">Zakažite rutinsku Sig. kopija</string>
   <string name="auto_backup_all_user_apps">Sve aplikacije</string>
   <string name="auto_backup_choose">Stavke Sig. kopije</string>
@@ -152,6 +152,8 @@
   <string name="notif_restore_complete_title">Uspješno vraćeno</string>
   <string name="notif_restore_content">Vraćanje kor. podataka</string>
   <string name="notif_restore_title">Vrati kor. podatke</string>
+  <string name="notif_trans_receiving_completed">Podaci uspješno primljeni</string>
+  <string name="notif_trans_sending_completed">Podaci uspješno poslani</string>
   <string name="page_loading">Samo trenutak…</string>
   <string name="progress_backup_hint">"Stvaranje Sig. kopije: "</string>
   <string name="progress_restore_hint">"Vraćanje Sig. kopije: "</string>
@@ -277,7 +279,9 @@ Oslobodite najmanje %s."</string>
   <string name="trans_please_waiting">Pričekajte trenutak…</string>
   <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s dovršeno</string>
   <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_br_sender_finish">Sig. kopija izrađena %s, čeka se vraćanje…</string>
   <string name="trans_progress_subdescript_transing_receiver">Primanje %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_transing_receiver_finish">Primljeno %s, čeka se vraćanje</string>
   <string name="trans_progress_subdescript_transing_sender">Slanje %1$s, %2$s dovršeno</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Primanje datoteka, %s dovršeno</string>
   <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka, %s dovršeno</string>
@@ -327,6 +331,16 @@ I Mi Mover uključen"</string>
   <string name="unknown_hint">Nepoznato</string>
   <string name="wifi_title">Postavke WLAN-a</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">Povezivanje s Upraviteljem preuzimanja nije uspjelo, provjerite stanje Upravitelja preuzimanja u Upravljanje aplikacijama.</string>
+  <string name="xiaomi_external_storage_unavailable">Pohrana nije dostupna, provjerite SD karticu.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
+  <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s
+ Veličina: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s 
+ Veličina Delta ažuriranja: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">Nova verzija dostupna!</string>
 </resources>

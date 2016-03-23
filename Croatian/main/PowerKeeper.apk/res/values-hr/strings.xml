@@ -13,6 +13,7 @@
   <string name="alter_message_delete">Izbrisati?</string>
   <string name="alter_message_switch_mode">Promjeniti način?</string>
   <string name="alter_message_switch_mode_message">Kada promjenite način rada, vaše prethodne postavke više se neće primjenjivati na tu aplikaciju.</string>
+  <string name="app_invisible_title">Aplik. sakrivena</string>
   <string name="app_list_title">Odaberite aplikacije</string>
   <string name="app_list_total">Aplikacija: %d</string>
   <string name="app_name">Štednja baterije</string>

@@ -79,4 +79,8 @@
         <item>Previše sada</item>
         <item>Previše ovih dana</item>
      </string-array>
+	 <string-array name="invisible_app_groups">
+         <item>Odabrano</item>
+         <item>Neodabrano</item>
+	 </string-array>
 </resources>

@@ -155,11 +155,13 @@
   <string name="encrypt_prefix">SKRIVENO</string>
   <string name="encrypt_success">Uspješno skriveno</string>
   <string name="encrypt_success_first_five">"Šifrirano i datoteka skrivena. Možete vidjeti skrivene datoteke povlačenjem prema dolje na početnoj stranici aplik. Datoteke."</string>
+  <string name="error_contains_sharer_path">"Ne mogu dešifrirati datoteke u mapi /MIUI/Gallery/cloud/sharer. Premjestite datoteke na drugo mjesto i pokušajte ponovno.."</string>
   <string name="encrypting">Šifriranje…</string>
   <string name="error_filename_too_long">Naziv je predugačak.</string>
   <string name="error_info_cant_send_folder">"Ne mogu slati ovu vrstu datoteke."</string>
   <string name="error_open_file_failed_no_app_found">Nema nađenih aplikacija da izvrše ovu radnju.</string>
   <string name="expand_all">Sve</string>
+  <string name="extended_storage_file_can_not_open">"Ne mogu otvoriti datoteku. Kopirajte prvo datoteku na unutarnju pohranu."</string>
   <string name="extract">Raspakiraj</string>
   <string name="fail_to_create_folder">Nedovoljno prostora ili mapa već postoji.</string>
   <string name="fail_to_create_folder_unknown">"Ne mogu stvoriti mapu"</string>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="education">
+         <item>Osnovna škola</item>
+         <item>Pred škola</item>
+         <item>Srednja škola</item>
+         <item>Srednja stručna škola</item>
+         <item>Fakultet</item>
+         <item>"Magisterij"</item>
+         <item>"Doktorat"</item>
+     </string-array>
+     <string-array name="income">
+         <item>&lt; 2000</item>
+         <item>2001~4000</item>
+         <item>4001~6000</item>
+         <item>6001~8000</item>
+         <item>8001~12000</item>
+         <item>> 12000</item>
+     </string-array>
+     <string-array name="question_no1">
+         <item>Obitelj</item>
+         <item>"Ime bake s očeve strane"</item>
+         <item>"Ime djeda s očeve strane"</item>
+         <item>"Ime djeda s majčine strane"</item>
+         <item>"Ime bake s majčine strane"</item>
+         <item>"Tatin rođendan"</item>
+         <item>"Mamin rođendan"</item>
+         <item>"Koja je razlika u godinama vaših roditelja (godine i mjeseci)?"</item>
+     </string-array>
+     <string-array name="question_no2">
+         <item>Alma mater</item>
+         <item>Ime vašeg predsjednika razreda u osnovnoj školi?</item>
+         <item>Ime vašeg predsjednika razreda u srednjoj školi?</item>
+         <item>Vaš studentski ID broj na faksu</item>
+         <item>"Ime vašeg cimera na faksu?"</item>
+         <item>"Ime vašeg nadzornika na faksu?"</item>
+     </string-array>
+     <string-array name="question_no3">
+         <item>Osobni podaci</item>
+         <item>Kak vas roditelji zovu?</item>
+         <item>Posljednjih 6 znamenaka vaše putovnice</item>
+         <item>U kojo ste bolnici rođeni?</item>
+         <item>"Ime vašeg najboljeg prijatelja?"</item>
+     </string-array>
+     <string-array name="question_no4">
+         <item>Prvi puta</item>
+         <item>"Ime vašeg prvog kućnog ljubimca?"</item>
+         <item>"Ime vašeg prve simpatije?"</item>
+         <item>Naziv tvrtke gdje ste dobili svoj prvi posao</item>
+     </string-array>
+     <string-array name="question_no5">
+         <item>Brak</item>
+         <item>Gdje ste se vjenčali?</item>
+         <item>"Ime vašeg supružnika"</item>
+         <item>"Rođendan vašeg supružnika"</item>
+     </string-array>
+</resources>

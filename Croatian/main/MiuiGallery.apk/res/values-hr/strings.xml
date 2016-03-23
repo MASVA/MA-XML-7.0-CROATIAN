@@ -378,6 +378,8 @@
   <string name="expand_people">Prikaži više osoba</string>
   <string name="face_album_detecting_tip">Samo trenutak…</string>
   <string name="face_album_empty">Prazno</string>
+  <string name="face_album_empty_syncing">Sinkr. podataka</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Sinkr. osoba kada je uređaj povezan na WLAN</string>
   <string name="external_sd_card">SD kartica</string>
   <string name="external_sdcard_root">Root direktorij vanjske SD kartice</string>
   <string name="external_usb_device">USB pohrana</string>
@@ -661,6 +663,8 @@ uređaja"</string>
   <string name="operation_too_often">Previše je zahtjeva napravljeno iz vaše IP adrese. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="operation_unforce_top">Ukloni s vrha</string>
   <string name="operation_unhide">Prikaži</string>
+  <string name="orientation_lock_tip">Rotacija zaključana</string>
+  <string name="orientation_unlock_tip">Autom. rotacija uključena</string>
   <string name="operation_unset_as_screensaver">Otkaži Čuvara zaslona</string>
   <string name="orientation">Usmjerenje</string>
   <string name="original">Original</string>
@@ -818,6 +822,7 @@ uređaja"</string>
   <string name="set_face_group_toast_msg_old_user">Držite lice osobe i označite je (obitelj, prijatelje, kolege, itd.)</string>
   <string name="set_face_group_toast_title_new_user">Prijedlozi</string>
   <string name="set_face_group_toast_title_old_user">Osobe mogu biti organizirane u grupe</string>
+  <string name="set_face_image">Postavi novu osobu</string>
   <string name="set_group">Postavite grupu</string>
   <string name="set_baby_icon_picker_default_title">Postavi sliku djeteta</string>
   <string name="set_bg_file_exist_message">Ova stavka već postoji</string>

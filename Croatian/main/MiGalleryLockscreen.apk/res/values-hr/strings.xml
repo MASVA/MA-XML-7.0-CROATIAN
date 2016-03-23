@@ -3,15 +3,15 @@
   <string name="app_name">Dnevne pozadine zaklj. zaslona</string>
   <string name="at_least_one">Odaberite barem jednu kategoriju</string>
   <string name="auto_interval">Auto</string>
-  <string name="cancel">Izlaz</string>
+  <string name="cancel">Odustani</string>
   <string name="cancel_international">Odustani</string>
-  <string name="change_time">Promjeni interval</string>
-  <string name="day">1 dan</string>
-  <string name="declaration">Uživajte u besplatnim pretplatama iz samog vrha globalnih medija. Budite u toku s najnovijim vijestima, najavama filmova i celebrity tračevima.</string>
-  <string name="declaration_lockscreen_title">Uključi Dnevne pozadine zaklj. zaslona</string>
+  <string name="change_time">Promjeni sliku pozadine</string>
+  <string name="day">Jednom dnevno</string>
+  <string name="declaration">Dobijte nove slike pozadine dostavljene izravno na vaš zaključani zaslon svaki dan besplatno.</string>
+  <string name="declaration_lockscreen_title">Uključi izmjenu slika pozadine</string>
   <string name="declaration_title">Uvjeti i Odredbe</string>
-  <string name="hour_1">1 sat</string>
-  <string name="hour_3">3 sata</string>
+  <string name="hour_1">Svaki sat</string>
+  <string name="hour_3">Svakih 3 sata</string>
   <string name="lockscreen_magazine_summary">Nabavite slike pozadine izravno na vaš zaklj. zaslon svaki dan.</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s slika pozadine</string>
   <string name="lockscreen_magazine_system_title">Zadano</string>
@@ -24,8 +24,19 @@
   <string name="resource_apply">Postavi</string>
   <string name="resource_no_network_text">"Ne mogu se povezati na mrežu."</string>
   <string name="setting_head">Postavke</string>
+  <string name="sst_favor_desc">Provjer favorite</string>
+  <string name="sst_favor_title">Favoriti</string>
+  <string name="sst_no_favor_wallpaper_hint">Nema favorita</string>
+  <string name="sst_prov_enable_desc">Uživajte u više prekrasnih pozadina na zaklj. zaslonu</string>
+  <string name="sst_prov_enable_title">Uživajte u  izmjenama</string>
+  <string name="sst_require_one_category_hint">Pretplatite se na jednu stavku najmanje</string>
+  <string name="sst_sti_desc">Postavite vremenski interval za promjenu slike pozadine zaklj. zaslona</string>
+  <string name="sst_sti_title">Promjena vremenskog intervala</string>
+  <string name="sst_subscribe_title">Pretplata</string>
+  <string name="sst_wifi_only_desc">Predlažemo da isključite da uštedite na mobilnim podacima</string>
+  <string name="sst_wifi_only_title">Omogućite Preuzimanje Slika s Metered Mobile Connection</string>
   <string name="summary">"Prihvatite naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnosti&lt;/a&gt; za početak. Potrebna internetska veza.​"</string>  
-  <string name="summary_international">"Korištenjem ovog proizvoda, pristajete na naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnost&lt;/a&gt;. Potrebna internetska veza.​"</string>
+  <string name="summary_international">"Korištenjem ove značajke, slažete se s našim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnost&lt;/a&gt;. Ova značajka zahtijeva povezivanje s internetom da radi normalno.​"</string>
   <string name="theme_apply_failured">"Ne mogu postaviti, pokušajte ponovno kasnije"</string>
   <string name="theme_apply_success">Pozadina zaklj. zaslona postavljena</string>
   <string name="theme_applying">Postavljanje…</string>
