@@ -386,7 +386,6 @@
   <string name="vp_ad_countdown_s">%1$s</string>
   <string name="vp_ad_skip">Preskoči AD</string>
   <string name="vp_ad_skip_at">Preskoči AD nakon %1$d</string>
-  <string name="vp_ad_skip">Preskoči</string>
   <string name="vp_adapt_height">Prilagodi visinu</string>
   <string name="vp_adapt_width">Prilagodi širinu</string>
   <string name="vp_app_name">Video Player</string>
