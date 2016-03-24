@@ -2,7 +2,9 @@
 <resources>
   <string name="access_denied">Pristup odbijen</string>
   <string name="account">Račun</string>
+  <string name="account_related">Vaš uređaj je povezan s postojećim Mi Računom (%s). Povežite se na mrežu da potvrdite uređaj.</string>
   <string name="activate">Aktiviraj</string>
+  <string name="activate_finddevice">Povežite se na mrežu da aktivirate uređaj</string>
   <string name="activate_number_change_dialog_message">Odaberite broj telefona koji će biti vidljiv drugim uređajima kada koristite poziv putem VoIP-a.</string>
   <string name="activating">Aktiviranje…</string>
   <string name="alert_notif_title_dspt">Nije sinkronizirano</string>
@@ -47,8 +49,11 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_space_upgrade_title">Više prostora za Mi Cloud</string>
   <string name="cloudservice_new_sync">Sinkr. %s s Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari s prijateljima.</string>
+  <string name="connect_network">Povežite se na WLAN ili umetnite SIM karticu</string>
+  <string name="connect_wlan">Povežite se na WLAN</string>
   <string name="contact">Kontakti</string>
   <string name="deskclock_backup">Napravi Sig. kopiju Satova</string>
+  <string name="detect_sim_card">Traži SIM karticu ponovno</string>
   <string name="disable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="disable_find_device_success">"Pronađi uređaj" je isključeno.</string>
   <string name="enableAll">Sinkroniziraj sve</string>

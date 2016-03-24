@@ -1376,7 +1376,8 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="throttle_warning_notification_title">Upotreba velike količine mobilnih podataka</string>
   <string name="throttled_notification_message">Dodirnite da biste saznali više o upotrebi mobilnih podataka.</string>
   <string name="throttled_notification_title">Prekoračeno je ograničenje za podatke na mobilnom uređaju</string>
-  <string name="time_of_day" formatted="false">%H:%M:%S</string>  <string name="time_picker_decrement_hour_button">Smanjenje sati</string>
+  <string name="time_of_day" formatted="false">%H:%M:%S</string>  
+  <string name="time_picker_decrement_hour_button">Smanjenje sati</string>
   <string name="time_picker_decrement_minute_button">Smanjenje minuta</string>
   <string name="time_picker_decrement_set_am_button">Postavi AM</string>
   <string name="time_picker_dialog_title">Postavljanje vremena</string>

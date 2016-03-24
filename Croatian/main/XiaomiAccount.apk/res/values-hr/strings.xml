@@ -171,6 +171,7 @@
   <string name="confirm_phone_number_dialog_title">Potvrdi broj telefona</string>
   <string name="confirm_unbind">Prekinuti vezu s ovim računom?</string>
   <string name="continue_action">Nastavi</string>
+  <string name="current_location_title">Trenutna lokacija</string>
   <string name="data_keep_in_device">Zadrži podatke na ovom uređaju</string>
   <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="delete_action">Izbriši</string>
@@ -220,9 +221,11 @@
   <string name="input_vcode_hint">Unesite kôd za provjeru</string>
   <string name="just_a_second">Samo trenutak…</string>
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
-  <string name="loading">Učitavanje…</string>
-  <string name="loading_micloud_sync_data">Učitavanje…</string>
-  <string name="loading_mili_center">Učitavanje…</string>
+  <string name="loading">Samo trenutak…</string>
+  <string name="loading_micloud_sync_data">Samo trenutak…</string>
+  <string name="locating_current_location">Lociranje</string>
+  <string name="location_service_not_working">Usluga lociranja ne radi</string>
+  <string name="loading_mili_center">Samo trenutak…</string>
   <string name="login">Prijavite se</string>
   <string name="login_failed">"Ne mogu se prijaviti"</string>
   <string name="login_instead_reg">Koristi ovaj broj</string>
@@ -462,6 +465,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="security_question_prompt">"Sigurnosna pitanja mogu se koristiti kada promijenite ili poništite zaporku.
  Pobrinite se da zapamtite odgovore na ta pitanja."</string>
   <string name="send_email_activate_message">E-pošta provjere poslana</string>
+  <string name="select_location_title">Odaberite vašu lokaciju</string>
   <string name="set_security_question_title">Postavi sigurnosna pitanja</string>
   <string name="service_error">Pogreška usluge</string>
   <string name="sina_weibo">Sina Weibo</string>
