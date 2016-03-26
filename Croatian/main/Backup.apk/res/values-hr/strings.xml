@@ -329,6 +329,9 @@ I Mi Mover uključen"</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" stavki"</string>
   <string name="unknown_hint">Nepoznato</string>
+  <string name="user_notice_declaration_ignore">"Ne prikazuj ponovno"</string>
+  <string name="user_notice_message">Neke značajke zahtijevaju povezivanje s internetom da rade normalno.</string>
+  <string name="user_notice_title">Obavijesti korisnika</string>
   <string name="wifi_title">Postavke WLAN-a</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>

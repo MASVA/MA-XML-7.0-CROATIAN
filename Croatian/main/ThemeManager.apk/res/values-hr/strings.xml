@@ -93,7 +93,7 @@
   <string name="online_search_hint">Pretraživanje za online resursima</string>
   <string name="payment_info">Mi Krediti</string>
   <string name="present_local_themes">Preuzete</string>
-  <string name="present_online_themes">Online</string>
+  <string name="present_online_themes">Preuzmite besplatno više tema</string>
   <string name="purchased_list">Kupljene</string>
   <string name="purchased_list_format">Kupljeno %1$s</string>
   <string name="resource_account_abnormal_state">Pogreška računa. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
@@ -343,7 +343,7 @@
   <string name="theme_immediately_apply_tip">Primjeniti ažuriranje teme?</string>
   <string name="theme_import_from_sdcard">Uvezi</string>
   <string name="theme_is_external_priority_storage">Spremi na SD karticu</string>
-  <string name="theme_is_external_priority_storage_summary">Aplikacija Teme će se odmah ponovno pokrenuti za primjenu postavki</string>
+  <string name="theme_is_external_priority_storage_summary">Aplikacija Teme će se odmah ponovno pokrenuti za primjenu ove postavke.</string>
   <string name="theme_multiple_button_title_customize">Prilagodi</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Ne</string>
@@ -368,7 +368,7 @@
   <string name="theme_user_agreement_exit">Izlaz</string>
   <string name="theme_user_agreement_remind_again">Prikaži upit Uvjeti Korištenja</string>
   <string name="theme_user_agreement_remind_never">"Ne prikazuj ponovo"</string>
-  <string name="theme_user_agreement_remind_summary">Prikaži upit Uvjeti Korištenja svaki put kada se otvori aplikacija "Teme". Ova postavka će stupiti na snagu nakon što ponovno pokrenete svoj uređaj.</string>
+  <string name="theme_user_agreement_remind_summary">Prikaži upit Uvjeti Korištenja svaki put kada otvorite aplikaciju "Teme". Ova postavka će stupiti na snagu nakon što ponovno pokrenete svoj uređaj.</string>
   <string name="theme_user_agreement_title">Uvjeti Korištenja</string>
   <string name="theme_yes">Da</string>
   <string name="third_party_pickers_activity_title">Podesi %1$s</string>

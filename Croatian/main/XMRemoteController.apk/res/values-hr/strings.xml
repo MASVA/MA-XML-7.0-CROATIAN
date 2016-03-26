@@ -16,6 +16,8 @@
   <string name="add_device_match_desc_center">    2. Dodirnite tipku</string>
   <string name="add_device_match_desc_top">    1. Usmjerite vaš Mi uređaj na vaš %1$s</string>
   <string name="add_device_remote">Dodaj %1$s daljinski</string>
+  <string name="add_fav_channel">Dodaj u Favorite</string>
+  <string name="add_fav_channel_hint">Dodajte više omiljenih kanala, omogućujući vam da pronađete omiljene programe</string>
   <string name="add_more">Dodaj još infracrvenih uređaja</string>
   <string name="add_new_control">Upari daljinski</string>
   <string name="add_new_tv">Dodaj TV…</string>
@@ -50,8 +52,13 @@
   <string name="app_uninstall">Deinstaliraj</string>
   <string name="app_update">Ažuriranje</string>
   <string name="app_version">Verzija %1$s</string>
+  <string name="append_ok_key_after_num">数字键换台后增加确认键</string>
   <string name="application">Aplikacije</string>
   <string name="back">Natrag</string>
+  <string name="backup">Sig. kopija na cloud</string>
+  <string name="backup_failed">备份失败，请您重试</string>
+  <string name="backup_succeed">备份成功</string>
+  <string name="backuping">正在备份</string>
   <string name="bedroom">Spavaća soba</string>
   <string name="bind_stb_dlg">Poveži set top box za prebacivanje kanala</string>
   <string name="bind_stb_dlg_agree">Poveži sada</string>
@@ -70,16 +77,18 @@
   <string name="cancel_share">Zaustavi dijeljenje</string>
   <string name="cancel_share_done">Dijeljenje zaustavljeno</string>
   <string name="carrier_data">Operator</string>
+  <string name="change_to_channel">正在换台 [%1$s] %2$s</string>
   <string name="channel">Kanal</string>
-  <string name="channel_added_to_fav">%1$s已加入收藏</string>
+  <string name="channel_added_to_fav">%1$s dodan u favorite</string>
   <string name="channel_catogory_name">Kanali</string>
   <string name="channel_num">—</string>
-  <string name="channel_removed_from_fav">%1$s已取消收藏</string>
+  <string name="channel_removed_from_fav">%1$s uklonjen iz favorita</string>
   <string name="check_upgrade">Provjeri za ažuriranja</string>
   <string name="choose_ac">Odaberite daljinski</string>
   <string name="choose_address_title">Odaberite lokaciju</string>
   <string name="circlepad_slide_tips">Koristite dodirni kotačić za podešavanje glasnoće</string>
   <string name="click_to_expend">Dodirnite za proširenje</string>
+  <string name="click_to_login">Dodirnite za prijavu</string>
   <string name="click_to_retry">Dodirnite za ponovni pokušaj</string>
   <string name="click_to_shrink">Dodirnite za smanjivanje</string>
   <string name="close">Zatvori</string>
@@ -94,7 +103,7 @@
   <string name="connected">Povezano</string>
   <string name="continue_to_add_other_rc">Upari više uređaja</string>
   <string name="control_vol_by_cellphone">Koristite uređaj za kontrolu glasnoće</string>
-  <string name="controller_invalid">遥控器不存在</string>
+  <string name="controller_invalid">Daljinski upravljač ne postoji</string>
   <string name="controller_list">Moj daljinski</string>
   <string name="cool_mode">Klima uređaj</string>
   <string name="create_shortcut">Dodaj prečac na radnu površinu</string>
@@ -151,11 +160,13 @@
   <string name="epg_details_episode">Ep. %1$s</string>
   <string name="epg_episode_open">Prikaži sve</string>
   <string name="epg_fav_channels">Spremi kanal</string>
+  <string name="epg_home_sliding_down">收起</string>
+  <string name="epg_home_sliding_up">上划</string>
   <string name="epg_hot_channels">Kanali</string>
   <string name="epg_hot_programs">Prikaži</string>
   <string name="epg_loading_hint">Mijenjanjte kanale na vašem set-top boxu pomoću telefona</string>
   <string name="epg_name">TV serije</string>
-  <string name="epg_no_search_result">没有找到结果</string>
+  <string name="epg_no_search_result">Nema rezultata</string>
   <string name="epg_program_updated_to">播放至第%1$d集</string>
   <string name="epg_search_box_hint">搜索想要看的电视节目</string>
   <string name="epg_search_history">历史记录</string>
@@ -196,6 +207,8 @@
   <string name="gesture_pad_orietaion_tips">Povucite kontrolu gore i dolje, a zatim dodirnite U redu</string>
   <string name="gesture_pad_sencond_line_tips">"Za prikaz izbornika, pritisnite &amp; držite s jednim prstom na prazno područje na zaslonu. Za podešavanje glasnoće na zaslonu, povucite prstom prema gore ili dolje."</string>
   <string name="gesture_pad_vol_tips">Pritisnite tipke glasnoće na uređaju za podešavanje izlazne glasnoće</string>
+  <string name="get_backup_failed">恢复失败，请您重试</string>
+  <string name="get_backup_succeed">恢复完成，共%1$d个, 已有%2$d个，恢复%3$d个，</string>
   <string name="get_data_fail_tips">"Ne mogu dobiti podatke, pokušajte ponovo"</string>
   <string name="get_info_failed">"Ne mogu dobiti informacije"</string>
   <string name="get_location_fail_tip">"Ne mogu postaviti lokaciju, izaberite grad"</string>
@@ -253,6 +266,7 @@
   <string name="just_now">Upravo sada</string>
   <string name="just_used">Upravo korišten</string>
   <string name="key_press_vibrate">Vibriraj kod dodira</string>
+  <string name="last_bak_time">Zadnja Sig, kopija %1$s</string>
   <string name="last_use_frame">Zadnje korištenje prije %1$s dana</string>
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Dnevna soba</string>
@@ -264,10 +278,16 @@
   <string name="loading_ir_data">Učitavanje…</string>
   <string name="locate_current_place">Pronađi trenutnu lokaciju</string>
   <string name="location_select">Preimenuj uređaj</string>
-  <string name="login">登录</string>
+  <string name="login">Prijavi se</string>
+  <string name="login_directly">Prijavi se izravno</string>
   <string name="login_done">Prijavljeno</string>
   <string name="login_failed">"Ne mogu se prijaviti"</string>
+  <string name="login_failed_tips">抱歉获取账号信息失败，请确认网络畅通</string>
   <string name="login_thirdparty">其他方式登录</string>
+  <string name="login_wxfailed_tips">获取微信账号信息失败，请稍后再试</string>
+  <string name="logining">登录中</string>
+  <string name="logout">退出登录</string>
+  <string name="logout_done">已退出登录</string>
   <string name="management_app_management">Aplikacije</string>
   <string name="management_settings">Postavke</string>
   <string name="management_video_favor">Povijest i favoriti</string>
@@ -348,6 +368,7 @@ pričekajte trenutak nakon radnje"</string>
   <string name="max_enter">"Ne više od %d znakova"</string>
   <string name="maybe_is">Budite sigurni da: </string>
   <string name="menu">Izbornik</string>
+  <string name="mi_account">Mi Račun</string>
   <string name="mi_account_name">Mi Račun</string>
   <string name="mi_brand">Mi</string>
   <string name="mi_rc">Mi Remote</string>
@@ -360,10 +381,12 @@ pričekajte trenutak nakon radnje"</string>
   <string name="month">Mjesec</string>
   <string name="month_day_format">MMM dd</string>
   <string name="more">Više</string>
+  <string name="more_fav_channel">更多收藏</string>
   <string name="more_hot_programs">Više emisija…</string>
   <string name="mute">Utišaj</string>
   <string name="my_activity">我的活动</string>
   <string name="my_appointment">我的预约</string>
+  <string name="my_backup">遥控器备份</string>
   <string name="my_favorite">我的收藏</string>
   <string name="my_setting">设置</string>
   <string name="network_diagnosis">Testiraj mrežu</string>
@@ -372,6 +395,7 @@ pričekajte trenutak nakon radnje"</string>
   <string name="network_unstable"> ·Imate stabilnu vezu</string>
   <string name="next_step">Sljedeći korak</string>
   <string name="no">Ne</string>
+  <string name="no_backup">没有发现可恢复数据</string>
   <string name="no_brand_service">Nema informacije o marci</string>
   <string name="none">Prazno</string>
   <string name="no_current_play">"Reproducira se: - "</string>
@@ -383,12 +407,14 @@ pričekajte trenutak nakon radnje"</string>
   <string name="no_program">Nema sadržaja.</string>
   <string name="no_qq">"QQ nije instaliran na ovom uređaju."</string>
   <string name="no_save_brand_service">Trebate dodati daljinski upravljač koji je podržan</string>
+  <string name="none">Prazno</string>
   <string name="not_login">Niste prijavljeni</string>
   <string name="not_respond">Nema odgovora</string>
   <string name="notification_found_shared_remote_text">Dodirnite da ga kontrolirate</string>
   <string name="notification_found_shared_remote_title">Pronađeno %1$s u blizini</string>
   <string name="notification_str1">\"</string>
   <string name="notification_str2">\" će započeti za 30 min.</string>
+  <string name="notification_str3">\" će započeti za 5 min.</string>
   <string name="notification_title">Obavijesti Timera</string>
   <string name="num_keys">Brojčane tipke</string>
   <string name="office">Ured</string>
@@ -407,13 +433,11 @@ pričekajte trenutak nakon radnje"</string>
   <string name="passport_account_not_actived">"Vaš Račun nije još aktiviran"</string>
   <string name="passport_active_email_visit">Provjerite svoju poštu na %s</string>
   <string name="passport_activing_account">Aktiviranje…</string>
-  <string name="passport_app_name">Mi Račun</string>
   <string name="passport_area_code_hot">ČESTO KORIŠTENO</string>
   <string name="passport_area_code_title">Pozivni broj</string>
   <string name="passport_bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="passport_btn_return">Natrag</string>
   <string name="passport_button_cancel">Odustani</string>
-  <string name="passport_captcha">Unesite kod</string>
   <string name="passport_change_account">Promjena računa</string>
   <string name="passport_change_phone_number">Promjenite brojeve</string>
   <string name="passport_checking_account">Provjera zaporke…</string>
@@ -522,6 +546,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="passport_relogin_notice">Morate se prijaviti ponovno</string>
   <string name="passport_remove_account_notice">Nakon izlaska, kako želite rukovati kontaktima i bilješkama na vašem telefonu?</string>
   <string name="passport_remove_confirm">Odjava</string>
+  <string name="passport_remove_unactivated_account_notice">"Vaš račun nije aktiviran."</string>
   <string name="passport_resend_active_email">Pošalji ponovo e-poštu</string>
   <string name="passport_reset_fail_title">"Ne mogu resetirati"</string>
   <string name="passport_reset_password_prompt">Zaporka nije točna</string>
@@ -565,8 +590,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="please_select_tv">Odaberite TV</string>
   <string name="pm_2.5">PM2.5:</string>
   <string name="power">Uklj./Isklj.</string>
-  <string name="power_off">已关机</string>
-  <string name="power_on">已开机</string>
+  <string name="power_off">Isklj.</string>
+  <string name="power_on">Uklj.</string>
   <string name="press_to_continue_match">Dodirnite za nastavak</string>
   <string name="press_to_match">Dodirnite za uparivanje</string>
   <string name="privacy_content">"Pročitajte Xiaomi Pravila o Privatnosti i Korisnički Sporazum prije korištenja Mi Remote. Aplikaciji je potreban pristup Internetu i usluga lociranja da radi normalno.</string>
@@ -583,6 +608,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="rc_add_distance_far">&gt;1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
   <string name="rc_name">Upravljač</string>
+  <string name="recover">从云端恢复</string>
+  <string name="recovering">正在恢复</string>
   <string name="refreshing">Osvježavanje…</string>
   <string name="refreshing_no_point">Osvježavanje…</string>
   <string name="refreshing_retry">"Ne mogu osvježiti."</string>
@@ -592,6 +619,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="rename_hint">"Unesite naziv uređaja"</string>
   <string name="repeat_diagnosis">Testiraj ponovo</string>
   <string name="report_problem">Prijavite problem</string>
+  <string name="require_login">Potrebna je prijava</string>
   <string name="respond">Radi</string>
   <string name="retry_for_more">Dodirnite za prikazati više</string>
   <string name="save">Spremi</string>
@@ -618,6 +646,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="select_area">Odaberite lokaciju</string>
   <string name="select_brand">Odabrano: %s</string>
   <string name="select_dvb_carrier">Odaberite operatera</string>
+  <string name="select_stb">Odaberite set-top box</string>
   <string name="service_info">Servisne informacije</string>
   <string name="setting_airkan">BEŽIČNI ZASLON</string>
   <string name="setting_common">OPĆENITO</string>
@@ -685,6 +714,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="somthing_wrong">Imate poteškoća?</string>
   <string name="sorry">Žao nam je</string>
   <string name="speech_init_failed">Dodirnite da instalirate iFly glasovnu uslugu.</string>
+  <string name="speed_up_channel_switch">在一些机顶盒上可以提高换台速度</string>
   <string name="splash_add_device_des">Započnite tako da uparite neke uređaje</string>
   <string name="splash_desc">Kontrolirajte sve samo jednim dodirom.</string>
   <string name="start_diagnosis">Test</string>
@@ -735,6 +765,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="upgrading">Ažuriranje…</string>
   <string name="use_tv_power_key">"Koristite %1$s tipku za uključivanje
 Za promjenu, dugo pritisnite tipku za uključivanje TV prijemnika"</string>
+  <string name="user_title">Moj</string>
   <string name="vendor_kookong">Kookong</string>
   <string name="vendor_peel">Peel</string>
   <string name="vendor_yaokan">Yaokan</string>
@@ -755,6 +786,7 @@ Za promjenu, dugo pritisnite tipku za uključivanje TV prijemnika"</string>
   <string name="video_play_count_label">"Pregleda: "</string>
   <string name="virtual_keyhboard">Koristite tipkovnicu uređaja</string>
   <string name="virtual_keyhboard_intro">Koristite tipkovnicu uređaja za unos na zaslonu</string>
+  <string name="voice">Glas</string>
   <string name="voice_download_tips">Dodirnite \"U redu\" za preuzimanje glasovnih kontrola</string>
   <string name="voice_download_title">Pažnja</string>
   <string name="voice_engine_ifly_fail">"Ne mogu prepoznati glas"</string>
@@ -762,6 +794,7 @@ Za promjenu, dugo pritisnite tipku za uključivanje TV prijemnika"</string>
   <string name="voice_resolving">Prepoznavanje glasa…</string>
   <string name="volume">Glasnoća</string>
   <string name="weather_out">Vanjska temperatura:</string>
+  <string name="wechat_account">WeChat račun</string>
   <string name="wind_direct">Smjer</string>
   <string name="wind_direct_automatic">Njihanje</string>
   <string name="wind_direct_down">Dolje</string>
@@ -774,6 +807,7 @@ Za promjenu, dugo pritisnite tipku za uključivanje TV prijemnika"</string>
   <string name="wind_speed_low">Nisko</string>
   <string name="wind_speed_medium">Srednje</string>
   <string name="wind_sweep">Ventilator</string>
+  <string name="wx_not_installed">Nemate instaliran micro-channel klijent</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
