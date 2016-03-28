@@ -1526,7 +1526,7 @@ Držite Mi Band i telefon udaljenim najmanje 5m."</string>
   <string name="tag_wait">Čekanje</string>
   <string name="tag_waiting">Pričekajte molim…</string>
   <string name="this_measure">Trenutni rezultat</string>
-  <string name="time_format_hour_min">%1$ss %2$sm</string>
+  <string name="time_format_hour_min">%1$s s %2$s m</string>
   <string name="time_format_min">%s min</string>
   <string name="tips">PODSJETNIK</string>
   <string name="title_action_tag_agreement">Uvjeti pružanja usluge</string>

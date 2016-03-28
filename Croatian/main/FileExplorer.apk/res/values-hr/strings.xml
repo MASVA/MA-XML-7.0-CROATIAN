@@ -211,8 +211,8 @@
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pohrana</string>
   <string name="homepage_tab_recent">Nedavno</string>
-  <string name="hot_sticker">Popularne naljepnice</string>
-  <string name="hot_video">Popularni videozapisi</string>
+  <string name="hot_sticker">Naljepnice</string>
+  <string name="hot_video">Videozapisi</string>
   <string name="if_cancel">Otkazati ovu radnju?</string>
   <string name="image_loading_error">"Ne mogu učitati sliku"</string>
   <string name="input_memo_hint">Unesite dodatne razloge (po izboru)</string>
@@ -331,6 +331,7 @@
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
   <string name="network_connect_confirm_des">Aplikacija Datoteke treba povezivanje s internetom za normalan rad</string>
   <string name="network_dialog_checkbox_tip">"Ne prikazuj ponovo"</string>
+  <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_spent_reminding">"Koristiti vašu mobilnu podatkovnu vezu za pregled ove stranice? Snositi ćete redovite troškove vašeg mobilnog operatera."</string>
   <string name="network_spent_reminding_title">Obavijest uporabe podataka</string>
   <string name="never_notify_network_connect">Zapamti postavke</string>
@@ -482,6 +483,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="report_politics">Politika</string>
   <string name="report_porn">Porn</string>
   <string name="report_violence">Nasilje</string>
+  <string name="request_timeout">Isteklo je vrijeme zahtjeva za mrežom</string>
   <string name="reset_password">Promjena zaporke</string>
   <string name="restoring">Obnavljam…</string>
   <string name="rlv_last_loading_time">Zadnje osvježenje: %1$s</string>
@@ -546,6 +548,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="server_control_advanced_settings">FTP postavke</string>
   <string name="server_control_charset">Kodiranje prijenosa</string>
   <string name="server_control_settings">Postavke</string>
+  <string name="server_error">Pogreška poslužitelja, pokušajte ponovno kasnije. (Pogreška %s)</string>
   <string name="share_box">Podijeljeno</string>
   <string name="share_box_receive">Primljeno</string>
   <string name="share_box_send">Poslano</string>
