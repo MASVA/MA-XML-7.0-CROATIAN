@@ -32,4 +32,12 @@
         <item quantity="other">%1$d sek.</item>
         <item quantity="one">%1$d sek.</item>
     </plurals>
+	<plurals name="delete_alarm_confirm">
+         <item quantity="other">Izbrisati odabrane alarme?</item>
+         <item quantity="one">Izbrisati ovaj alarm?</item>
+     </plurals>
+    <plurals name="delete_timezone_confirm">
+         <item quantity="other">Izbrisati odabrane vremenske zone?</item>
+         <item quantity="one">Izbrisati ovu vremensku zonu?</item>
+    </plurals>
 </resources> 

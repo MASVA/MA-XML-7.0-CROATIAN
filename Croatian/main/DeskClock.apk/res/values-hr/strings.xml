@@ -43,7 +43,7 @@
   <string name="delelte_selected_timezone">Izbrisati odabranu vremensku zonu?</string>
   <string name="delete">Izbriši</string>
   <string name="delete_alarm">Izbriši alarm</string>
-  <string name="delete_alarm_confirm">Izbrisati ovaj alarm?</string>
+  <string name="delete_alarm_confirm">Izbrisati odabran(e) alarm(e)?</string>
   <string name="delete_selected_timer_item">Izbrisati odabrane zadatke Kronometra?</string>
   <string name="delete_timer_item_title">Izbrisati odabrani zadatak</string>
   <string name="delete_timezone_title">Izbrisati vremensku zonu</string>
@@ -95,6 +95,13 @@
   <string name="snooze_duration_title">Trajanje odgode</string>
   <string name="start">Start</string>
   <string name="start_up">Start</string>
+  <string name="stat_repeat_everyday">Svaki dan</string>
+  <string name="stat_repeat_legal_off_day">法定节假日</string>
+  <string name="stat_repeat_legal_workday">法定工作日</string>
+  <string name="stat_repeat_none">Jednom</string>
+  <string name="stat_repeat_self_define">Vlastito</string>
+  <string name="stat_repeat_weekdays">Pon-Pet</string>
+  <string name="stat_repeat_weekends">Vikend</string>
   <string name="stopwatch_lap_empty_text">Nema krugova</string>
   <string name="stopwatch_title">Štoperica</string>
   <string name="system_time_setting">Postavke</string>

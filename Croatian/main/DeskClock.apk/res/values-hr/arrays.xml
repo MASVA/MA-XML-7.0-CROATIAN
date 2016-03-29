@@ -71,4 +71,9 @@
         <item>5</item>
         <item>Isklj.</item>
     </string-array>
+	<string-array name="stat_volume_button_behaviors">
+       <item>Ne</item>
+       <item>Odgodi</item>
+       <item>Isključi</item>
+    </string-array>
 </resources> 

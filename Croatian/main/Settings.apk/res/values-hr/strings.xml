@@ -93,6 +93,7 @@
   <string name="add_device_admin_msg">Aktivirati administratora uređaja?</string>
   <string name="add_fingerprint_done_msg">Sada možete otključati uređaj s otiskom prsta.</string>
   <string name="add_fingerprint_done_title">Gotovo!</string>
+  <string name="add_fingerprint_failed_retry_text">"Ne mogu dodati otisak prsta, pokušajte ponovo"</string>
   <string name="add_fingerprint_finished_button_text">U redu</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Da dodate svoj otisak prsta, stavite prst na senzor. Provjerite da li vaš prst pokriva unutarnji rub senzora"</string>
   <string name="add_fingerprint_instruction_msg">Otključajte uređaj ili potvrdite plaćanje s vašim otiskom prsta</string>
