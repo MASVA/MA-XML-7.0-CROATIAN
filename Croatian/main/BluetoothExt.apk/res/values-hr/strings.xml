@@ -19,6 +19,8 @@
   <string name="ftp_acceptance_timeout_message">Došlo je isteka vremena za prihvat veze s %1$s</string>
   <string name="ftp_authentication_timeout_message">Došlo je isteka vremena za unos ključa sesije sa %1$s</string>
   <string name="ftp_notif_message">Dodirnite za povezivanje s \"%1$s\".</string>
+  <string name="ftp_notif_active_session">Bluetooth FTP aktivna sesija</string>
+  <string name="ftp_notif_connected">"Bluetotoh Prijenos datoteka pristup na \"%1$s\"."</string>
   <string name="ftp_notif_ticker">Zahtjev za Bluetooth vezom</string>
   <string name="ftp_notif_title">Zahtjev za ključ sesije za FTP</string>
   <string name="ftp_session_key_dialog_header">Potreban Bluetooth ključ sesije</string>
@@ -29,6 +31,8 @@
   <string name="map_alert_conn_failed_message">Bluetooth MAP veza nije uspjela.</string>
   <string name="map_authentication_timeout_message">Došlo je isteka vremena za unos ključa sesije sa %1$s</string>
   <string name="map_notif_message">Dodirnite za povezivanje s \"%1$s\".</string>
+  <string name="map_notif_active_session">Bluetooth MAP aktivna sesija</string>
+  <string name="map_notif_connected">"Bluetooth Poruka pristup na \"%1$s\"."</string>
   <string name="map_notif_ticker">Zahtjev za Bluetooth vezom</string>
   <string name="map_notif_title">Zahtjev za ključ sesije za MAP</string>
   <string name="map_session_key_dialog_header">Potreban Bluetooth ključ sesije</string>

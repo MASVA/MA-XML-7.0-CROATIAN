@@ -179,7 +179,7 @@
   <string name="calculated_pictures_time_tip_for_no_vip">Poredano fotografija iz %1$s do sada. Preostale fotografije će biti poredane postupno.</string>
   <string name="calculated_pictures_time_tip_for_vip">Poredano fotografija iz %1$s do sada. Preostale fotografije će uskoro biti poredane.</string>
   <string name="camera_black_white">Crno &amp; Bijelo</string>
-   <string name="camera_needs_auto_backup_tip">Za fotografije kamere treba izraditi Sig. kopiju</string>
+  <string name="camera_needs_auto_backup_tip">Za fotografije kamere treba izraditi Sig. kopiju</string>
   <string name="camera_connected">Kamera uključena.</string>
   <string name="camera_disconnected">Kamera isključena.</string>
   <string name="camera_folder_display_name">Kamera</string>
@@ -594,6 +594,7 @@
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
+  <string name="next">Dalje</string>
   <string name="new_device_tips">"Dodirnite za prikaz 
 uređaja"</string>
   <string name="no">Ne</string>

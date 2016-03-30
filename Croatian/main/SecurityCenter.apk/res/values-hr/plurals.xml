@@ -125,4 +125,8 @@
         <item quantity="zero">Pronađeno 0 aplik.</item>
         <item quantity="one">Pronađena %d aplik.</item>
     </plurals>
+	<plurals name="search_app_count_txt_na">
+        <item quantity="other">Traži %d aplik.</item>
+        <item quantity="one">Traži %d aplik.</item>
+    </plurals>
 </resources>

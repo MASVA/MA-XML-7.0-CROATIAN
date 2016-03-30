@@ -122,6 +122,7 @@ ili unesite zaporku"</string>
   <string name="brand_diagnostic">Dijagnostika tipa mreže operatera</string>
   <string name="brightness_auto_adjust_off">Osvjetljenje će ostati stalno u svim okruženjima</string>
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
+  <string name="btn_finish_diagnostic">U redu</string>
   <string name="btn_jump">Preskoči</string>
   <string name="btn_lock">Dodaj zaključavanje</string>
   <string name="btn_start_diagnostic">Test mreže</string>

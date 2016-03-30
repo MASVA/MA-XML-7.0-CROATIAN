@@ -521,6 +521,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="passport_quick_login_title">Unesite vašu zaporku</string>
   <string name="passport_re_get_verify_code">Nabavite kôd ponovo</string>
   <string name="passport_re_register">Prijavite se ponovo</string>
+  <string name="passport_recycle_account_prompt">Je li ovo vaš Mi Račun?</string>
   <string name="passport_reg_failed">"Ne mogu postaviti račun"</string>
   <string name="passport_reg_new">Izradi Mi Račun</string>
   <string name="passport_reg_sms_send_prompt">Pošalji kôd za provjeru na %s</string>

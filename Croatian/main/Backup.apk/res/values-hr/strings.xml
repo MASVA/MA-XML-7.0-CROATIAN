@@ -251,6 +251,7 @@
   <string name="trans_calculating_base_size">"Izračun veličine aplikacije"</string>
   <string name="trans_cancel_confirm">Prijenos u tijeku, zaustaviti sada?</string>
   <string name="trans_cancelling">Otkazivanje…</string>
+  <string name="trans_connection_failed">Uređaj nije povezan</string>
   <string name="trans_connect_failed_message">"Ne mogu se povezati. Pokušajte ponovno ili ponovno pokrenite uređaj. Na drugom uređaju idite u Postavke &gt; Dodatne Postavke &gt; Mi Mover i dodirnite [Ja sam pošiljatelj], ili opet pokrenite Mi Mover nakon ponovnog pokretanja uređaja"</string>
   <string name="trans_connect_failed_title">"Povezivanje nije uspjelo"</string>
   <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>

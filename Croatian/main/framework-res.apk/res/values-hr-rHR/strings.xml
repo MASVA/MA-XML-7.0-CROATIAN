@@ -849,6 +849,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permdesc_bluetoothPriv">Aplikaciji se omogućuje uparivanje s udaljenim uređajima bez interakcije korisnika.</string>
   <string name="permdesc_bodySensors">Omogućuje aplikaciji pristup podacima sa senzora koji nadziru vaše fizičko stanje, na primjer, broj otkucaja srca.</string>
   <string name="permdesc_brick">Aplikaciji omogućuje trajno isključivanje cijelog telefona. To je veoma opasno.</string>
+  <string name="permdesc_broadcastNetworkPrivileged">Omogućuje aplikaciji slanje povlašteniih emitiranja mreže. Nije potrebno za normalne aplikacije.</string>
   <string name="permdesc_broadcastPackageRemoved">Omogućuje aplikaciji emitiranje obavijesti da je paket aplikacija uklonjen. Zlonamjerne aplikacije mogu to upotrijebiti za uklanjanje svih ostalih pokrenutih aplikacija.</string>
   <string name="permdesc_broadcastScoreNetworks">Omogućuje aplikaciji emitiranje obavijesti koju mreža treba biti postići. Nije potrebno za normalne aplikacije.</string>
   <string name="permdesc_broadcastSmsReceived">Omogućuje aplikaciji emitiranje obavijesti da je primljena SMS poruka. Zlonamjerne aplikacije mogu to upotrijebiti za krivotvorenje dolaznih SMS poruka.</string>

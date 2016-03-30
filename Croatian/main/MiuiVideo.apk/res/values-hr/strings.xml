@@ -4,6 +4,8 @@
   <string name="about_title">O aplikaciji</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">"Verzija "</string>
+  <string name="actor">Glumac</string>
+  <string name="actor_intro">O</string>
   <string name="ad_countdown">Preostalo: %s sek.</string>
   <string name="ad_moredetail">Detalji</string>
   <string name="add_favorite_success">Označeno</string>
@@ -27,6 +29,7 @@
   <string name="alert_dialog_download_btn_hide">Sakrij</string>
   <string name="alert_dialog_download_dup_task">Preuzimanje u tijeku, pričekajte…</string>
   <string name="alert_dialog_download_error">Pogreška preuzimanja</string>
+  <string name="alertdialog_downapp_btn_back">Natrag</string>
   <string name="all">Sve</string>
   <string name="all_ep">Sve ep</string>
   <string name="all_episode">Sve Epizode</string>
@@ -48,10 +51,12 @@
   <string name="average_score">Prosječan rezultat</string>
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
+  <string name="birthday">Rođendan</string>
   <string name="bmp_quality_mode">Način kvalitete slike</string>
   <string name="bmp_quality_mode_desc">Označeno, prikaži način visoke kvalitete.</string>
   <string name="buffering">Međupohrana…</string>
   <string name="buffering_video_netplay_label_v5">Međupohrana…</string>
+  <string name="buy_vip">Kupi VIP</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_favorite_success">Neoznačeno</string>
   <string name="check_app_version">Provjera najnovije verzije…</string>
@@ -66,6 +71,9 @@
   <string name="clear_search_history">Izbriši povijest pretraživanja</string>
   <string name="click_star_rate">Dodirnite zvijezicu da ocijenite</string>
   <string name="click_to_login">Dodirnite za prijavu</string>
+  <string name="clubber">Vjeran posjetitelj</string>
+  <string name="clubber_center">Klub posjetitelja</string>
+  <string name="clubber_info">Detalji posjetitelja</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Komentari</string>
   <string name="comment_count_less_tip">Komentar mora imati najmanje %1$s znakova</string>
@@ -121,6 +129,7 @@
   <string name="download_fail">Preuzimanje nije uspjelo</string>
   <string name="download_file_fail">"Ne mogu preuzeti datoteku. Pobrinite se da ima dovoljno prostora na unutarnjoj 
   pohrani vašeg uređaja ili SD kartici."</string>
+  <string name="download_finished">Dovršeno</string>
   <string name="download_geturl_fail">"Ne mogu dobiti URL"</string>
   <string name="download_is_in_tasklist">Na redu preuzimanja</string>
   <string name="download_paused">Pauzirano</string>
@@ -137,12 +146,14 @@
   <string name="edit">Uredi</string>
   <string name="edit_comment">Dodaj komentar</string>
   <string name="elipsis">…</string>
+  <string name="empty_data">Došlo je do pogreške</string>
   <string name="empty_keyword_hint">Polje ne može biti prazno</string>
   <string name="empty_tv_exiting">Izlaz ...</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">Nema rezultata</string>
   <string name="error_empty_title">Nešto nije u redu</string>
+  <string name="expire_time">Vrijeme isteka</string>
   <string name="favorite">Favorit</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">Greška datoteke</string>
@@ -163,6 +174,7 @@
   <string name="hint_apk_install">Instalirajte ovu aplikaciju</string>
   <string name="hint_apk_text_update">Instalirati sada ovo (%1$s) ažuriranje?</string>
   <string name="hint_apk_title_update">Dostupno ažuriranje (%1$s)</string>
+  <string name="hometown">Rodni grad</string>
   <string name="i_will_write_comments">Ovdje napišite svoje mišljenje</string>
   <string name="icntv">iCNTV</string>
   <string name="info_video_loading">Učitavanje…</string>
@@ -183,6 +195,7 @@
   <string name="local_favorite_empty_title">Prazno</string>
   <string name="local_media_empty_hint">Nema videozapisa</string>
   <string name="local_media_empty_sub_title">Preuzmite i gledajte videozapise izvanmrežno</string>
+  <string name="local_media_empty_title">Nema videozapisa</string>
   <string name="local_video">Svi videozapisi</string>
   <string name="login_tip_content">Prijavite se vašim Mi Računom radi sinkroniziranja i ažuriranja serija koje trenutno pratite.</string>
   <string name="login_tip_title">Prijavite se</string>
@@ -190,6 +203,7 @@
   <string name="memory_mode_desc">Uštedi Korištenje memorije</string>
   <string name="menu_item_enable_audio_enhance">Poboljšanje zvuka</string>
   <string name="menu_name">Izbornik</string>
+  <string name="mibi">mibi</string>
   <string name="mine_info_account_summary_none">Niste prijavljeni</string>
   <string name="mine_info_account_title">Detalji o računu</string>
   <string name="minute"> Min.</string>
@@ -213,7 +227,10 @@
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Prijavite se na vaš Mi Račun radi slanja komentara.</string>
   <string name="no_longer_tips">"Ne prikazuj ponovo"</string>
+  <string name="no_pay_record">Nema zapisa plaćanja</string>
   <string name="no_sdcard_no_download">Nema dovoljno prostora za pohranu, ne mogu zahtjevati preuzimanje.</string>
+  <string name="not_buy_vip">Ne VIP</string>
+  <string name="not_exist_openid">Dobivanje informacija o računu, molimo pričekajte...</string>
   <string name="not_login">Prijavite se</string>
   <string name="notification_default_title">Izvanmrežni videozapis</string>
   <string name="notification_sub_title">Završeno ukupno %d zadataka preuzimanja</string>
@@ -250,8 +267,11 @@
   <string name="open_in_browser">Otvori u Pregledniku</string>
   <string name="operator_test">Postavke operatora</string>
   <string name="operator_test_summary">Ako je označeno, uđi u način rada operatera</string>
+  <string name="original_price">Izvorna cijena</string>
+  <string name="other_info">Ostalo</string>
   <string name="other_setting">Ostalo</string>
   <string name="pause">Pauza</string>
+  <string name="pay_record">Zapis plaćanja</string>
   <string name="percent_status">%.1f%%</string>
   <string name="performance_mode">Reprodukcija</string>
   <string name="performance_mode_desc">Prioritet performansi</string>
@@ -261,6 +281,7 @@
   <string name="play">Reproduciraj</string>
   <string name="play_fail">Reprodukciija nije uspjela, pokušajte kasnije.</string>
   <string name="play_his_empty_hint">Prazno</string>
+  <string name="play_his_empty_title">Prazno</string>
   <string name="play_history">Nedavno reproducirano</string>
   <string name="play_source_fetching">Povezivanje</string>
   <string name="player_plugin_des">Prikaži dostupne video player plugine</string>
@@ -280,6 +301,7 @@
   <string name="receive_mipush">Obavijesti novih videozapisa</string>
   <string name="receive_mipush_summary">Primanje obavijesti kada je novi sadržaj dostupan za gledanje na internetu</string>
   <string name="recent_play">Nedavno reproducirano: Ep.%d</string>
+  <string name="recentplay">Nedavno gledano</string>
   <string name="refreshing">Učitavanje…</string>
   <string name="releasetorefresh">Otpusti i osvježi</string>
   <string name="reload_sub_title">Kliknite na zaslon za ponovni pokušaj</string>
@@ -314,6 +336,7 @@
   <string name="share_device">Dijeljeni uređaj</string>
   <string name="similar">Sličan film</string>
   <string name="sina">Sina</string>
+  <string name="sniff">Sniff</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">"Ne mogu naći izvor"</string>
   <string name="star1">*</string>
@@ -377,6 +400,7 @@
   <string name="video_plugin">Video Plugin</string>
   <string name="video_plugin_downloading">Preuzimanje (%1$s), pričekajte.</string>
   <string name="video_plugin_prepare">Priprema video plugina, pričekajte.</string>
+  <string name="vip_package">VIP PAKET</string>
   <string name="vp_VideoView_error_button">U redu</string>
   <string name="vp_VideoView_error_network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Ova vrsta datoteke nije podržana."</string>
@@ -388,6 +412,7 @@
   <string name="vp_ad_skip_at">Preskoči AD nakon %1$d</string>
   <string name="vp_adapt_height">Prilagodi visinu</string>
   <string name="vp_adapt_width">Prilagodi širinu</string>
+  <string name="vp_app_download">Preuzimanje aplikacije</string>
   <string name="vp_app_name">Video Player</string>
   <string name="vp_audio">Glasnoća</string>
   <string name="vp_auto_select">Autom. odabir</string>
@@ -404,6 +429,7 @@
   <string name="vp_datastream_alert_positive_button">Nastavi</string>
   <string name="vp_datastream_alert_title">Upozorenje uporabe podataka</string>
   <string name="vp_device_list">Uređaji</string>
+  <string name="vp_download_apk_from_video_ad">Instalirajte aplikaciju</string>
   <string name="vp_download_connect_fail">"Ne mogu pronaći poveznicu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="vp_download_file_fail">"Ne mogu preuzeti datoteku. Pobrinite se da ima dovoljno prostora na unutarnjoj 
   pohrani vašeg uređaja ili SD kartici."</string>
