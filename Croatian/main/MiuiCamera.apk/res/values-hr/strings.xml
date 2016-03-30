@@ -213,7 +213,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Smanjenje traka na zaslonu</string>
-  <string name="pref_camera_asd_night_title">Auto. poboljšanje kod noćnog slikanja</string>
+  <string name="pref_camera_asd_night_title">Autom. poboljšaj slabo osvjetljenje fotografija</string>
   <string name="pref_camera_asd_popup_title">Upozori ako je potrebna bljeskalica</string>
   <string name="pref_camera_asd_title">Autom. prepoznavanje scene</string>
   <string name="pref_camera_audio_capture_title">Zvuk</string>
@@ -222,7 +222,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Isključeno</string>
   <string name="pref_camera_auto_focus_title_entry_on">Uključeno</string>
-  <string name="pref_camera_auto_opti_zoom_title">Auto. optički zoom ako je više od 2</string>
+  <string name="pref_camera_auto_opti_zoom_title">Autom. optički zoom ako je više od 2</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Središte ponderiranja</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Prosječan okvir</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mjerenje mjesta</string>
@@ -283,7 +283,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_exposuretime_title">Vrijeme ekspozicije</string>
   <string name="pref_camera_facedetection_entry_off">Isključeno</string>
   <string name="pref_camera_facedetection_entry_on">Uključeno</string>
-  <string name="pref_camera_face_info_watermark_title">Prikaži informacije o licu na fotografiji</string>
+  <string name="pref_camera_face_info_watermark_title">Dodaj oznaku godina na fotografiju</string>
   <string name="pref_camera_facedetection_title">Prepoznavanje lica</string>
   <string name="pref_camera_fisheye_title">Riblje oko</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
@@ -445,7 +445,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_camera_volumekey_function_entry_volume">Glasnoća</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Funkcija tipaka glasnoće</string>
-  <string name="pref_camera_watermark_title">Oznaka vremena</string>
+  <string name="pref_camera_watermark_title">Dodaj oznaku vremena na fotografiju</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Oblačno</string>
   <string name="pref_camera_whitebalance_entry_daylight">Dnevno svjetlo</string>

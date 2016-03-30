@@ -387,7 +387,7 @@ Napustiti ovu stranicu?"</string>
   <string name="miuichromium_error_page_reload">Osvježi</string>
   <string name="miuichromium_error_page_safe_network">Siguran način</string>
   <string name="miuichromium_error_page_server_error">Previše se uređaja pokušava povezati</string>
-  <string name="miuichromium_error_page_title">Dogodila se pogreška!</string>
+  <string name="miuichromium_error_page_title">Dogodila se pogreška</string>
   <string name="miuichromium_error_page_unknown_error">Ups! Nešto je pošlo po zlu</string>
   <string name="miuichromium_error_page_wlan">Uključite WLAN</string>
   <string name="miuichromium_error_page_reason_network">"Ne mogu se povezati na mrežu"</string>
@@ -753,7 +753,7 @@ Napustiti ovu stranicu?"</string>
   <string name="video_group_noupdates_list">Nema dostupnih ažuriranja</string>
   <string name="video_group_updates_list">Ažuriranja</string>
   <string name="video_history_empty">Nema povijesti</string>
-  <string name="video_play_error">Pogreška reprodukcije videozapisa</string>
+  <string name="video_play_error">"Ne mogu reproducirati videozapis"</string>
   <string name="video_project_button">Zaustavi</string>
   <string name="video_project_msg">Videozapis se prikazuje na %s</string>
   <string name="video_project_title">Video Prikaz</string>
