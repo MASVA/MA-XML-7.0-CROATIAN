@@ -208,15 +208,15 @@
   <string name="find_password_on_web_msg">Molimo vas da posjetite account.xiaomi.com za resetiranje svoje zaporke</string>
   <string name="forget_password">Zaboravljena zaporka</string>
   <string name="get_back_pwd">Dohvaćanje zaporke računa</string>
-  <string name="forward_to_bind">Poveži</string>
+  <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovo.</string>
   <string name="ignore">Ne sada</string>
   <string name="hide_mibi_info">Podaci Mi Kredita su sakriveni</string>
   <string name="input_captcha_hint">Unesite kôd</string>
   <string name="input_email_address_notice">"Ova adresa e-pošte će biti korištena za potvrdu vašeg računa"</string>
-  <string name="internet_statement_message">Dodirom na Slažem se, prihvaćate uvjete da će ta aplikacija imati pristup internetu</string>
-  <string name="internet_statement_title">Uvjeti korištenja</string>
+  <string name="internet_statement_message">Aplikacija treba povezivanje s internetom da radi normalno.</string>
+  <string name="internet_statement_title">Potrebno povezivanje</string>
   <string name="input_password_hint">Unesite zaporku</string>
   <string name="input_vcode_hint">Unesite kôd za provjeru</string>
   <string name="just_a_second">Samo trenutak…</string>
@@ -460,8 +460,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="scan_barcode_title">Da se prijavite u svoj Mi Račun, skenirajte QR kod</string>
   <string name="security_question">Odaberite pitanje</string>
   <string name="security_question_answer">Unesite odgovor</string>
-  <string name="security_question_notice_message">Postavite sigurnosna pitanja nakon što povežete svoj telefon da budete u mogućnosti poništiti ih u slučaju da ste ih zaboravili</string>
-  <string name="security_question_notice_title">Poveži Telefon</string>
+  <string name="security_question_notice_message">Dodajte svoj telefon prije nego što postavite sigurnosna pitanja da bi mogli poništiti pitanja u slučaju da ste zaboravili odgovore.</string>
+  <string name="security_question_notice_title">Dodaj Telefon</string>
   <string name="security_question_prompt">"Sigurnosna pitanja mogu se koristiti kada promijenite ili poništite zaporku.
  Pobrinite se da zapamtite odgovore na ta pitanja."</string>
   <string name="send_email_activate_message">E-pošta provjere poslana</string>

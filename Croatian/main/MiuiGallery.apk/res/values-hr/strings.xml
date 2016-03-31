@@ -820,7 +820,7 @@ uređaja"</string>
   <string name="sepia">Sepija</string>
   <string name="set_as_baby_lock_wallpaper">Postavi za pozadinu zaklj. zaslona</string>
   <string name="set_face_group_toast_msg_new_user">Držite lice osobe za spajanje ili ignoriranje te osobe</string>
-  <string name="set_face_group_toast_msg_old_user">Držite lice osobe i označite je (obitelj, prijatelje, kolege, itd.)</string>
+  <string name="set_face_group_toast_msg_old_user">"Držite fotografiju osobe za izradu grupe (obitelj, prijatelji, kolege, itd.)</string>
   <string name="set_face_group_toast_title_new_user">Prijedlozi</string>
   <string name="set_face_group_toast_title_old_user">Osobe mogu biti organizirane u grupe</string>
   <string name="set_face_image">Postavi novu osobu</string>
