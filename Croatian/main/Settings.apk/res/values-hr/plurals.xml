@@ -124,11 +124,6 @@
         <item quantity="one">%1$d od %2$d dopuštenja odobreno</item>
         <item quantity="few">%1$d od %2$d dopuštenja odobreno</item>
      </plurals>
-     <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">%1$d otisaka prsta postavljeno</item>
-        <item quantity="one">%1$d otisak prsta postavljen</item>
-        <item quantity="few">%1$d otiska prsta postavljena</item>
-     </plurals>
      <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Promijeni na \"Samo alarmi\" u trajanju od %1$d sati do %2$s</item>
         <item quantity="one">Promijeni na \"Samo alarmi\" u trajanju od %1$d sata do %2$s</item>
