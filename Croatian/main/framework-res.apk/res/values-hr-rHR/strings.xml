@@ -243,10 +243,10 @@ koristeći %s"</string>
   <string name="ellipsis">…</string>
   <string name="ellipsis_two_dots">‥</string>
   <string name="emailTypeCustom">Prilagođeno</string>
-  <string name="emailTypeHome">Početna</string>
+  <string name="emailTypeHome">Privatna</string>
   <string name="emailTypeMobile">Mobilni</string>
   <string name="emailTypeOther">Ostalo</string>
-  <string name="emailTypeWork">Posao</string>
+  <string name="emailTypeWork">Službena</string>
   <string name="emergency_call_dialog_number_for_display">Broj hitne službe</string>
   <string name="emergency_calls_only">Samo hitni pozivi</string>
   <string name="emptyPhoneNumber">(Nema telefonskog broja)</string>
@@ -409,9 +409,9 @@ koristeći %s"</string>
   <string name="imProtocolSkype">Skype</string>
   <string name="imProtocolYahoo">Yahoo</string>
   <string name="imTypeCustom">Prilagođeno</string>
-  <string name="imTypeHome">Početna</string>
+  <string name="imTypeHome">Privatna</string>
   <string name="imTypeOther">Ostalo</string>
-  <string name="imTypeWork">Posao</string>
+  <string name="imTypeWork">Službeni</string>
   <string name="ime_action_default">Pokreni</string>
   <string name="ime_action_done">Gotovo</string>
   <string name="ime_action_go">Idi</string>
@@ -630,7 +630,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="media_bad_removal">SD Kartica uklonjena je prije isključivanja.</string>
   <string name="media_checking">USB Memorija se trenutačno provjerava.</string>
   <string name="media_removed">SD Kartica je uklonjena.</string>
-  <string name="media_route_button_content_description">Medijski izlaz</string>
+  <string name="media_route_button_content_description">Emitiranje</string>
   <string name="media_route_chooser_extended_settings">Postavke</string>
   <string name="media_route_chooser_searching">Traženje uređaja…</string>
   <string name="media_route_chooser_title">Povezivanje s uređajem</string>
@@ -1399,7 +1399,7 @@ za račun %s."</string>
   <string name="phoneTypeCustom">Prilagođeno</string>
   <string name="phoneTypeFaxHome">Faks kod kuće</string>
   <string name="phoneTypeFaxWork">Službeni faks</string>
-  <string name="phoneTypeHome">Početna</string>
+  <string name="phoneTypeHome">Privatni</string>
   <string name="phoneTypeIsdn">ISDN</string>
   <string name="phoneTypeMain">Glavni telefon</string>
   <string name="phoneTypeMms">MMS</string>
@@ -1410,13 +1410,13 @@ za račun %s."</string>
   <string name="phoneTypeRadio">Radio</string>
   <string name="phoneTypeTelex">Teleks</string>
   <string name="phoneTypeTtyTdd">TTY TDD</string>
-  <string name="phoneTypeWork">Posao</string>
-  <string name="phoneTypeWorkMobile">Poslovni mobitel</string>
+  <string name="phoneTypeWork">Službeni</string>
+  <string name="phoneTypeWorkMobile">Službeni mobitel</string>
   <string name="phoneTypeWorkPager">Poslovni dojavljivač</string>
   <string name="pinpuk_attempts">"
 Preostalo pokušaja :"</string>
   <string name="policydesc_disableCamera">Spriječite upotrebu svih kamera uređaja.</string>
-  <string name="policydesc_disableKeyguardFeatures">Sprječava se upotreba nekih značajki u zaštitnom zaključavanju tipkovnice.</string>
+  <string name="policydesc_disableKeyguardFeatures">Sprječava upotrebu nekih značajki zaključavanja zaslona.</string>
   <string name="policydesc_encryptedStorage">Zahtijevajte da pohranjeni podaci aplikacije budu šifrirani.</string>
   <string name="policydesc_expirePassword">Mijenja učestalost obaveznog mijenjanja zaporke, PIN-a ili uzorka zaključavanja zaslona.</string>
   <string name="policydesc_forceLock">Upravlja se načinom i vremenom zaključavanja zaslona.</string>
@@ -1454,7 +1454,7 @@ Preostalo pokušaja :"</string>
   <string name="progress_nomediapresent">Nema prisutnog prijenosnog medija…</string>
   <string name="progress_unmounting">Isključivanje USB pohrane…</string>
   <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
-  <string name="quick_contacts_not_available">Nema pronađene aplikacije za prikaz ovog kontakta.</string>
+  <string name="quick_contacts_not_available">Nema aplikacije za prikazivanje tog kontakta.</string>
   <string name="reason_service_unavailable">Usluga ispisa nije omogućena</string>
   <string name="reason_unknown">nepoznato</string>
   <string name="reboot_confirm">Telefon će se ponovo pokrenuti.</string>
@@ -1463,8 +1463,8 @@ Preostalo pokušaja :"</string>
   <string name="reboot_safemode_title">Ponovno pokretanje u sigurnom načinu rada</string>
   <string name="reboot_title">Ponovno pokretanje</string>
   <string name="reboot_to_reset_message">Ponovno pokretanje…</string>
-  <string name="reboot_to_reset_title">Vraćanje tvorničkih postavki</string>
-  <string name="reboot_to_update_package">Obrada paketa ažuriranja…</string>
+  <string name="reboot_to_reset_title">Vraćanje na tvorničko stanje</string>
+  <string name="reboot_to_update_package">Obrada paketa za ažuriranje…</string>
   <string name="reboot_to_update_prepare">Priprema za ažuriranje…</string>
   <string name="reboot_to_update_reboot">Ponovno pokretanje…</string>
   <string name="reboot_to_update_title">Ažuriranje sustava Android</string>
@@ -1502,7 +1502,7 @@ Preostalo pokušaja :"</string>
   <string name="ringtone_default">Zadana melodija zvona</string>
   <string name="ringtone_default_with_actual">Zadana melodija zvona (%1$s)</string>
   <string name="ringtone_picker_title">Melodije zvona</string>
-  <string name="ringtone_silent">Nijedan</string>
+  <string name="ringtone_silent">Nijedna</string>
   <string name="ringtone_unknown">Nepoznata melodija zvona</string>
   <string name="roamingText0">Pokazivač roaminga je uključen</string>
   <string name="roamingText1">Isključen pokazivač roaminga</string>
@@ -1603,7 +1603,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="sms_short_code_confirm_deny">Odustani</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; želi poslati poruku na &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Ne dopuštaj nikada</string>
-  <string name="sms_short_code_details">Ovo će se možda naplaćivati putem vašeg mobilnog računa.</string>
+  <string name="sms_short_code_details">To će se možda naplaćivati putem vašeg mobilnog računa.</string>
   <string name="sms_short_code_remember_choice">Zapamti odabir</string>
   <string name="sms_short_code_remember_undo_instruction">Kasnije to možete promijeniti u odjeljku Postavke &gt; Aplikacije</string>
   <string name="smv_application">Aplikacija %1$s (proces %2$s) prekršila je vlastito pravilo StrictMode.</string>
@@ -1615,12 +1615,12 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="ssl_certificate">Sigurnosni certifikat</string>
   <string name="ssl_certificate_is_valid">Ovaj je certifikat valjan.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="stk_cc_ss_to_dial">SS zahtjev je izmjenjen za DIAL zahtjev.</string>
-  <string name="stk_cc_ss_to_ss">SS zahtjev je izmjenjen za novi SS zahtjev.</string>
-  <string name="stk_cc_ss_to_ussd">SS zahtjev je izmjenjen za USSD zahtjev.</string>
-  <string name="stk_cc_ussd_to_dial">USSD zahtjev je izmjenjen za DIAL zahtjev.</string>
-  <string name="stk_cc_ussd_to_ss">USSD zahtjev je izmjenjen za SS zahtjev.</string>
-  <string name="stk_cc_ussd_to_ussd">USSD zahtjev je izmjenjen za novi USSD zahtjev.</string>
+  <string name="stk_cc_ss_to_dial">SS zahtjev izmijenjen je u DIAL zahtjev.</string>
+  <string name="stk_cc_ss_to_ss">SS zahtjev izmijenjen je u novi SS zahtjev.</string>
+  <string name="stk_cc_ss_to_ussd">SS zahtjev izmijenjen je u USSD zahtjev.</string>
+  <string name="stk_cc_ussd_to_dial">USSD zahtjev izmijenjen je u DIAL zahtjev.</string>
+  <string name="stk_cc_ussd_to_ss">USSD zahtjev izmijenjen je u SS zahtjev.</string>
+  <string name="stk_cc_ussd_to_ussd">USSD zahtjev izmijenjen je u novi USSD zahtjev.</string>
   <string name="storage_external_usb">Vanjski USB prostor za pohranu</string>
   <string name="storage_ic_usb1">Vanjska IC-USB pohrana1</string>
   <string name="storage_ic_usb2">Vanjska IC-USB pohrana2</string>
@@ -1696,7 +1696,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="usb_storage_title">USB povezan</string>
   <string name="use_a_different_app">Upotrijebite neku drugu aplikaciju</string>
   <string name="use_physical_keyboard">Fizička tipkovnica</string>
-  <string name="user_owner_label">Osobne aplikacije</string>
+  <string name="user_owner_label">Osobno</string>
   <string name="user_switched">Trenutni korisnik %1$s.</string>
   <string name="user_switching_message">Prebacivanje na korisnika %1$s…</string>
   <string name="validity_period">Vrijedi do:</string>

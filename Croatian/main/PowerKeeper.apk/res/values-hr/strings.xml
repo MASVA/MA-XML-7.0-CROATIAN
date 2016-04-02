@@ -27,7 +27,7 @@
   <string name="config_restrict_running_title">Ograniči aktivnosti u pozadini</string>
   <string name="config_suggest_description">"Identificiraj aplikacije i aktivnosti da se zadrže važni procesi pokrenutima.
 Štednja baterije će tretirati važne aplikacija selektivno."</string>
-  <string name="config_suggest_suffix_title">MIUI Štednja baterije (recommended)</string>
+  <string name="config_suggest_suffix_title">MIUI Štednja baterije (preporuka)</string>
   <string name="config_suggest_title">MIUI Štednja baterije</string>
   <string name="config_custom_description">"Ako predložene konfiguracije ne zadovoljavaju vaše potrebe, možete ih prilagoditi"</string>
   <string name="config_custom_title">Prilagođeno</string>

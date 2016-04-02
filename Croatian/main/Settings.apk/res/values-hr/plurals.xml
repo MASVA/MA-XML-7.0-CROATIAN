@@ -11,30 +11,42 @@
     <plurals name="show_dev_countdown">
         <item quantity="other">Još %1$d koraka i postat ćete razvojni programer.</item>
         <item quantity="one">Još %1$d korak i postat ćete razvojni programer.</item>
+        <item quantity="few">Još %1$d koraka i postat ćete razvojni programer.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d otisaka prsta postavljeno</item>
+        <item quantity="one">%1$d otisak prsta postavljen</item>
+        <item quantity="few">%1$d otiska prsta postavljena</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Zaporka mora sadržavati barem ovoliko (%d) slova</item>
         <item quantity="one">Zaporka mora sadržavati barem jedno slovo.</item>
+        <item quantity="few">Zaporka mora sadržavati barem %d slova.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">Zaporka mora sadržavati barem ovoliko (%d) malih slova</item>
         <item quantity="one">Zaporka mora sadržavati barem jedno malo slovo.</item>
+        <item quantity="few">Zaporka mora sadržavati barem %d mala slova.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
         <item quantity="other">Zaporka mora sadržavati barem ovoliko (%d) velikih slova</item>
         <item quantity="one">Zaporka mora sadržavati barem jedno veliko slovo.</item>
+        <item quantity="few">Zaporka mora sadržavati barem %d velika slova.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">Zaporka mora sadržavati barem ovoliko (%d) brojčanih znamenki</item>
         <item quantity="one">Zaporka mora sadržavati barem jednu brojčanu znamenku.</item>
+        <item quantity="few">Zaporka mora sadržavati barem %d znamenke.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
         <item quantity="other">Zaporka mora sadržavati barem ovoliko (%d) posebnih znakova</item>
         <item quantity="one">Zaporka mora sadržavati barem jedan posebni simbol.</item>
+        <item quantity="few">Zaporka mora sadržavati barem %d posebna simbola.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Zaporka mora sadržavati barem ovoliko (%d )znakova koji nisu slova</item>
         <item quantity="one">Zaporka mora sadržavati barem jedan znak koji nije slovo.</item>
+        <item quantity="few">Zaporka mora sadržavati barem %d znaka koji nisu slova.</item>
     </plurals>
    <plurals name="power_center_battery_day">
         <item quantity="other">"%ddana "</item>
@@ -51,6 +63,7 @@
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">Ovoliko aplikacija (%d) može čitati obavijesti</item>
         <item quantity="one">%d aplikacija može čitati obavijesti</item>
+        <item quantity="few">%d aplikacije mogu čitati obavijesti</item>
     </plurals>
 	<plurals name="manage_condition_providers_summary_nonzero">
         <item quantity="other">Broj aplikacija koje pružaju uvjete: %d</item>
@@ -59,7 +72,8 @@
     <plurals name="wrong_pin_code">
         <item quantity="other">Netočan PIN kôd SIM kartice; imate još ovoliko preostalih pokušaja: %d.</item>
         <item quantity="one">Netočan PIN kôd SIM kartice; imate još %d pokušaj prije nego što budete morali kontaktirati svog mobilnog operatera da bi otključao vaš uređaj.</item>
-    </plurals>
+        <item quantity="few">Netočan PIN kôd SIM kartice; imate još %d pokušaja.</item>
+	</plurals>
 	<plurals name="show_pho_countdown">
         <item quantity="other">"Još %1$d koraka od ulaska u informacije o telefonu."</item>
         <item quantity="one">"Još %1$d korak do ulaska u informacije o telefonu."</item>

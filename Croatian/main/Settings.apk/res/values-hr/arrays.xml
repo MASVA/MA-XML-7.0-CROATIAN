@@ -116,7 +116,7 @@
         <item>2 minute</item>
         <item>5 minuta</item>
         <item>1 sat</item>
-        <item>Bez vremenskog ograničenja</item>
+        <item>Nikada ne istječe</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Loše</item>
@@ -131,7 +131,7 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Uvijek</item>
-        <item>Samo kad je uključeno</item>
+        <item>Samo kad je priključen na napajanje</item>
         <item>Nikad</item>
     </string-array>
 	<string-array name="data_usage_data_range">
@@ -171,7 +171,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Ništa</item>
         <item>Ručno</item>
-        <item>Proxy Auto-Config</item>
+        <item>Autom. konfig. proxyja</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Ništa</item>
@@ -208,9 +208,9 @@
         <item>gps</item>
         <item>vibriranje</item>
         <item>čitanje kontakata</item>
-        <item>pisanje kontakata</item>
+        <item>izmjena kontakata</item>
         <item>čitanje zapisnika poziva</item>
-        <item>pisanje zapisnika poziva</item>
+        <item>izmjena zapisnika poziva</item>
         <item>čitanje kalendara</item>
         <item>izmjena kalendara</item>
         <item>skeniranje WLAN-a</item>
@@ -406,40 +406,44 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacija isključena</item>
-        <item>Animacija razmjera 0,5x</item>
-        <item>Animacija razmjera 1x</item>
-        <item>Animacija razmjera 1,5x</item>
-        <item>Animacija razmjera 2x</item>
-        <item>Animacija razmjera 5x</item>
-        <item>Animacija razmjera 10x</item>
+        <item>Brzina animacije 0,5x</item>
+        <item>Brzina animacije 1x</item>
+        <item>Brzina animacije 1,5x</item>
+        <item>Brzina animacije 2x</item>
+        <item>Brzina animacije 5x</item>
+        <item>Brzina animacije 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animacija isključena</item>
-        <item>Animacija razmjera 0,5x</item>
-        <item>Animacija razmjera 1x</item>
-        <item>Animacija razmjera 1,5x</item>
-        <item>Animacija razmjera 2x</item>
-        <item>Animacija razmjera 5x</item>
-        <item>Animacija razmjera 10x</item>
+        <item>Brzina animacije 0,5x</item>
+        <item>Brzina animacije 1x</item>
+        <item>Brzina animacije 1,5x</item>
+        <item>Brzina animacije 2x</item>
+        <item>Brzina animacije 5x</item>
+        <item>Brzina animacije 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animacija isključena</item>
-        <item>Animacija razmjera 0,5x</item>
-        <item>Animacija razmjera 1x</item>
-        <item>Animacija razmjera 1,5x</item>
-        <item>Animacija razmjera 2x</item>
-        <item>Animacija razmjera 5x</item>
-        <item>Animacija razmjera 10x</item>
+        <item>Brzina animacije 0,5x</item>
+        <item>Brzina animacije 1x</item>
+        <item>Brzina animacije 1,5x</item>
+        <item>Brzina animacije 2x</item>
+        <item>Brzina animacije 5x</item>
+        <item>Brzina animacije 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Ništa</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (sigurno)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (sigurno)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (sigurno)</item>
-        <item>1280 x 720 tvdpi, 1920 x 1080 xhdpi</item>
+        <item>480 p</item>
+        <item>480 p (sigurno)</item>
+        <item>720 p</item>
+        <item>720 p (sigurno)</item>
+        <item>1080 p</item>
+        <item>1080 p (sigurno)</item>
+        <item>4000</item>
+        <item>4000 (sigurno)</item>
+        <item>4000 (povećanje razlučivosti)</item>
+        <item>4000 (poveć. razlučiv., sigurno)</item>
+        <item>720 p, 1080 p (dvojni zaslon)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Ništa</item>
@@ -454,7 +458,7 @@
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Isključeno</item>
-        <item>Na zaslonu u obliku crta</item>
+        <item>Na zaslonu u obliku traka</item>
         <item>U naredbi adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
@@ -463,7 +467,7 @@
         <item>Prikaži područja za deuteranomaliju</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standardna granica</item>
+        <item>Standardno ograničenje</item>
         <item>Nema pozadinskih procesa</item>
         <item>Najviše 1 proces</item>
         <item>Najviše 2 procesa</item>
