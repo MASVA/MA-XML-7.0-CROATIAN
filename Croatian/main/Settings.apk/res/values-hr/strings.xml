@@ -387,7 +387,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="battery_info_power_unknown">Nepoznato</string>
   <string name="battery_info_power_unplugged">Isključeno</string>
   <string name="battery_info_power_usb">USB</string>
-  <string name="battery_info_power_wireless">bežično povezivanje</string>
+  <string name="battery_info_power_wireless">Bežično povezivanje</string>
   <string name="battery_info_scale_label">Baterijska skala:</string>
   <string name="battery_info_screen_on">Zaslonsko vrijeme uključenosti:</string>
   <string name="battery_info_status_charging">Punjenje</string>
@@ -1093,6 +1093,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Telefonski broj, signal itd.</string>
+  <string name="dial_application_title">Biraj</string>
   <string name="dial_pad_tones_title">Tonovi brojčanika</string>
   <string name="dialog_content_login">Potreban je Mi Račun za ažuriranja, sigurno se želite prijaviti?</string>
   <string name="dialog_no">"Ne"</string>
@@ -1118,7 +1119,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
   <string name="disable_power_key_long_press_under_keyguard">Isključi izbornik tipke za uključivanje</string>
   <string name="disable_service_message">Ako dodirnete \"U redu\", usluga %1$s će se zaustaviti.</string>
-  <string name="disable_service_title">Želite li zaustaviti uslugu %1$s?</string>
+  <string name="disable_service_title">Želite li zaustaviti %1$s?</string>
   <string name="disable_text">Onemogući</string>
   <string name="disabled">Onemogućeno</string>
   <string name="disabled_because_no_backup_security">Za upotrebu prvo postavite zaključavanje zaslona</string>
@@ -1399,6 +1400,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_enable_keyguard_toggle_title">zaključavanje zaslona</string>
   <string name="fingerprint_enroll_button_add">Dodaj drugo</string>
   <string name="fingerprint_enroll_button_next">Dalje</string>
+  <string name="fingerprint_for_keyguard_disabled">Otisak prsta je onemogućen od strane sigurnosnih postavki.</string>
   <string name="fingerprint_identificating_msg">Skeniranje otiska prsta…</string>
   <string name="fingerprint_identify_input_password_msg">Unesite zaporku</string>
   <string name="fingerprint_identify_msg">Skeniranje otiska prsta…</string>
@@ -1660,6 +1662,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="kernel_version">Verzija jezgre</string>
+  <string name="key_position_cat">Položaj tipki</string>
   <string name="key_settings">Tipke</string>
   <string name="key_settings_title">Tipke</string>
   <string name="keyboard_layout_default_label">Zadano</string>
@@ -2361,10 +2364,10 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="page_layout_confirm_message">"Vaš uređaj se mora ponovno pokrenuti za primjenu ovih izmjena. To traje oko 1 minutu."</string>
   <string name="page_layout_confirm_title">Promjena postavki prikaza</string>
   <string name="page_layout_godzilla_title">XXL</string>
-  <string name="page_layout_huge_title">Extra velik</string>
-  <string name="page_layout_large_title">Veliki</string>
-  <string name="page_layout_medium_title">Srednji</string>
-  <string name="page_layout_normal_title">Maleni</string>
+  <string name="page_layout_huge_title">XL</string>
+  <string name="page_layout_large_title">L</string>
+  <string name="page_layout_medium_title">M</string>
+  <string name="page_layout_normal_title">S</string>
   <string name="page_layout_page2_godzilla_summary">XXL</string>
   <string name="page_layout_page2_godzilla_title">XXL</string>
   <string name="page_layout_page2_huge_summary">Extra velik</string>
@@ -2378,7 +2381,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="page_layout_page2_small_summary">Extra malen</string>
   <string name="page_layout_page2_small_title">Extra malen</string>
   <string name="page_layout_page2_title">Pregled</string>
-  <string name="page_layout_small_title">Extra malen</string>
+  <string name="page_layout_small_title">XS</string>
   <string name="passpoint_content">%1$s vjerodajnice</string>
   <string name="passpoint_label">Spremljeno putem</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
@@ -2551,7 +2554,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="preferred_sms_settings">Ova aplikacija će biti postavljena kao zadana aplikacija za čitanje i pisanje SMS poruka.</string>
   <string name="preferred_sms_title">Zadana aplikacija SMS-a</string>
   <string name="preferred_sms_warning_message">Korištenje \"%1$s\" kao zadane aplikacija za razmjenu poruka može povećati mobilnu uporabu podataka ili ugroziti sigurnost vaših podataka.</string>
-  <string name="preferred_sms_warning_use_system">"Nemoj upotrijebiti"</string>
+  <string name="preferred_sms_warning_use_system">"Nemoj koristiti"</string>
   <string name="primary_sub_select_title">Zadana 4G/3G Pretplata</string>
   <string name="print_blocked_state_title_template">Pisač je blokirao %1$s</string>
   <string name="print_cancel">Odustani</string>
@@ -2846,6 +2849,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_key_long_press">Dugi pritisak na navigacijske tipke</string>
   <string name="screen_key_long_press_action">Pokreni funkciju</string>
   <string name="screen_key_long_press_timeout">Postavi vrijeme dugog pritiska</string>
+  <string name="screen_key_position">Navigacijske tipke</string>
   <string name="screen_key_press">Pritisnite navigacijske tipke</string>
   <string name="screen_key_press_action">Funkcije pritiska</string>
   <string name="screen_locking_sounds_title">Zvukovi zaključavanja zaslona</string>
@@ -3015,7 +3019,7 @@ Za prikvačivanje zaslona:
   <string name="search_wifi_display">Bežični zaslon</string>
   <string name="search_wifi_more_settings">Više;Zrakoplovni način;VPN;Dijeljenje veze &amp; prijenosni hotspot;Bežični zaslon;Međunarodni mobilni podaci;NFC;Android Beam;Osiguraj položaj elementa</string>
   <string name="search_xiaomi_account">Mi Račun</string>
-  <string name="secure_keyguard_business_title">&gt;Postavi zaklj. zaslona</string>
+  <string name="secure_keyguard_business_title">Postavi zaklj. zaslona</string>
   <string name="secure_lock_encryption_warning">Budući da ste uključili uslugu pristupačnosti, vaš uređaj neće upotrebljavati PIN ili zaporku za zaključavanje zaslona za bolje šifriranje podataka.</string>
   <string name="security_enable_widgets_disabled_summary">Onemogućio administrator</string>
   <string name="security_enable_widgets_title">Omogući widgete</string>
@@ -3025,8 +3029,8 @@ Za prikvačivanje zaslona:
   <string name="security_patch">Razina Androidove sigurnosne zakrpe</string>
   <string name="security_privacy_settings_title">Privatnost</string>
   <string name="security_relative">Sigurnost</string>
-  <string name="security_settings_billing_desc">Ova aplikacija može naplaćivati upotrebu:</string>
-  <string name="security_settings_desc">Ova aplikacija može pristupiti sljedećem na vašem telefonu:</string>
+  <string name="security_settings_billing_desc">Ta aplikacija može naplaćivati upotrebu:</string>
+  <string name="security_settings_desc">Ta aplikacija može pristupiti sljedećem na vašem telefonu:</string>
   <string name="security_settings_desc_multi">Ta aplikacija može pristupiti sljedećim stavkama na vašem telefonu. Radi poboljšanja uspješnosti i smanjenja upotrebe memorije neke od tih dozvola dostupne su aplikaciji %1$s jer izvodi isti proces kao i %2$s:</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">Izbriši</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Naziv</string>
@@ -4496,10 +4500,10 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="zen_mode_events">Događaji i podsjetnici</string>
   <string name="zen_mode_from">Pozivi/poruke od kontakta</string>
   <string name="zen_mode_from_anyone">Od svakoga</string>
-  <string name="zen_mode_from_call">"Calls from "</string>
+  <string name="zen_mode_from_call">"Pozivi od "</string>
   <string name="zen_mode_from_contacts">Samo iz kontakata</string>
   <string name="zen_mode_from_none">Ništa</string>
-  <string name="zen_mode_from_sms">"Messages from "</string>
+  <string name="zen_mode_from_sms">"Poruke od "</string>
   <string name="zen_mode_from_starred">Samo od kontakata sa zvjezdicom</string>
   <string name="zen_mode_important_category">Prioritetni prekidi</string>
   <string name="zen_mode_messages">Poruke</string>

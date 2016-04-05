@@ -810,4 +810,8 @@
         <item>WLAN preferirano</item>
         <item>Mreža preferirano</item>
      </string-array>
+	 <string-array name="screen_key_position_action">
+        <item>Tipka Izbornik na lijevo, Tipka Natrag na desno</item>
+        <item>Tipka Natrag na lijevo, Tipka Izbornik na desno</item>
+      </string-array>		     
 </resources>
