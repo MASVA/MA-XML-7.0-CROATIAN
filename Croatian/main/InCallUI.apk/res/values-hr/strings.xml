@@ -100,7 +100,7 @@
   <string name="call_title_redialing_with_times_miui">%d puta ponovno pozvano</string>
   <string name="caller_manage_header">Konferencijski poziv %s</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
-  <string name="can_not_call_oneself">"Ne mogu dovršiti poziv na ovaj broj"</string>
+  <string name="can_not_call_oneself">"Ne mogu nazvati taj broj"</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_call">Poklopi</string>
   <string name="card_title_call_ended">"Poziv završen "</string>

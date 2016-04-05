@@ -116,7 +116,7 @@
   <string name="files_backup_info">Sve datoteke na SD kartici (uključujući fotografije, pjesme, videozapise, podatke aplikacija, itd.)</string>
   <string name="findlost_contact">Vrati kontakte</string>
   <string name="findlost_contact_online">Vrati kontakte s Mi Clouda</string>
-  <string name="guarded_mode_dialog_message">Ova funkcija nije dopuštena u "Gost" načinu rada</string>
+  <string name="guarded_mode_dialog_backup_message">Izrada Sig. kopije nije dozvoljena u Gost načinu rada.</string>
   <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite Mi Talk aplikaciju i prijavite se.
 \u0009http://www.miliao.com
@@ -140,6 +140,8 @@
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mms_title">MMS</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
+  <string name="multi_user_mode_dialog_message">"Ne mogu koristiti Mi Mover u Gost načinu rada. Isključite Multi-korisnik način za nastavak.."</string>
+  <string name="multi_user_mode_dialog_title">"Vi ste u Multi-korisnik načinu rada"</string>
   <string name="never">Nikad</string>
   <string name="new_backup">Sig. kopija</string>
   <string name="no_encrypt_password">Nema zaporki</string>
@@ -253,7 +255,7 @@
   <string name="trans_cancelling">Otkazivanje…</string>
   <string name="trans_connection_failed">Uređaj nije povezan</string>
   <string name="trans_connect_failed_message">"Ne mogu se povezati. Pokušajte ponovno ili ponovno pokrenite uređaj. Na drugom uređaju idite u Postavke &gt; Dodatne Postavke &gt; Mi Mover i dodirnite [Ja sam pošiljatelj], ili opet pokrenite Mi Mover nakon ponovnog pokretanja uređaja"</string>
-  <string name="trans_connect_failed_title">"Povezivanje nije uspjelo"</string>
+  <string name="trans_connect_failed_title">"Ne mogu se povezati"</string>
   <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>
   <string name="trans_connecting_toast">Povezivanje…</string>
   <string name="trans_detail_category_account">Računi i kontakti</string>
@@ -332,7 +334,7 @@ I Mi Mover uključen"</string>
   <string name="unknown_hint">Nepoznato</string>
   <string name="user_notice_declaration_ignore">"Ne prikazuj ponovno"</string>
   <string name="user_notice_message">Neke značajke zahtijevaju povezivanje s internetom da rade normalno.</string>
-  <string name="user_notice_title">Obavijesti korisnika</string>
+  <string name="user_notice_title">Pažnja</string>
   <string name="wifi_title">Postavke WLAN-a</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>

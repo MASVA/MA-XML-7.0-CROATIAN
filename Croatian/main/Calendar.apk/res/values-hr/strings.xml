@@ -441,7 +441,7 @@
   <string name="user_notice_button_exit">Izlaz</string>
   <string name="user_notice_button_ok">U redu</string>
   <string name="user_notice_declaration_ignore">"Ne prikazuj ponovo"</string>
-  <string name="user_notice_message">"Korištenjem ovog proizvoda, pristajete na Xiaomi %1$s i %2$s. Neke značajke trebaju povezivanje s internetom, pristup sms-u i kontaktima za normalan rad."</string>
+  <string name="user_notice_message">"Korištenjem ovog proizvoda, pristajete na Xiaomi %1$s i %2$s. Neke značajke trebaju povezivanje s internetom, pristup lokaciji, kontaktima i SMS-u za normalan rad."</string>
   <string name="user_notice_title">Obavijesti korisnika</string>
   <string name="user_notification">Obavijesti</string>
   <string name="user_notification_descrip">Prikaži obavijesti svaki put kada otvorite Kalendar</string>

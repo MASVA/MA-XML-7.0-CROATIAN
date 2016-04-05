@@ -156,7 +156,7 @@
   <string name="backup_only_in_wifi">Koristi samo WLAN za izradu Sig. kopije fotografija i videozapisa</string>
   <string name="backup_only_in_wifi_summary">Nikad ne koristi mobilne podatke za izradu Sig. kopije fotografija i videozapisa</string>
   <string name="begin_share">Napravljen Dječji album \"%s\", sada ga možete podijeliti</string>
-  <string name="begin_share_toast">Sustav će napraviti dječji album za na ovo dijete. Onda ćete biti u mogućnosti podijeliti ga.</string>
+  <string name="begin_share_toast">Napraviti zaseban album za ovo dijete prije dijeljenja?</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
   <string name="baidu_flyflow_downloads">Baidu Preglednik</string>
   <string name="beautyphone">Beauty Telefon</string>
@@ -379,7 +379,7 @@
   <string name="face_album_detecting_tip">Samo trenutak…</string>
   <string name="face_album_empty">Prazno</string>
   <string name="face_album_empty_syncing">Sinkr. podataka</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">Sinkr. osoba kada je uređaj povezan na WLAN</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Sink. albume s osobama kada je povezano na WLAN</string>
   <string name="external_sd_card">SD kartica</string>
   <string name="external_sdcard_root">Root direktorij vanjske SD kartice</string>
   <string name="external_usb_device">USB pohrana</string>

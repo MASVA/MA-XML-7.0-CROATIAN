@@ -40,7 +40,7 @@
   <string name="loading">Samo trenutak…</string>
   <string name="menu_help">Pomoć</string>
   <string name="menu_settings">Postavke pretraživanja</string>
-  <string name="network_unavailable">Nistee povezani na internet</string>
+  <string name="network_unavailable">"Ne mogu se povezati na mrežu"</string>
   <string name="recently_shortcut_label">Nedavni prečaci</string>
   <string name="remove_from_history">Uklanjanje stavke iz povijesti</string>
   <string name="remove_from_history_failed">"Ne mogu ukloniti stavku iz povijesti"</string>

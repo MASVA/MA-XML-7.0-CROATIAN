@@ -136,7 +136,7 @@
   <string name="empty_title_ad">Nema pronađenih reklama</string>
   <string name="empty_title_apk">Nema instaliranih paketa</string>
   <string name="empty_title_garbage_cache">Nema ništa za čistiti</string>
-  <string name="empty_title_garbage_white_list">Nema iznimaka</string>
+  <string name="empty_title_garbage_white_list">Dugi pritisak za dodavanje iznimke.</string>
   <string name="empty_title_installed_apps">Prazno</string>
   <string name="empty_title_large_files">Prazno</string>
   <string name="empty_title_residual">Nema ostataka</string>
@@ -222,6 +222,8 @@
   <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
   <string name="load_only_under_wlan">Učitaj vijesti kada je povezano na WLAN</string>
   <string name="login_immediately">Prijavite se</string>
+  <string name="long_click_dialog_summary">Dugi pritisak za dodavanje u iznimke.</string>
+  <string name="long_click_dialog_title">Obavijest</string>
   <string name="mainbtn_text_quick_cleanup">Očisti %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Očisti</string>
   <string name="memeory_check_content">%1$d aplik., memorija %2$s</string>
@@ -239,7 +241,8 @@
   <string name="net_assistant_detail">Iskorišteno %1$s, ušteđeno %2$s</string>
   <string name="net_assistant_title">Iskorišteno %s mob. pod. ovaj mjesec</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
-  <string name="no_network">"Ne mogu se povezati s mrežom, pokušajte ponovno kasnije"</string>
+  <string name="news_change">Promjeni</string>
+  <string name="no_network">"Ne mogu se povezati na mrežu, pokušajte ponovno kasnije"</string>
   <string name="no_network_btn">Pokušajte ponovno</string>
   <string name="notification_summary_after_auto_cleanup">Očišćeno %s.</string>
   <string name="notification_summary_of_apps_cleanup">Nekorištene aplikacije zauzimanju %s prostora za pohranu</string>
@@ -252,13 +255,15 @@
   <string name="open_browser">Otvori u pregledniku</string>
   <string name="optimizecenter_data_support">Powered by Clean Master</string>
   <string name="positive_confirm">U redu</string>
-  <string name="pref_category_title_auto_clean_settings">Raspored</string>
+  <string name="pref_category_title_auto_clean_settings">Očisti automatski</string>
   <string name="pref_category_title_auto_update_cleanup_db">Dodatne postavke</string>
   <string name="pref_category_title_cleanup_white_list">Iznimke</string>
   <string name="pref_category_title_garbage_cleanup_check">Obavijesti</string>
   <string name="pref_category_title_other_clean_settings">Dodatne postavke</string>
   <string name="pref_content_cleanup_white_list_none">Ništa</string>
+  <string name="pref_section_auto_clean_and_alert">Očisti automatski</string>
   <string name="pref_summary_auto_clean_and_alert">Postavi automatsko pokretanje čistača prema rasporedu</string>
+  <string name="pref_summary_auto_deepclean_and_alert">Obavijest neiskorištenih aplikacija</string>
   <string name="pref_summary_auto_update_cleanup_db">Zadnje ažuriranje %s</string>
   <string name="pref_summary_cleanup_white_list">Spriječi odabrane aplikacije od čišćenja</string>
   <string name="pref_summary_expand_cache_group">Prikaži pojedinosti predmemorije automatski</string>
@@ -273,7 +278,7 @@
   <string name="pref_title_apps_cleanup_size">Kada dosegne veličinu predmemorije</string>
   <string name="pref_title_auto_clean_and_alert">Očisti automatski</string>
   <string name="pref_title_auto_clean_content_choose">Odaberi stavke za čišćenje</string>
-  <string name="pref_title_auto_deepclean_and_alert">Obavijest neiskorištenih aplikacija</string>
+  <string name="pref_title_auto_deepclean_and_alert">Temeljito čišćenje</string>
   <string name="pref_title_auto_update_cleanup_db">Automatski ažuriraj</string>
   <string name="pref_title_cleanup_white_list">Iznimke</string>
   <string name="pref_title_expand_cache_group">Prikaži stavke predmemorije</string>
@@ -284,7 +289,7 @@
   <string name="pref_title_garbage_process_mode">Obavijesti</string>
   <string name="pref_title_manual_check_cleanup_db_update">Provjeri za ažuriranja</string>
   <string name="pref_title_open_optimizer_cloud_scan">Učitaj nazive datoteka</string>
-  <string name="pref_title_open_optimizer_memory_scan">Odaberite aplikacije automatski</string>
+  <string name="pref_title_open_optimizer_memory_scan">Skeniraj memoriju aplikacije</string>
   <string name="privacy_app_desc">Račun i zaporka</string>
   <string name="privacy_app_desc_message">Račun, zaporke i poruke</string>
   <string name="privacy_app_desc_search">Račun, zaporke i povijest pretraživanja</string>
@@ -323,7 +328,8 @@
   <string name="summary_delete_video">&gt;Trajno izbrisati odabrane videozapise?</string>
   <string name="summary_optimizer">"Ova značajka učitava nazive nepoznatih datoteka da ažurira Cheetah Mobile online bazu podataka te zahtijeva ID vašeg uređaja."</string>
   <string name="text_optimizer">Učitaj nazive mapa</string>
-  <string name="there_is_no">Sve izgleda dobro, vratiti se kasnije</string>
+  <string name="there_is_no">Sve izgleda dobro, vratite se kasnije</string>
+  <string name="tips_of_app_manage">Izbrišite rijetko korištene aplikacije za uštedite prostor za pohranu</string>
   <string name="tips_of_auto_launch_manage">Spriječite rijetko korištene aplikacije od automatskog pokretanja</string>
   <string name="tips_of_cloud_service">Prijavite se sa svojim Mi Računom da koristite više Mi Usluga</string>
   <string name="tips_of_connect">Povežite se na Internet da koristite cijeli set značajki sigurnosti</string>
@@ -340,6 +346,7 @@
   <string name="title_delete_clipboard">Sadržaj međuspremnika</string>
   <string name="title_delete_deepclean">Izbriši</string>
   <string name="title_delete_large_file">Izbriši velike datoteke</string>
+  <string name="title_of_app_manage">Aplik.</string>
   <string name="title_of_auto_launch_manage">Autostart</string>
   <string name="title_of_cloud_service">Cloud usluge</string>
   <string name="title_of_garbage_cloud_scan">Cloud skeniranje</string>

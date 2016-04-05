@@ -160,6 +160,7 @@ ili unesite zaporku"</string>
   <string name="button_text_uninstall_shortcut">Ukloni prečac s Početnog zaslona</string>
   <string name="button_text_view">Optimiziraj</string>
   <string name="button_text_view_power">Prikaži</string>
+  <string name="byteShort">B</string>
   <string name="cache_header_title">Obrisano %1$d datoteka memorije za oslobođenje %2$s</string>
   <string name="call_and_contact">Pozivi i Kontakti</string>
   <string name="cancal_to_setting_fingerprint">Odustani</string>
@@ -339,6 +340,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="free_time_traffic_settings">Isklj. maks. ograničenja podataka</string>
   <string name="free_time_traffic_title">Unesite Isklj. maks. ograničenje podataka</string>
   <string name="free_traffic_settings">Postavke Isklj. maks. ograničenja</string>
+  <string name="gigabyteShort">GB</string>
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovo.</string>
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
   <string name="gateway_exception_title">Test routera</string>
@@ -407,6 +409,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="item_usb_debug">USB uklanjanje pogrešaka</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Ažuriraj definiciju virusa automatski</string>
+  <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">Kb/s</string>
   <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
   <string name="last_check_date_today">"Skenirano danas "</string>
@@ -450,6 +453,10 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Previše netočnih pokušaja!</string>
   <string name="lockpattern_tutorial_cancel_label">Odustani</string>
   <string name="lockpattern_tutorial_continue_label">Dalje</string>
+  <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>
+  <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>
+  <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
+  <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
   <string name="lockscreen_glogin_checking_password">Provjera…</string>
   <string name="lockscreen_glogin_password_hint">Zaporka</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
@@ -501,6 +508,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="manual_item_white_list_summary">Spriječi odabrane aplikacije od optimiziranja</string>
   <string name="manual_item_white_list_title">Iznimke</string>
   <string name="manual_white_list_header">Iznimaka: %d</string>
+  <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">Mb/s</string>
   <string name="memory_check_content_none">Prazno</string>
   <string name="menu_item_about_content">Verzija %s</string>
