@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Računi</string>
+  <string name="aaid_info">"
+ Identifikator oglašavanja je stalni ID jedinstven za vaš uređaj. Dobavljači ga koriste za odabir reklamnog sadržaja koji će vam biti koristan.
+ 
+ Ako ne želite koristiti prilagođene oglase, količina oglašavanja neće biti smanjena, ali količina oglasa korisna za vas će se značajno smanjiti."</string>
   <string name="about_settings">O uređaju</string>
   <string name="about_settings_summary">Prikaži pravne informacije, status, verziju softvera</string>
   <string name="ac_enable_summary">Zaporka će biti potrebna za otvaranje aplikacije</string>
@@ -90,6 +94,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="active_input_method_subtypes">Aktivni načini unosa</string>
   <string name="activity_not_found">Aplikacija nije instalirana na vašem telefonu.</string>
   <string name="activity_picker_label">Odabir aktivnosti</string>
+  <string name="ad_service">Usluge oglasa</string>
   <string name="adb_keys_warning_message">Želite li opozvati pristup uklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
   <string name="adb_warning_message">Uklanjanje pogrešaka putem USB-a namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaju bez obavijesti i za čitanje dnevničkih zapisa.</string>
   <string name="adb_warning_title">Omogućiti uklanjanje pogrešaka putem USB-a?</string>
@@ -824,6 +829,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="confirm_fingerprint_icon_content_description">Nastavite pomoću otiska prsta.</string>
   <string name="confirm_fingerprint_msg">Stavite prst na čitač otisaka prstiju</string>
   <string name="confirm_new_backup_pw_prompt">Ovdje ponovo unesite novu zaporku za potpunu sigurnosnu kopiju</string>
+  <string name="confirm_reset_aaid">U redu</string>
   <string name="connect_to_internet">Poveži se na internet</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
   <string name="connected_via_wfa">Povezani putem pomoćnika za WLAN</string>
@@ -2749,6 +2755,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="remove_managed_profile_label">Ukloni radni profil</string>
   <string name="repeat">Ponovi</string>
   <string name="repeat_title">Ponovi</string>
+  <string name="reset_aaid">Resetiraj identifikator oglašavanja</string>
   <string name="reset_app_preferences">Poništi postavke apl.</string>
   <string name="reset_app_preferences_button">Poništi aplikacije</string>
   <string name="reset_app_preferences_desc">"Sve sljedeće preferencije vratit će se na zadane postavke:
@@ -3819,6 +3826,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="use_location_title">Lokacija &amp; Google pretraživanje</string>
   <string name="use_nuplayer">Koristi NuPlayer (eksp.)</string>
   <string name="use_nuplayer_summary">Koristi NuPlayer umjesto AwesomePlayera</string>
+  <string name="use_personalized_ad_service">Prilagođeni oglasi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezik sustava</string>
   <string name="user_account_title">Račun za sadržaj</string>
   <string name="user_add_max_count">Ne možete dodati više od %1$d korisnika</string>

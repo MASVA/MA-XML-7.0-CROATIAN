@@ -305,9 +305,9 @@ Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
   <string name="micloud_storage">Prostor za pohranu</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Osigurajte dovoljno Mi Kredita za automatsku obnovu.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">"Neke Cloud usluge mogu biti obustavljene. Preporuka je da se omogući autom. obnova."</string>
-  <string name="micloud_storage_expires_soon_title">Nadoplaćen Cloud prostor za pohranu uskoro ĆE isteći.</string>
-  <string name="micloud_storage_expires_very_soon_title">Nadoplaćen Cloud prostor za pohranu uskoro ĆE isteći.</string>
-  <string name="micloud_storage_full">Cloud pohrana je puna</string>
+  <string name="micloud_storage_expires_soon_title">Nadoplaćen Cloud prostor za pohranu uskoro će isteći.</string>
+  <string name="micloud_storage_expires_very_soon_title">Nadoplaćen Cloud prostor za pohranu uskoro će isteći.</string>
+  <string name="micloud_storage_full">Mi Cloud je pun</string>
   <string name="micloud_storage_usage" formatted="false">Iskorišteno %s/Ukupan prostor %s</string>
   <string name="micloud_sync_alert_dialog_message">Sinkronizirajte vaše fotografije, kontakte, bilješke i više na svim vašim uređajima.</string>
   <string name="micloud_sync_alert_dialog_negative">Odustani</string>

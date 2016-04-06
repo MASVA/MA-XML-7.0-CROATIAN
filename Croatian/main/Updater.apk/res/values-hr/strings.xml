@@ -16,8 +16,8 @@
      <string name="auto_dialog_msg">"Ažurirali smo naša Pravila o privatnosti. Molimo, pročitajte ih pažljivo prije ažuriranja sustava. "</string>
      <string name="auto_dialog_msg_check_again">"Morate se složiti s našim ažuriranim Pravila o privatnosti prije nego što možete ažurirati svoj sustav. "</string>
      <string name="auto_dialog_title_check_again">Otkazati ažuriranje?</string>
-     <string name="auto_update">Preuzmi ažuriranja automatski</string>
-     <string name="auto_update_sum">Automatski preuzmi ažuriranja kada je povezano na WLAN</string>
+     <string name="auto_update">Ažuriraj automatski</string>
+     <string name="auto_update_sum">Preuzmi žuriranja automatski kada je povezano na WLAN i instaliraj ih noću</string>
      <string name="autosetmode">Postavke</string>
      <string name="best_update">Najbolje ažuriranje do sada</string>
      <string name="boot_recovery">Ponovno pokrenuti u Recovery mode?</string>
@@ -162,8 +162,8 @@ http://zhushou.xiaomi.com"</string>
      <string name="root_agree_check_box_title">Razumijem rizik od ROOT pristupa</string>
      <string name="root_dangerous_msg">Dopuštanje ROOT pristupa je vrlo rizično i može izlagati vaš uređaj i osobne podatke napadima zlonamjernih aplikacija. Suglasni ste da ste isključivo sami odgovorni za gubitak podataka ili bilo kakvu štetu nastalu na vašem uređaju koji mogu proizaći dopuštajući ROOT pristup.</string>
      <string name="set_auto">Provjeri ima li ažuriranja automatski</string>
-     <string name="set_auto_msg">Preuzeti ažuriranja automatski kada ste povezani na WLAN?</string>
-     <string name="set_auto_update_title">Preuzeti ažuriranja automatski?</string>
+     <string name="set_auto_msg">"Ažuriranja će se preuzeti kada ste povezani na WLAN i instalirati noću dok ne koristite uređaj."</string>
+     <string name="set_auto_update_title">Ažurirati automatski?</string>
      <string name="set_installfail_full_msg">Ne mogu ažurirati u ovom trenutku. Dodirnite U redu kako bi prijavili ovu pogrešku.</string>
      <string name="set_installfail_msg">Niste povezani na WLAN mrežu. Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka. Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove</string>
      <string name="set_installfail_title">Pokušati ponovno preuzeti ažuriranja?</string>

@@ -673,11 +673,14 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="permit_running_network">Pozadinski podaci</string>
   <string name="person_hotpot">Mobilni hospot</string>
   <string name="pkg_traffic">Postavi ograničenje uporabe podataka</string>
+  <string name="pm_auto_start_by_other">Aktivirano pokretanje</string>
+  <string name="pm_auto_start_by_other_app">Dopustiti aplikaciji da bude pokrenuta od strane druge aplikacije	</string>
   <string name="pm_auto_start_basic_services_lock">Zaključaj</string>
   <string name="pm_auto_start_basic_services_unlock">Otključaj</string>
   <string name="pm_auto_start_by_basic_services">Osnovne usluge</string>
   <string name="pm_auto_start_by_other_services">Pokušajte isključiti ove usluge</string>
   <string name="pm_auto_start_by_system">Pokreni aplikacije</string>
+  <string name="pm_auto_start_by_system_event">Dopustiti aplikacijama autom. pokretanje</string>
   <string name="pm_auto_start_proc_is_running">Pokrenuto</string>
   <string name="pm_remember_choice">Zapamti moj izbor</string>
   <string name="pm_root_success_notification_title">ROOT pristup omogućen</string>
