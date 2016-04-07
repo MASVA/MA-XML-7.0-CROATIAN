@@ -20,6 +20,11 @@
         <item>Vikendom</item>
         <item>Prilagođeno</item>
     </string-array>
+	<string-array name="roaming_network_type">
+        <item>Uvijek</item>
+        <item>Samo za iznimke</item>
+        <item>Nikad</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Nakon 1 minute</item>
         <item>Nakon 5 minuta</item>

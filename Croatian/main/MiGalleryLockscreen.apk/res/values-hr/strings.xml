@@ -24,8 +24,10 @@
   <string name="resource_apply">Postavi</string>
   <string name="resource_no_network_text">"Ne mogu se povezati na mrežu."</string>
   <string name="setting_head">Postavke</string>
-  <string name="sst_favor_desc">Provjer favorite</string>
+  <string name="sst_favor_desc">Provjeri favorite</string>
   <string name="sst_favor_title">Favoriti</string>
+  <string name="sst_grid_view_select_all">Odaberi sve</string>
+  <string name="sst_grid_view_unselect_all">Poišti odabir</string>
   <string name="sst_no_favor_wallpaper_hint">Nema favorita</string>
   <string name="sst_prov_enable_desc">Uživajte u više prekrasnih pozadina na zaklj. zaslonu</string>
   <string name="sst_prov_enable_title">Uživajte u  izmjenama</string>

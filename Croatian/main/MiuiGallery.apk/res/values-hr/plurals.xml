@@ -117,8 +117,8 @@
         <item quantity="one">1 sek.</item>
     </plurals>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Ne prikazivati ova lica?"</item>
-        <item quantity="one">"Ne prikazivati ovo lice?"</item>
+        <item quantity="other">"Ne prikazivati ove osobe?"</item>
+        <item quantity="one">"Ne prikazivati ovo osobu?"</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">%1$d fotografija iz %2$s će biti dodano</item>
