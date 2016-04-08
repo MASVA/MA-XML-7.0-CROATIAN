@@ -7,13 +7,13 @@
   <string name="Settings_title_garbage_cleanup">Postavke Čištaća</string>
   <string name="Settings_title_network_assistants">Postavke uporabe podataka</string>
   <string name="Settings_title_power_center">Postavke baterije</string>
-  <string name="access_control_need_password">"Uspješno dodano %s zaključavanja
+  <string name="access_control_need_password">"%s uspješno dodano
  "</string>
-   <string name="access_control_need_to_unlock">"Otključajte sa otiskom prsta
-ili unesite zaporku"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Unesite zaporku za otključavanje</string>
-  <string name="access_control_recording_intro_header">Nacrtajte uzorak za dodavanje zaključavanja aplikacije</string>
-  <string name="access_control_reset_by_account">Prijavite se na svoj Mi Račun kako biste resetirali zaključavanje aplikacije</string>
+   <string name="access_control_need_to_unlock">"Skenirajte otisak prsta
+ili unesite zaporku Zaklj. aplikacije"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Unesite zaporku Zaklj. aplikacije</string>
+  <string name="access_control_recording_intro_header">Nacrtajte uzorak za dodavanje Zaklj. aplikacije</string>
+  <string name="access_control_reset_by_account">Prijavite se na svoj Mi Račun kako biste resetirali Zaklj. aplikacije</string>
   <string name="activity_title_antispam">AntiSpam</string>
   <string name="activity_title_antivirus">AntiVirus</string>
   <string name="activity_title_apps_manager">Apl.</string>
@@ -175,7 +175,7 @@ ili unesite zaporku"</string>
   <string name="cmcc_app_check_dialog_negative">Kasnije</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno pokreni</string>
   <string name="cmcc_app_check_dialog_title">Sustav je popravljen</string>
-  <string name="confirm_fingerprint_msg">Stavite prst na čitač otiska prsta</string>
+  <string name="confirm_fingerprint_msg">Stavite prst na senzor</string>
   <string name="confirm_auto_cleaner">U redu</string>
   <string name="confirm_reject_all_permission">Ograničiti svim aplikacijama korištenje ove značajke?</string>
   <string name="connect_internet_by_mobiledata">Mobilna podatkovna veza</string>
@@ -303,17 +303,17 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="examination_score_80_100_with_recommend">Stavaka (%d) može biti optimizirano</string>
   <string name="examination_score_80_60">Neke stavke mogu biti optimizirane</string>
   <string name="examination_score_has_virus">Otkrivene su sumnjive aplikacije.</string>
-  <string name="finger_remind_message">Zaklj. aplikacija podržava otključavanje pomoću otiska prsta. Dodati otisak prsta?</string>
-  <string name="fingerprint_identify_msg">Skeniranje otiska prsta…</string>
+  <string name="finger_remind_message">Također možete koristiti svoj otisak sa Zaklj. aplikacija</string>
+  <string name="fingerprint_identify_msg">Skenirajte svoj otisak prsta</string>
   <string name="fingerprint_not_identified_msg">Da otključate uređaj, unesite svoju zaporku.</string>
   <string name="fingerprint_not_remind">"Ne pitaj ponovno"</string>
   <string name="fingerprint_remind_dialog_title">Otključavanje pomoću otiska prsta</string>
   <string name="fingerprint_to_lock">Otključajte pomoću otiska prsta</string>
-  <string name="fingerprint_verification">Provjera otiska prsta</string>
-  <string name="fingerprint_verification_message">Potvrdite trenutne otiske prstiju da počnete koristiti ovu značajku.</string>
-  <string name="fingerprint_verify_failed">"Ne mogu potvrditi"</string>
-  <string name="fingerprint_verify_succeed">Uspješno potrvđeno</string>
-  <string name="fingerprint_verify_try_agin">"Ne mogu skenirati, pokušajte ponovo"</string>
+  <string name="fingerprint_verification">Skeniraj otisak prsta</string>
+  <string name="fingerprint_verification_message">Skenirajte svoj otisak prsta za korištenje ove značajke.</string>
+  <string name="fingerprint_verify_failed">"Ne mogu potvrditi otisak"</string>
+  <string name="fingerprint_verify_succeed">Otisak prsta potvrđen</string>
+  <string name="fingerprint_verify_try_agin">"Ne mogu skenirati otisak prsta, pokušajte ponovo"</string>
   <string name="firewall_activity_lable">Ograničite uporabu podataka aplikacija</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
@@ -344,7 +344,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovo.</string>
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
   <string name="gateway_exception_title">Test routera</string>
-  <string name="go_to_setting_fingerprint">Idi u Postavke</string>
+  <string name="go_to_setting_fingerprint">Postavke</string>
   <string name="handle_text_cache">Predmemorija</string>
   <string name="handle_text_memory">Memorija</string>
   <string name="handle_text_system">Sustav</string>
@@ -442,13 +442,13 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="lockpattern_need_to_confirm">Iscrtajte ponovno uzorak za potvrdu</string>
   <string name="lockpattern_need_to_unlock">Potvrdite da spremite uzorak</string>
   <string name="lockpattern_need_to_unlock_wrong">Pokušajte ponovno</string>
-  <string name="lockpattern_pattern_confirmed_header">Vaš novi uzorak za otključavanje</string>
+  <string name="lockpattern_pattern_confirmed_header">Novi uzorak za otključavanje</string>
   <string name="lockpattern_pattern_entered_header">Uzorak je dodan</string>
   <string name="lockpattern_recording_incorrect_too_short">Povežite najmanje %d točke</string>
-  <string name="lockpattern_recording_inprogress">Uklonite prst nakon što je uzorak završen</string>
+  <string name="lockpattern_recording_inprogress">"Podignite prst kad ste završili"</string>
   <string name="lockpattern_recording_intro_header">Povežite najmanje 4 točke za izradu uzorka</string>
   <string name="lockpattern_retry_button_text">Pokušaj ponovo</string>
-  <string name="lockpattern_settings_help_how_to_record">Kako iscrtati uzorak za otključavanje</string>
+  <string name="lockpattern_settings_help_how_to_record">Iscrtajte uzorak za otključavanje</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Pokušajte ponovo za %d s.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Previše netočnih pokušaja!</string>
   <string name="lockpattern_tutorial_cancel_label">Odustani</string>
@@ -1153,7 +1153,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="text_button">U redu</string>
   <string name="text_day"/>
   <string name="text_lock_info">Iscrtajte uzorak za otključavanje</string>
-  <string name="third_application">Aplikacije trećih strana</string>
+  <string name="third_application">Instalirane aplikacije</string>
   <string name="three_percent_total_pkg">%s (3%% od mjes. podataka)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>

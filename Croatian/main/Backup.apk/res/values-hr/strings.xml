@@ -245,7 +245,7 @@
   <string name="task_running_restore_hint">Taj proces je već pokrenut u pozadini!</string>
   <string name="task_service_not_launched">"Zadatak još nije započet"</string>
   <string name="task_stopped_exception">Vraćanje otkazano</string>
-  <string name="total_num">Stavki %d,</string>
+  <string name="total_num">Stavke %d,</string>
   <string name="trans_backingup">Izrada Sig. kopije …</string>
   <string name="trans_backingup_no_items">Sinkr. …</string>
   <string name="trans_calculating">Izračunavanje…</string>
