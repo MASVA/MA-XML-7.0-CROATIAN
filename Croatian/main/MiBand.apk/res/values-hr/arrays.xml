@@ -1,156 +1,132 @@
-<?xml version="1.0" encoding="utf-8" ?> 
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-        <string-array name="running_months">
-        <item>Siječanj</item> 
-        <item>Veljača</item> 
-        <item>Ožujak</item> 
-        <item>Travanj</item> 
-        <item>Svibanj</item> 
-        <item>Lipanj</item> 
-        <item>Srpanj</item> 
-        <item>Kolovoz</item> 
-        <item>Rujan</item> 
-        <item>Listopad</item> 
-        <item>Studeni</item> 
-        <item>Prosinac</item> 
+    <string-array name="months">
+        <item>Sij</item> 
+        <item>Velj</item> 
+        <item>Ožu</item> 
+        <item>Tra</item> 
+        <item>Svi</item> 
+        <item>Lip</item> 
+        <item>Srp</item> 
+        <item>Kol</item> 
+        <item>Ruj</item> 
+        <item>Lis</item> 
+        <item>Stu</item> 
+        <item>Pro</item> 
     </string-array>
-    <string-array name="health_link_title">
-        <item>1. 24-hour emergency response</item>
-        <item>2. Emergency proposal</item>
-        <item>3. Help arrange emergency vehicles</item>
-        <item>4. Assist the dangerous condition report</item>
-        <item>5. Contact the families</item>
-        <item>6. Emergency Hospital Available</item>
-        <item>7. Hospitalization guide</item>
-    </string-array>
-    <string-array name="health_link_content">
-        <item>Health care professionals 24 hours, the bilingual provision of emergency assistance, 7x24 hours, 365 days year round.</item>
-        <item>In the user informed of the real situation, the AU will provide far Platinum ten minutes of "self" or "mutual aid" emergency proposal by telephone.</item>
-        <item>Far League call center call and immediately call the local emergency center telephone ("120" or "999"), the establishment of three-way calling, by the user to the emergency center readme Chuxian location tracking ambulance rescue process.</item>
-        <item>Assist the user in the event of an accident report to the authorities.</item>
-        <item>Notify family members or emergency contact person according to the user wishes and provide contact information.</item>
-        <item>Without prejudice to the "anxious, nearby, on the condition on patients and their families will" under the principles of first aid, first aid can be implemented far-Union Medical Hospital to user referrals, ultimately decided by the user, or according to the actual situation by emergency vehicles the doctor ordered.</item>
-        <item>Guidance hospitalization procedure, hospitalization precautions advice.</item>
+    <string-array name="running_months">
+        <item>Sij</item> 
+        <item>Velj</item> 
+        <item>Ožu</item> 
+        <item>Tra</item> 
+        <item>Svi</item> 
+        <item>Lip</item> 
+        <item>Srp</item> 
+        <item>Kol</item> 
+        <item>Ruj</item> 
+        <item>Lis</item> 
+        <item>Stu</item> 
+        <item>Pro</item> 
     </string-array>
     <string-array name="weeks">
-        <item>Pon.</item> 
-        <item>Uto.</item> 
-        <item>Sri.</item> 
-        <item>Čet.</item> 
-        <item>Pet.</item> 
-        <item>Sub.</item> 
-        <item>Ned.</item> 
+        <item>Ponedjeljak</item> 
+        <item>Utorak</item> 
+        <item>Srijeda</item> 
+        <item>Četvrtak</item> 
+        <item>Petak</item> 
+        <item>Subota</item> 
+        <item>Nedjelja</item> 
     </string-array>
     <string-array name="weeks_short">
-        <item>Pon.</item> 
-        <item>Uto.</item> 
-        <item>Sri.</item> 
-        <item>Čet.</item> 
-        <item>Pet.</item> 
-        <item>Sub.</item> 
-        <item>Ned.</item> 
-    </string-array>
-    <string-array name="months">
-        <item>Siječanj</item> 
-        <item>Veljača</item> 
-        <item>Ožujak</item> 
-        <item>Travanj</item> 
-        <item>Svibanj</item> 
-        <item>Lipanj</item> 
-        <item>Srpanj</item> 
-        <item>Kolovoz</item> 
-        <item>Rujan</item> 
-        <item>Listopad</item> 
-        <item>Studeni</item> 
-        <item>Prosinac</item> 
-     </string-array>
-    <string-array name="select_days_simple">
-        <item>Jednom</item>
-        <item>Svakodnevno</item>
-        <item>Od Pon. do Pet.</item>
-        <item>Prilagođeno</item>
-    </string-array>
-    <string-array name="fortune">
-        <item>Ne postoji zamjena za dosljednost.</item>
-        <item>Težite napretku, a ne savršenstvu.</item>
-        <item>Ponavljanje je ključ uspjeha.</item>
-        <item>Energija i upornost osvajaju sve stvari.</item>
-        <item>"Svijet nije formiran u jednom danu, niti smo mi. Postavite male ciljeve i gradite se po njima."</item>
-        <item>Svako putovanje počinje s jednim korakom.</item>
-        <item>Postignite jedan cilj dnevno.</item>
-        <item>"Bez obzira na to koliko ste spori, još ste uvijek brži od svih koji leže na kauču."</item>
-        <item>Trčite kada možete. Prošetajte ako trebate. Puzite ako morate. Samo nikada nemojte odustati.</item>
-        <item>Zapamtite, osjećaj koji dobijete od dobre tjelovježbe je daleko bolji nego osjećaj koji dobijtete sjedeći i željeti da ste izvodili tjelovježbu.</item>
-    </string-array>
-      <string-array name="weather_aqi_descriptions">
-        <item>Odlično</item>
-        <item>Dobro</item>
-        <item>Umjereno</item>
-        <item>Oprez</item>
-        <item>Nezdravo</item>
-        <item>Jako nezdravo</item>
-    </string-array>
-    <string-array name="weight_test_unit">
-        <item>Kg</item>
-        <item>jin</item>
-        <item>Funta</item>
+        <item>Pon</item> 
+        <item>Uto</item> 
+        <item>Sri</item> 
+        <item>Čet</item> 
+        <item>Pet</item> 
+        <item>Sub</item> 
+        <item>Ned</item> 
     </string-array>
     <string-array name="weight_body_figures">
         <item>Pothranjeno</item>
-        <item>Normalna</item>
-        <item>Prekomjerna</item>
-        <item>Pretilo</item>
-        <item>Pretilo</item>
+        <item>Zdravo</item>
+        <item>Umjer. pretilo</item>
+        <item>Ozbiljno pretilo</item>
     </string-array>
     <string-array name="weight_body_figures_for_child">
-         <item>Pothranjeno</item>
-        <item>Normalna</item>
-        <item>Prekomjerna</item>
+        <item>Normalno</item>
         <item>Pretilo</item>
+        <item>Ozbiljno pretilo</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" kg"</item>
+        <item>" jin"</item>
+        <item>" lbs"</item>
+    </string-array>
+    <string-array name="hr_sport">
+        <item>Nema aktivnosti</item>
+        <item>Lagana</item>
+        <item>Aerobna</item>
+        <item>Teška</item>
+    </string-array>
+    <string-array name="mili_help_tips">
+        <item>"Provjerite je li Mi Band napunjen i da baterija nije ostala bez energije"</item>
+        <item>Prvo isključite Bluetooth, zatim uparite sa trenutnim uređajem</item>
+        <item>"Ako je baterija Mi Banda napunjena, ali ako ga telefon ne može vidjeti, pokušajte isklj/uklj Bluetooth"</item>
+        <item>"Ako isklj/uklj Bluetootha ne riješi problem, pokušajte ponovno pokrenuti telefon"</item>
+    </string-array>
+    <string-array name="mili_help_title">
+        <item>Je li baterija Mi Banda napunjena?</item>
+        <item>Je li Mi Band uparen sa drugim uređajem?</item>
+        <item>Pokušajte isklj/uklj Bluetooth</item>
+        <item>Pokušajte ponovno pokrenuti telefon</item>
+    </string-array>
+    <string-array name="mili_pro_display_items">
+        <item>Vrijeme</item>
+        <item>Broj koraka</item>
+        <item>Km</item>
+        <item>Temp</item>
+        <item>Broj otkucaja srca</item>
+    </string-array>
+    <string-array name="shoes_help_tips">
+        <item>"If you don't use Huami sensor for a long time, it goes to sleep Try to shake it"</item>
+        <item>"Huami sensor battery life is 1 year If you've been using it for a longer period, maybe there's no power left"</item>
+        <item>Isključite prvo Bluetooth, zatim uparite sa trenutnim uređajem</item>
+        <item>Pokušajte ponovno pokrenuti telefon i zatim uparite Mi Band</item>
+        <item>"Ako isklj/uklj Bluetootha ne riješi problem, pokušajte ponovno pokrenuti telefon"</item>
+        <item>Every time you open Mi Fit it will try to sync data automatically</item>
+    </string-array>
+    <string-array name="shoes_help_title">
+        <item>Protresite Huami senzor</item>
+        <item>Je li Huami senzor napunjen?</item>
+        <item>Da li je Huami senzor uparen sa drugim uređajem?</item>
+        <item>Pokušajte isklj/uklj Bluetooth</item>
+        <item>Pokušajte ponovno pokrenuti telefon</item>
+        <item>Kako sinkr. podatke tenisica?</item>
+    </string-array>
+    <string-array name="unbind_device_description">
+        <item>Mi Band</item>
+        <item>Mi Vaga</item>
+        <item>Tenisice</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_not_chinese">
+        <item>Pothranjeno</item>
+        <item>Normalno</item>
+        <item>Umjer. pretilo</item>
         <item>Pretilo</item>
+        <item>Jako pretilo</item>
     </string-array>
-    <string-array name="weight_dynamic_list_bmi_tips">
-        <item>BMI Kategorija: Pothranjeno</item>
-        <item>BMI Kategorija: Normalna težina</item>
-        <item>BMI Kategorija: Prekomjerna težina</item>
-        <item>BMI Kategorija: Pretilo</item>
+    <string-array name="weight_help_tips">
+        <item>Možete stati na vagu da provjerite da li pokazuje vašu težinu Ako je prikazana ikona baterije, zamijenite baterije</item>
+        <item>"Ako nema odgovora kada ste stali na vagu, provjerite da li su baterije ispravno umetnute"</item>
+        <item>"Ako je baterija napunjena, a telefon i dalje ne može pronaći, pokušajte isklju/uklj Bluetooth"</item>
+        <item>"Ako isklj/uklj Bluetootha ne riješi problem, pokušajte ponovno pokrenuti telefon"</item>
+        <item>Svaki put kad otvorite Mi Fit on će pokušati automatski sinkronizirati podatke</item>
     </string-array>
-    <string-array name="weight_report_suggestions_boy">
-        <item>Postavite cilj da vam pomogne u upravljanju vaše težine</item>
-        <item>Čestitamo! Vi ste na svojoj željenoj težini.</item>
-        <item>Vi ste ispod svoje željene težine</item>
-        <item>Vi ste iznad svoje željene težine</item>
+    <string-array name="weight_help_title">
+        <item>Ima li dovoljno preostale energije?</item>
+        <item>Jesu li baterije ispravno umetnute?</item>
+        <item>Pokušajte isklj/uklj Bluetooth</item>
+        <item>Pokušajte ponovno pokrenuti telefon</item>
+        <item>Kako sinkr. podatke Mi Vage?</item>
     </string-array>
-    <string-array name="weight_report_suggestions_girl">
-        <item>Postavite cilj da vam pomogne u upravljanju vaše težine</item>
-        <item>Čestitamo! Vi ste na svojoj željenoj težini.</item>
-        <item>Vi ste ispod svoje željene težine</item>
-        <item>Vi ste iznad svoje željene težine</item>
-    </string-array>
-    <string-array name="weight_report_result_without_goal">
-        <item>Nadmašili ste svoj cilj</item>
-        <item>"Niste ostvarili svoj cilj"</item>
-        <item>Ostvarili ste svoj cilj!</item>
-    </string-array>
-    <string-array name="weight_report_result_with_goal_gainweight">
-        <item>"Niste još ostvarili svoj cilj"</item>
-        <item>"Niste još ostvarili svoj cilj"</item>
-        <item>"Niste još ostvarili svoj cilj"</item>
-        <item>Ostvarili ste svoj cilj (%1$s%2$s)!</item>
-    </string-array>
-    <string-array name="weight_report_result_with_goal_loseweight">
-        <item>"Niste još ostvarili svoj cilj"</item>
-        <item>"Niste još ostvarili svoj cilj"</item>
-        <item>"Niste još ostvarili svoj cilj"</item>
-        <item>Ostvarili ste svoj cilj (%1$s%2$s)!</item>
-    </string-array>
-    <string-array name="phone_notify_tips">
-        <item>Zavibriraj Mi Bandom kada uparen uređaj ima dolazni poziv</item>
-        <item>Zavibriraj Mi Bandom za vrijeme alarma na uparenom uređaju</item>
-        <item>Zavibriraj Mi Bandom kod dolazne SMS poruke na uparenom uređaju</item>
-    </string-array>
-    <string-array name="contacts_notify_title">
-        <item>Samo za pozive iz kontakata</item>
-        <item>Samo za SMS iz kontakata</item>
-     </string-array>
 </resources>
