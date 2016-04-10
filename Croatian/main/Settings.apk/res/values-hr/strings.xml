@@ -1200,7 +1200,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="dndm_vip_user_setting_title">Popis iznimaka</string>
   <string name="dndm_wristband">Aktiviraj sa Mi Band</string>
   <string name="dndm_wristband_detailed">"Uključite Ne ometaj ako Mi Band otkrije da spavate u roku od sat vremena prije zakazanog vremena početka"</string>
-  <string name="dndm_wristband_detailed2">"Isključite Ne ometaj ako Mi Band otkrije da Mi Band otkrije da ste budni se u roku od sat vremena prije zakazanog vremena završetka"</string>
+  <string name="dndm_wristband_detailed2">"Isključite Ne ometaj ako Mi Band otkrije da ste budni se u roku od sat vremena prije zakazanog vremena završetka"</string>
   <string name="do_not_disturb_mode">Ne ometaj</string>
   <string name="dock_audio_media_disabled">Sve zvukove</string>
   <string name="dock_audio_media_enabled">Samo medijske zvukove</string>
