@@ -1139,8 +1139,8 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="display_label">Zaslon</string>
   <string name="display_order_text">Poredati prema:</string>
   <string name="display_preview_label">Pregled:</string>
-  <string name="display_settings">Prikaz</string>
-  <string name="display_settings_title">Prikaz</string>
+  <string name="display_settings">Zaslon</string>
+  <string name="display_settings_title">Zaslon</string>
   <string name="dlg_cancel">Odustani</string>
   <string name="dlg_close">Zatvori</string>
   <string name="dlg_confirm_uicc_unmount_text">Ako isključite UICC pohranu, neke aplikacije koje koristite zaustavit će se i može neće biti dostupne sve dok ponovno ne uključite UICC pohranu.</string>
@@ -1507,8 +1507,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gadget_wifi">WLAN</string>
   <string name="game_controller_settings_category">Upravljač igrama</string>
   <string name="gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="global_change_warning">Ova postavka utječe na sve korisnike na ovom telefonu.</string>
   <string name="global_font_change_title">Promjena veličine fonta</string>
   <string name="global_locale_change_title">Promjena jezika</string>
@@ -1666,7 +1664,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="join_two_items">%1$s i %2$s</string>
   <string name="keep_legacy_fingerprint">Zadrži</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
-  <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
+  <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u stanje mirovanje tijekom punjenja</string>
   <string name="kernel_version">Verzija jezgre</string>
   <string name="key_position_cat">Položaj tipki</string>
   <string name="key_settings">Tipke</string>
@@ -1867,11 +1865,11 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lockpassword_choose_your_pin_header">Odaberite PIN</string>
   <string name="lockpassword_confirm_passwords_dont_match">Zaporke se ne podudaraju</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN-ovi se ne podudaraju</string>
-  <string name="lockpassword_confirm_your_password_generic">Unesite zaporku uređaja da biste nastavili.</string>
+  <string name="lockpassword_confirm_your_password_generic">Unesite zaporku uređaja za nastavak.</string>
   <string name="lockpassword_confirm_your_password_header">Potvrdite zaporku</string>
-  <string name="lockpassword_confirm_your_pattern_generic">Upotrijebite uzorak uređaja da biste nastavili.</string>
+  <string name="lockpassword_confirm_your_pattern_generic">Upotrijebite uzorak uređaja za nastavak.</string>
   <string name="lockpassword_confirm_your_pattern_header">Potvrdite uzorak</string>
-  <string name="lockpassword_confirm_your_pin_generic">Unesite PIN uređaja da biste nastavili.</string>
+  <string name="lockpassword_confirm_your_pin_generic">Unesite PIN uređaja za nastavak.</string>
   <string name="lockpassword_confirm_your_pin_header">Potvrdite svoj PIN</string>
   <string name="lockpassword_continue_label">Nastavi</string>
   <string name="lockpassword_illegal_character">Zaporka sadrži nedopušteni znak.</string>
