@@ -238,6 +238,7 @@
   <string name="archived">Arhivirano</string>
   <string name="att_download_failed_content">"Ne mogu preuzeti privitak za ovu poruku."</string>
   <string name="att_download_failed_network_slow">Mreža je spora, pokušajte preuzmeti kasnije</string>
+  <string name="att_download_failed_permission_denied">"Nemate dopuštenje za pristup vanjskoj pohrani"</string>
   <string name="att_download_failed_title">"Ne mogu preuzeti privitak."</string>
   <string name="att_file_not_exists">"Ne mogu pronaći %s"</string>
   <string name="att_mgr_no_attachment">Nema privitaka.</string>
@@ -321,7 +322,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Želite li izbrisati odobrenja za slike?</string>
   <string name="clear_display_images_whitelist_title">Brisanje odobrenja za slike</string>
   <string name="click_download_all_content">[ Dodirnite za preuzimanje sadržaja ]</string>
-  <string name="click_to_reload">Dodirnite zaslon za ponovno učitavanje</string>
+  <string name="click_to_reload">Dodirnite zaslon za osvježiti</string>
   <string name="collapse_recipient_details">Sažmi podatke o primatelju</string>
   <string name="colon">:</string>
   <string name="compose">Nova poruka</string>
@@ -451,6 +452,7 @@
   <string name="download_confirm_title">Preuzimanje privitka</string>
   <string name="download_failed">"Ne mogu preuzeti. Dodirnite za ponovni pokušaj."</string>
   <string name="download_message_failed_for_too_large">Poruka je prevelika za preuzimanje.</string>
+  <string name="download_whole_email">Preuzmi ostatak sadržaja</string>
   <string name="download_show_image">Preuzmi i prikaži sliku</string>
   <string name="downloading_message_body">Preuzimanje…</string>
   <string name="draft_count_format"> (%1$s)</string>
@@ -482,6 +484,8 @@
   <string name="feedback">Pošaljite povratne informacije</string>
   <string name="feedback_body">Poruka</string>
   <string name="feedback_sent">"Zahvaljujemo na povratnoj informaciji."</string>
+  <string name="feedback_user_edit_hint">Opišite problem ovdje. Poslati ćamo vam e-mail nakon što pregledamo problem.</string>
+  <string name="feedback_user_edit_tag">Od MIUI </string>
   <string name="fetching_attachment">Dohvaćanje privitka</string>
   <string name="file_deleted_success">Datoteka izbrisana</string>
   <string name="file_not_found">"Ne mogu pronaći datoteku"</string>
@@ -577,18 +581,18 @@
   <string name="hint_quick_reply_all">Odgovori svima</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Pogrešna zaporka dolaznog poslužitelja</string>
-  <string name="info_actionbar_normal_detail">Pojedinosti o članku</string>
-  <string name="info_actionbar_subscribe">Linija pretplate</string>
+  <string name="info_actionbar_normal_detail">Pojedinosti</string>
+  <string name="info_actionbar_subscribe">Novosti</string>
   <string name="info_item_from">Šalje </string>
   <string name="info_item_hide">Sakrij</string>
-  <string name="info_loading">Učitavanje</string>
+  <string name="info_loading">Učitavanje…</string>
   <string name="info_name_title">NOVOSTI</string>
-  <string name="info_no_message">Nema članka!</string>
-  <string name="info_no_more_message">"Nema više"</string>
-  <string name="info_switch_summary">Otvorite Inbox NOVOSTI</string>
+  <string name="info_no_message">Nema članaka za prikaz</string>
+  <string name="info_no_more_message">Nema više stavki za pregled</string>
+  <string name="info_switch_summary">Pogledaj najnovije vijesti</string>
   <string name="info_switch_title">Inbox NOVOSTI</string>
-  <string name="info_sync_error">Pogreška sinkr., pokušajte ponovo kasnije.</string>
-  <string name="information_subscribe_first_intro">Ovo je prvi put da koristite 「Subscribe」 , odaberite neke od oznaka za koje ste zainteresirani tako da vam možemo dati preporuku za vaš sadržaj~</string>
+  <string name="info_sync_error">"Ne mogu sinkronizirati, pokušajte ponovno kasnije."</string>
+  <string name="information_subscribe_first_intro">"Izgleda da koristite Novosti po prvi put. Recite nam nešto o svojim interesima da vam možemo personalizirati vijesti."</string>
   <string name="inbox_folders_heading">Pristigla pošta</string>
   <string name="info">Informacije</string>
   <string name="inline_picture_deleted">Preuzimanje slike koja nedostaje…"</string>
@@ -621,6 +625,7 @@
   <string name="mail_header_message_body_download_failed">Preuzimanje sadržaja e-pošte nije uspjelo</string>
   <string name="mail_header_network_not_available">"Nemate mrežnu vezu."</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
+  <string name="mailbox_name_display_ad">Oglasi &amp; obavijesti</string>
   <string name="mailbox_name_display_drafts">Skice</string>
   <string name="mailbox_name_display_inbox">Pristigla pošta</string>
   <string name="mailbox_name_display_junk">Spam</string>
@@ -669,7 +674,7 @@
   <string name="menu_att_mgr_order_size">Poredaj po veličini</string>
   <string name="menu_change_folders">Premjesti</string>
   <string name="menu_compose">Nova poruka</string>
-  <string name="menu_discovery">Discovery</string>
+  <string name="menu_discovery">Otkrij</string>
   <string name="menu_folder_options">Opcije sinkronizacije</string>
   <string name="menu_manage_folders">Postavke mapa</string>
   <string name="menu_move_to">Premjesti u/na</string>
@@ -724,10 +729,10 @@ Kopija: %4$s
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt; %2$s</string>
   <string name="mute">Isključi zvuk</string>
   <string name="name_or_number_is_error">Korisničko ime ili zaporka nije točna</string>
-  <string name="net_check_title">Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo.</string>
+  <string name="net_check_title">"Ne mogu se povezati na mrežu. Provjerite postavke i pokušajte ponovo."</string>
   <string name="network_error">Nema veze</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
-  <string name="network_try_again">Provjerite mrežu</string>
+  <string name="network_try_again">Provjerite mrežnu vezu i pokušajte ponovno</string>
   <string name="network_unavailable">Mreža nije dostupna</string>
   <string name="new_incoming_messages_one">Novu poruku šalje %s. Prikaži.</string>
   <string name="new_messages">Novih poruka: %1$d</string>
@@ -873,7 +878,7 @@ Kopija: %4$s
   <string name="provider_note_live">Samo neki računi usluge \"Plus\" uključuju POP pristup koji ovom programu omogućuje povezivanje. Ako se ne možete prijaviti sa svojom ispravnom adresom e-pošte i zaporkom, možda nemate plaćeni račun usluge \"Plus\". Pokrenite web-preglednik kako biste dobili pristup tim računima e-pošte.</string>
   <string name="provider_note_t_online">Prije postavljanja ovog računa e-pošte posjetite web-lokaciju T-Online i stvorite zaporku za POP3 pristup e-pošti.</string>
   <string name="pull_to_refresh">Povucite dolje za osvježiti</string>
-  <string name="pull_up_to_load_more">Učitaj više</string>
+  <string name="pull_up_to_load_more">Povucite gore za učitati više</string>
   <string name="push_wps_better_confirm_download">Preuzmi</string>
   <string name="push_wps_better_confirm_exit">Ne sada</string>
   <string name="push_wps_better_confirm_message">Pokušajte koristiti WPS Office za otvaranje ovog privitka.</string>
@@ -1096,8 +1101,8 @@ Kopija: %4$s
   <string name="upload_log">Pošalji dnevnike</string>
   <string name="upload_log_failed">"Ne mogu poslati dnevnik"</string>
   <string name="upload_log_no">Odustani</string>
-  <string name="upload_log_success">Dnevnici uspješno poslani</string>
-  <string name="upload_log_title">Potvrdite slanje</string>
+  <string name="upload_log_success">"Uspješno poslano, čujemo se uskoro."</string>
+  <string name="upload_log_title">Šaljite nam dnevnike kako bismo poboljšali WPS Mail</string>
   <string name="upload_log_yes">Pošalji</string>
   <string name="uploading_logs">Slanje dnevnika…</string>
   <string name="validation_failed_prompt">"Ne mogu provjeriti račun. Provjerite postavke poslužitelja za %s"</string>
@@ -1123,7 +1128,7 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="widget_other_views">Ostalo</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
   <string name="yes">Da</string>
-  <string name="yidianzixun">yidianzixun</string>
+  <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Poslati dnevnik korištenjem mobilne podatkovne veze? Ako prekoračite preko vaše ograničenje podataka, vaš mobilni operater može vam naplatiti dodatne naknade.</string>
   <string name="zip_viewer_no_file">Nema datoteka</string>
 </resources>

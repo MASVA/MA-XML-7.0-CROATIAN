@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="download_finished">
+         <item quantity="other">&lt;font color=\"red\">%d pjesama&lt;/font> preuzeto</item>
+         <item quantity="one">&lt;font color==\"red\">%d pjesma&lt;/font> preuzeta</item>
+    </plurals>
+    <plurals name="download_running">
+         <item quantity="other">&lt;font color=\"red\">%d pjesama se&lt;/font> preuzima</item>
+         <item quantity="one">&lt;font color==\"red\">%d pjesma se&lt;/font> preuzima</item>
+    </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">Pjesama: %d</item>
         <item quantity="one">%d pjesma</item>

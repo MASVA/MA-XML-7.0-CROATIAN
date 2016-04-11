@@ -11,8 +11,8 @@
   <string name="declaration_lockscreen_title">Uključi izmjenu slika pozadine</string>
   <string name="declaration_title">Uvjeti i Odredbe</string>
   <string name="hour_1">Svaki sat</string>
-  <string name="hour_3">Svakih 3 sata</string>
-  <string name="lockscreen_magazine_summary">Nabavite slike pozadine izravno na vaš zaklj. zaslon svaki dan.</string>
+  <string name="hour_3">Svaka 3 sata</string>
+  <string name="lockscreen_magazine_summary">Kategorije</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s slika pozadine</string>
   <string name="lockscreen_magazine_system_title">Zadano</string>
   <string name="lockscreen_magazine_title">Dnevne pozadine zaklj. zaslona</string>
@@ -27,17 +27,17 @@
   <string name="sst_favor_desc">Provjeri favorite</string>
   <string name="sst_favor_title">Favoriti</string>
   <string name="sst_grid_view_select_all">Odaberi sve</string>
-  <string name="sst_grid_view_unselect_all">Poišti odabir</string>
-  <string name="sst_no_favor_wallpaper_hint">Nema favorita</string>
-  <string name="sst_prov_enable_desc">Uživajte u više prekrasnih pozadina na zaklj. zaslonu</string>
-  <string name="sst_prov_enable_title">Uživajte u  izmjenama</string>
-  <string name="sst_require_one_category_hint">Pretplatite se na jednu stavku najmanje</string>
-  <string name="sst_sti_desc">Postavite vremenski interval za promjenu slike pozadine zaklj. zaslona</string>
-  <string name="sst_sti_title">Promjena vremenskog intervala</string>
-  <string name="sst_subscribe_title">Pretplata</string>
-  <string name="sst_wifi_only_desc">Predlažemo da isključite da uštedite na mobilnim podacima</string>
-  <string name="sst_wifi_only_title">Omogućite Preuzimanje Slika s Metered Mobile Connection</string>
-  <string name="summary">"Prihvatite naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnosti&lt;/a&gt; za početak. Potrebna internetska veza.​"</string>  
+  <string name="sst_grid_view_unselect_all">Poništi odabir</string>
+  <string name="sst_no_favor_wallpaper_hint">Nema slika pozadina u Favoritima</string>
+  <string name="sst_prov_enable_desc">Uključi vrtuljak pozadine na zaklj. zaslonu</string>
+  <string name="sst_prov_enable_title">Uključi vrtuljak slika pozadine</string>
+  <string name="sst_require_one_category_hint">Odaberite najmanje 1 kategoriju</string>
+  <string name="sst_sti_desc">Postavite učestalost ažuriranja slika pozadine</string>
+  <string name="sst_sti_title">Učestalost ažuriranja</string>
+  <string name="sst_subscribe_title">Moje kategorije</string>
+  <string name="sst_wifi_only_desc">Isključite ovu značajku da uštedite na mobilnim podacima</string>
+  <string name="sst_wifi_only_title">Ažuriraj slike pozadine koristeći mobilne podatke</string>
+  <string name="summary">"Korištenjem ove značajke, slažete se s našim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnosti&lt;/a&gt; za početak. Ova značajka zahtijeva povezivanje s internetom da radi normalno.​"</string>  
   <string name="summary_international">"Korištenjem ove značajke, slažete se s našim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnost&lt;/a&gt;. Ova značajka zahtijeva povezivanje s internetom da radi normalno.​"</string>
   <string name="theme_apply_failured">"Ne mogu postaviti, pokušajte ponovno kasnije"</string>
   <string name="theme_apply_success">Pozadina zaklj. zaslona postavljena</string>

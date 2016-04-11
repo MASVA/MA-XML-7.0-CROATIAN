@@ -1417,6 +1417,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_list_title">Otisak prsta</string>
   <string name="fingerprint_manage_category_title">Otisci prstiju</string>
   <string name="fingerprint_not_recognized">Nije prepoznat</string>
+  <string name="fingerprint_removal_failed">"Ne mogu ukloniti otisak prsta, pokušajte ponovno kasnije"</string>
   <string name="fingerprint_usage_category_title">Upotreba otiska prsta za</string>
   <string name="finish_application">Prisilno zaustavi</string>
   <string name="finish_button_label">Završi</string>
@@ -4162,6 +4163,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_empty_list_wifi_off">Da biste vidjeli dostupne mreže, uključite WLAN</string>
   <string name="wifi_empty_list_wifi_on">Traženje WLAN mreža…</string>
   <string name="wifi_enable">WLAN</string>
+  <string name="wifi_enable_data_and_wifi_roam">Enable data and WLAN roam</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Prebaci na podatkovnu vezu kad se i WLAN i podaci povezuju i WLAN ne može pristupiti internetu.</string>
   <string name="wifi_enable_watchdog_service_summary">Izbjegavaj slabe veze</string>
   <string name="wifi_error">Pogreška</string>
   <string name="wifi_fail_to_scan">Skeniranje mreža nije moguće</string>

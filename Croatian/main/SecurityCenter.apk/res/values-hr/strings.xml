@@ -1042,6 +1042,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="suffix_virus_count_bottom">ukupno</string>
   <string name="suffix_virus_count_top">rizika</string>
   <string name="suggest_app_tolock">Prijedlozi</string>
+  <string name="summary_app_lock_disable">Zaključajte aplikacije da zaštite svoju privatnost</string>
   <string name="summary_cleaner_cloudscan">Učitaj i usporedi nazive mapa s online definicijama</string>
   <string name="summary_cloud_account">Dobijte najviše od Vašeg Mi Uređaja.</string>
   <string name="summary_cloud_service">Sinkronizirajte vaše fotografije, kontakte, i više na svim vašim uređajima</string>
@@ -1163,6 +1164,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="timeshow_s">%dsek</string>
   <string name="tips_dialog_title">"Ne znate svoje ograničenje"</string>
   <string name="tips_message">"Za prikaz detalja vašeg ograničenja, birajte %2$s (%1$s) (Samo Kina)"</string>
+  <string name="title_app_lock_disable">Zaklj. aplikacija</string>
   <string name="title_app_update">Dostupna ažuriranja</string>
   <string name="title_cleaner_cloudscan">Učitaj nazive mapa</string>
   <string name="title_cloud_account">Mi Račun</string>
