@@ -346,7 +346,7 @@
   <string name="nosend_message">"Nemoj slati"</string>
   <string name="notification_failed_multiple">Broj poruka koje nije moguće poslati: %s.</string>
   <string name="notification_failed_multiple_title">Poruke nisu poslane</string>
-  <string name="notification_multiple">Nepročitanih poruka: %s.</string>
+  <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nove poruke</string>
   <string name="number_add_hint">Unesite broj za dodavanje</string>
   <string name="open_url_with_web">Otvoriti ovu poveznicu u Pregledniku?</string>

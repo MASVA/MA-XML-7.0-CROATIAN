@@ -1222,6 +1222,8 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="roaming_alert_title">Želite li dopustiti roaming podataka?</string>
   <string name="roaming_disable">Poveži se s podatkovnim uslugama u roamingu</string>
   <string name="roaming_enable">Poveži se s podatkovnim uslugama u roamingu</string>
+  <string name="roaming_notification_content">Možete dodati predbroj zemlje automatski da napravite biranje poziva još prikladnijim.</string>
+  <string name="roaming_notification_title">Izgleda da je roaming aktiviran</string>
   <string name="roaming_reenable_message">Izgubili ste podatkovnu vezu jer ste izašli iz matične mreže s isključenim roamingom podataka.</string>
   <string name="roaming_warning">Omogućiti roaming podataka? Može doći do znatno većih troškova za roaming!</string>
   <string name="rsp_unlock_failed">RUIM Zahtjev Davatelja usluga otključavanje neuspješno.</string>
@@ -1357,6 +1359,8 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="telocation_contacts_countrycode">Zadani predbroj zemlje</string>
   <string name="telocation_contacts_countrycode_hint">Unesite predbroj zemlje</string>
   <string name="telocation_contacts_countrycode_summary">Zadani predbroj zemlje za vaše kontakte je %s</string>
+  <string name="telocation_country_code_enabled_message">Dodaj predbroj zemlje automatski da napravite biranje poziva u roamingu još prikladnijim.</string>
+  <string name="telocation_country_code_enabled_title">Dodaj predbroj zemlje prilikom biranja</string>
   <string name="telocation_countrycode_alert_message">Upišite broj telefona bez predbroja zemlje</string>
   <string name="telocation_countrycode_alert_message_warning">Unešeni predbroj zemlje možda nije točan.</string>
   <string name="telocation_countrycode_alert_message_wrong">Unešeni predbroj zemlje nije točan.</string>
