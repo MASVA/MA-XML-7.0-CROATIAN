@@ -69,8 +69,6 @@
      <string name="daily_forcast_weather_transfer">%1$s. %2$s kasnije</string>
      <string name="daily_forcast_whirl_wind">Whirl wind</string>
      <string name="daily_forcast_wind_connect">%1$s %2$s</string>
-     <string name="data_source_time_fromat">yyyy-MM-dd&apos;T&apos;HH:mm:ssz</string>
-     <string name="data_source_timezone">GMT%1$s</string>
      <string name="deleting">Brisanje…</string>
      <string name="description_author">Autor</string>
      <string name="description_designer">Dizajner</string>
