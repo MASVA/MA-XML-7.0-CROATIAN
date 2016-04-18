@@ -1075,6 +1075,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_admin_title">Administracija uređaja</string>
   <string name="device_admin_warning">Aktiviranjem ovog administratora dopustit ćete aplikaciji %1$s da izvede sljedeće postupke:</string>
   <string name="device_cpu">CPU</string>
+  <string name="device_cpu10_info">"10-jezgreni "</string>
   <string name="device_cpu2_info">"2-jezgreni "</string>
   <string name="device_cpu4_info">"4-jezgreni "</string>
   <string name="device_cpu6_info">"6-jezgreni "</string>

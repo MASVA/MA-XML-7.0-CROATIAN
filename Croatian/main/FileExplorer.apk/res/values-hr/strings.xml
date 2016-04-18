@@ -213,6 +213,7 @@
   <string name="homepage_tab_recent">Nedavno</string>
   <string name="hot_sticker">Naljepnice</string>
   <string name="hot_video">Videozapisi</string>
+  <string name="hottest_sticker_str">Popularno</string>
   <string name="if_cancel">Otkazati ovu radnju?</string>
   <string name="image_loading_error">"Ne mogu učitati sliku"</string>
   <string name="input_memo_hint">Unesite dodatne razloge (po izboru)</string>
@@ -355,6 +356,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_network_retry">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovo."</string>
   <string name="no_network_str">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovo."</string>
   <string name="no_network_tip">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovo."</string>
+  <string name="no_new_content_tip">Sve stavke su ažurne</string>
   <string name="no_recent_files">Nema nedavnih datoteka</string>
   <string name="no_tasks">Nema zadataka.</string>
   <string name="no_wifi">Nema dostupnih WLAN veza.</string>
@@ -556,10 +558,11 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="share_later">Odustani</string>
   <string name="share_link_failed">"Ne mogu izraditi poveznicu."</string>
   <string name="share_now">Podijeli</string>
+  <string name="share_title_1">Pronađen cool paket naljepnica!</string>
   <string name="share_to">Podijeli sa…</string>
   <string name="shared_sticker_network_permission_tip">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno."</string>
   <string name="shared_sticker_page_no_file">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno.."</string>
-  <string name="shared_sticker_str">Podijeljeno od Mi obažavatelja</string>
+  <string name="shared_sticker_str">Nedavno</string>
   <string name="shared_sticker_suffix">Naljepnica na %s</string>
   <string name="shared_sticker_use_tip">"Možete poslati naljepnice koje ste spremili u Chats dijalozima isto kao kad šaljete slike.
 (GIF-ovi mogu biti dodani u Vlastito u WeChat Naljepnicama)."</string>
@@ -593,14 +596,19 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="symbol_for_storage_tip">:</string>
   <string name="sys_size_enable">" dostupno"</string>
   <string name="system_alert">Internet povezivanje</string>
+  <string name="system_sticker_control">Prikaži popularne videozapise</string>
+  <string name="system_sticker_control_tip">Prikaži popularne naljepnice u Datotekama</string>
+  <string name="system_video_control">Prikaži popularne videozapise</string>
+  <string name="system_video_control_tip">Prikaži popularne videozapise u Datotekama</string>
   <string name="tab_category">Kategorije</string>
   <string name="tab_common_app">Aplik. &amp; mape</string>
   <string name="tab_expand">Proširi</string>
+  <string name="tab_hottest_video">Popularno</string>
   <string name="tab_local">LOKALNO</string>
   <string name="tab_local_video">Izvanmrežno</string>
   <string name="tab_more">Više</string>
   <string name="tab_path">MAPE</string>
-  <string name="tab_remote_video">Popularno</string>
+  <string name="tab_remote_video">Nedavno</string>
   <string name="tab_source">APLIKACIJE</string>
   <string name="tab_storage">POHRANA</string>
   <string name="tag_weixin_video">Video isječci</string>

@@ -458,6 +458,7 @@
   <string name="vp_mobile_network_using_warning">Korištenje mobilne podatkovne vezu za gledanje videozapisa će povećati uporabu podataka. Ako premašite mjesečno ograniočenje, vaš mobilni operater može vam naplatiti dodatne naknade.</string>
   <string name="vp_mobile_network_using_warning_line_1">Korištenje mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka.</string>
   <string name="vp_mobile_network_using_warning_line_2">Ako prekoračite vaše mjesečno ograničenje, vaš mobilni operater vam može naplatiti dodatne naknade.</string>
+  <string name="vp_more_show_video">Pokaži reklame</string>
   <string name="vp_mplayer_error_io">IO greška radnje</string>
   <string name="vp_mplayer_error_malformed">Neispravan medijsk sadržaj</string>
   <string name="vp_mplayer_error_server_died">Greška poslužitelja medija</string>

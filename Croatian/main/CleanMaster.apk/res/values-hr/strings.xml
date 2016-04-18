@@ -118,12 +118,14 @@
   <string name="dialog_content_select_all_confirm">Čuvati kopiju ove fotografije?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrditi Sig.kopiju i deinstalirati odabrane aplikacije?</string>
   <string name="dialog_msg_check_all">Potvrdi odabir %1$s koji sadrži %2$d stavaka</string>
+  <string name="dialog_msg_esc_cleanmaster">Zaustaviti skeniranje u tijeku?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Alat za čišćenje je oštećen, morate ponovno instalirati ROM!</string>
   <string name="dialog_msg_stop_scan">"Zaustaviti skeniranje u tijeku?"</string>
   <string name="dialog_msg_uninstall_apps">Deinstalirati ove aplikacije?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Napravi Sig.kopiju i deinstaliraj</string>
   <string name="dialog_title_check_all">Odaberi sve</string>
   <string name="dialog_title_delete_image">Izbriši odabrane slike</string>
+  <string name="dialog_title_esc_cleanmaster">Zaustavi Clean Master</string>
   <string name="dialog_title_load_cleanup_engine_error">Nešto nije u redu</string>
   <string name="dialog_title_stop_scan">Zaustavi skeniranje</string>
   <string name="dialog_title_uninstall_apps">Deinstaliraj</string>
@@ -236,7 +238,7 @@
   <string name="msg_update_error_code_success">Gotovo</string>
   <string name="msg_update_error_code_unknown_error">Nepoznata greška</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
-  <string name="name_optimizer">"Cheetah Mobile Pravila o Privatnosti"</string>
+  <string name="name_optimizer">"Clean Master Pravila o Privatnosti"</string>
   <string name="nb_clear_set">Prikaži očišćeni ROM, bateriju i detalje blokiranja u panelu obavijesti</string>
   <string name="net_assistant_detail">Iskorišteno %1$s, ušteđeno %2$s</string>
   <string name="net_assistant_title">Iskorišteno %s mob. pod. ovaj mjesec</string>
@@ -253,11 +255,13 @@
   <string name="ok">U redu</string>
   <string name="open">Uključi</string>
   <string name="open_browser">Otvori u pregledniku</string>
-  <string name="optimizecenter_data_support">Powered by Clean Master</string>
+  <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
+  <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
   <string name="positive_confirm">U redu</string>
   <string name="pref_category_title_auto_clean_settings">Očisti automatski</string>
   <string name="pref_category_title_auto_update_cleanup_db">Dodatne postavke</string>
   <string name="pref_category_title_cleanup_white_list">Iznimke</string>
+  <string name="pref_category_title_engine_settings">Skeniraj postavke definicija</string>
   <string name="pref_category_title_garbage_cleanup_check">Obavijesti</string>
   <string name="pref_category_title_other_clean_settings">Dodatne postavke</string>
   <string name="pref_content_cleanup_white_list_none">Ništa</string>
@@ -280,6 +284,7 @@
   <string name="pref_title_auto_clean_content_choose">Odaberi stavke za čišćenje</string>
   <string name="pref_title_auto_deepclean_and_alert">Temeljito čišćenje</string>
   <string name="pref_title_auto_update_cleanup_db">Automatski ažuriraj</string>
+  <string name="pref_title_choose_engine">Definicije</string>
   <string name="pref_title_cleanup_white_list">Iznimke</string>
   <string name="pref_title_expand_cache_group">Prikaži stavke predmemorije</string>
   <string name="pref_title_garbage_auto_clean_content">Stavke za čišćenje</string>

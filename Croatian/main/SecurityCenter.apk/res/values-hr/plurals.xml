@@ -84,6 +84,10 @@
         <item quantity="other">Ažuriranja dostupna za (%d) aplikacija</item>
         <item quantity="one">Ažuriranja dostupna za (%d) aplikacija</item>
     </plurals>
+	<plurals name="notification_apps">
+        <item quantity="other">%d aplik. sadrži rizik privatnosti</item>
+        <item quantity="one">%d aplik. sadrži rizik privatnosti</item>
+    </plurals>
 	 <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Zaporka treba sadržavati najmanje %d slova.</item>
         <item quantity="one">"Zaporka treba sadržavati najmanje 1 slovo."</item>

@@ -67,4 +67,8 @@
 	     <string-array name="app_clean_menu">
         <item>Deinstaliraj</item>
      </string-array>
+	 <string-array name="scan_engine">
+         <item>Clean Master</item>
+         <item>Tencent</item>
+    </string-array>
 </resources>
