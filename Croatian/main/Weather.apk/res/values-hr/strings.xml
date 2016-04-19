@@ -67,7 +67,7 @@
      <string name="daily_forcast_no_wind">Nema vjetra</string>
      <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
      <string name="daily_forcast_weather_transfer">%1$s. %2$s kasnije</string>
-     <string name="daily_forcast_whirl_wind">Whirl wind</string>
+     <string name="daily_forcast_whirl_wind">Vihor</string>
      <string name="daily_forcast_wind_connect">%1$s %2$s</string>
      <string name="deleting">Brisanje…</string>
      <string name="description_author">Autor</string>
