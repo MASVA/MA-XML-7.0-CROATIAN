@@ -770,6 +770,7 @@
     </string-array>
 	<string-array name="lock_screen_secure_after_timeout_entries">
         <item>Odmah</item>
+		<item>30 sek.</item>
         <item>1 min.</item>
         <item>2 min.</item>
         <item>5 min.</item>

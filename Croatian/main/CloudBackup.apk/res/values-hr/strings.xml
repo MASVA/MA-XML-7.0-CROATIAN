@@ -29,13 +29,13 @@
   <string name="cloud_app_restore_error">"Ne mogu vratiti"</string>
   <string name="cloud_app_restore_success">Aplikacije vraćene</string>
   <string name="cloud_app_restore_wifi_prompt">Da vratite Sig. kopiju iz Mi Clouda, morate se povezati s WLAN mrežom.</string>
-  <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
+  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na WLAN: 
-*\u0009\u0009\u0009\u0009Aplikacije, izgled početnog zaslona i slike pozadine
-*\u0009\u0009\u0009\u0009Postavke alarma, sata i vremena 
-*\u0009\u0009\u0009\u0009Postavke obavijesti
-*\u0009\u0009\u0009\u0009MIUI i postavke sustava 
-Napomena: Podaci za aplikacije koje ste instalirali neće biti spremljene na Mi Cloud."</string>
+*\u0009\u0009\u0009Aplikacije, izgled Poč. zaslona i slike pozadine
+*\u0009\u0009\u0009Postavke alarma, sata i vremena 
+*\u0009\u0009\u0009Postavke obavijesti
+*\u0009\u0009\u0009MIUI i postavke sustava 
+Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Raspored Sig. kopije</string>
   <string name="cloud_back_up_frequence_long">Svakih 7 dana</string>
   <string name="cloud_back_up_frequence_short">Svaki dan</string>
@@ -53,7 +53,7 @@ Napomena: Podaci za aplikacije koje ste instalirali neće biti spremljene na Mi 
   <string name="cloud_backup_detail_manage">Upravljanje Sig. kopijama</string>
   <string name="cloud_backup_detail_manage_summary">%1$s Sig. kopija, Veličina:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Cloud Sig. kopija</string>
-  <string name="cloud_backup_detail_state_summary">Aplikacije, Početni zaslon i postavke sustava</string>
+  <string name="cloud_backup_detail_state_summary">Aplikacije, Poč. zaslon i postavke sustava</string>
   <string name="cloud_backup_detail_time">, Vrijeme izrade:%1$s</string>
   <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Mi Cloudu</string>
   <string name="cloud_backup_select_recover">Odaberite Sig. kopiju sa Mi Clouda</string>

@@ -333,9 +333,9 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="background_process_stop_description">"Ovo je proces stare aplikacije koja se još uvijek izvršava u slučaju da opet bude potrebna. Obično je nema potrebe zaustavljati."</string>
   <string name="backup_configure_account_default_summary">Nijedan račun trenutno ne stvara sigurnosne kopije podataka</string>
   <string name="backup_configure_account_title">Sigurnosni račun</string>
-  <string name="backup_data_summary">Stvaranje sigurnosne kopije podataka aplikacije, WLAN zaporki i ostalih postavki na Googleovim poslužiteljima</string>
-  <string name="backup_data_title">Stvori sigurnosnu kopiju mojih podataka</string>
-  <string name="backup_erase_dialog_message">Želite li zaustaviti stvaranje sigurnosnih kopija WLAN zaporki, oznaka, drugih postavki i podataka aplikacije te izbrisati sve kopije na Googleovim poslužiteljima?</string>
+  <string name="backup_data_summary">Izrada Sig. kopije podataka aplikacije, WLAN zaporki i ostalih postavki na Googleovim poslužiteljima</string>
+  <string name="backup_data_title">Izradi sigurnosnu kopiju mojih podataka</string>
+  <string name="backup_erase_dialog_message">Želite li zaustaviti izradu Sig. kopija WLAN zaporki, oznaka, drugih postavki i podataka aplikacije te izbrisati sve kopije na Googleovim poslužiteljima?</string>
   <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">Usluga sigurnosnog kopiranja nije aktivna.</string>
   <string name="backup_lock_settings_picker_title">Odabir sig. zaključ.</string>
@@ -1851,6 +1851,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_screen_secure_after_timeout_title">Potrebna zaporka</string>
   <string name="lock_screen_unlock_show">Preskoči povlačenje zaslona</string>
   <string name="lock_screen_unlock_show_summary">Idi izravno na Početni zaslon ili unos zaporke nakon buđenja</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Klikni za promjenu</string>
   <string name="lock_settings">Zaklj. zaslon &amp; zaporka</string>
   <string name="lock_settings_common_title">Postavke zaključavanja</string>
   <string name="lock_settings_picker_fingerprint_message">Odaberite pričuvni način zaključavanja zaslona</string>
@@ -2602,8 +2603,8 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="privacy_mode_title">Postavke privatnosti</string>
   <string name="privacy_protect_title">Zaštita privatnosti</string>
   <string name="privacy_relative">Privatnost</string>
-  <string name="privacy_settings">Stvori Sig. kopiju &amp; poništi</string>
-  <string name="privacy_settings_title">Stvori Sig. kopiju &amp; poništi</string>
+  <string name="privacy_settings">Izradi Sig. kopiju &amp; poništi</string>
+  <string name="privacy_settings_title">Izradi Sig. kopiju &amp; poništi</string>
   <string name="private_gallery_need_to_unlock">Potrebna je zaporka:</string>
   <string name="private_gallery_recording_intro_header">Iscrtajte uzorak otključavanja:</string>
   <string name="private_gallery_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Mi Račun</string>
