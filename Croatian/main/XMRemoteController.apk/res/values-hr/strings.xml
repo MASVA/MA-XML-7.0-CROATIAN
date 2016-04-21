@@ -321,6 +321,8 @@ Vratite se za nastavak"</string>
   <string name="match_is_respond">Da li se ovo podudara?</string>
   <string name="match_main_tip_frame">"Usmjerite daljinski na %1$s i pritisnite tipku
 Otpustite kada %1$s odgovori"</string>
+  <string name="match_main_tip_frame_click">"Usmjerite daljinski na %1$s i pritisnite tipku
+Zatim odgovorite na pitanje"</string>
   <string name="match_mibox_first">    Mi TV otkriven</string>
   <string name="match_mibox_sencond">    ·Kontrolirajte vaš Mi TV sa ovim uređajem.</string>
   <string name="match_mibox_third">    ·Upari ostale Mi uređaje automatski</string>

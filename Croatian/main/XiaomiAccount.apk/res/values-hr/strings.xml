@@ -349,6 +349,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_login_check_find_device">Provjera statusa Pronađi uređaj…</string>
   <string name="passport_login_check_find_device_failed_message">Provjerite mrežnu vezu.</string>
   <string name="passport_login_check_find_device_failed">"Ne mogu provjeriti status 'Pronađi uređaj'. Provjerite mrežnu vezu."</string>
+  <string name="passport_login_check_find_device_failed_title">"Ne mogu provjeriti status Pronađi uređaj"</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>
   <string name="passport_login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s). Prijavite se da aktivirate ovaj uređaj.</string>
   <string name="passport_login_instead_reg">Koristi ovaj broj</string>

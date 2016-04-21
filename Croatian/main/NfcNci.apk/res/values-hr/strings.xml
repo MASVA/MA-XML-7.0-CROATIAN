@@ -29,6 +29,10 @@
   <string name="inbound_me_profile_text">Dodirnite kako biste ovu osobu dodali kao kontakt</string>
   <string name="inbound_me_profile_title">Kontakt primljen NFC-om</string>
   <string name="nfcUserLabel">NFC</string>
+  <string name="nfc_enabled_dialog">"Nfc je trenutno onemogućen. 
+Želite li ga omogućiti za NFC Uslugu"</string>
+  <string name="no">Ne</string>
+  <string name="ok">U redu</string>
   <string name="outbound_me_profile_text">Dodirnite kako biste ovoj osobi dali svoje podatke za kontakt.</string>
   <string name="outbound_me_profile_title">NFC interakcija dovršena</string>
   <string name="pair_no">Ne</string>
@@ -36,6 +40,8 @@
   <string name="pairing_peripheral">Uparivanje uređaja %1$s</string>
   <string name="pairing_peripheral_failed">Uređaj %1$s nije uparen</string>
   <string name="pay_with">Plati pomoću aplikacije</string>
+  <string name="permdesc_nfcReceiveEvent">Omogućuje aplikaciji primanje informacija o izvršenim transakcijama NFC-a</string>
+  <string name="permlab_nfcReceiveEvent">NFC osviještenost transakcija</string>
   <string name="prompt_connect_to_network">Želite li se povezati s mrežom %1$s?</string>
   <string name="status_unable_to_connect">Povezivanje s mrežom nije moguće</string>
   <string name="status_wifi_connected">Povezano</string>

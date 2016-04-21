@@ -36,6 +36,7 @@
   <string name="encrypt_device_launch_settings">Šifriraj</string>
   <string name="encrypt_device_text">"Za nastavak postavljanja vašeg radnog profila, morat ćete šifrirati vaš uređaj. To može potrajati neko vrijeme."</string>
   <string name="encrypt_device_text_for_profile_owner_setup">Da biste nastavili s postavljanjem svog radnog profila, morat ćete šifrirati uređaj. To može potrajati.</string>
+  <string name="encrypt_device_text_for_device_owner_setup">"Da biste nastavili s postavljanjem vašeg uređaja, morat ćete šifrirati uređaj. To može potrajati."</string>
   <string name="frp_clear_progress_text">Pričekajte…</string>
   <string name="frp_clear_progress_title">Brisanje</string>
   <string name="learn_more_label">Gumb Saznajte više</string>

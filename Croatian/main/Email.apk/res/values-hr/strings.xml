@@ -285,6 +285,7 @@
   <string name="body_inline_pic_text">[Slika]</string>
   <string name="bottom_bar_more_delete">Izbriši</string>
   <string name="bottom_bar_more_quickreply">Brzi odgovor</string>
+  <string name="bottom_bar_more_share">Podijeli</string>
   <string name="bottom_bar_more_unread">Označi nepročitano</string>
   <string name="bottom_bar_no_quickreply_toast">Nema brzih odgovora</string>
   <string name="bytes">%s B</string>

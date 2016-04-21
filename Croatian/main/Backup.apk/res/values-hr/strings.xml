@@ -117,6 +117,7 @@
   <string name="findlost_contact">Vrati kontakte</string>
   <string name="findlost_contact_online">Vrati kontakte s Mi Clouda</string>
   <string name="guarded_mode_dialog_backup_message">Izrada Sig. kopije nije dozvoljena u Gost načinu rada.</string>
+  <string name="guarded_mode_dialog_transfer_message">"Ne mogu koristiti Mi Mover u Gost načinu rada."</string>
   <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite Mi Talk aplikaciju i prijavite se.
 \u0009http://www.miliao.com

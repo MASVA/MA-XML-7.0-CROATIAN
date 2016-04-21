@@ -28,4 +28,8 @@
   <string name="stk_dialog_title">SIM Alat</string>
   <string name="stk_intent_permission">Dopusti STK namjere</string>
   <string name="stk_no_service">Nema dostupne usluge</string>
+  <string name="no_sim_card_inserted">Umetnite SIM za pokretanje SIM Alata.</string>
+  <string name="sim_type_sim_name">SIM Alat</string>
+  <string name="sim_type_uim_name">UIM Alat</string>
+  <string name="sim_type_usim_name">USIM Alat</string>
 </resources>
