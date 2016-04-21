@@ -34,7 +34,7 @@
   <string name="authorize_detail">Blokirano %d aplik.</string>
   <string name="auto_clean_switch_off">Isključi</string>
   <string name="auto_clean_switch_on">Uključi</string>
-  <string name="auto_cleaner_open">Uključi</string>
+  <string name="auto_cleaner_open">Uključeno</string>
   <string name="back">Natrag</string>
   <string name="btn_text_done">Gotovo</string>
   <string name="btn_text_quick_cleanup">Očisti</string>
@@ -116,12 +116,15 @@
   <string name="dialog_content_checkbox_delete_cloud_image">Izbriši i fotografije s Mi Clouda</string>
   <string name="dialog_content_delete_image_confirm">Izbrisati (%d) fotografija?</string>
   <string name="dialog_content_select_all_confirm">Čuvati kopiju ove fotografije?</string>
+  <string name="dialog_msg_add_white_list_error">"Datoteka ne podržava dodavanje u iznimke"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrditi Sig.kopiju i deinstalirati odabrane aplikacije?</string>
   <string name="dialog_msg_check_all">Potvrdi odabir %1$s koji sadrži %2$d stavaka</string>
   <string name="dialog_msg_esc_cleanmaster">Zaustaviti skeniranje u tijeku?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Alat za čišćenje je oštećen, morate ponovno instalirati ROM!</string>
   <string name="dialog_msg_stop_scan">"Zaustaviti skeniranje u tijeku?"</string>
   <string name="dialog_msg_uninstall_apps">Deinstalirati ove aplikacije?</string>
+  <string name="dialog_ok_add_white_list_error">Shvaćam</string>
+  <string name="dialog_title_add_white_list_error">Pažnja</string>
   <string name="dialog_title_backup_and_uninstall_apps">Napravi Sig.kopiju i deinstaliraj</string>
   <string name="dialog_title_check_all">Odaberi sve</string>
   <string name="dialog_title_delete_image">Izbriši odabrane slike</string>
