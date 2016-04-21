@@ -159,7 +159,7 @@ koristeći %s"</string>
   <string name="data_usage_warning_title">Upozorenje o upotrebi podataka</string>
   <string name="data_usage_wifi_limit_snoozed_title">Prekorač. Wi-Fi ogranič. pod.</string>
   <string name="data_usage_wifi_limit_title">Dost. ogr. WLAN prijenosa pod.</string>
-  <string name="date_and_time" formatted="false">%-k:%M:%S %-e.%-m.%Y</string>
+  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Smanjenje dana</string>
   <string name="date_picker_decrement_month_button">Smanjenje mjeseca</string>
   <string name="date_picker_decrement_year_button">Smanjenje godine</string>
@@ -620,7 +620,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="mmiComplete">MMI dovršen.</string>
   <string name="mmiError">Problem s vezom ili nevažeći MMI kôd.</string>
   <string name="mmiFdnError">Operacija je ograničena samo na brojeve s fiksnim biranjem.</string>
-  <string name="month_day_year" formatted="false">%-e. %B %Y.</string>
+  <string name="month_day_year" formatted="false">%B %-e, %Y</string>
   <string name="more_item_label">Više</string>
   <string name="needPuk">Vaša je SIM kartica zaključana PUK-om. Unesite PUK kôd da biste je otključali.</string>
   <string name="needPuk2">Unesite PUK2 da biste odblokirali SIM karticu.</string>
@@ -1376,7 +1376,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="throttle_warning_notification_title">Upotreba velike količine mobilnih podataka</string>
   <string name="throttled_notification_message">Dodirnite da biste saznali više o upotrebi mobilnih podataka.</string>
   <string name="throttled_notification_title">Prekoračeno je ograničenje za podatke na mobilnom uređaju</string>
-  <string name="time_of_day" formatted="false">%-k:%M:%S</string>
+  <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
   <string name="time_picker_decrement_hour_button">Smanjenje sati</string>
   <string name="time_picker_decrement_minute_button">Smanjenje minuta</string>
   <string name="time_picker_decrement_set_am_button">Postavi AM</string>

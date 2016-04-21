@@ -282,7 +282,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="permission_group_title_privacy_related">Privatnost</string>
   <string name="permission_group_title_settings_related">Postavke</string>
   <string name="permission_request_title">Zahtjev dopuštenja</string>
-  <string name="permission_warning_template">Dopustiti %1$s da %2$s ?</string>
+  <string name="permission_warning_template">Dopustiti %1$s %2$s ?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" nema dopuštenje za %2$s. Možete promijeniti dopuštenja za aplikacije bilo kada u Sigurnost &gt; Dopuštenja."</string>
   <string name="screen_overlay_button">Otvori postavke</string>
   <string name="screen_overlay_message">Za promjenu postavke dopuštenja, prvo morate isključiti Prekrivanje zaslona u Postavke &gt; Aplikacije</string>
