@@ -92,7 +92,7 @@
   <string name="friday_shortest">P</string>
   <string name="hybrid_provider">Pruža %1$s</string>
   <string name="label">MIUI SDK</string>
-  <string name="license_host_unreachable">"Nije moguće povezivanje s mrežom. 
+  <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. 
 Da biste vidjeli ove informacije, 
 idite na: %s."</string>
   <string name="loading">Učitavanje…</string>

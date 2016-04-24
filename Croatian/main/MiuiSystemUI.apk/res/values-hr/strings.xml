@@ -73,9 +73,9 @@
   <string name="camera_key_action_shortcut_search">"Pretraži"</string>
   <string name="camera_key_action_shortcut_title">Prečac</string>
   <string name="camera_key_action_shortcut_wake">Zaključaj/Probudi uređaj</string>
-  <string name="camera_key_action_toggle_title">Promjena stanja okidača</string>
+  <string name="camera_key_action_toggle_title">Promjena stanja prečaca</string>
   <string name="chooseUsbActivity">"Odabir aplikacije za USB uređaj"</string>
-  <string name="data_usage_disabled_dialog">Dosegli ste vaše postavljeno ograničenje upotrebe podataka. 
+  <string name="data_usage_disabled_dialog">Dosegli ste vaše postavljeno ograničenje uporabe podataka. 
 
 Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="data_usage_disabled_dialog_3g_title">"2G-3G podaci su onemogućeni"</string>
@@ -100,7 +100,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="ext_media_badremoval_notification_title">"USB pohrana je neočekivano uklonjena"</string>
   <string name="ext_media_checking_notification_message">"Traženje pogrešaka."</string>
   <string name="ext_media_checking_notification_title">"Pripremanje USB pohrane"</string>
-  <string name="ext_media_mountable_notification_message">"Dodirnite za otvaranje u Datotekama"</string>
+  <string name="ext_media_mountable_notification_message">"Dodirnite za otvaranje u aplik. Datoteke"</string>
   <string name="ext_media_mountable_notification_title">Uređaj USB pohrane je povezan</string>
   <string name="ext_media_nofs_notification_message">"USB pohrana je prazna ili ima nepodržani datotečni sustav."</string>
   <string name="ext_media_nofs_notification_title">Prazna USB pohrana</string>

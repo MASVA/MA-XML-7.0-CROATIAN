@@ -98,7 +98,7 @@
   <string name="already_create_baby_album">Dječji album već postoji u Mi Cloudu.</string>
   <string name="always_rotate_alert_msg">Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama Galerije</string>
   <string name="always_rotate_alert_positive_button_text">Uključi</string>
-  <string name="always_rotate_alert_title">Auto. rotiranje slika</string>
+  <string name="always_rotate_alert_title">Autom. rotiranje slika</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android slike pozadine</string>
   <string name="aperture">Otvor blende</string>
@@ -157,7 +157,7 @@
   <string name="backup_only_in_wifi">Koristi samo WLAN za izradu Sig. kopije fotografija i videozapisa</string>
   <string name="backup_only_in_wifi_summary">Nikad ne koristi mobilne podatke za izradu Sig. kopije fotografija i videozapisa</string>
   <string name="begin_share">Napravljen Dječji album \"%s\", sada ga možete podijeliti</string>
-  <string name="begin_share_toast">Napraviti zaseban album za ovo dijete prije dijeljenja?</string>
+  <string name="begin_share_toast">Izraditi zaseban album za ovo dijete prije dijeljenja?</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
   <string name="baidu_flyflow_downloads">Baidu Preglednik</string>
   <string name="beautyphone">Beauty Telefon</string>
@@ -209,7 +209,7 @@
   <string name="click_to_add_picture">Dodirnite za dodavanje slika</string>
   <string name="click_top_right">Dodirnite ovu ikonu</string>
   <string name="close">Zatvori</string>
-  <string name="cloud_album_more_settings">Sinkronizraj s Mi Cloud</string>
+  <string name="cloud_album_more_settings">Sinkronizraj s Mi Cloudom</string>
   <string name="cloud_album_set_create">Novo</string>
   <string name="cloud_album_set_scan_qr_code">QR kod</string>
   <string name="cloud_albums">Mi Cloud</string>
@@ -293,18 +293,18 @@
   <string name="defalt_local_mobile">Mobilno</string>
   <string name="delete">Izbriši</string>
   <string name="delete_album_failed">"Ne mogu izbrisati album."</string>
-  <string name="delete_album_msg_format">Izbrisati \"%2$s\" album %1$s%3$s?</string>
+  <string name="delete_album_msg_format">Izbrisati album \"%2$s\" %1$s%3$s?</string>
   <string name="delete_album_success">Album izbrisan</string>
   <string name="delete_finish_format">Izbrisano: %d</string>
-  <string name="delete_from_album">iz \"%s\" albuma (svi uređaji)</string>
-  <string name="delete_from_album_no_account">iz \"%s\" albuma</string>
+  <string name="delete_from_album">iz albuma \"%s\" (svi uređaji)</string>
+  <string name="delete_from_album_no_account">iz albuma \"%s\"</string>
   <string name="delete_from_all_devices">iz svih uređaja</string>
   <string name="delete_from_devices">Svih uređaja koji su sinkr. automatski</string>
   <string name="delete_from_devices_album">Svih uređaja koji su sinkr. ovaj album</string>
   <string name="delete_from_homepage_album">Albuma na početnoj strani</string>
   <string name="delete_from_web">Web albumi</string>
   <string name="delete_in_album">Kada izbrišete fotografiju ili videozapis iz albuma, također će biti izbrisano iz:</string>
-  <string name="delete_in_home_page">Kada izbrišete fotografiju ili videozapis na početnoj strani, isti će biti izbrisano iz:</string>
+  <string name="delete_in_home_page">Kada izbrišete fotografiju ili videozapis na početnoj strani, isti će biti izbrisan iz:</string>
   <string name="delete_in_process">Brisanje…</string>
   <string name="delete_origin">Izbriši stavke iz izvornog albuma</string>
   <string name="delete_other_shared_images">"Ne mogu brisati fotografije podijeljenje od drugih"</string>
@@ -369,7 +369,7 @@
   <string name="error_socket_timeout">Istek vremena povezivanja</string>
   <string name="error_title">"Ne mogu sinkr."</string>
   <string name="error_unauthorized">Sinkr. onemogućena zbog previše pokušaje prijave</string>
-  <string name="error_unknown_host">"Ne mogu se povezati na mrežu. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
+  <string name="error_unknown_host">"Ne mogu se povezati na mrežu. Provjerite vašu mrežnu vezu i pokušajte ponovno."</string>
   <string name="event_create_long_photo">Izrada fotografije…</string>
   <string name="event_manage_photos">Upravljanje fotografijama</string>
   <string name="exit">Izlaz</string>
@@ -480,7 +480,7 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Uvoz je dovršen</string>
   <string name="import_fail">Uvoz neuspješan</string>
-  <string name="impunity_declaration">"Korištenjem ove usluge pristajete na Xiaomi %1$s and %2$s. Neke od značajki Galerije zahtijevaju povezivanje s internetom za normalan rad."</string>
+  <string name="impunity_declaration">"Korištenjem ove usluge pristajete na Xiaomi %1$s i %2$s. Neke od značajki Galerije zahtijevaju povezivanje s internetom za normalan rad."</string>
   <string name="impunity_declaration_ignore">"Ne prikazuj ponovo"</string>
   <string name="impunity_declaration_positive_text">U redu</string>
   <string name="impunity_declaration_settings">Obavijest povezivanja s internetom</string>
@@ -593,7 +593,7 @@
   <string name="multiface_crop_help">Dodirnite lice za početak</string>
   <string name="must_pick_file">Odaberi fotografiju</string>
   <string name="name_wrong">"Ovo nije %s"</string>
-  <string name="need_to_log_in_xiaomi_account">Prijavite se da automatski napravite izradu Sig. kopiju fotografija i videozapisa na Mi Cloud</string>
+  <string name="need_to_log_in_xiaomi_account">Prijavite se da automatski izradite Sig. kopiju fotografija i videozapisa na Mi Cloud</string>
   <string name="need_to_turn_on_network">"Nemate internetsku vezu."</string>
   <string name="need_to_turn_on_sync">Uključite prvo izradu Sig. kopije na Mi Cloud</string>
   <string name="need_to_turn_on_wlan">Povežite se prvo na WLAN</string>
@@ -667,7 +667,7 @@ uređaja"</string>
   <string name="operation_show_on_map">Prikaži na mapi</string>
   <string name="operation_slide_show">Pokreni dijaprojekciju</string>
   <string name="operation_successful">Podijeljeno</string>
-  <string name="operation_too_often">Previše je zahtjeva napravljeno iz vaše IP adrese. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="operation_too_often">Previše je zahtjeva napravljeno s vaše IP adrese. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="operation_unforce_top">Ukloni s vrha</string>
   <string name="operation_unhide">Prikaži</string>
   <string name="orientation_lock_tip">Rotacija zaključana</string>
@@ -678,7 +678,7 @@ uređaja"</string>
   <string name="original_scale">Original</string>
   <string name="other_category">Dodatne postavke</string>
   <string name="other_settings">Dodatne postavke</string>
-  <string name="owner_album_subtitle">Podijeljeno s %1$s ljudi</string>
+  <string name="owner_album_subtitle">Podijeljeno s %1$s osoba</string>
   <string name="paint_brush">Kist</string>
   <string name="paint_cancel_context">"Odbaciti promjene napravljene na ovoj slici?"</string>
   <string name="paint_cancel_title">Odbaci promjene</string>
@@ -764,11 +764,11 @@ uređaja"</string>
   <string name="remind_shows_in_photo_tab_title">Postavke Albuma</string>
   <string name="remove_from_secret_fail">"Ne mogu ukloniti iz skrivenog albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne mogu ukloniti iz skrivenog albuma. %1$s."</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">"%2$s stavaka ne može biti uklonjeno iz sakrivenog albuma. %1$s."</string>
+  <string name="remove_from_secret_failed_with_reason_and_count">"%2$s stavaka ne može biti uklonjeno iz skrivenog albuma. %1$s."</string>
   <string name="remove_from_secret_successful">Uklonjeno iz skrivenog albuma</string>
-  <string name="remove_from_secret_failed_message_with_count">"%2$s stavaka ne može biti uklonjeno iz sakrivenog albuma: %1$s."</string>
+  <string name="remove_from_secret_failed_message_with_count">"%2$s stavaka ne može biti uklonjeno iz skrivenog albuma: %1$s."</string>
   <string name="remove_from_secret_successfully_message">Uklonjeno iz skrivenog albuma</string>
-  <string name="remove_from_secret_unfinished_message_with_count">"%1$s nije uklonjeno iz sakrivenog albuma"</string>
+  <string name="remove_from_secret_unfinished_message_with_count">"%1$s nije uklonjeno iz skrivenog albuma"</string>
   <string name="remove_hidden_album">Prikaži</string>
   <string name="remove_recent_album">Ukloni iz albuma favorita</string>
   <string name="rename_event">Preimenuj događaj</string>
@@ -789,7 +789,7 @@ uređaja"</string>
   <string name="rotate">Rotiraj</string>
   <string name="rotate_tooltip">Povucite fotografiju da je rotirate</string>
   <string name="same_name_album_exist_and_toast">"Album sa istim imenom već postoji. Umjesto njega je napravljen '%s."</string>
-  <string name="same_name_album_exists_alert">Fotografije će biti dodane na postojeći album s istim nazivom</string>
+  <string name="same_name_album_exists_alert">Fotografije će biti dodane u postojeći album s istim nazivom</string>
   <string name="saturation">Saturacija</string>
   <string name="saturation_abbr">S</string>
   <string name="save">Spremi</string>
@@ -890,7 +890,7 @@ uređaja"</string>
   <string name="size_above">%1$s ili više</string>
   <string name="size_below">%1$s ili manje</string>
   <string name="size_between">%1$s do %2$s</string>
-  <string name="skip_hide_special_album">"Ne mogu sakriti albume sustava (npr. Kamera, Snimke zaslona, Sve videozapise)"</string>
+  <string name="skip_hide_special_album">"Ne mogu sakriti albume sustava (npr. Kamera, Snimke zaslona, Svi videozapisi)"</string>
   <string name="slideshow">Dijaprojekcija</string>
   <string name="slideshow_category">Dijaprojekcija</string>
   <string name="slideshow_dream_name">Dijaprojekcija</string>
@@ -972,7 +972,7 @@ uređaja"</string>
   <string name="upgrade_micloud_space">Kupite još prostora</string>
   <string name="user_agreement">" Uvjeti Pružanja Usluge"</string>
   <string name="user_alias_self">Sam</string>
-  <string name="user_notice_identify_summary_format">"Korištenjem ove usluge, slažete se s Xiaomi %1$s and %2$s."</string>
+  <string name="user_notice_identify_summary_format">"Korištenjem ove usluge, slažete se s Xiaomi %1$s i %2$s."</string>
   <string name="user_notice_title">Pažnja</string>
   <string name="user_policy">Pravila o Privatnosti</string>
   <string name="video_err">"Ne mogu reproducirati videozapis."</string>

@@ -25,9 +25,9 @@
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
   <string name="clear_and_bright"/>
-  <string name="cloud_state_disabled">Sinkronizacija s Mi Cloud je isključena</string>
-  <string name="cloud_state_finished">Sinkronizirano s Mi Cloud</string>
-  <string name="cloud_state_syncing">Sinkronizirano s Mi Cloud</string>
+  <string name="cloud_state_disabled">Sinkr. s Mi Cloudom je isključena</string>
+  <string name="cloud_state_finished">Sinkronizirano s Mi Cloudom</string>
+  <string name="cloud_state_syncing">Sinkronizirano s Mi Cloudom</string>
   <string name="cold_dews"/>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
@@ -67,7 +67,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="key_btn_space">Razmak</string>
   <string name="labour_day"/>
   <string name="lantern_festival"/>
-  <string name="license_host_unreachable">"Nije moguće povezivanje s mrežom. 
+  <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. 
 Da biste vidjeli ove informacije, 
 idite na: %s."</string>
   <string name="light_snow"/>

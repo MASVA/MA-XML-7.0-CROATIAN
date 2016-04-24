@@ -182,7 +182,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="connect_internet_by_usbshare">Internet putem USB-a</string>
   <string name="connect_internet_by_wifi">Internet putem WLAN-a</string>
   <string name="continue_install">Instaliraj</string>
-  <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
+  <string name="correction_attention_dialog_message">Podešavanje postavki u tijeku. Pričekajte dok se proces ne završi i pokušajte ponovo.</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
   <string name="cta_checkbox_title">"Ne prikazuj ponovo"</string>
@@ -268,7 +268,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="descx_start_scan_system">Pokreni skeniranje zaštite sustava</string>
   <string name="detail_app_button">Detalji aplikacije</string>
   <string name="details_subtitle">Detalji korištenja</string>
-  <string name="diagnostic_attention_dialog_message">"Dijagnostika za %1$s je u tijeku. Pričekajte dok ne bude dovršena i pokušajte ponovno. "</string>
+  <string name="diagnostic_attention_dialog_message">"Dijagnostika za %1$s je u tijeku. Pričekajte dok ne bude dovršena i pokušajte ponovno."</string>
   <string name="dialog_app_roaming_message">"Kada ste u međunarodnom roamingu, samo aplikacije koje ste dodali na popis iznimaka mogu koristiti podatkovne usluge. %1$s nije dodan na popis dopuštenih."</string>
   <string name="dialog_app_roaming_title">"Međunarodni roaming nije omogućen za %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
@@ -398,7 +398,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="input_traffic_pkg">Unesite uporabu podataka</string>
   <string name="input_used_hint">Unesite uporabu podataka</string>
   <string name="input_used_max_hint">Unesite uporabu podataka (manje od %s)</string>
-  <string name="install_title">Instaliraj putem USB-a</string>
+  <string name="install_title">Instaliranje putem USB-a</string>
   <string name="international_roaming_setting">Međunarodni roaming</string>
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u roamingu</string>
   <string name="ip_address_exception_summary">"Nije bilo moguće dobiti IP adresu. Ako naiđete ponovno na ovaj problem, pokušajte koristiti statičnu IP adresu."</string>
@@ -650,7 +650,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="packages_subtitle">Uključeni paketi</string>
   <string name="passwordIncorrect">Pogrešno korisničko ime ili zaporka</string>
   <string name="pay_charge">Nadoplata dodatnih podataka</string>
-  <string name="pc_install_manager">Instaliraj putem USB-a</string>
+  <string name="pc_install_manager">Instaliranje putem USB-a</string>
   <string name="pc_to_phone_install">Blokirano (%s) instalacija putem USB-a</string>
   <string name="per_month_pkg_traffic_settings">Postavi ograničenje podataka</string>
   <string name="percentage">%d%%</string>
@@ -774,7 +774,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="power_exitlowbattery_whencharge">Onemogući kada je priključeno</string>
   <string name="power_idle">Uređaj u mirovanju</string>
   <string name="power_mode_airplane_mode">Zrakoplovni način</string>
-  <string name="power_mode_auto_clean_memery_lock_screen">Nakon %1$d min</string>
+  <string name="power_mode_auto_clean_memery_lock_screen">Nakon %1$d min.</string>
   <string name="power_mode_auto_clean_memory">Očisti memoriju</string>
   <string name="power_mode_auto_clean_memory_in_five_minutes">Nakon 5 minuta</string>
   <string name="power_mode_auto_clean_memory_in_one_minute">Nakon 1 minute</string>
@@ -860,8 +860,8 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_allow_connect_network_title">Međunarodni roaming podataka</string>
   <string name="pref_allow_connect_network_whitelist_title">Dopusti iznimkama korištenje mob. podataka u roamingu</string>
   <string name="pref_app_traffic_managent">Ograničite uporabu podataka aplikacijom</string>
-  <string name="pref_auto_adjust_settings">Postavke Auto. sink. statistike uporabe podataka</string>
-  <string name="pref_auto_adjust_traffic">Automatski sink. statistiku uporabe podataka</string>
+  <string name="pref_auto_adjust_settings">Postavke Autom. sink. statistike uporabe podataka</string>
+  <string name="pref_auto_adjust_traffic">Autom. sink. statistiku uporabe podataka</string>
   <string name="pref_automatic_adjust">Sink. up. pod. mobilnog operatera</string>
   <string name="pref_avaible_traffic">Mobilni podaci</string>
   <string name="pref_category_title_lock_screen_memory_clean">Očisti pri zaključanom zaslonu</string>
@@ -872,7 +872,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_category_title_virus_lib_auto_update">Automatski ažuriraj Definicije</string>
   <string name="pref_check_network_diagnostics">"Test internetske veze uređaja"</string>
   <string name="pref_connect_settings_enable_background">Dopusti podatke u pozadini</string>
-  <string name="pref_connect_settings_enable_background_hint">"Dopustiti Aplikacijama korištenje mobilnih podataka kada ih ne koristite"</string>
+  <string name="pref_connect_settings_enable_background_hint">"Dopusti Aplikacijama korištenje mobilnih podataka kada ih ne koristite"</string>
   <string name="pref_connect_settings_exceed_limit">Ograniči uporabu podataka</string>
   <string name="pref_connect_settings_exceed_limit_hint">Isključi podatkovnu vezu kada uporaba podataka dostigne ograničenje</string>
   <string name="pref_daily_adjust">Postavi ograničenje uporabe podataka</string>
@@ -1013,7 +1013,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="security_app_lock">Zaklj. aplikacije</string>
   <string name="security_scan_optimizing">Optimiziranje…</string>
   <string name="see_detail">Detalji</string>
-  <string name="select_pattern">Select pattern</string>
+  <string name="select_pattern">Odaberite uzorak</string>
   <string name="setting_traffic_pkg">Postavite paket podataka</string>
   <string name="settings">Postavke uporabe podataka</string>
   <string name="settings_title_permission">Permissions settings</string>
@@ -1086,26 +1086,26 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="tc_diagnostic_all_error_notification_title">"Ne mogu dovršiti dijagnostiku"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Dodirnite za podešavanje tipa mreže</string>
   <string name="tc_diagnostic_brand_error_notification_title">Pogrešan tip mreže</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Wrong carrier brand&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Pogrešna marka operatera&lt;br/&gt;&lt;br/&gt;Postavite marku: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualna marka: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Gotovo</string>
-  <string name="tc_diagnostic_fragment_default">"About diagnostics
+  <string name="tc_diagnostic_fragment_default">"O dijagnostici
 1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
 2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Dodirnite za podešavanje lokacije</string>
   <string name="tc_diagnostic_location_error_notification_title">Pogrečna lokacija</string>
   <string name="tc_diagnostic_notification_sumarry">Dodirnite za prikaz rezultata</string>
-  <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
-  <string name="tc_diagnostic_notification_title">Carrier diagnostics</string>
+  <string name="tc_diagnostic_notification_summary">"Ne može se podesiti 5 puta za redom. Dodirnite za početak dijagnostike."</string>
+  <string name="tc_diagnostic_notification_title">Dijagnostika operatera</string>
   <string name="tc_diagnostic_onekey_repair_botton">Popravi</string>
-  <string name="tc_diagnostic_operator_error_notification_summary">Tap to change carrier settings</string>
+  <string name="tc_diagnostic_operator_error_notification_summary">Dodirnite za promjenu postavki operatera</string>
   <string name="tc_diagnostic_operator_error_notification_title">Pogrešan operater</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Rezultat: Pogrešan operater&lt;br/&gt;&lt;br/&gt;Set carrier: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Rezultat: Pogrešan operater&lt;br/&gt;&lt;br/&gt;Postavite operatera: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualan operater: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Fix and continue</string>
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location issues.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location and carrier issues.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">Changed successfully</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Rezultat: Couldn't complete diagnostics&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Rezultat: Wrong location&lt;br/&gt;&lt;br/&gt;Set location: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual location: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Rezultat: Wrong location&lt;br/&gt;&lt;br/&gt;Postavite lokaciju: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualna lokacika: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
   <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;No network connection&lt;/font&gt;"</string>

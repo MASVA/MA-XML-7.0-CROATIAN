@@ -176,7 +176,7 @@ koristeći %s"</string>
   <string name="date_picker_increment_year_button">Povećanje godine</string>
   <string name="date_picker_next_month_button">Sljedeći mjesec</string>
   <string name="date_picker_prev_month_button">Prethodni mjesec</string>
-  <string name="date_time">%2$s %1$s</string>
+  <string name="date_time">%1$s, %2$s</string>
   <string name="date_time_done">Gotovo</string>
   <string name="date_time_set">Postavi</string>
   <string name="day">dan</string>
@@ -1779,7 +1779,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="webviewchromium_time_picker_dialog_title">Postavljanje vremena</string>
   <string name="webviewchromium_week_picker_dialog_title">Postavljanje tjedna</string>
   <string name="week">tjedan</string>
-  <string name="weeks">tjedna</string>
+  <string name="weeks">tjedana</string>
   <string name="wfcDataSpnFormat">%s</string>
   <string name="wfcRegErrorTitle">WLAN pozivi</string>
   <string name="wfcSpnFormat">%s</string>

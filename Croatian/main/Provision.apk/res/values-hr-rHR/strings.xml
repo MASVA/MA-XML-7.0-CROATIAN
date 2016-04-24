@@ -22,7 +22,7 @@
   <string name="next_fingerprint">Dalje</string>
   <string name="other_settings">Dodatne postavke</string>
   <string name="other_settings_location">Lokacije</string>
-  <string name="other_settings_location_summary">Dopustiti aplikacijama pristup vašoj lokaciji</string>
+  <string name="other_settings_location_summary">Dopusti aplikacijama pristup vašoj lokaciji</string>
   <string name="other_settings_user_experience">Program iskustva korisnika</string>
   <string name="other_settings_user_experience_summary">Pomozite nam poboljšati MIUI slanjem anonimnih podataka korištenja (%s)</string>
   <string name="other_settings_user_experience_summary1">prikaži Pravila o Privatnosti</string>

@@ -78,7 +78,7 @@
   <string name="screen_on_proximity_sensor_summary">Nemojte pokriti narančasti dio zaslona.</string>
   <string name="screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
   <string name="screen_paper_mode_enter_toast">Način čitanja je uključen. Da isključite ovu značajku idite u Postavke &gt; Zaslon &gt; Način čitanja.</string>
-  <string name="screen_rotation_freeze_message">Auto. rotacija onemogućena.</string>
+  <string name="screen_rotation_freeze_message">Autom. rotacija onemogućena.</string>
   <string name="select">Odaberi</string>
   <string name="select_all">Odaberi sve</string>
   <string name="set_password_action">Postavite zaporku</string>
@@ -109,7 +109,7 @@
   <string name="status_bar_toggle_quiet_mode">Ne ometaj</string>
   <string name="status_bar_toggle_reboot">Ponovno pokretanje</string>
   <string name="status_bar_toggle_rotate">Rotacija</string>
-  <string name="status_bar_toggle_screen_button">Gumbi</string>
+  <string name="status_bar_toggle_screen_button">Tipke</string>
   <string name="status_bar_toggle_screenshot">Snimka zaslona</string>
   <string name="status_bar_toggle_shutdown">Isključivanje</string>
   <string name="status_bar_toggle_sync">Sinkr.</string>

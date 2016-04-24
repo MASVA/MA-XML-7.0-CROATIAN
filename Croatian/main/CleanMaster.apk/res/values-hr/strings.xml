@@ -362,7 +362,7 @@
   <string name="title_of_network_speed_set">Prikaži brzine mrežu u statusnoj traci</string>
   <string name="title_of_operators_set">Postavke operatera</string>
   <string name="title_of_package_set">Postavke plana podataka</string>
-  <string name="title_of_traffic_notification">Traka statusa podataka</string>
+  <string name="title_of_traffic_notification">Statusna traka podataka</string>
   <string name="title_optimizer">Uvjeti i Odredbe</string>
   <string name="title_share_link">Podijeli poveznicu</string>
   <string name="toast_add_white_list_success">" je dodan u iznimke"</string>

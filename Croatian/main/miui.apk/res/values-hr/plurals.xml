@@ -53,7 +53,7 @@
         <item quantity="one">Za 1 minutu</item>
     </plurals>
     <plurals name="items_selected">
-        <item quantity="other">Broj odabranih stavki: %d</item>
+        <item quantity="other">Odabrano stavki: %d</item>
         <item quantity="one">%d odabrana stavka</item>
     </plurals>
 </resources> 

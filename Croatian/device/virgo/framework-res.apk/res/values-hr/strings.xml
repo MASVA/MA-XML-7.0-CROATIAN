@@ -174,7 +174,7 @@ koristeći %s"</string>
   <string name="date_picker_increment_year_button">Povećanje godine</string>
   <string name="date_picker_next_month_button">Sljedeći mjesec</string>
   <string name="date_picker_prev_month_button">Prethodni mjesec</string>
-  <string name="date_time">%2$s %1$s</string>
+  <string name="date_time">%1$s, %2$s</string>
   <string name="date_time_done">Gotovo</string>
   <string name="date_time_set">Postavi</string>
   <string name="day">dan</string>
