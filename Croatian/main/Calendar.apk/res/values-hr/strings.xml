@@ -233,6 +233,8 @@
   <string name="local_calendar_display_name">Lokalni kalendar</string>
   <string name="local_owner_account_name">Spremljeno na ovom uređaju</string>
   <string name="lunar_date">Mjesečev datum</string>
+  <string name="match_ed">Završeno</string>
+  <string name="match_ing">U tijeku</string>
   <string name="menu_about_preferences">O Kalendaru</string>
   <string name="menu_general_preferences">Opće postavke</string>
   <string name="menu_preferences">Postavke</string>

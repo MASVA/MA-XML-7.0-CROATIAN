@@ -146,6 +146,7 @@
   <string name="call_record_auto_whitelist_no_item">Dodajte broj dodirivanjem tipke (+)</string>
   <string name="call_record_auto_whitelist_summary">%d brojeva</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 broj</string>
+  <string name="call_record_loading_content">Učitavanje…</string>
   <string name="call_record_off_summary">Isključeno</string>
   <string name="call_record_on_summary">Pozivi će biti snimljeni automatski</string>
   <string name="call_record_setting">Snimanje poziva</string>

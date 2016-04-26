@@ -257,7 +257,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="app_special_disable_dlg_title">Izbrisati podatke i onemogućiti aplikaciju?</string>
   <string name="app_switch_key">Nedavno</string>
   <string name="app_usage_preference">Postavke upotrebe aplikacije</string>
-  <string name="application_forbid_auto_startup">Spriječi %s da se pokrene u pozadini</string>
+  <string name="application_forbid_auto_startup">Spriječi %s od pokretanja u pozadini</string>
   <string name="application_info_label">Informacije o aplikaciji</string>
   <string name="application_item_already_permission">Dopušteno</string>
   <string name="application_item_disable">-</string>
@@ -269,7 +269,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="applications_settings_summary">Upravljanje aplikacijama, postavljanje prečaca za brzo pokretanje</string>
   <string name="apply_fingerprint_to_category_title">Primijeni otisak prsta za…</string>
   <string name="apply_now_button_text">Ažuriraj</string>
-  <string name="apply_password_to_category_title">Potebno otključavanje</string>
+  <string name="apply_password_to_category_title">Zahtijeva otključavanje</string>
   <string name="apply_update_fail">"Ne mogu ažurirati"</string>
   <string name="apps_storage">Pohrana aplikacija</string>
   <string name="apps_with_restrictions_header">Aplikacije s ograničenjima</string>

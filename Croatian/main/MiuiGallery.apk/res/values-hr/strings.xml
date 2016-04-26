@@ -34,6 +34,7 @@
   <string name="add_to_secret_failed_with_reason">"Ne mogu dodati u skriveni album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s stavaka ne može biti dodano u skriveni album. %1$s."</string>
   <string name="add_to_secret_successful">Dodano u skriveni album</string>
+  <string name="adding">Dodavanje</string>
   <string name="add_to_cloud_album">Dodaj u album</string>
   <string name="add_to_cloud_exceeded_the_size_message">Datoteka je prevelika</string>
   <string name="add_to_cloud_failed_message_with_count">"%2$s stavaka ne može biti dodano u Mi Cloud : %1$s."</string>
@@ -299,9 +300,9 @@
   <string name="delete_from_album">iz albuma \"%s\" (svi uređaji)</string>
   <string name="delete_from_album_no_account">iz albuma \"%s\"</string>
   <string name="delete_from_all_devices">iz svih uređaja</string>
-  <string name="delete_from_devices">Svih uređaja koji su sinkr. automatski</string>
+  <string name="delete_from_devices">Svih uređaja koji sinkr. automatski</string>
   <string name="delete_from_devices_album">Svih uređaja koji su sinkr. ovaj album</string>
-  <string name="delete_from_homepage_album">Albuma na početnoj strani</string>
+  <string name="delete_from_homepage_album">Albuma prikazanih na početnoj strani</string>
   <string name="delete_from_web">Web albumi</string>
   <string name="delete_in_album">Kada izbrišete fotografiju ili videozapis iz albuma, također će biti izbrisano iz:</string>
   <string name="delete_in_home_page">Kada izbrišete fotografiju ili videozapis na početnoj strani, isti će biti izbrisan iz:</string>
@@ -311,6 +312,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d izbrisano, %2$d sačuvano</string>
   <string name="delete_third_party_photo">Izbrisati ovu fotografiju?</string>
   <string name="delete_third_party_video">Izbrisati ovaj videozapis?</string>
+  <string name="delete_to_trash_tips">Možete pregledati sinkronizirane fotografije nedavno izbrisane iz smeća u postavkama</string>
   <string name="delete_file">Izbrisati (%1$d) datoteka?</string>
   <string name="delete_files_and_folders">Izbrisati datoteke (%1$d) i mape (%2$d)?</string>
   <string name="delete_folder">Izbrisati (%1$d) mapa ?</string>
@@ -974,6 +976,7 @@ uređaja"</string>
   <string name="user_alias_self">Sam</string>
   <string name="user_notice_identify_summary_format">"Korištenjem ove usluge, slažete se s Xiaomi %1$s i %2$s."</string>
   <string name="user_notice_title">Pažnja</string>
+  <string name="video_edit_file_not_exits_tip">Morate prvo preuzeti videozapis</string>
   <string name="user_policy">Pravila o Privatnosti</string>
   <string name="video_err">"Ne mogu reproducirati videozapis."</string>
   <string name="video_not_exist">Videozapis ne postoji</string>

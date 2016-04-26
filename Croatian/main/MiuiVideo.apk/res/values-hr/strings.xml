@@ -319,7 +319,7 @@
   <string name="search_hint">Traži online videozapise</string>
   <string name="search_result_empty_text">"Ništa nije pronađeno"</string>
   <string name="search_snack_more">Više informacija</string>
-  <string name="search_snack_sniff">Sniffing preuzimanje</string>
+  <string name="search_snack_sniff">Cijeli net</string>
   <string name="second"> Drugo</string>
   <string name="see_all_count_comment">%d još komentara</string>
   <string name="select_all">Odaberi sve</string>
@@ -336,7 +336,7 @@
   <string name="share_device">Dijeljeni uređaj</string>
   <string name="similar">Sličan film</string>
   <string name="sina">Sina</string>
-  <string name="sniff">Sniff</string>
+  <string name="sniff">Izvor</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">"Ne mogu naći izvor"</string>
   <string name="star1">*</string>

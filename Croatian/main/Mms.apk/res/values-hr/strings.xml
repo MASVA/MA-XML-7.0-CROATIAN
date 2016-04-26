@@ -19,6 +19,8 @@
   <string name="add_slide_hint">Dodirnite za stvaranje novog slajda</string>
   <string name="add_smiley">Smješko</string>
   <string name="add_timing">Vrijeme</string>
+  <string name="add_to_browser_favorite_failed">Nije uspjelo</string>
+  <string name="add_to_browser_favorite_success">Uspjelo</string>
   <string name="add_video">Dodaj videozapis</string>
   <string name="adding_attachments">Pričekajte završetak dodavanja stavki u dijaprojekciju.</string>
   <string name="adding_attachments_title">Dodavanje privitaka</string>
