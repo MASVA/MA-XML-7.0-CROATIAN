@@ -121,6 +121,9 @@
   <string name="delete_message">Izbrisati</string>
   <string name="delete_phrase">Izbrisati frazu</string>
   <string name="delete_unlocked">Izbriši zaključane poruke</string>
+  <string name="delete_wild_sims">Izbriši brojeve</string>
+  <string name="delete_wild_sims_confirm">Sve poruke koje pripadaju odabranim brojevima biti će izbrisane u ovom telefonu. Možete ih vratiti na i.mi.com.</string>
+  <string name="delete_wild_sims_title">Izbriši odabrane brojeve</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
   <string name="disable_notifications_dialog_message">Prestati s dupliciranjem obavijesti putem tekstualnih poruka iz zadane aplikacije za slanje poruka?</string>

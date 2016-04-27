@@ -400,11 +400,12 @@ Kartice kontakata su isključene"</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Izvoz je završen</string>
   <string name="export_sim_contact_finish_msg">Premješteno: %1$d| Dvostruko: %2$d |Preostalo: %2$d</string>
-  <string name="export_to_sdcard">"Izvoz u pohranu"</string>
+  <string name="export_to_sdcard">"Izvoz u SD karticu"</string>
   <string name="export_to_sim">Izvoz na SIM karticu</string>
   <string name="export_to_sim1">Izvoz na SIM karticu 1</string>
   <string name="export_to_sim2">Izvoz na SIM karticu 2</string>
   <string name="export_to_sim_title">Izvoz na SIM karticu…</string>
+  <string name="export_to_storage">Izvoz u pohranu</string>
   <string name="export_vcard_description">Izvezi vCard u unutarnju pohranu uređaja</string>
   <string name="exporting_contact_failed_message">"Podaci o kontaktu nisu izvezeni. 
 Razlog: \"%s\""</string>
@@ -1253,6 +1254,10 @@ Za dodavanje kontakta na listu favorita :
   <string name="status_available">"Dostupan"</string>
   <string name="status_away">"Odsutan"</string>
   <string name="status_busy">"Zauzet"</string>
+  <string name="storage_internal_description">Unutarnja pohrana</string>
+  <string name="storage_sd_card">SD kartica</string>
+  <string name="storage_sd_card_description">SD kartica</string>
+  <string name="storage_usb_description">USB pohrana</string>
   <string name="strequentList">Favoriti</string>
   <string name="success_message_import_from_account">Kontakt uvezen</string>
   <string name="summary_kind_title">Sažetak</string>

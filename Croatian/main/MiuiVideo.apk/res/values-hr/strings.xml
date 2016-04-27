@@ -101,7 +101,7 @@
   <string name="declaration">Uvjeti korištenja</string>
   <string name="declaration_allow">Slažem se</string>
   <string name="declaration_content">"1.Korištenjem ove usluge, slažete se sa Sohu Video, iQiyi i ostale pružatelje video sadržaja' "&lt;a href="file:///android_asset/terms.html"&gt;Uvjeti Korištenja"&lt;/a&gt;".
-2.Pomozite nam poboljšati ovaj proizvod, automatskim slanjem dijagnostičkih i podataka korištenja Xiaomi-u.
+2.Da bi poboljšali vaše korisničko iskustvo, prikupiti ćemo neke podatke o uređaju i sadržaju koji gledate. Youku i iQiyi će također prikupiti IMEI vašeg uređaja.
 3.Naš HD video dodatak će biti automatski instaliran.
 4.Ova usluga treba povezivanje s internetom da funkcionira ispravno."</string>
   <string name="declaration_content_td_custom">Ova značajka treba povezivanje s internetom za normalan rad</string>

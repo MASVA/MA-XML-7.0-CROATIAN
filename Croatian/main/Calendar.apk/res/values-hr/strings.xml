@@ -28,6 +28,15 @@
   <string name="action_text_new_event">Novi događaj</string>
   <string name="action_text_online">Traži</string>
   <string name="action_text_today">Danas</string>
+  <string name="ad_card_connecting">Povezivanje</string>
+  <string name="ad_card_download_count">%1$s preuzimanja</string>
+  <string name="ad_card_download_count_million">%1$s milijuna preuzimanja</string>
+  <string name="ad_card_downloading">Preuzimanje</string>
+  <string name="ad_card_install">Instaliraj</string>
+  <string name="ad_card_installed">Instalirano</string>
+  <string name="ad_card_installing">Instaliranje</string>
+  <string name="ad_card_network_error">Ne mogu se povezati na mrežu</string>
+  <string name="ad_card_spread">Podijeli</string>
   <string name="add_account">Dodavanje računa</string>
   <string name="add_calendar">Dodaj kalendar</string>
   <string name="add_card">Dodaj kartice</string>

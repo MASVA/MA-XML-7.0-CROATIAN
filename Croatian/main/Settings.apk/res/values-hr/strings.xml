@@ -675,7 +675,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bugreport_tool_log">Stvaranje izvješća o pogreškama</string>
   <string name="bugreport_tool_log_toast">Izvješće spremljeno u %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Stvaranje Izvješća o pogreškama (traje oko 1 minute)</string>
-  <string name="build_number">Broj međuverzije</string>
+  <string name="build_number">Broj verzije</string>
   <string name="builtin_keyboard_settings_summary">Postavke fizičke tipkovnice</string>
   <string name="builtin_keyboard_settings_title">Fizička tipkovnica</string>
   <string name="button_disconnect_network">Isključi iz mreže</string>
@@ -1420,7 +1420,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_usage_category_title">Upotreba otiska prsta za</string>
   <string name="finish_application">Prisilno zaustavi</string>
   <string name="finish_button_label">Završi</string>
-  <string name="firmware_version">Verzija sustava Android</string>
+  <string name="firmware_version">Android verzija</string>
   <string name="floating_window_switch_label">Prikaži skočne prozore</string>
   <string name="floating_window_switch_label_disable">Sakrij skočne prozore</string>
   <string name="fluency_mode">Animacije sustava</string>
@@ -1665,7 +1665,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keep_legacy_fingerprint">Zadrži</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u stanje mirovanje tijekom punjenja</string>
-  <string name="kernel_version">Verzija jezgre</string>
+  <string name="kernel_version">Kernel verzija</string>
   <string name="key_position_cat">Položaj tipki</string>
   <string name="key_settings">Tipke</string>
   <string name="key_settings_title">Tipke</string>
@@ -2945,7 +2945,7 @@ Za prikvačivanje zaslona:
   <string name="sdcard_unmount">Isključi USB memoriju</string>
   <string name="se_route_ese">Ugrađeni sigurni element</string>
   <string name="se_route_uicc">Sigurni element na SIM kartici</string>
-  <string name="search_about">"O uređaju;Naziv uređaja;Broj modela;Android verzija;MIUI verzija;CPU;RAM;Unutarnja memorija;Osnovna verzija;Verzija jezgre;Broj verzije;Status;Pravne informacije "</string>
+  <string name="search_about">"O uređaju;Naziv uređaja;Broj modela;Android verzija;MIUI verzija;CPU;RAM;Unutarnja memorija;Osnovna verzija;Kernel verzija;Broj verzije;Status;Pravne informacije "</string>
   <string name="search_accelerometer">Autom.zakreni zaslon</string>
   <string name="search_access_control">Postavke privatnosti</string>
   <string name="search_accessibility">Dostupnost</string>
@@ -3941,8 +3941,11 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="vibrate_on_touch_title">Vibracija na dodir</string>
   <string name="vibrate_when_ringing_title">Vibracija i za pozive</string>
   <string name="view_install_log">Prikaži zapis</string>
-  <string name="virtual_sim_category_title">Virtualni SIM</string>
+  <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Pouzdana međunarodna roaming usluga</string>
+  <string name="virtual_sim_global_category_title">Mi SIM</string>
+  <string name="virtual_sim_global_description">Nema SIM kartice je potrebno za povezivanje s podatkovnom mrežom</string>
+  <string name="virtual_sim_global_title">Usluga prometa podataka</string>
   <string name="virtual_sim_search_title">Virtualni SIM</string>
   <string name="virtual_sim_title">Roaming mreža podataka</string>
   <string name="virus_scan">Skeniranje</string>

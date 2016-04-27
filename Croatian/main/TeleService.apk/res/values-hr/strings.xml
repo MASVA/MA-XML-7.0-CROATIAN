@@ -512,7 +512,8 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="get_smsc_address_error">"Ne mogu se spojiti na mrežu."</string>
   <string name="get_smsc_address_timeout">Isteklo je vrijeme veze</string>
   <string name="get_use_history_failed">"Ne mogu dobiti povijest"</string>
-  <string name="goPrivate">na privatno</string>
+  <string name="goPrivate">Na privatno</string>
+  <string name="go_to_virtual_sim_title">Virtualni SIM</string>
   <string name="got_it">U redu</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Postavke mreže</string>
   <string name="gsm_umts_network_preferences_title">Postavke mreže</string>
