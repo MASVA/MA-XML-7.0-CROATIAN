@@ -178,7 +178,7 @@
   <string name="callind_multi_sim">SUBS postavke</string>
   <string name="calling_via_template">Pozivanje putem %s</string>
   <string name="callwait_open_hint">\"Poziv na čekanju\" je značajka koju pruža vaš operater. Ako dobijete obavijest o pogrešci, obratite se svom davatelju usluga kako bi bili sigurni da je ova značajka podržana.</string>
-  <string name="can_not_call_self">"Ne možete birati vlastiti broj"</string>
+  <string name="can_not_call_self">"Ne možete birati vlastiti broj"</string>  
   <string name="can_not_use_for_not_data_sim">"(Ne mogu koristiti: Mora biti postavljeno kao zadana SIM kartica za podatke)"</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_call">Odustani</string>
@@ -217,7 +217,7 @@
   <string name="cb_psw_dont_match">Zaporke se ne podudaraju</string>
   <string name="cb_sms_settings">Postavke SMS-a iz mobilne mreže</string>
   <string name="cdma_activate_device">Aktivacija uređaja</string>
-  <string name="cdma_alert_message">"Ako odaberete drugu karticu kao zadanu za mobilne podatke, nećete biti u mogućnosti koristiti vašu China Telecom SIM karticu (osim u roamingu)."</string>
+  <string name="cdma_alert_message">"Ako odaberete drugu karticu kao zadanu za mobilne podatke, nećete biti u mogućnosti koristiti vašu China Telecom UIM karticu (osim u roamingu)."</string>
   <string name="cdma_alert_title">UIM kartica mora biti zadana</string>
   <string name="cdma_display_precise_call_state_message">"Ako vaš davatelj mobilnih usluga ne podržava ovu funkciju, status poziva može biti netočan."</string>
   <string name="cdma_display_precise_call_state_summary">Potvrdite da vaš davatelj mobilnih usluga podržava ovu funkciju</string>
