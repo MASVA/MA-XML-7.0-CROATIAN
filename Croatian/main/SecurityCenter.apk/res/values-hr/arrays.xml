@@ -20,10 +20,11 @@
         <item>Vikendom</item>
         <item>Prilagođeno</item>
     </string-array>
-	<string-array name="roaming_network_type">
+    <string-array name="roaming_network_type">
         <item>Uvijek</item>
         <item>Samo za iznimke</item>
         <item>Nikad</item>
+    </string-array>    
     <string-array name="lock_mode">
          <item>Zaključaj kad se uređaj zaključa</item>
          <item>Zaključaj nakon izlaska iz aplikacije</item>
@@ -33,7 +34,6 @@
          <item>1</item>
          <item>0</item>
          <item>2</item>
-     </string-array>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Nakon 1 minute</item>
