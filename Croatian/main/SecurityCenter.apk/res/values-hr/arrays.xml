@@ -26,7 +26,7 @@
         <item>Nikad</item>
     </string-array>    
     <string-array name="lock_mode">
-         <item>Zaključaj kad se uređaj zaključa</item>
+         <item>Zaključaj kad je uređaj zaključan</item>
          <item>Zaključaj nakon izlaska iz aplikacije</item>
          <item>Zaključaj za 1 min. nakon izlaska iz aplikacije</item>
     </string-array>

@@ -194,6 +194,7 @@ divno dogoditi"</string>
 prozor privatnosti​"</string>
   <string name="data_traffic_prompt_change">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
   <string name="data_traffic_prompt_message">Korištenje vaše mobilne podatkovne veze za pregledavanje internetom će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
+  <string name="data_traffic_prompt_message_short">Korištenje mobilnih podataka za stream videozapisa može prouzrokovati prekoračenje vašeg mjesečnog ograničenja.</string>
   <string name="data_traffic_prompt_title">Upozorenje uporabe podataka</string>
   <string name="date_picker_dialog_clear">Očisti</string>
   <string name="date_picker_dialog_other_button_label">Ostalo</string>
@@ -762,6 +763,9 @@ Napustiti ovu stranicu?"</string>
   <string name="video_downloaded_group">Preuzeto</string>
   <string name="video_downloading_group">Preuzimanje…</string>
   <string name="video_edit">Uredi</string>
+  <string name="video_float_window">PopUp</string>
+  <string name="video_float_window_playing">Reprodukcija videozapisa</string>
+  <string name="video_float_window_text">PopUp</string>
   <string name="video_fragment_name_collections">Favoriti</string>
   <string name="video_fragment_name_download">Izvanmrežno</string>
   <string name="video_fragment_name_historys">Povijest gledanja</string>

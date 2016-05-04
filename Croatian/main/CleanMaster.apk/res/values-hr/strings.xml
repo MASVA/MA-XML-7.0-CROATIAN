@@ -147,6 +147,7 @@
   <string name="empty_title_residual">Nema ostataka</string>
   <string name="empty_title_video">Nema videozapisa za brisanje</string>
   <string name="flow_rank_title">Uporaba podataka</string>
+  <string name="function_app_lock_title">%d aplik. sadrži rizik privatnosti​</string>
   <string name="garbage_clean_detail">Detalji</string>
   <string name="garbage_cleanup_detail">%1$d puta, očišćeno %2$s</string>
   <string name="garbage_month">Očišćeno %s ovaj mjesec</string>

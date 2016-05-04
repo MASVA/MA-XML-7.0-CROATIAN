@@ -50,6 +50,7 @@
   <string name="search_settings">Postavke pretraživanja</string>
   <string name="search_sources">Stavke pretraživanja</string>
   <string name="search_sources_summary">Izaberite što tražiti na telefonu</string>
+  <string name="search_suggestion">Savjeti</string>
   <string name="search_widget">Pretraži</string>
   <string name="send_secret_code">Pošalji kod</string>
   <string name="show_more">Više</string>

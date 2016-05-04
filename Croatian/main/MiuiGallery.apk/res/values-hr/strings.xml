@@ -122,6 +122,9 @@
   <string name="auto_upload_album_comfirm_to_share">Ovaj album će biti sinkr. automatski.</string>
   <string name="auto_upload_before_share_message">Napravite Sig. kopiju ovog albuma na Mi Cloud prije dijeljenja</string>
   <string name="auto_upload_before_share_title">Savjet</string>
+  <string name="auto_upload_disable_tip">Autom. Sig. kopija je onemogućena</string>
+  <string name="auto_upload_disable_toast_long_press_menu">Autom. Sig. kopija je onemogućena, i dodana je u "drugi album"</string>
+  <string name="auto_upload_enable_toast_long_press_menu">Autom. Sig. kopija je omogućena, natrag na stranicu albuma za prikaz</string>
   <string name="auto_upload_guide_msssage">"Automatski sinkr. svoje fotografije iz drugih aplikacija na Mi Cloud. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u Postavke - Sink. s Mi Cloud - Sink. Automatski"</string>
   <string name="auto_upload_guide_title">Sinkr. fotografija s Mi Cloudom</string>
   <string name="auto_upload_disable_toast">"Sig. kopija slika i videozapisa ovog albuma neće biti izrađena automatski"</string>
@@ -280,7 +283,7 @@
   <string name="creating_baby_album">Izrada albuma…</string>
   <string name="crop">Obreži</string>
   <string name="crop_fail_to_load_image">"Ne mogu učitati sliku"</string>
-  <string name="crop_label">Obrezane fotografije</string>
+  <string name="crop_label">Obreži</string>
   <string name="crop_recognize_text">Prepoznaj</string>
   <string name="crop_save_text">Spremi</string>
   <string name="crop_save_text_setas">Primjeni</string>
@@ -638,10 +641,10 @@ uređaja"</string>
   <string name="operation_add_secret">Sakrij</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_detail">Pojedinosti</string>
-  <string name="operation_disable_auto_upload">Isključi autom. Sig. kopiju</string>
+  <string name="operation_disable_auto_upload">Onemogući autom. Sig. kopiju</string>
   <string name="operation_download">Preuzmi fotografiju (%s)</string>
   <string name="operation_edit">Uredi</string>
-  <string name="operation_enable_auto_upload">Uključi autom. Sig. kopiju</string>
+  <string name="operation_enable_auto_upload">Omogući autom. Sig. kopiju</string>
   <string name="operation_add_secret_button">Sakrij</string>
   <string name="operation_delete_confirm_message_folder">"Cjelokupan sadržaj mapa bit će izbrisan.
 "</string>
@@ -665,7 +668,7 @@ uređaja"</string>
   <string name="operation_rename_baby">Unesite ime djeteta</string>
   <string name="operation_set_as_screensaver">Postavi za čuvara zaslona</string>
   <string name="operation_share">Podijeli</string>
-  <string name="operation_show_in_photos_tab">Prikaži na početnoj strani</string>
+  <string name="operation_show_in_photos_tab">Prikaži u kartici Fotografije</string>
   <string name="operation_show_on_map">Prikaži na mapi</string>
   <string name="operation_slide_show">Pokreni dijaprojekciju</string>
   <string name="operation_successful">Podijeljeno</string>
@@ -678,6 +681,7 @@ uređaja"</string>
   <string name="orientation">Usmjerenje</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
+  <string name="other_album">Ostali albumi</string>
   <string name="other_category">Dodatne postavke</string>
   <string name="other_settings">Dodatne postavke</string>
   <string name="owner_album_subtitle">Podijeljeno s %1$s osoba</string>
