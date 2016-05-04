@@ -36,7 +36,6 @@
      <string name="choose_gprs_mode">Odaberite podatkovnu vezu</string>
      <string name="close">close application</string>
      <string name="color_picker_select">-&gt;</string>
-     <string name="config_mm_package_name">com.aspire.mm</string>
      <string name="contact_widget_loading">Učitava se…</string>
      <string name="criticallowmessage">Oslobodite nešto mjesta ili neke aplikacije i funkcije sustava neće ispravno raditi.</string>
      <string name="criticallowtitle">Nema mjesta</string>
@@ -46,8 +45,6 @@
      <string name="cu_3gwap_name">沃3G手机上网</string>
      <string name="data_conn_only">Data connection only</string>
      <string name="day_concat">", "</string>
-     <string name="day_month_year_wday">%s %s %s, %s</string>
-     <string name="day_year_month_wday">%s %s %s, %s</string>
      <string name="default_label">Alarm</string>
      <string name="default_sim_setting_prompt">Zadane postavke sada su:</string>
      <string name="default_wallpaper_name">Zadano</string>
@@ -153,10 +150,10 @@
      <string name="keyguard_wrong_code_input">Pogrešan kod.</string>
      <string name="lockscreen_missing_sim_dialog_message">SIM kartica je isključena. Provjerite je li vaša SIM kartica priključena na odgovarajući način.</string>
      <string name="lockscreen_password_error">Greška lozinke, pokušajte ponovno</string>
-     <string name="lockscreen_password_too_many_failed_attempts_dialog_message">"Netočno ste unijeli lozinku %d puta. 
+     <string name="lockscreen_password_too_many_failed_attempts_dialog_message" formatted="false">"Netočno ste unijeli lozinku %d puta. 
 
 Pokušajte ponovno za %d sekundi."</string>
-     <string name="lockscreen_pin_too_many_failed_attempts_dialog_message">"Netočno ste unijeli PIN %d puta. 
+    <string name="lockscreen_pin_too_many_failed_attempts_dialog_message" formatted="false">"Netočno ste unijeli PIN %d puta. 
 
 Pokušajte ponovno za %d sekundi."</string>
      <string name="lockscreen_pinword_error">Greška PIN-a, pokušajte ponovno</string>
@@ -179,8 +176,6 @@ Pokušajte ponovno za %d sekundi."</string>
      <string name="missed_call_display">未接來電：</string>
      <string name="missed_calls">Propuštenih poziva: %d</string>
      <string name="missed_message_display">未讀簡訊：</string>
-     <string name="month_day_year_wday">%s %s, %s, %s</string>
-     <string name="month_year_day_wday">%s %s %s, %s</string>
      <string name="msensor_toast_text">Smetnje kompasa. Pomičite telefon u obliku broja 8 kako bi se ponovno kalibrirao kompas.</string>
      <string name="music_library">Biblioteka</string>
      <string name="music_no_artist">Nepoznato ime izvođača</string>
@@ -303,12 +298,6 @@ Pokušajte ponovno za %d sekundi."</string>
      <string name="wap_push_setting_noti_text">Dodirnite za odabir</string>
      <string name="wap_push_setting_noti_ticker">Prihvatiti ili ne prihvatiti uslugu automatskog slanja?</string>
      <string name="wap_push_setting_noti_title">Prihvatiti ili ne prihvatiti uslugu automatskog slanja?</string>
-     <string name="wday_day_month_year">%s, %s %s %s</string>
-     <string name="wday_day_year_month">%s, %s %s %s</string>
-     <string name="wday_month_day_year">%s, %s %s, %s</string>
-     <string name="wday_month_year_day">%s, %s %s %s</string>
-     <string name="wday_year_day_month">%s, %s %s %s</string>
-     <string name="wday_year_month_day">%s, %s %s %s</string>
      <string name="wifi_display_bt_hdmi_off_wfd_on">HDMI će se isključiti kada uključite bežični zaslon. Želite li nastaviti?</string>
      <string name="wifi_display_change_resolution_reminder">Promjena razlučivosti automatski će ponovno spojiti bežični zaslon.</string>
      <string name="wifi_display_connection_is_not_steady">Trenutna veza bežičnog zaslona nije stabilna.</string>
@@ -327,6 +316,4 @@ Pokušajte ponovno za %d sekundi."</string>
      <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
      <string name="wifi_wps_failed_overlap">Otkrivena je druga WPS sesija. Pokušajte ponovno za nekoliko minuta.</string>
      <string name="wikiPediaName">wikipedia</string>
-     <string name="year_day_month_wday">%s %s %s, %s</string>
-     <string name="year_month_day_wday">%s %s %s, %s</string>
 </resources>
