@@ -1413,7 +1413,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_last_delete_confirm">Da, ukloni</string>
   <string name="fingerprint_last_delete_message">Nećete moći upotrebljavati otiske prstiju za otključavanje telefona, autorizaciju kupovina ili prijavljivanje na aplikacije.</string>
   <string name="fingerprint_last_delete_title">Želite ukloniti sve otiske prstiju?</string>
-  <string name="fingerprint_list_title">Otisak prsta</string>
+  <string name="fingerprint_list_title">"Otisak prsta "</string>
   <string name="fingerprint_manage_category_title">Otisci prstiju</string>
   <string name="fingerprint_not_recognized">Nije prepoznat</string>
   <string name="fingerprint_removal_failed">"Ne mogu ukloniti otisak prsta, pokušajte ponovno kasnije"</string>
