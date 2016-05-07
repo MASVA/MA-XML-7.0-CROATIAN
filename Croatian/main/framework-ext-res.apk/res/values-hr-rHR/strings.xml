@@ -45,7 +45,7 @@
   <string name="handy_mode_enter_dlg_title">Rad jednom rukom</string>
   <string name="handy_mode_summary">Da zatvorite, dodirnite tamno područje zaslona</string>
   <string name="handy_mode_title">Rad jednom rukom</string>
-  <string name="ignore_home_when_fingerprint_enrolling_msg">Stavite vaš prst na gumb Početna</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Stavite vaš prst na tipku Početna</string>
   <string name="internal_livetalk_enable">Koristite nadoplatu paketa za domaće pozive</string>
   <string name="international_livetalk_enable">Koristite nadoplatu paketa za međunarodne pozive</string>
   <string name="key_btn_ok">U redu</string>
@@ -65,7 +65,7 @@
   <string name="permdesc_manageLocationPolicy">Omogućuje aplikaciji upravljanje pravila lokacije i određivanje pravila za specifične aplikacije.</string>
   <string name="permlab_manageLocationPolicy">Pristup lokaciji</string>
   <string name="reboot_confirm_title">Sada ponovno pokrenuti uređaj?</string>
-  <string name="reboot_info_auto_boot">Uređaj je predviđen za ponovno uključivanje u %s</string>
+  <string name="reboot_info_auto_boot">Uređaj će se uključiti u %s kao što je predviđeno</string>
   <string name="reboot_info_shutdown_alarm">Alarm će se oglasiti u %s</string>
   <string name="reboot_progress">Ponovno pokretanje…</string>
   <string name="replace">Zamijeni</string>

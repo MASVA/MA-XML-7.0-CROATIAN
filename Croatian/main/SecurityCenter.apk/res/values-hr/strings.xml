@@ -14,13 +14,13 @@
 ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Unesite zaporku Zaklj. aplikacije</string>
   <string name="access_control_recording_intro_header">Nacrtajte uzorak za dodavanje Zaklj. aplikacije</string>
-  <string name="access_control_reset_by_account">Prijavite se na svoj Mi Račun kako biste resetirali Zaklj. aplikacije</string>
+  <string name="access_control_reset_by_account">Prijavite se na svoj Mi Račun da poništite Zaklj. aplikacija</string>
   <string name="activity_title_antispam">AntiSpam</string>
   <string name="activity_title_antivirus">AntiVirus</string>
-  <string name="activity_title_apps_manager">Apl.</string>
-  <string name="activity_title_auto_start_manager">Auto. pokretanja</string>
+  <string name="activity_title_apps_manager">Aplik.</string>
+  <string name="activity_title_auto_start_manager">Autom. pokretanja</string>
   <string name="activity_title_create_shortcut">Prečac</string>
-  <string name="activity_title_default_apps_manager">Zadane apl.</string>
+  <string name="activity_title_default_apps_manager">Zadane aplik.</string>
   <string name="activity_title_garbage_cleanup">Čistač</string>
   <string name="activity_title_license_manager">Dopuštenja</string>
   <string name="activity_title_memory">Memorija</string>
@@ -30,7 +30,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="activity_title_perm_manager">Dopuštenja</string>
   <string name="activity_title_permission_manager">Dopuštenja</string>
   <string name="activity_title_permissions_manager">Dopuštenja</string>
-  <string name="activity_title_power_manager">Potrošnja baterije</string>
+  <string name="activity_title_power_manager">Baterija</string>
   <string name="activity_title_risk">Rizik</string>
   <string name="activity_title_risk_detail">Detalji</string>
   <string name="activity_title_root_acquired">Dopusti ROOT pristup</string>
@@ -55,14 +55,14 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="adjust_traffic_data">Podesite uporabu podataka</string>
   <string name="after_the_lock_screen">"Aplikacija se zaključava zajedno sa zaslonom, možete to promijeniti u postavkama zaključavanja aplikacija."</string>
   <string name="antivirus_choose_engine">%s</string>
-  <string name="antivirus_choose_engine_dialog_title">Odaberi definicije</string>
+  <string name="antivirus_choose_engine_dialog_title">Odaberite definicije</string>
   <string name="antivirus_choose_engine_disable_toast">"Ne mogu promjeniti definicije tijekom skeniranja"</string>
   <string name="antivirus_choose_engine_settings">Postavke definicije Virusa</string>
   <string name="antivirus_choose_engine_title">Definicije</string>
   <string name="antivirus_more_engine_dialog_summary">Korištenje višestrukih setova definicija za skeniranje može potrajati više vremena.</string>
   <string name="antivirus_more_engine_dialog_title">Pažnja</string>
   <string name="antivirus_none_engine_dialog_ok">U redu</string>
-  <string name="antivirus_none_engine_dialog_title">Odaberi definicije</string>
+  <string name="antivirus_none_engine_dialog_title">Odaberite definicije</string>
   <string name="antivirus_privacy_dialog_cloudscan">Pošalji imena i detalje aplikacija</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Pošalji imena i detalje aplikacija i skenirajte ih pomoću online definicije virusa.</string>
   <string name="antivirus_privacy_dialog_ok">U redu</string>
@@ -71,7 +71,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="antivirus_privacy_dialog_title">Pravila o Privatnosti</string>
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_update_db">%s</string>
-  <string name="apn_exception_summary">Test konfiguracije APN-a mobilnog operatera</string>
+  <string name="apn_exception_summary">Testiranje konfiguracije APN-a mobilnog operatera</string>
   <string name="apn_exception_title">Provjerite postavke APN-a</string>
   <string name="app_detail">Detalji</string>
   <string name="app_install_intercept">Blokiraj instalaciju</string>
@@ -127,7 +127,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="btn_finish_diagnostic">U redu</string>
   <string name="btn_jump">Preskoči</string>
   <string name="btn_lock">Dodaj zaključavanje</string>
-  <string name="btn_start_diagnostic">Test mreže</string>
+  <string name="btn_start_diagnostic">Testiranje mreže</string>
   <string name="btn_stop_diagnostic">Zaustavi</string>
   <string name="btn_text_cleanup_all">Očisti</string>
   <string name="btn_text_done">Gotovo</string>
@@ -145,8 +145,8 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_cancel_clean">Odustani</string>
   <string name="button_text_cancel_optimize">Odustani</string>
-  <string name="button_text_cleanup">Očistiti</string>
-  <string name="button_text_clear">Očistiti</string>
+  <string name="button_text_cleanup">Očisti</string>
+  <string name="button_text_clear">Očisti</string>
   <string name="button_text_create_shortcut">Napravi prečac na Početnom zaslonu</string>
   <string name="button_text_fix">Popravi</string>
   <string name="button_text_ignore">Zanemari</string>
@@ -172,7 +172,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="chat_uint">" sati"</string>
   <string name="check_network_state">Provjeri status mreže</string>
   <string name="checkout_traffic_saving_history">Prikaži povijest</string>
-  <string name="choose">Odaberi</string>
+  <string name="choose">Odaberite</string>
   <string name="cmcc_app_check_dialog_message">Ponovno pokrenite uređaj za dovršetak popravka.</string>
   <string name="cmcc_app_check_dialog_negative">Kasnije</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno pokreni</string>
@@ -190,8 +190,8 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="cta_checkbox_title">"Ne prikazuj ponovo"</string>
   <string name="cta_dialog_msg">Centar za sigurnost možda treba za povezivanje s internetom za preuzimanje ažuriranja.</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
-  <string name="cta_settings">Dopusti internet povezivanje</string>
-  <string name="current_network_state_not_need_diagnose">Internet povezivanje je u redu</string>
+  <string name="cta_settings">Dopusti povezivanje s internetom</string>
+  <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
   <string name="daily_limit_and_lock_screen">Ograničenje podataka &amp; obavijesti</string>
   <string name="daily_limit_network_available_body">Dodirnite za pregled statistike uporabe podataka.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Dodirnite za uključivanje mobilnih podataka.</string>
@@ -227,16 +227,16 @@ Korištenje više od planiranog ograničenja podataka vašeg mobilnog operatera 
   <string name="datausage_purchase_get_captcha_failed">"Nije bilo moguće dobiti kod za provjeru. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="datausage_purchase_goto_monthsetting">Uredi detalje paketa</string>
   <string name="datausage_purchase_none_history">Prazno</string>
-  <string name="datausage_purchase_order_failure">Kupnja nije uspjela</string>
-  <string name="datausage_purchase_order_failure_cause">Vaša kupnja nije uspjela zbog…</string>
+  <string name="datausage_purchase_order_failure">Kupovina nije uspjela</string>
+  <string name="datausage_purchase_order_failure_cause">Vaša kupovina nije uspjela zbog…</string>
   <string name="datausage_purchase_order_history">Povijest</string>
   <string name="datausage_purchase_ordering">Plaćanje…</string>
-  <string name="datausage_purchase_pay_captcha_hint">Unesite primljeni kod ovdje</string>
-  <string name="datausage_purchase_pay_captcha_tips">Nakon što dobijete svoj ​​kôd za provjeru,unesite ga u okvir iznad i dodirnite Kupi kako bi dovršili kupnju. Imajte na umu da kod vrijedi samo za 10 minuta.</string>
+  <string name="datausage_purchase_pay_captcha_hint">Unesite ovdje primljeni kod</string>
+  <string name="datausage_purchase_pay_captcha_tips">Nakon što dobijete svoj ​​kôd za provjeru, unesite ga u okvir iznad i dodirnite Kupi kako bi dovršili kupovinu. Imajte na umu da kod vrijedi samo za 10 minuta.</string>
   <string name="datausage_purchase_pay_confirm">Kupi</string>
   <string name="datausage_purchase_pay_hint">Za poništenje, birajte %s</string>
   <string name="datausage_purchase_pkglist_networkerror">"Ne mogu se povezati na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
-  <string name="datausage_purchase_pkglist_nodata">"Postoji sukob između vašeg trenutnog paketa podataka i paketa podataka koji pokušavate kupiti.
+  <string name="datausage_purchase_pkglist_nodata">"Postoji sukob između vašeg trenutnog paketa podataka i paketa podataka kojeg pokušavate kupiti.
  Provjerite kod svojeg mobilnog operatera za više informacija."</string>
   <string name="datausage_purchase_pkglist_servererror">Nešto je pošlo po krivu s našim poslužiteljem.</string>
   <string name="datausage_purchase_result_failed">"Nije bilo moguće kupiti podatke. Provjerite kod svojeg mobilnog operatera za više informacija o tom pitanju. "</string>
@@ -299,10 +299,10 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="enable_network">Uključite najprije mrežu</string>
   <string name="every_day">Svaki dan</string>
   <string name="examination_score_100">Sve izgleda uredno!</string>
-  <string name="examination_score_100_with_recommend">Stavaka (%d) može biti optimizirano</string>
+  <string name="examination_score_100_with_recommend">Ovoliko stavki (%d) može biti optimizirano</string>
   <string name="examination_score_60_0">Skeniraj sada</string>
-  <string name="examination_score_80_100">Nekoliko stavaka može biti optimizirano</string>
-  <string name="examination_score_80_100_with_recommend">Stavaka (%d) može biti optimizirano</string>
+  <string name="examination_score_80_100">Nekoliko stavki može biti optimizirano</string>
+  <string name="examination_score_80_100_with_recommend">Ovoliko stavki (%d) može biti optimizirano</string>
   <string name="examination_score_80_60">Neke stavke mogu biti optimizirane</string>
   <string name="examination_score_has_virus">Otkrivene su sumnjive aplikacije.</string>
   <string name="finger_remind_message">Također možete koristiti svoj otisak sa Zaklj. aplikacija</string>
@@ -330,7 +330,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Međunarodni roaming</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
-  <string name="firewall_service_network_blocked">%1$s je ograničeno od korištenja %2$s mreža</string>
+  <string name="firewall_service_network_blocked">%1$s je ograničen od korištenja %2$s mreža</string>
   <string name="five_percent_total_pkg">%s (5%% od mjes. podataka)</string>
   <string name="force_stop_dlg_text">"Ako ograničite podatke u pozadini, neke aplikacije i usluge neće raditi ako niste povezani na WLAN mrežu."</string>
   <string name="force_stop_dlg_title">Ograniči podatke u pozadini</string>
@@ -345,7 +345,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gigabyteShort">GB</string>
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovo.</string>
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
-  <string name="gateway_exception_title">Test routera</string>
+  <string name="gateway_exception_title">Testiranje routera</string>
   <string name="go_to_setting_fingerprint">Postavke</string>
   <string name="handle_text_cache">Predmemorija</string>
   <string name="handle_text_memory">Memorija</string>
@@ -507,8 +507,8 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="main_traffic_used_text">iskorišteno</string>
   <string name="manual_handle_title">DOSTUPNE ZNAČAJKE</string>
   <string name="manual_input_free_traffic">Postavi ograničenje uporabe podataka</string>
-  <string name="manual_input_traffic">Postavi uporabu podataka</string>
-  <string name="manual_item_white_list_summary">Spriječi odabrane aplikacije od optimiziranja</string>
+  <string name="manual_input_traffic">Postavite uporabu podataka</string>
+  <string name="manual_item_white_list_summary">Spriječite odabrane aplikacije od optimiziranja</string>
   <string name="manual_item_white_list_title">Iznimke</string>
   <string name="manual_white_list_header">Iznimaka: %d</string>
   <string name="megabyteShort">MB</string>
@@ -531,7 +531,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="menu_item_shortcut_summary">Postavite značajke na vaš početni zaslon</string>
   <string name="menu_item_shortcut_title">Upravljaj prečacima</string>
   <string name="menu_item_uninstall">Deinstaliraj</string>
-  <string name="menu_item_virus_cloud_scan_summary">Pošaljite imena i detalje aplikacija i skenirajte ih pomoću online definicije virusa</string>
+  <string name="menu_item_virus_cloud_scan_summary">Pošaljite nazive i detalje aplikacija i skenirajte ih pomoću online definicije virusa</string>
   <string name="menu_item_virus_cloud_scan_title">Online definicije virusa</string>
   <string name="menu_item_virus_install_monitor_summary">Provjerite aplikacije za virusima prije instaliranja</string>
   <string name="menu_item_virus_install_monitor_title">Skeniraj prije instaliranja</string>
@@ -561,11 +561,11 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="network_assistant_upgraded_body">Dodirnite za prikaz</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>
   <string name="network_blocked_connected_open_wifi">Povezivanje s javnom mrežom</string>
-  <string name="network_blocked_notification_summary">Test mreže</string>
+  <string name="network_blocked_notification_summary">Testiranje mreže</string>
   <string name="network_blocked_switch_wifi">Promijeni mrežu</string>
-  <string name="network_connected_exception_title">Test mreže</string>
+  <string name="network_connected_exception_title">Testiranje mreže</string>
   <string name="network_control">Prikaz postavki aplikacije</string>
-  <string name="network_diagnostics">Test mreže</string>
+  <string name="network_diagnostics">Testiranje mreže</string>
   <string name="network_mobile_exception_detail">"Vaš uređaj se ne može povezati s internetom:
 
  1. Uvjerite se da niste premašili svoe mjesečno ograničenje uporabe podataka.
@@ -587,13 +587,13 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
  
 "&lt;/b&gt;"Uvjerite se da vaš račun nema problema s vašim davateljem internetskih usluga.
 
- 3."&lt;b&gt;"  Hardware problem routera
+ 3."&lt;b&gt;"  Hardwerski problem routera
  
 "&lt;/b&gt;"Pokušajte ponovno pokrenuti vaš router ili provjerite admin postavke vašeg routera.
 
  4."&lt;b&gt;" Drugi problemi routera
  
-"&lt;/b&gt;"Pročitajte upute koje ste dobili s routerom i vratite router na tvorničke postavke.
+"&lt;/b&gt;"Pročitajte upute koje ste dobili s routerom i vratite ga na tvorničke postavke.
 
  5."&lt;b&gt;" Provjerite je li router ispravno spojen
  
@@ -676,7 +676,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="permission_with_call_and_contact">Dopuštenja koja se odnose na telefonske pozive, informacije kontakata i povijest poziva.</string>
   <string name="permit_running_network">Pozadinski podaci</string>
   <string name="person_hotpot">Mobilni hospot</string>
-  <string name="pkg_traffic">Postavi ograničenje uporabe podataka</string>
+  <string name="pkg_traffic">Postavite ograničenje uporabe podataka</string>
   <string name="pm_auto_start_by_other">Aktivirano pokretanje</string>
   <string name="pm_auto_start_by_other_app">Dopustiti aplikaciji da bude pokrenuta od strane druge aplikacije	</string>
   <string name="pm_auto_start_basic_services_lock">Zaključaj</string>
@@ -716,13 +716,13 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="power_center_time_to_boot">Vrijeme uključivanja</string>
   <string name="power_center_time_to_shutdown">Vrijeme isključivanja</string>
   <string name="power_center_title">Baterija</string>
-  <string name="power_chooser_check_box_summary">Odaberi profil za poboljšanje vijeka trajanja baterije</string>
-  <string name="power_chooser_check_box_title">Odaberi profil</string>
+  <string name="power_chooser_check_box_summary">Odaberite profil za poboljšanje vijeka trajanja baterije</string>
+  <string name="power_chooser_check_box_title">Odaberite profil</string>
   <string name="power_chooser_mine_summary">Dodaj profil</string>
   <string name="power_chooser_mine_title">Prilagođeno</string>
   <string name="power_chooser_sleep_summary">Isključi sve funkcije (telefon, SMS, WLAN i podatkovne usluge), osim alarma</string>
   <string name="power_chooser_sleep_title">Mirovanje</string>
-  <string name="power_chooser_smart_summary">Izbriši pozadinske procese kada je uređaj zaključan</string>
+  <string name="power_chooser_smart_summary">Izbriši procese u pozadini kada je uređaj zaključan</string>
   <string name="power_chooser_smart_title">Zadano</string>
   <string name="power_chooser_standby_summary">Isključi WLAN i podatkovne usluge</string>
   <string name="power_chooser_standby_title">Maraton</string>
@@ -815,12 +815,12 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="power_mode_vibration_silence">Kada je bešumno</string>
   <string name="power_mode_vibration_yes">Uvijek</string>
   <string name="power_mode_wifi">WLAN</string>
-  <string name="power_new_choose_mode">Odaberi profil</string>
+  <string name="power_new_choose_mode">Odaberite profil</string>
   <string name="power_notify_lowbattery">%1$d%% preostalo baterije</string>
   <string name="power_phone">Glasovni pozivi</string>
   <string name="power_recovery_mode">Baterija promjenjena na %1$s</string>
-  <string name="power_save_choose_mode">Odaberi profil</string>
-  <string name="power_save_choose_recovery_mode">Odaberi profil</string>
+  <string name="power_save_choose_mode">Odaberite profil</string>
+  <string name="power_save_choose_recovery_mode">Odaberite profil</string>
   <string name="power_save_low_battery_auto_save_title">Štednja baterije</string>
   <string name="power_save_low_battery_option_recovery_title">Ako se baterija oporavi, promjeni na</string>
   <string name="power_save_low_battery_option_summary">Kada je baterija iznad niskog praga, uređaj će primjeniti često korišteni profil</string>
@@ -873,23 +873,23 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_category_title_reference_settings">Dodatne postavke</string>
   <string name="pref_category_title_securitycenter_settings">Općenito</string>
   <string name="pref_category_title_virus_lib_auto_update">Automatski ažuriraj Definicije</string>
-  <string name="pref_check_network_diagnostics">"Test internetske veze uređaja"</string>
+  <string name="pref_check_network_diagnostics">"Testiranje internetske veze uređaja"</string>
   <string name="pref_connect_settings_enable_background">Dopusti podatke u pozadini</string>
   <string name="pref_connect_settings_enable_background_hint">"Dopusti Aplikacijama korištenje mobilnih podataka kada ih ne koristite"</string>
   <string name="pref_connect_settings_exceed_limit">Ograniči uporabu podataka</string>
   <string name="pref_connect_settings_exceed_limit_hint">Isključi podatkovnu vezu kada uporaba podataka dostigne ograničenje</string>
-  <string name="pref_daily_adjust">Postavi ograničenje uporabe podataka</string>
+  <string name="pref_daily_adjust">Postavite ograničenje uporabe podataka</string>
   <string name="pref_daily_traffic">Ograničenje uporabe podataka</string>
   <string name="pref_data_usage_ignore_settings">Ignoriraj uporabu podataka</string>
   <string name="pref_data_usage_ignore_settings_summary">"Nemoj pratiti uporabu podataka odabranih aplikacija"</string>
-  <string name="pref_data_usage_not_set">Postavi ograničenje uporabe podataka</string>
-  <string name="pref_free_adjust">Postavi ograničenje isklj. uporabe podataka</string>
+  <string name="pref_data_usage_not_set">Postavite ograničenje uporabe podataka</string>
+  <string name="pref_free_adjust">Postavite ograničenje isklj. uporabe podataka</string>
   <string name="pref_free_traffic_exceed_limit">Obavijesti me kada uporaba podataka dostigne ograničenje</string>
   <string name="pref_free_traffic_limit_warn">Upozorenje ograničenja isklj. uporabe podataka</string>
   <string name="pref_free_traffic_settings">Postavke ograničenja isklj. uporabe podataka</string>
   <string name="pref_leisure_no_overlay">Uključeno</string>
   <string name="pref_leisure_not_opened">Isključeno</string>
-  <string name="pref_manual_adjust">Postavi statistiku uporabe podataka ručno</string>
+  <string name="pref_manual_adjust">Postavite statistiku uporabe podataka ručno</string>
   <string name="pref_month_begin_date">Datum resetiranja uporabe</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Dodatne postavke</string>
@@ -900,10 +900,10 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_package_traffic_overlay">%1$s | Dodatno: %2$s</string>
   <string name="pref_package_traffic_settings">Ograničenje Mobilnih podataka</string>
   <string name="pref_pkg_begin_date">Datum resetiranja uporabe</string>
-  <string name="pref_roaming_daily_limit_setting">Postavi dnevno ograničenje podataka za roaming</string>
+  <string name="pref_roaming_daily_limit_setting">Postavite dnevno ograničenje podataka za roaming</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Dnevno ograničenje podataka</string>
   <string name="pref_roaming_setting_gategory">Postavke</string>
-  <string name="pref_setting_operators_message">Uredite poruku koju vaš uređaj šalje operaterU za sinkronizaciju statistike uporabe podataka</string>
+  <string name="pref_setting_operators_message">Uredite poruku koju vaš uređaj šalje operateru za sinkronizaciju statistike uporabe podataka</string>
   <string name="pref_show_mobile_traffic">Prikaži statistiku uporabe podataka tijekom otključavanja nakon što je uređaj zaključan više od 5 minuta</string>
   <string name="pref_special_traffic_exceed_limit">Obavijesti me kada uporaba podataka dostigne ograničenje</string>
   <string name="pref_special_traffic_limit_warn">Postavite upozorenje uporabe podataka</string>
@@ -914,7 +914,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_title_diagnostics_show_float_notification">Plutajuće obavijesti</string>
   <string name="pref_title_lock_screen_memory_clean">Očisti kod zaklj. zaslona</string>
   <string name="pref_title_mobile_traffic">Prikaži podatke korištenja dok je uređaj bio zaključan</string>
-  <string name="pref_title_network_diagnostics">Test mreže</string>
+  <string name="pref_title_network_diagnostics">Testiranje mreže</string>
   <string name="pref_title_over_traffic_limit_warning">Kada je premašeno</string>
   <string name="pref_title_traffic_limit_number">Veličina</string>
   <string name="pref_title_traffic_speed_state">Prikaži brzinu mreže u traci obavijesti</string>
@@ -954,9 +954,9 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="privacy_declare_dialog_message">"Korištenjem ove usluge, slažete se s Opera &lt;a href=%s&gt; Uvjeti Pružanja Usluge&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Uvjeti Pružanja Usluge</string>
   <string name="privacy_mode_dialog_title">Gost način</string>
-  <string name="privacy_prompt_tc_sms_report_message">"Vaš telefonski broj i detalji mobilnog operatera će biti šifrirani i učitani na Mi poslužitelje kako bi se ažurirale informacije uporabe podataka."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Vaš broj telefona i detalji mobilnog operatera će biti šifrirani i učitani na Mi poslužitelje kako bi se ažurirale informacije uporabe podataka."</string>
   <string name="privacy_prompt_traffic_adjust_message">"Ova značajka treba poslati IMEI vašeg uređaja, broj telefona i podatke vašeg mobilnog operatera na Mi poslužitelje kako bi dobili statistiku o uporabi podataka vašeg mobilnog operatera.</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i detalji mobilnog operatera će biti šifrirani i učitani na Mi poslužitelje kako bi dobili više informacija o mogućnosti kupnje podataka."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Vaš broj telefona i detalji mobilnog operatera će biti šifrirani i učitani na Mi poslužitelje kako bi dobili više informacija o mogućnosti kupnje podataka."</string>
   <string name="privacy_prompt_upload">Pošalji</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
@@ -965,13 +965,13 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="protection_category_recommend_title">Preporučene promjene (%d)</string>
   <string name="protection_category_security_title">Očisti (%d)</string>
   <string name="protocol_exception_title">Dijagnostika protokola mreže</string>
-  <string name="protocol_loop_back_exception_summary">Test Lokalne povratne petlje nije uspio. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja..</string>
+  <string name="protocol_loop_back_exception_summary">Testiranje Lokalne povratne petlje nije uspio. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja..</string>
   <string name="reach_daily_limit_value_body">Smanjite svoj mobilni podatkovni promet.</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Dodirnite za uključivanje Uštede podataka.</string>
   <string name="reach_daily_limit_value_title">Postignuto ograničenje dnevnih podataka</string>
   <string name="read_number">86 predmeta</string>
   <string name="read_unit">" predmeta"</string>
-  <string name="recently_reject_message">Odbijeno instalacija (%1$s) i drugih aplikacija (%2$d)</string>
+  <string name="recently_reject_message">Odbijeno (%1$s) instalacija i drugih aplikacija (%2$d)</string>
   <string name="recently_reject_message_one">Odbijeno (%1$s) zahtjeva za instalaciju</string>
   <string name="recommend_app">Preporučene aplikacije</string>
   <string name="reject_all">Ograniči svima</string>
@@ -1040,7 +1040,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sorted_button">Poredaj po</string>
   <string name="sorted_dialog_title">Poredaj po</string>
   <string name="spinner_title">%1$s - Mobilni podaci: %2$s</string>
-  <string name="st_title_mode_choose_group">Odaberi profil</string>
+  <string name="st_title_mode_choose_group">Odaberite profil</string>
   <string name="start_diagnostic_botton">Start</string>
   <string name="stop_app_button">Zaustavi</string>
   <string name="suffix_virus_count_bottom">ukupno</string>
@@ -1087,8 +1087,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="system_info_remind">Dodajte zaključavanja za sprečavanje neovlaštenog pristupa vašim aplikacijama</string>
   <string name="tc_diagnostic_all_error_notification_summary">Dodirnite da prijavite problem</string>
   <string name="tc_diagnostic_all_error_notification_title">"Ne mogu dovršiti dijagnostiku"</string>
-  <string name="tc_diagnostic_brand_error_notification_summary">Dodirnite za podešavanje tipa mreže</string>
-  <string name="tc_diagnostic_brand_error_notification_title">Pogrešan tip mreže</string>
+  <string name="tc_diagnostic_brand_error_notification_summary">Dodirnite za podešavanje vrste mreže</string>
+  <string name="tc_diagnostic_brand_error_notification_title">Pogrešna vrsta mreže</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Pogrešna marka operatera&lt;br/&gt;&lt;br/&gt;Postavite marku: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualna marka: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Gotovo</string>
   <string name="tc_diagnostic_fragment_default">"O dijagnostici
@@ -1103,10 +1103,10 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="tc_diagnostic_operator_error_notification_summary">Dodirnite za promjenu postavki operatera</string>
   <string name="tc_diagnostic_operator_error_notification_title">Pogrešan operater</string>
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Rezultat: Pogrešan operater&lt;br/&gt;&lt;br/&gt;Postavite operatera: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualan operater: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_and_continue">Fix and continue</string>
+  <string name="tc_diagnostic_repair_and_continue">Popravi i nastavi</string>
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location issues.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location and carrier issues.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_success_toast">Changed successfully</string>
+  <string name="tc_diagnostic_repair_success_toast">Uspješno promjenjeno</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Rezultat: Couldn't complete diagnostics&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Rezultat: Wrong location&lt;br/&gt;&lt;br/&gt;Postavite lokaciju: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualna lokacika: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
@@ -1116,14 +1116,14 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correct&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Carrier network responds&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_updating">Testing…</string>
+  <string name="tc_diagnostic_status_updating">Testiranje…</string>
   <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
   <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Carrier diagnostics</string>
   <string name="tc_diagnostic_upload_button">Report</string>
-  <string name="tc_diagnostic_upload_no_network">Thank you for your feedback! Your report will be submitted when you connect to network.</string>
-  <string name="tc_diagnostic_upload_success">Thank you for your feedback!</string>
+  <string name="tc_diagnostic_upload_no_network">Hvala vam za povratnu informaciju! Your report will be submitted when you connect to network.</string>
+  <string name="tc_diagnostic_upload_success">Hvala vam za povratnu informaciju!</string>
   <string name="tc_sms_report_direction">SMS Upit za kod</string>
   <string name="tc_sms_report_do_report">Pošalji</string>
   <string name="tc_sms_report_get_default">"Nećete snositi troškove korištenja SMS poruka za dobivanje stanja uporabe podataka vašeg mobilnog operatera."</string>
@@ -1241,7 +1241,7 @@ Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. To se razlikuje od %
   <string name="traffic_config_alert_package">"
 Prekoračeno preko dodatnih podataka"</string>
   <string name="traffic_config_alert_setted">Postavke primjenjene</string>
-  <string name="traffic_config_alert_title">%s Ispravak</string>
+  <string name="traffic_config_alert_title">%s ispravak</string>
   <string name="traffic_correction_failed">"Ne mogu doznati detalje"</string>
   <string name="traffic_correction_start_correction">"Razgovor s poslužiteljem mobilnog operatera…"</string>
   <string name="traffic_correction_start_correction_failed">Zahtjev nije uspio, provjerite postavke mobilnog operatera</string>
