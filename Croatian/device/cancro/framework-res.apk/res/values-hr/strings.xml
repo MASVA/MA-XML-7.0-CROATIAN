@@ -842,7 +842,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgroupdesc_phoneCalls">Praćenje, evidencija i obrada telefonskih poziva.</string>
   <string name="permgroupdesc_sensors">pristupiti podacima senzora o vašim vitalnim znakovima</string>
   <string name="permgroupdesc_sms">slati i pregledavati SMS poruke</string>
-  <string name="permgroupdesc_storage">Pristupi memoriji USB.</string>
+  <string name="permgroupdesc_storage">Pristup memoriji USB.</string>
   <string name="permgrouplab_calendar">Kalendar</string>
   <string name="permgrouplab_camera">Fotoaparat</string>
   <string name="permgrouplab_contacts">Kontakti</string>

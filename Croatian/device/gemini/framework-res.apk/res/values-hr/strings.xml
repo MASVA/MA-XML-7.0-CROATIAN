@@ -1073,14 +1073,14 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgroupdesc_microphone">Izravan pristup mikrofonu za snimanje zvuka.</string>
   <string name="permgroupdesc_network">Pristupajte raznim značajkama mreže.</string>
   <string name="permgroupdesc_personalInfo">Izravan pristup informacijama o vama koje su pohranjene na vašoj posjetnici.</string>
-  <string name="permgroupdesc_phone">make and manage phone calls</string>
+  <string name="permgroupdesc_phone">uspostavljati telefonske pozive i upravljati njima</string>
   <string name="permgroupdesc_phoneCalls">Praćenje, evidencija i obrada telefonskih poziva.</string>
   <string name="permgroupdesc_screenlock">Mogućnost utjecanja na ponašanje zaključanog zaslona na uređaju.</string>
   <string name="permgroupdesc_sensors">pristupiti podacima senzora o vašim vitalnim znakovima</string>
   <string name="permgroupdesc_sms">slati i pregledavati SMS poruke</string>
   <string name="permgroupdesc_socialInfo">Izravan pristup informacijama o kontaktima i društvenim vezama.</string>
   <string name="permgroupdesc_statusBar">Promijenite postavke statusne trake uređaja.</string>
-  <string name="permgroupdesc_storage">Pristupi memoriji USB.</string>
+  <string name="permgroupdesc_storage">Pristup memoriji USB.</string>
   <string name="permgroupdesc_syncSettings">Pristup postavkama sinkronizacije.</string>
   <string name="permgroupdesc_systemClock">Promjena vremena ili vremenske zone uređaja.</string>
   <string name="permgroupdesc_systemTools">Niskorazinski pristup i nadzor nad sustavom.</string>
@@ -1116,6 +1116,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgrouplab_socialInfo">Informacije o vašoj društvenoj aktivnosti</string>
   <string name="permgrouplab_statusBar">Traka statusa</string>
   <string name="permgrouplab_storage">Prostor za pohranu</string>
+  <string name="permgroupdesc_storage">pristupiti fotografijama, medijima i datotekama na vašem uređaju</string> 
   <string name="permgrouplab_syncSettings">Postavke sinkronizacije</string>
   <string name="permgrouplab_systemClock">Sat</string>
   <string name="permgrouplab_systemTools">Sistemski alati</string>

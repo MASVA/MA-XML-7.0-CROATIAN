@@ -842,7 +842,6 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgroupdesc_phoneCalls">Praćenje, evidencija i obrada telefonskih poziva.</string>
   <string name="permgroupdesc_sensors">pristupiti podacima senzora o vašim vitalnim znakovima</string>
   <string name="permgroupdesc_sms">slati i pregledavati SMS poruke</string>
-  <string name="permgroupdesc_storage">Pristupi memoriji USB.</string>
   <string name="permgrouplab_calendar">Kalendar</string>
   <string name="permgrouplab_camera">Fotoaparat</string>
   <string name="permgrouplab_contacts">Kontakti</string>
@@ -852,6 +851,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgrouplab_sensors">Biometrijski senzori</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Prostor za pohranu</string>
+  <string name="permgroupdesc_storage">pristupiti fotografijama, medijima i datotekama na vašem uređaju</string>
   <string name="permission_request_notification_title">Zatraženo je dopuštenje</string>
   <string name="permission_request_notification_with_subtitle">"Zatraženo je dopuštenje
 za račun %s."</string>
