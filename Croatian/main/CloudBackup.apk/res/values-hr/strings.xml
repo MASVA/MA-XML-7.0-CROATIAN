@@ -9,8 +9,10 @@
   <string name="backing_up_to_micloud">Izrada u tijeku…</string>
   <string name="backup_fail">"Ne mogu izraditi Sig. kopiju"</string>
   <string name="backup_finished_notification_content">Pohranjene su aplikacije Poč.zaslona, postavke sustava, itd.</string>
+  <string name="backup_now">Izradi Sig. kopiju sada</string>
   <string name="backup_size">Veličina: %s</string>
   <string name="backup_success">Sig. kopija uspješno napravljena</string>
+  <string name="backup_successfully">Sig. kopija uspješno napravljena</string>
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_delete">Izbriši</string>
@@ -49,12 +51,12 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_back_up_share_activity_title">Nadogradi Mi Račun</string>
   <string name="cloud_back_up_task">Izrada Sig. kopije…</string>
   <string name="cloud_backup_detail_frequence">Raspored Sig. kopije</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s napravi jednu Sig. kopiju</string>
+  <string name="cloud_backup_detail_frequence_day">Izradi jednom Sig. kopiju %1$s</string>
   <string name="cloud_backup_detail_manage">Upravljanje Sig. kopijama</string>
   <string name="cloud_backup_detail_manage_summary">%1$s Sig. kopija, Veličina:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Cloud Sig. kopija</string>
   <string name="cloud_backup_detail_state_summary">Aplikacije, Poč. zaslon i postavke sustava</string>
-  <string name="cloud_backup_detail_time">, Vrijeme izrade:%1$s</string>
+  <string name="cloud_backup_detail_time">Zadnja Sig. kopija:%1$s</string>
   <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Mi Cloudu</string>
   <string name="cloud_backup_select_recover">Odaberite Sig. kopiju sa Mi Clouda</string>
   <string name="cloud_restore_from_other_device">"Zaustaviti vraćanje %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
@@ -104,6 +106,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="restore_from_cloud">Vrati Sig. kopiju iz Mi Clouda</string>
   <string name="restore_from_this_device">Vrati koristeći ovu Sig. kopiju</string>
   <string name="restore_home_screen_apps">Vrati iz Sig. kopije na Mi Cloudu</string>
+  <string name="restore_task_unfinished">Vraćanje aplikacija, pokušajte ponovno kasnije</string>
   <string name="restoreing_file_tile">Vraćanje datoteka (%d)</string>
   <string name="retry">Pokušaj ponovo</string>
   <string name="self_phone">Ovaj telefon</string>

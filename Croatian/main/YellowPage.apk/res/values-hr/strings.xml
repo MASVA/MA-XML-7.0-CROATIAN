@@ -327,6 +327,7 @@ Provjerite broj za praćenje."</string>
   <string name="payment_unknown_status_summary">Provjerite svoju mrežnu vezu i pokušajte ponovno.</string>
   <string name="payment_unknown_status_title">"Ne mogu potvrditi status plaćanja"</string>
   <string name="phone_event_setting_notice_text">"Korištenjem ove značajke pristajete na naše %1$s i %2$s".</string>
+  <string name="phone_event_setting_notice_text_with_contacts_permission">"Korištenjem ove značajke suglasni ste s našim %1$s i %2$s. Da bi vratili naličje telefona, trebamo dopuštenje za pristup vašim kontaktima."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d ukupno</string>
   <string name="pull_to_refresh_pull_label">Povuci za osvježiti…</string>

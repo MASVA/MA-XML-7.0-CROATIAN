@@ -123,6 +123,7 @@
   <string name="desktop_lyric_dialog_msg">Otvorite ga u Moja glazba-Postavke-Više naprednih postavki</string>
   <string name="desktop_lyric_dialog_positive_button">Isprobajte sada</string>
   <string name="desktop_lyric_dialog_title">Isprobajte tekst na radnoj površini</string>
+  <string name="desktop_lyric_lock_toast">Zaključano. Koristite Mini Player u traci obavijesti za otključavanje</string>
   <string name="desktop_lyric_setting_summary">Prikaži plutajući tekst na radnoj površini</string>
   <string name="desktop_lyric_setting_title">Tekst na radnoj površini</string>
   <string name="desktop_lyric_textsize">Tekst</string>

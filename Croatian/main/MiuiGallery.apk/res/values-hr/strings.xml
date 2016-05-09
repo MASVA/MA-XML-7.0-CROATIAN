@@ -573,7 +573,8 @@
   <string name="merge_album_title">Spoji Albume</string>
   <string name="message_no_delete_access">"Nemate dopuštenje za brisanje %s"</string>
   <string name="messagelist_sender_self">Ja</string>
-  <string name="micloud_introduce">Izradi Sig. kopiju fotografija i videozapisa automatski (potreban Mi Račun)</string>
+  <string name="micloud_introduce">Izradi Sig. kopiju kamere i videozapisa automatski (potreban Mi Račun)</string>
+  <string name="more_album_hint">,itd</string>
   <string name="miliao">Mi Talk</string>
   <string name="miliao_folder_display_name">Mi Talk</string>
   <string name="miliao_painting_folder_display_name">Mi Talk bojanje</string>
@@ -581,7 +582,7 @@
   <string name="mimetype">Vrsta MIME-a</string>
   <string name="mishop">MiShop</string>
   <string name="mishop_saved_folder_display_name">MiStore</string>
-  <string name="miui_capture_screen_folder_display_name">Snimak zaslona</string>
+  <string name="miui_capture_screen_folder_display_name">Snimka zaslona</string>
   <string name="miui_wallpaper">Slika pozadine</string>
   <string name="modified_time">Izmjenjeno</string>
   <string name="moman">Moman Kamera</string>
@@ -597,6 +598,7 @@
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Dodirnite lice za početak</string>
   <string name="must_pick_file">Odaberi fotografiju</string>
+  <string name="name_split">,</string>
   <string name="name_wrong">"Ovo nije %s"</string>
   <string name="need_to_log_in_xiaomi_account">Prijavite se da automatski izradite Sig. kopiju fotografija i videozapisa na Mi Cloud</string>
   <string name="need_to_turn_on_network">"Nemate internetsku vezu."</string>
@@ -794,6 +796,7 @@ uređaja"</string>
   <string name="rise">Toplo</string>
   <string name="rotate">Rotiraj</string>
   <string name="rotate_tooltip">Povucite fotografiju da je rotirate</string>
+  <string name="runtime_permission_ungranted">Aplikacija Galerija zatvorena jer nema dobivenog dopuštenja</string>
   <string name="same_name_album_exist_and_toast">"Album sa istim imenom već postoji. Umjesto njega je napravljen '%s."</string>
   <string name="same_name_album_exists_alert">Fotografije će biti dodane u postojeći album s istim nazivom</string>
   <string name="saturation">Saturacija</string>

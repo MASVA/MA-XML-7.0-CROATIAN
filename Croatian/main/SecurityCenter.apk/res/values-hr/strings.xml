@@ -27,6 +27,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="activity_title_network_speed_detail">Povezanost</string>
   <string name="activity_title_networkassistants">Uporaba podataka</string>
   <string name="activity_title_notification_bar_manager">Obavijesti</string>
+  <string name="activity_title_other_permission_manager">Ostala dopuštenja</string>
   <string name="activity_title_perm_manager">Dopuštenja</string>
   <string name="activity_title_permission_manager">Dopuštenja</string>
   <string name="activity_title_permissions_manager">Dopuštenja</string>
