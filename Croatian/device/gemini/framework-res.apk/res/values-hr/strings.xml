@@ -1080,7 +1080,6 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgroupdesc_sms">slati i pregledavati SMS poruke</string>
   <string name="permgroupdesc_socialInfo">Izravan pristup informacijama o kontaktima i društvenim vezama.</string>
   <string name="permgroupdesc_statusBar">Promijenite postavke statusne trake uređaja.</string>
-  <string name="permgroupdesc_storage">Pristup memoriji USB.</string>
   <string name="permgroupdesc_syncSettings">Pristup postavkama sinkronizacije.</string>
   <string name="permgroupdesc_systemClock">Promjena vremena ili vremenske zone uređaja.</string>
   <string name="permgroupdesc_systemTools">Niskorazinski pristup i nadzor nad sustavom.</string>
