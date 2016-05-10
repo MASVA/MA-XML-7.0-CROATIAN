@@ -191,5 +191,29 @@
          <item quantity="two"> Preuzimanja</item>
          <item quantity="few"> Preuzimanja</item>
          <item quantity="many"> Preuzimanja</item>
-      </plurals>		      
+      </plurals>
+      <plurals name="video_play_num">
+         <item quantity="other">%1$s reproducirano</item>
+         <item quantity="zero">%1$s reproducirano</item>
+         <item quantity="one">%1$s reproducirano</item>
+         <item quantity="two">%1$s reproducirano</item>
+         <item quantity="few">%1$s reproducirano</item>
+         <item quantity="many">%1$s reproducirano</item>
+     </plurals>
+     <plurals name="video_num">
+         <item quantity="other">%1$s videozapisa</item>
+         <item quantity="zero">%1$s videozapisa</item>
+         <item quantity="one">%1$s videozapis</item>
+         <item quantity="two">%1$s videozapisa</item>
+         <item quantity="few">%1$s videozapisa</item>
+         <item quantity="many">%1$s videozapisa</item>
+     </plurals>
+     <plurals name="user_upload_items">
+         <item quantity="other">videozapisa</item>
+         <item quantity="zero">videozapisa</item>
+         <item quantity="one">videozapis</item>
+         <item quantity="two">videozapisa</item>
+         <item quantity="few">videozapisa</item>
+         <item quantity="many">videozapisa</item>
+     </plurals>	  
 </resources> 

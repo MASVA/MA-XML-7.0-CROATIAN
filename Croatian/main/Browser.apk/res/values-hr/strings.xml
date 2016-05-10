@@ -89,6 +89,8 @@
   <string name="block_ads_message">Želite li blokirati poruke s ove web stranice?</string>
   <string name="block_ads_title">Sadržaj može sadržavati reklame</string>
   <string name="bookmark_add_to">Dodaj u</string>
+  <string name="bookmark_btn_select_all">Odaberi sve</string>
+  <string name="bookmark_btn_select_none">Poništi sve</string>
   <string name="bookmark_cannot_save_url">"Ova se poveznica ne može spremiti kao oznaka."</string>
   <string name="bookmark_folder_needs_title">Unesite naziv grupe</string>
   <string name="bookmark_group_lable">Grupa</string>
@@ -202,6 +204,7 @@ prozor privatnosti​"</string>
   <string name="date_picker_dialog_title">Postavi datum</string>
   <string name="date_time_picker_dialog_title">Postavljanje datuma i vremena</string>
   <string name="delete">Izbriši</string>
+  <string name="delete_bookmark">Izbriši</string>
   <string name="delete_bookmark_group_warning">Izbrisati \"%s\"? Sve oznake u ovoj grupi će biti izbrisane.</string>
   <string name="delete_bookmark_warning">Izbrisati oznaku \"%s\"?</string>
   <string name="delete_download">Izbriši</string>

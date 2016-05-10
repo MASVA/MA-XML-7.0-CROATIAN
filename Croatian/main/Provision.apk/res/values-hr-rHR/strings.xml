@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="alert_dialog_btn_close">Onemogući</string>
+  <string name="alert_dialog_btn_open">Odustani</string>
+  <string name="alert_dialog_msg">"Neke od MIUI osnovnih značajki i usluga neće biti u mogućnosti raditi onako kako je predviđeno bez tih dopuštenja (npr. uređaj neće moći prikazati informacije o kontaktu tijekom poziva). Ako onemogućite ta dopuštenja, MIUI Aplikacije će vas pitati za pojedinačna dopuštenja kada su potrebna za određenu aktivnost."</string>
+  <string name="alert_dialog_title">Neke usluge mogu se ponašati nepredviđeno...</string>
   <string name="agree">Slažem se</string>
   <string name="congratulation_label"/>
   <string name="desc_extra_fingerprint"/>
@@ -23,6 +27,8 @@
   <string name="other_settings">Dodatne postavke</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dopusti aplikacijama pristup vašoj lokaciji</string>
+  <string name="other_settings_permission">MIUI dopuštenja usluga</string>
+  <string name="other_settings_permission_summary">Dajte Mi Cloudu, Telefonu i drugim osnovnim značajkama i uslugama dopuštenja koje zahtijevaju da rade kao što je predviđeno</string>
   <string name="other_settings_user_experience">Program iskustva korisnika</string>
   <string name="other_settings_user_experience_summary">Pomozite nam poboljšati MIUI slanjem anonimnih podataka korištenja (%s)</string>
   <string name="other_settings_user_experience_summary1">prikaži Pravila o Privatnosti</string>
