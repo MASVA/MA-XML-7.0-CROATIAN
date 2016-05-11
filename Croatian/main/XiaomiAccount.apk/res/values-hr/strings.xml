@@ -328,6 +328,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_error_verify_code">Kôd koje ste unijeli nije valjan.</string>
   <string name="passport_failed_to_send_activate_email">"Ne mogu poslati e-poštu aktivacije"</string>
   <string name="passport_find_device_activate_account">Aktiviraj račun</string>
+  <string name="passport_find_device_display_id">Br. otključavanja: %s</string>
   <string name="passport_find_password_on_web_msg">Posjetite account.mi.com da resetirate svoju zaporku.</string>
   <string name="passport_forget_password">Zaboravljena zaporka</string>
   <string name="passport_forget_password_no_underline">Zaboravljena zaporka</string>

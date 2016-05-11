@@ -467,7 +467,13 @@ Razlog: \"%s\""</string>
   <string name="help_url_people_main"/>
   <string name="hint_distance"/>
   <string name="hint_findContacts">"Pronađi kontakte"</string>
-  <string name="hint_more_contact">Združi dvostruke kontakte</string>
+  <string name="hint_more_contact">Spoji dvostruke kontakte</string>
+  <string name="hybrid_check_network">Postavke mreže</string>
+  <string name="hybrid_data_error">Došlo je do pogreške</string>
+  <string name="hybrid_locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
+  <string name="hybrid_network_unavaliable">"Ne mogu se povezati na mrežu"</string>
+  <string name="hybrid_service_unavailiable">Usluga nije dostupna</string>
+  <string name="hybrid_try_again">Pokušajte ponovno</string>
   <string name="ic_menu_back">"Natrag"</string>
   <string name="ic_menu_done">Gotovo</string>
   <string name="imLabelsGroup">IM</string>
@@ -898,6 +904,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_import">"Uvoz"</string>
   <string name="preference_import_export">"Uvoz/izvoz"</string>
   <string name="preference_import_export_title">"Uvoz/izvoz kontakata"</string>
+  <string name="preference_key_trash_bin_title">Pregledajte pohranjene kontakte koji su nedavno izbrisani</string>
   <string name="preference_others">Ostalo</string>
   <string name="preference_phone">"Telefon"</string>
   <string name="preference_phone_more_title">Postavke poziva</string>

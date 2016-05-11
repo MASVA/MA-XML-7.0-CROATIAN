@@ -8,6 +8,8 @@
   <string name="Settings_title_network_assistants">Postavke uporabe podataka</string>
   <string name="Settings_title_power_center">Postavke baterije</string>
   <string name="ac_enable_title">Uključite Zaklj. aplikacija</string>
+  <string name="ac_firstUseApplock_subTitle">Upotrijebite Zaklj. aplikacija da zaštitite svoju privatnost</string>
+  <string name="ac_firstUseApplock_title">Potrebna je zaporka za otvaranje odabranih aplikacija</string>
   <string name="access_control_need_password">"%s uspješno dodano
  "</string>
    <string name="access_control_need_to_unlock">"Skenirajte otisak prsta
@@ -618,7 +620,8 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="no_network_btn">Pokušajte ponovo</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="notification_button_text_of_low_memory">Počisti</string>
-  <string name="notification_item">Uključite Zaklj. aplikacija</string>
+  <string name="notification_item">Zaštitite odabrane aplikacije sa Zaklj. aplikacija</string>
+  <string name="notification_subtitle">Dodirnite da uključite</string>
   <string name="notification_summary_cmcc_app_check">Dodirni za prikaz detalja.</string>
   <string name="notification_title_cmcc_app_check">Dana (%d) od zadnje provjere</string>
   <string name="notification_title_firewall_blocked">Blokirano</string>

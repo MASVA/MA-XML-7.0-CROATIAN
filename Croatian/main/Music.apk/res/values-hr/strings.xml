@@ -495,6 +495,10 @@
   <string name="pay_now">Plati sada</string>
   <string name="payment_fail">Plaćanje nije uspjelo</string>
   <string name="payment_success">Plaćanje završeno</string>
+  <string name="permission_declaration_message">Dopustite pristup pohrani u Sigurnost &gt; Dopuštenja &gt; Dopuštenja &gt; Pohrana &gt; Glazba da aplikacija Glazba radi normalno.</string>
+  <string name="permission_declaration_negative_text">Kasnije</string>
+  <string name="permission_declaration_positive_text">Idi u Sigurnost</string>
+  <string name="permission_declaration_title">Dopusti pristup</string>
   <string name="play_all_song">Reproduciraj sve</string>
   <string name="play_next">Sljedeća pjesma</string>
   <string name="playback_failed_no_title_by_bad_file">"Format ove pjesme nije podržan ili datoteka ne postoji."</string>
