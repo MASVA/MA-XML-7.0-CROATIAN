@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Nema podatkovne veze %s min</item>
-        <item quantity="one">Nema podatkovne veze %s min</item>
+        <item quantity="other">Podatkovne veze neće biti %s minuta</item>
+        <item quantity="one">Podatkovne veze neće biti %s minutu</item>
+        <item quantity="few">Podatkovne veze neće biti %s minute</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefon će biti u načinu rada hitnog povratnog poziva %s min. Za to se vrijeme ne može upotrebljavati nijedna aplikacija kojoj je potrebna podatkovna veza. Želite li izaći sada?</item>
-        <item quantity="one">Telefon će biti u načinu rada hitnog povratnog poziva %s min. Za to se vrijeme ne može upotrebljavati nijedna aplikacija kojoj je potrebna podatkovna veza. Želite li izaći sada?</item>
+        <item quantity="other">Telefon će biti u načinu hitnog povratnog poziva %s minuta. U tom se načinu ne mogu upotrebljavati aplikacije koje upotrebljavaju podatkovnu vezu. Želite li odmah zatvoriti taj način?</item>
+        <item quantity="one">Telefon će biti u načinu hitnog povratnog poziva %s minutu. U tom se načinu ne mogu upotrebljavati aplikacije koje upotrebljavaju podatkovnu vezu. Želite li odmah zatvoriti taj način?</item>
+        <item quantity="few">Telefon će biti u načinu hitnog povratnog poziva %s minute. U tom se načinu ne mogu upotrebljavati aplikacije koje upotrebljavaju podatkovnu vezu. Želite li odmah zatvoriti taj način?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Odabrana radnja nije dostupna u načinu rada hitnog povratnog poziva. Telefon će biti u tom načinu rada %s min. Želite li izaći sada?</item>
-        <item quantity="one">Odabrana radnja nije dostupna u načinu rada hitnog povratnog poziva. Telefon će biti u tom načinu rada %s min. Želite li izaći sada?</item>
+        <item quantity="other">Odabrana radnja nije dostupna u načinu hitnog povratnog poziva. Telefon će u tom načinu biti %s minuta. Želite li odmah zatvoriti taj način?</item>
+        <item quantity="one">Odabrana radnja nije dostupna u načinu hitnog povratnog poziva. Telefon će u tom načinu biti %s minutu. Želite li odmah zatvoriti taj način?</item>
+        <item quantity="few">Odabrana radnja nije dostupna u načinu hitnog povratnog poziva. Telefon će u tom načinu biti %s minute. Želite li odmah zatvoriti taj način?</item>
     </plurals>
 	<plurals name="call_recording_notification_complete">
         <item quantity="other">Snimljeno poziva (%d).</item>
