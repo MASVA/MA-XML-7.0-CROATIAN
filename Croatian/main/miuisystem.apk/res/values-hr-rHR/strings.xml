@@ -121,7 +121,7 @@ idite na: %s."</string>
   <string name="resource_select">Odaberi</string>
   <string name="retrocession_day"/>
   <string name="screen_button_disabled_message">Navigacijske tipke su isključene. Da ih ponovo uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\".</string>
-  <string name="screen_button_enabled_message">Navigacijske tipke su isključene.</string>
+  <string name="screen_button_enabled_message">Navigacijske tipke su uključene</string>
   <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke su isključene</string>
   <string name="screen_on_proximity_sensor_hint">"Za isključivanje ove značajke, istovremeno pritisnite tipke \"Natrag\" i \"Glasnoća +\"."</string>
@@ -133,7 +133,7 @@ idite na: %s."</string>
   <string name="select_all">Odaberi sve</string>
   <string name="shutdown_confirm_title">"Vaš će se telefon isključiti."</string>
   <string name="shutdown_progress">"Isključivanje…"</string>
-  <string name="sim_added_reboot_confirm">Ponovni pokreni</string>
+  <string name="sim_added_reboot_confirm">Ponovno pokreni</string>
   <string name="sim_added_reboot_title">SIM kartica će biti aktivirana nakon ponovnog pokretanja uređaja.</string>
   <string name="slight_cold"/>
   <string name="slight_heat"/>

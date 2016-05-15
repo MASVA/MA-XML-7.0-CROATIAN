@@ -110,10 +110,10 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="resource_select">Odaberi</string>
   <string name="retrocession_day"/>
   <string name="screen_button_disabled_message">Navigacijske tipke su isključene. Da ih ponovo uključite, dodirnite tipku \"Početna\" i \"Napajanje\" istovremeno.</string>
-  <string name="screen_button_enabled_message">Navigacijske tipke su isključene.</string>
+  <string name="screen_button_enabled_message">Navigacijske tipke su uključene</string>
   <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke su isključene</string>
-  <string name="screen_on_proximity_sensor_hint">"Za isključivanje ove značajke, istovremeno pritisnite tipke \"Natrag\" i \"Povećanje glasnoće\"."</string>
+  <string name="screen_on_proximity_sensor_hint">"Za isključivanje ove značajke, istovremeno pritisnite tipke \"Natrag\" i \"Glasnoća +\"."</string>
   <string name="screen_on_proximity_sensor_summary">Nemojte pokriti narančasti dio zaslona.</string>
   <string name="screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
   <string name="screen_paper_mode_enter_toast">Način čitanja je uključen. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u Dodatne postavke &gt; Način čitanja.</string>

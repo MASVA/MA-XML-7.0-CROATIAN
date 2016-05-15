@@ -71,10 +71,10 @@
   <string name="replace">Zamijeni</string>
   <string name="resource_select">Odaberi</string>
   <string name="screen_button_disabled_message">Navigacijske tipke su isključene. Da ih ponovo uključite, dodirnite tipku \"Početna\" i \"Napajanje\" istovremeno.</string>
-  <string name="screen_button_enabled_message">Navigacijske tipke su isključene.</string>
+  <string name="screen_button_enabled_message">Navigacijske tipke su uključene</string>
   <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke su isključene</string>
-  <string name="screen_on_proximity_sensor_hint">"Za isključivanje ove značajke, istovremeno pritisnite tipke \"Natrag\" i \"Povećanje glasnoće\"."</string>
+  <string name="screen_on_proximity_sensor_hint">"Za isključivanje ove značajke, istovremeno pritisnite tipke \"Natrag\" i \"Glasnoća +\"."</string>
   <string name="screen_on_proximity_sensor_summary">Nemojte pokriti narančasti dio zaslona.</string>
   <string name="screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
   <string name="screen_paper_mode_enter_toast">Način čitanja je uključen. Da isključite ovu značajku idite u Postavke &gt; Zaslon &gt; Način čitanja.</string>
@@ -86,7 +86,7 @@
   <string name="set_password_title">Postavite zaporku</string>
   <string name="shutdown_confirm_title">"Isključiti sada vaš uređaj?"</string>
   <string name="shutdown_progress">"Isključivanje…"</string>
-  <string name="sim_added_reboot_confirm">Ponovni pokreni</string>
+  <string name="sim_added_reboot_confirm">Ponovno pokreni</string>
   <string name="sim_added_reboot_title">SIM kartica će biti aktivirana nakon ponovnog pokretanja uređaja.</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" uključen</string>
