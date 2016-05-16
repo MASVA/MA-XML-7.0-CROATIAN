@@ -1984,6 +1984,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="master_clear_progress_title">Brisanje</string>
   <string name="master_clear_summary">Briše sve podatke na uređaju</string>
   <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
+  <string name="max_cpu10_info">"10 jezgreni "</string>
   <string name="max_cpu4_info">"4 jezgreni "</string>
   <string name="max_cpu6_info">"6 jezgreni "</string>
   <string name="max_cpu8_info">"8 jezgreni "</string>

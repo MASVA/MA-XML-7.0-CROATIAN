@@ -6,6 +6,7 @@
   <string name="activate_auto_sms_notification_desc_2_cards">SMS poruka poslana sa SIM kartice %s za aktiviranje \"Pronađi uređaj\"</string>
   <string name="activate_auto_sms_notification_title">Aktiviranje SIM kartice</string>
   <string name="activate_feature_call_log_sync">Sinkr. povijest poziva</string>
+  <string name="activate_feature_default_name">Mi Usluga</string>
   <string name="activate_feature_find_device">Pronađi uređaj</string>
   <string name="activate_feature_mms_sync">Sinkr. SMS poruka</string>
   <string name="activate_feature_mx">Mi Poruke</string>
@@ -72,7 +73,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_popup_title_manual">Aktiviraj %s</string>
   <string name="activate_popup_title_new_sim_card">Aktiviraj ponovo %s</string>
   <string name="activate_popup_title_register_account">Izradi Mi Račun</string>
-  <string name="activate_sms_postfix">Ovaj SMS se koristi za aktiviranje vašeg Mi uređaja</string>
+  <string name="activate_sms_postfix">Ovaj SMS se koristi za aktiviranje vaše Mi Usluge</string>
   <string name="activate_status_desc_acquire_phone_number">Dobivanje broja telefona s poslužitelja</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Došlo je do pogreške na poslužitelju pri dobivanju broja telefona</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Ne mogu dobiti broj telefona"</string>
@@ -105,6 +106,9 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="error_device_id_message">"Neispravan ID Uređaja: %s
 ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki računi i cloud značajke neće biti raspoložive."</string>
   <string name="error_device_id_title">"Ne mogu dobiti valjani ID Uređaja"</string>
+  <string name="explain_send_sms_permission_button">Potvrdi</string>
+  <string name="explain_send_sms_permission_msg">Da uključite %s, Xiaomi Service Framework će poslati SMS da provjeri vaš broj telefona. Moguće redovne naknade od strane vašeg davatelja usluga.</string>
+  <string name="explain_send_sms_permission_title">Potvrdite vaš broj telefona</string>
   <string name="sim_unactivated_title">"Vaša SIM kartica nije aktivirana"</string>
   <string name="sync_notification_title_format">Sink.: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>

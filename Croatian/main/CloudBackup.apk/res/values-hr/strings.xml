@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Samo trenutak…</string>
+  <string name="account_error">Pogreška računa</string>
   <string name="app_name">Mi Cloud Sig. kopija</string>
   <string name="as_new_device">Zamijenite prethodni Početni zaslon i postavke</string>
   <string name="as_new_device_summary">Izbriši prethodne Mi Cloud Sig. kopije</string>

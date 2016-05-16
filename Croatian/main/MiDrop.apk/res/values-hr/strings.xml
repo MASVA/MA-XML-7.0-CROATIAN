@@ -59,6 +59,7 @@
   <string name="receiver_transfer_interrupt">"Prijenos prekinut, ne isključujte WLAN hotspot tijekom prijenosa"</string>
   <string name="receiver_video_file_current">Primanje %2$d​ od %1$s…</string>
   <string name="receiver_video_file_num">Primanje %2$d​ od %1$s…</string>
+  <string name="runtime_permission_ungranted">Ne mogu koristiti Mi Drop jer nije odobreno dopuštenje</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"Nemoj slati"</string>
