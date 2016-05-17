@@ -242,7 +242,6 @@
   <string name="joke_card_icon_text">%1$s 人笑过</string>		    
   <string name="internet_connection_notification">Obavijest povezivanja s internetom</string>
   <string name="internet_connection_notification_descrip">Prikaži obavijest povezivanja s internetom svaki put kada otvorite Kalendar</string>
-  <string name="joke_card_icon_text">|  %1$s 人笑过</string>
   <string name="jump_date">Skoči</string>
   <string name="jump_date_full">Skoči na datum</string>
   <string name="jump_text">%1$s &gt;</string>
