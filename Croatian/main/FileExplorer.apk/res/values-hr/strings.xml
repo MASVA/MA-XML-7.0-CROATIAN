@@ -755,7 +755,7 @@ oslobodili prostor.</string>
   <string name="video_upload_btn">Dalje</string>
   <string name="video_upload_btn_hint">MP4 videozapisi trebaju biti 3s~10 min dugački</string>
   <string name="video_upload_btn_hint_span">"Ne možete pronaći svoj videozapis?"</string>
-  <string name="video_upload_item_more">Još(%1$s)</string>
+  <string name="video_upload_item_more">Još (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_retry_confirm">Pokušajte ponovno</string>
   <string name="video_upload_retry_message">"Ne mogu učitati, pokušati ponovno?"</string>

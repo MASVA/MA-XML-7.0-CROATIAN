@@ -193,12 +193,12 @@
          <item quantity="many"> Preuzimanja</item>
       </plurals>
       <plurals name="video_play_num">
-         <item quantity="other">%1$s reproducirano</item>
-         <item quantity="zero">%1$s reproducirano</item>
-         <item quantity="one">%1$s reproducirano</item>
-         <item quantity="two">%1$s reproducirano</item>
-         <item quantity="few">%1$s reproducirano</item>
-         <item quantity="many">%1$s reproducirano</item>
+         <item quantity="other">%1$s pregleda</item>
+         <item quantity="zero">%1$s pregleda</item>
+         <item quantity="one">%1$s pregled</item>
+         <item quantity="two">%1$s pregleda</item>
+         <item quantity="few">%1$s pregleda</item>
+         <item quantity="many">%1$s pregleda</item>
      </plurals>
      <plurals name="video_num">
          <item quantity="other">%1$s videozapisa</item>

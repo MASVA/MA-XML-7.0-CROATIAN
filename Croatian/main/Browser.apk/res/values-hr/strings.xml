@@ -20,7 +20,7 @@
   <string name="account_prifix">Račun:</string>
   <string name="action">Prijava</string>
   <string name="action_menu_account_not_login">Niste prijavljeni</string>
-  <string name="action_menu_account_not_login_hint">Koristi Cloud postavke kod prijave</string>
+  <string name="action_menu_account_not_login_hint">Prijavite se za sinkr. s Mi Cloud</string>
   <string name="action_menu_bookshelf">Polica za knjige</string>
   <string name="action_menu_current_version">Trenutna verzija</string>
   <string name="action_menu_text_add_bookmark">Dodaj oznaku</string>
@@ -43,9 +43,9 @@
   <string name="action_menu_text_share">Dijeli</string>
   <string name="action_menu_text_snapshot">Spremi stranicu</string>
   <string name="action_menu_text_video">Video</string>
-  <string name="action_menu_toolbox">Toolbox</string>
-  <string name="action_menu_useful_page">Dodaj korisno</string>
-  <string name="action_menu_useful_page_added">Korisno dodano</string>
+  <string name="action_menu_toolbox">Alati</string>
+  <string name="action_menu_useful_page">Dodaj prečac</string>
+  <string name="action_menu_useful_page_added">Dodano na početnu stranicu</string>
   <string name="actionbar_share">Podijeli</string>
   <string name="actionbar_web_search">Pretraživanje weba</string>
   <string name="adblock_notification">Blokirano reklama %d</string>
@@ -153,8 +153,8 @@
   <string name="color_picker_hue">Ton</string>
   <string name="color_picker_saturation">Zasićenje</string>
   <string name="color_picker_value">Vrijednost</string>
-  <string name="comment_app_menu">komentar</string>
-  <string name="comment_menu">komentar</string>
+  <string name="comment_app_menu">Komentar</string>
+  <string name="comment_menu">Komentar</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.co.uk</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -192,8 +192,8 @@
   <string name="current_version_phone">Telefon</string>
   <string name="custom_head_card_text">"Uvijek vjerujte da će se nešto
 divno dogoditi"</string>
-   <string name="custom_head_card_text_incognito">"Samo Bog i vi znate taj 
-prozor privatnosti​"</string>
+   <string name="custom_head_card_text_incognito">"Sada ste anonimni!
+Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="data_traffic_prompt_change">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
   <string name="data_traffic_prompt_message">Korištenje vaše mobilne podatkovne veze za pregledavanje internetom će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
   <string name="data_traffic_prompt_message_short">Korištenje mobilnih podataka za stream videozapisa može prouzrokovati prekoračenje vašeg mjesečnog ograničenja.</string>
@@ -336,7 +336,7 @@ Napustiti ovu stranicu?"</string>
   <string name="license_activity_title">Sustav WebView dozvola</string>
   <string name="loading_tips">Povucite dolje za osvježiti</string>
   <string name="local_bookmarks">Mi</string>
-  <string name="login_failed_toast">Ne mogu se prijaviti, osvježite.</string>
+  <string name="login_failed_toast">Ne mogu se prijaviti, osvježite i pokušajte ponovno.</string>
   <string name="low_memory_error">Nema dovoljno memorije za dovršenje tog zadatka</string>
   <string name="max_tabs_warning">"Ne mogu otvoriti više kartica"</string>
   <string name="maximum_input_alert">"Ne mogu unijeti više od 2048 znakova"</string>
@@ -464,7 +464,7 @@ Napustiti ovu stranicu?"</string>
   <string name="positive_confirm_message">Isključi svejedno</string>
   <string name="pref_accessibility">Pristupačnost</string>
   <string name="pref_accessibility_title">Pristupačnost</string>
-  <string name="pref_accessibility_url_shortcut_enter_summary">Kod unosa iz adresne trake, zajedničke kombinacije slova mogu se unijeti jednim pritiskom na tipku</string>
+  <string name="pref_accessibility_url_shortcut_enter_summary">Kod unosa iz adresne trake, zajedničke kombinacije slova mogu se unijeti jednim dodirom na tipku</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Brzi unos Poveznice</string>
   <string name="pref_adblock_counts">Blokirano %d</string>
   <string name="pref_adblock_title">Blokiranje reklama</string>
@@ -655,7 +655,7 @@ Napustiti ovu stranicu?"</string>
   <string name="select_dot">Odaberi tekst</string>
   <string name="select_download_device">Odaberi uređaj</string>
   <string name="send_comment_button">Pošalji</string>
-  <string name="send_comment_title">komentar</string>
+  <string name="send_comment_title">Komentar</string>
   <string name="share_page_text">"【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Ova Poveznica web stranice će biti poslana na Xiaomi poslužitelje radi provjere da li je siguran. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Provjeri sigurnost Poveznice</string>

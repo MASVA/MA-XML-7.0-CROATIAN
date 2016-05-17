@@ -642,6 +642,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="online_songs">Glazba</string>
   <string name="open_now">Dopusti aplikacijama korištenje mobilnih podataka</string>
   <string name="operator_diagnostic">Dijagnostika operatera</string>
+  <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -894,6 +895,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_leisure_no_overlay">Uključeno</string>
   <string name="pref_leisure_not_opened">Isključeno</string>
   <string name="pref_manual_adjust">Postavite statistiku uporabe podataka ručno</string>
+  <string name="pref_mi_sim_settings">Mi SIM Postavke</string>
   <string name="pref_month_begin_date">Datum resetiranja uporabe</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Dodatne postavke</string>
@@ -1367,6 +1369,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usbsharenet_exception_title">Test povezivanja putem USB-a</string>
   <string name="usbsharenet_pc_exception_summary">"Ne mogu se povezati na internet putem dijeljene veze. Provjerite internetsku vezu vašeg računala."</string>
   <string name="virus_list_header_title">Otriveno virusa (%d)</string>
+  <string name="warning_open_mi_sim">Uključi Mi SIM</string>
   <string name="wifi_exception_summary">Test dostupnih WLAN mreža</string>
   <string name="wifi_exception_title">Test WLAN mreže</string>
   <string name="wifi_network_blocked_notification_title">Nema povezivanja s internetom</string>

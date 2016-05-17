@@ -11,6 +11,7 @@
   <string name="activity_title_ignored_image">Ignorirano</string>
   <string name="activity_title_image_gallery">Izbriši duplikate</string>
   <string name="activity_title_large_file">Velike datoteke</string>
+  <string name="activity_title_main">Čistač</string>
   <string name="activity_title_news">Novosti</string>
   <string name="activity_title_privacy_cache">Predmem. privatnosti</string>
   <string name="activity_title_residual">Ostaci</string>
@@ -116,7 +117,7 @@
   <string name="dialog_content_checkbox_delete_cloud_image">Izbriši i fotografije s Mi Clouda</string>
   <string name="dialog_content_delete_image_confirm">Izbrisati (%d) fotografija?</string>
   <string name="dialog_content_select_all_confirm">Čuvati kopiju ove fotografije?</string>
-  <string name="dialog_msg_add_white_list_error">"Datoteka ne podržava dodavanje u iznimke"</string>
+  <string name="dialog_msg_add_white_list_error">"Ne mogu dodati ovu datoteku u iznimke"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrditi Sig.kopiju i deinstalirati odabrane aplikacije?</string>
   <string name="dialog_msg_check_all">Potvrdi odabir %1$s koji sadrži %2$d stavaka</string>
   <string name="dialog_msg_esc_cleanmaster">Zaustaviti skeniranje u tijeku?</string>
@@ -128,7 +129,7 @@
   <string name="dialog_title_backup_and_uninstall_apps">Napravi Sig.kopiju i deinstaliraj</string>
   <string name="dialog_title_check_all">Odaberi sve</string>
   <string name="dialog_title_delete_image">Izbriši odabrane slike</string>
-  <string name="dialog_title_esc_cleanmaster">Zaustavi Clean Master</string>
+  <string name="dialog_title_esc_cleanmaster">Izađi iz Čistača</string>
   <string name="dialog_title_load_cleanup_engine_error">Nešto nije u redu</string>
   <string name="dialog_title_stop_scan">Zaustavi skeniranje</string>
   <string name="dialog_title_uninstall_apps">Deinstaliraj</string>
@@ -242,7 +243,7 @@
   <string name="msg_update_error_code_success">Gotovo</string>
   <string name="msg_update_error_code_unknown_error">Nepoznata greška</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
-  <string name="name_optimizer">"Clean Master Pravila o Privatnosti"</string>
+  <string name="name_optimizer">Pravila o Privatnosti</string>
   <string name="nb_clear_set">Prikaži očišćeni ROM, bateriju i detalje blokiranja u panelu obavijesti</string>
   <string name="net_assistant_detail">Iskorišteno %1$s, ušteđeno %2$s</string>
   <string name="net_assistant_title">Iskorišteno %s mob. pod. ovaj mjesec</string>

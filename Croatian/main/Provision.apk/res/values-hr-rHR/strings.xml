@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_dialog_btn_close">Onemogući</string>
-  <string name="alert_dialog_btn_open">Odustani</string>
+  <string name="alert_dialog_btn_open">Dopusti</string>
   <string name="alert_dialog_msg">"Neke od MIUI osnovnih značajki i usluga neće biti u mogućnosti raditi onako kako je predviđeno bez tih dopuštenja (npr. uređaj neće moći prikazati informacije o kontaktu tijekom poziva). Ako onemogućite ta dopuštenja, MIUI Aplikacije će vas pitati za pojedinačna dopuštenja kada su potrebna za određenu aktivnost."</string>
-  <string name="alert_dialog_title">Neke usluge mogu se ponašati nepredviđeno...</string>
+  <string name="alert_dialog_title">Neke usluge mogu se ponašati nepredviđeno</string>
   <string name="agree">Slažem se</string>
   <string name="congratulation_label"/>
   <string name="desc_extra_fingerprint"/>

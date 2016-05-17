@@ -288,6 +288,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="assisted_gps">Koristite potpomognuti GPS</string>
   <string name="assisted_gps_disabled">Koristi poslužitelj za pomoć GPS-u (isključite za bolji rad GPS-a)</string>
   <string name="assisted_gps_enabled">Koristi poslužitelj za pomoć GPS-u (isključite za smanjenje mrežnog opterećenja)</string>
+  <string name="attempt_other_network">Pokušaj drugu mrežu</string>
   <string name="audio_list_loading">Učitavanje…</string>
   <string name="audio_profile_settings_title">Audio profili</string>
   <string name="audio_record_proc_title">Uklanjanje buke</string>
@@ -2255,7 +2256,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="no_default_apps">Nema zadanih aplikacija.</string>
   <string name="no_device_admins">Nema dostupnih administratora računa</string>
   <string name="no_internet_access_remember">Više ne pitaj za tu mrežu</string>
-  <string name="no_internet_access_text">Ta mreža nema pristup internetu. Želite li ostati povezani?</string>
+  <string name="no_internet_access_text">Ta WLAN mreža %1$s nema pristup internetu. Želite li ostati povezani?</string>
   <string name="no_media_button_receiver">"Ne"</string>
   <string name="no_memory_use_summary">U posljednja 3 sata nije bilo upotrebe memorije</string>
   <string name="no_nearby_wifi">"Nije otkrivena mreža."</string>
@@ -3946,8 +3947,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Pouzdana međunarodna roaming usluga</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
-  <string name="virtual_sim_global_description">Nema SIM kartice je potrebno za povezivanje s podatkovnom mrežom</string>
-  <string name="virtual_sim_global_title">Usluga prometa podataka</string>
+  <string name="virtual_sim_global_description">Povežite se s podatkovnom mrežom bez SIM kartice</string>
+  <string name="virtual_sim_global_title">Usluga mob. podataka</string>
   <string name="virtual_sim_search_title">Virtualni SIM</string>
   <string name="virtual_sim_title">Roaming mreža podataka</string>
   <string name="virus_scan">Skeniranje</string>
@@ -4184,8 +4185,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_empty_list_wifi_off">Da biste vidjeli dostupne mreže, uključite WLAN</string>
   <string name="wifi_empty_list_wifi_on">Traženje WLAN mreža…</string>
   <string name="wifi_enable">WLAN</string>
-  <string name="wifi_enable_data_and_wifi_roam">WLAN pomoćnik</string>
-  <string name="wifi_enable_data_and_wifi_roam_summary">Prebaci na podatkovnu vezu ako WLAN ne može pristupiti internetu.</string>
+  <string name="wifi_enable_data_and_wifi_roam">Prebacivanje između podataka i WLAN-a</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Držite podatke i WLAN uključenim za prebacivanje na podatke kada je WLAN veza loša.</string>
   <string name="wifi_enable_watchdog_service_summary">Izbjegavaj slabe veze</string>
   <string name="wifi_error">Pogreška</string>
   <string name="wifi_fail_to_scan">Skeniranje mreža nije moguće</string>
