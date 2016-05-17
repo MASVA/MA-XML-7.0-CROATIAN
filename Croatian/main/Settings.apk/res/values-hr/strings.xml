@@ -1728,7 +1728,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="launch_defaults_none">Nema zadanih postavki</string>
   <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
   <string name="launcher_settings_title">MIUI Pokretač</string>
-  <string name="launching_cit">Pokrećem cit, pričekajte.</string>
+  <string name="launching_cit">Pokrećem CIT, pričekajte.</string>
   <string name="launching_pho">Pokrećem podatke o uređaju…</string>
   <string name="launching_rep">Slanje zapisa o pogrešci…</string>
   <string name="layout_size_exhuge">XXL</string>
@@ -2015,14 +2015,14 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="mem_use_total">Ukupno</string>
   <string name="mem_use_zram_type">Prijelaz na ZRam</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Aplikacije (podaci aplikacije &amp; medijski sadržaj)</string>
+  <string name="memory_apps_usage">Aplikacije &amp; podaci aplikacije</string>
   <string name="memory_available">Dostupno</string>
   <string name="memory_available_read_only">Dostupno (samo za čitanje)</string>
   <string name="memory_avg_desc">Prosječno %1$s</string>
   <string name="memory_avg_use">Prosječno</string>
   <string name="memory_calculating_size">Izračun u tijeku…</string>
   <string name="memory_clear_cache_message">Obrisat ćete predmemorirane podatke svih aplikacija.</string>
-  <string name="memory_clear_cache_title">Brisati podatke iz predmemorije?</string>
+  <string name="memory_clear_cache_title">Izbrisati podatke iz predmemorije?</string>
   <string name="memory_dcim_usage">Slike, videozapisi</string>
   <string name="memory_details">Pojedinosti</string>
   <string name="memory_details_title">Pojedinosti o memoriji</string>
@@ -2036,10 +2036,10 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="memory_music_usage">Audio (glazba, melodije zvona, podkastovi itd.)</string>
   <string name="memory_performance">Izvođenje</string>
   <string name="memory_settings_title">Memorija</string>
-  <string name="memory_size">Ukupno prostora</string>
+  <string name="memory_size">Ukupan prostor</string>
   <string name="memory_title">Dostupno: %1$s\u0009\u0009Ukupno: %2$s</string>
   <string name="memory_usage">Upotreba memorije</string>
-  <string name="memory_usage_apps">Memorija koju upotrebljavaju aplikacije</string>
+  <string name="memory_usage_apps">Memorija korištena od strane aplikacija</string>
   <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Prosječna upotreba memorije u posljednja 3 sata: %1$s</string>
   <string name="menu_cancel">"Odbaci"</string>
@@ -2069,10 +2069,10 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="misc_files">Razne datoteke</string>
   <string name="misc_files_selected_count">odabrano %1$d od %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s od %2$s</string>
-  <string name="miui_allow_alarm">dopusti alarm</string>
-  <string name="miui_allow_light">dopusti svjetiljku</string>
-  <string name="miui_allow_music">dopusti glazbu</string>
-  <string name="miui_allow_vibrate">dopusti vibraciju</string>
+  <string name="miui_allow_alarm">Alarmi</string>
+  <string name="miui_allow_light">Svjetlo obavijesti</string>
+  <string name="miui_allow_music">Medija</string>
+  <string name="miui_allow_vibrate">Vibracija</string>
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
   <string name="miui_disturb_title">Ne ometaj</string>
   <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
@@ -2101,7 +2101,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="modem_tool_log_stop">Zaustavi</string>
   <string name="modem_tool_log_stop_toast">"Zaustavi zapisnik modema iz %s"</string>
   <string name="move_app">Premjesti</string>
-  <string name="move_app_failed_dlg_text">"Premještanje aplikacije %1$s nije uspjelo."</string>
+  <string name="move_app_failed_dlg_text">"Ne mogu premjestiti aplikaciju %1$s."</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Premjesti na telefon</string>
   <string name="move_app_to_sdcard">Premjesti na USB memoriju</string>
@@ -2111,7 +2111,8 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="msd_driver_download_mac_url">Preuzimanje datoteke na http://www.android.com/filetransfer/</string>
   <string name="msd_driver_download_xp">Za PC, preuzmite MiPhoneManager za otkrivanje USB pohrane</string>
   <string name="msd_driver_download_xp_url">Preuzimanje datoteke na http://zhushou.xiaomi.com/</string>
-  <string name="msd_help_summary">"Imate poteškoće u pristupanju vašeg uređaja preko računala? Odaberite operativni sustav vašeg računala:"</string>
+  <string name="msd_help_summary">"Imate poteškoće u pristupanju vašeg uređaja preko računala?
+Odaberite operativni sustav vašeg računala:"</string>
   <string name="msd_help_title">MTP pomoć</string>
   <string name="msd_install">Ponovo instalirati upravljački program?</string>
   <string name="msd_install_download_zhushou">Preuzmite MiPhoneManager</string>
@@ -2760,13 +2761,13 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="reset_app_preferences_button">Poništi aplikacije</string>
   <string name="reset_app_preferences_desc">"Sve sljedeće preferencije vratit će se na zadane postavke:
 
- "&lt;li&gt;onemogu&amp;#263;ene aplikacije&lt;/li&gt;"
- "&lt;li&gt;onemogu&amp;#263;ene obavijesti aplikacija&lt;/li&gt;"
+ "&lt;li&gt;onemogućene aplikacije&lt;/li&gt;"
+ "&lt;li&gt;onemogućene obavijesti aplikacija&lt;/li&gt;"
  "&lt;li&gt;zadane aplikacije za radnje&lt;/li&gt;"
- "&lt;li&gt;ograni&amp;#269;enja pozadinskih podataka za aplikacije&lt;/li&gt;"
- "&lt;li&gt;sva ograni&amp;#269;enja dozvola&lt;/li&gt;"
+ "&lt;li&gt;ograničenja pozadinskih podataka za aplikacije&lt;/li&gt;"
+ "&lt;li&gt;sva ograničenja dopuštenja&lt;/li&gt;"
 
- Podatke aplikacija ne&amp;#263;ete izgubiti."</string>
+ Podatke aplikacija nećete izgubiti."</string>
   <string name="reset_app_preferences_title">Poništiti postavke?</string>
   <string name="reset_legacy_password_settings_preface_text">Morate resetirati vašu lozinku za zaključavanje zaslona.</string>
   <string name="reset_network_button_text">Poništi postavke</string>
@@ -2775,7 +2776,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="reset_network_desc">"Sve postavke mreže vratit će se na zadano, uključujući:
 
 "&lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;"
-"&lt;li&gt;podatkovnu vezu mobilnog ure&amp;#273;aja&lt;/li&gt;"
+"&lt;li&gt;podatkovnu vezu mobilnog uređaja&lt;/li&gt;"
 "&lt;li&gt;Bluetooth.&lt;/li&gt;</string>
   <string name="reset_network_final_button_text">Poništi postavke</string>
   <string name="reset_network_final_desc">Želite li vratiti sve postavke mreže na zadano? Tu radnju nije moguće poništiti!</string>
@@ -3428,17 +3429,17 @@ Ako se odlučite za opciju zaborava, svi podaci koje uređaj sadrži zauvijek ć
 Kasnije možete ponovo instalirati aplikacije, ali će njihovi podaci pohranjeni na tom uređaju biti izgubljeni."</string>
   <string name="storage_internal_format_details">"Nakon formatiranja možete upotrebljavati uređaj ^1 na drugim uređajima. 
 
-Svi podaci na uređaju ^1 izbrisat će se. Preporučujemo vam da prvo napravite sigurnosnu kopiju. 
+Svi podaci na uređaju ^1 izbrisat će se. Preporučujemo vam da prvo napravite Sig. kopiju. 
 
-"&lt;b&gt;Izrada sigurnosne kopije fotografija i ostalih medija&lt;/b&gt;" 
-Premjestite medijske datoteke u neku drugu pohranu na ovom ure&amp;#273;aju ili na ra&amp;#269;unalo pomo&amp;#263;u USB kabela. 
+"&lt;b&gt;Izrada Sig. kopije fotografija i ostalih medija&lt;/b&gt;" 
+Premjestite medijske datoteke u neku drugu pohranu na ovom uređaju ili na računalo pomoću USB kabela. 
 
-"&lt;b&gt;Izrada sigurnosne kopije aplikacija&lt;/b&gt;" 
-Sve aplikacije pohranjene na ure&amp;#273;aju ^1 deinstalirat &amp;#263;e se i njihovi &amp;#263;e se podaci izbrisati. Da biste zadr&amp;#382;ali aplikacije, premjestite ih u neku drugu pohranu na ovom ure&amp;#273;aju."</string>
+"&lt;b&gt;Izrada Sig. kopije aplikacija&lt;/b&gt;" 
+Sve aplikacije pohranjene na uređaju ^1 deinstalirati će se i njihovi će se podaci izbrisati. Da biste zadržali aplikacije, premjestite ih u neku drugu pohranu na ovom uređaju."</string>
   <string name="storage_internal_title">Pohrana na uređaju</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;Kada izbacite ure&amp;#273;aj ^1, aplikacije koje su pohranjene na njemu prestat &amp;#263;e funkcionirati, a medijske datoteke pohranjene na njemu ne&amp;#263;e biti dostupne dok ga ponovo ne umetnete.&lt;/b&gt;" 
+  <string name="storage_internal_unmount_details">&lt;b&gt;Kada izbacite uređaj ^1, aplikacije koje su pohranjene na njemu prestat će funkcionirati, a medijske datoteke pohranjene na njemu neće biti dostupne dok ga ponovo ne umetnete.&lt;/b&gt;" 
 
-Ure&amp;#273;aj ^1 formatiran je tako da funkcionira samo na ovom ure&amp;#273;aju. Ne&amp;#263;e funkcionirati na drugim ure&amp;#273;ajima."</string>
+Uređaj ^1 formatiran je tako da funkcionira samo na ovom uređaju. Neće funkcionirati na drugim uređajima."</string>
   <string name="storage_label">Prostor za pohranu</string>
   <string name="storage_low_summary">Neke funkcije sustava, kao što je sinkroniziranje, možda neće ispravno funkcionirati. Pokušajte osloboditi prostor brisanjem stavki ili ih otkvačite, primjerice aplikacije ili medijski sadržaj.</string>
   <string name="storage_low_title">Ponestaje prostora za pohranu</string>
@@ -3453,7 +3454,7 @@ Ure&amp;#273;aj ^1 formatiran je tako da funkcionira samo na ovom ure&amp;#273;a
   <string name="storage_menu_set_up">Postavi</string>
   <string name="storage_menu_unmount">Izbaci</string>
   <string name="storage_menu_usb">Povezivanje USB-a i računala</string>
-  <string name="storage_mount_failure">Učitavanje nije uspjelo: %1$s</string>
+  <string name="storage_mount_failure">Ne mogu učitati %1$s</string>
   <string name="storage_mount_success">Učitano: %1$s</string>
   <string name="storage_other_users">Drugi korisnici</string>
   <string name="storage_rename_title">Promjena naziva pohrane</string>
@@ -3461,7 +3462,7 @@ Ure&amp;#273;aj ^1 formatiran je tako da funkcionira samo na ovom ure&amp;#273;a
   <string name="storage_settings_summary">Isključi USB memoriju, prikaži dostupnu pohranu</string>
   <string name="storage_settings_title">Postavke pohrane</string>
   <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
-  <string name="storage_summary_format">%2$s, iskorišteno %1$s</string>
+  <string name="storage_summary_format">%2$s - iskorišteno %1$s</string>
   <string name="storage_title_usb">Povezivanje USB-a i računala</string>
   <string name="storage_type_external">Vanjska pohrana</string>
   <string name="storage_type_internal">Unutarnja pohrana</string>
@@ -3540,7 +3541,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
   <string name="summary_range_symbol_combination">%1$s - %2$s</string>
-  <string name="summary_range_verbal_combination">%1$s – %2$s</string>
+  <string name="summary_range_verbal_combination">%1$s do %2$s</string>
   <string name="supl_not_set">&lt;Nije postavljeno&gt;</string>
   <string name="supplicant_state_label">Stanje suplikanta:</string>
   <string name="suw_back_button_label">Natrag</string>
@@ -4000,7 +4001,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="volume_category_title">Glasnoća</string>
   <string name="volume_hifi_description">Hi-Fi postavke</string>
   <string name="volume_media_description">Glazba, videozapisi, igre i drugi mediji</string>
-  <string name="volume_media_mute">Isključivanje zvuka glazbe &amp; drugih medija</string>
+  <string name="volume_media_mute">Isključivanje glazbe &amp; drugih medija</string>
   <string name="volume_notification_description">Obavijesti</string>
   <string name="volume_notification_mute">Isključivanje zvuka obavijesti</string>
   <string name="volume_restore">Resetiranje razina</string>
