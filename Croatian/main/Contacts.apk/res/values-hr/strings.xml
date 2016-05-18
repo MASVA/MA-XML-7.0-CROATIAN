@@ -914,11 +914,11 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_smart_group_company_summary">"Grupiraj prema tvrtci"</string>
   <string name="preference_smart_group_company_title">Tvrtke</string>
   <string name="preference_smart_group_frequency_summary">Grupiraj prema nedavnima</string>
-  <string name="preference_smart_group_frequency_title">Nedavnima</string>
+  <string name="preference_smart_group_frequency_title">Nedavno</string>
   <string name="preference_smart_group_location_summary">Grupiraj prema pozivnom broju</string>
   <string name="preference_smart_group_location_title">Lokacije</string>
   <string name="preference_smart_group_title">Pametne grupe</string>
-  <string name="preference_telocation_summary_countrycode_off">Nemoj automatski birati pozivni broj države</string>
+  <string name="preference_telocation_summary_countrycode_off">Ne biraj automatski pozivni broj države</string>
   <string name="preference_telocation_summary_countrycode_on">Automatski biraj pozivni broj države</string>
   <string name="preference_telocation_summary_teloc_off">Sakrij lokaciju kontakta</string>
   <string name="preference_telocation_summary_teloc_on">Pokaži lokaciju kontakta</string>
