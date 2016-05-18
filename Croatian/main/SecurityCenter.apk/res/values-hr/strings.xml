@@ -8,8 +8,11 @@
   <string name="Settings_title_network_assistants">Postavke uporabe podataka</string>
   <string name="Settings_title_power_center">Postavke baterije</string>
   <string name="ac_enable_title">Uključite Zaklj. aplikacija</string>
+  <string name="ac_enter_applock">Uđi u Zaklj. aplikacija</string>
   <string name="ac_firstUseApplock_subTitle">Upotrijebite Zaklj. aplikacija da zaštitite svoju privatnost</string>
   <string name="ac_firstUseApplock_title">Potrebna je zaporka za otvaranje odabranih aplikacija</string>
+  <string name="ac_summaryOff">Isključeno, zaporka nije potrebna za otvaranje aplikacije</string>
+  <string name="ac_summaryOn">Uključeno, potrebna je zaporka za otvaranje aplikacije</string>
   <string name="access_control_need_password">"%s uspješno dodano
  "</string>
    <string name="access_control_need_to_unlock">"Skenirajte otisak prsta

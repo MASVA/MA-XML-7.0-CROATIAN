@@ -52,12 +52,12 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_back_up_share_activity_title">Nadogradi Mi Račun</string>
   <string name="cloud_back_up_task">Izrada Sig. kopije…</string>
   <string name="cloud_backup_detail_frequence">Raspored Sig. kopije</string>
-  <string name="cloud_backup_detail_frequence_day">Izradi jednom Sig. kopiju %1$s</string>
+  <string name="cloud_backup_detail_frequence_day">Izradi Sig. kopiju svakih %1$s</string>
   <string name="cloud_backup_detail_manage">Upravljanje Sig. kopijama</string>
   <string name="cloud_backup_detail_manage_summary">%1$s Sig. kopija, Veličina:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Cloud Sig. kopija</string>
   <string name="cloud_backup_detail_state_summary">Aplikacije, Poč. zaslon i postavke sustava</string>
-  <string name="cloud_backup_detail_time">Zadnja Sig. kopija:%1$s</string>
+  <string name="cloud_backup_detail_time">Zadnja Sig. kopija: %1$s</string>
   <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Mi Cloudu</string>
   <string name="cloud_backup_select_recover">Odaberite Sig. kopiju sa Mi Clouda</string>
   <string name="cloud_restore_from_other_device">"Zaustaviti vraćanje %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>

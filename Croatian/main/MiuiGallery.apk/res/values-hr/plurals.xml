@@ -157,8 +157,8 @@
         <item quantity="one">Izbrisati %1$d stavku %2$s?</item>
       </plurals>
     <plurals name="album_item_msg_format">
-        <item quantity="other">(%d stavki ukupno)</item>
-        <item quantity="one">(%d stavku ukupno)</item>
+        <item quantity="other">(%d stavki)</item>
+        <item quantity="one">(%d stavka)</item>
     </plurals>
     <plurals name="album_count">
         <item quantity="other">Fotografija %d</item>
@@ -195,5 +195,13 @@
 	<plurals name="album_count_and_size">
          <item quantity="other">%1$d stavaka | %2$s</item>
          <item quantity="one">%1$d stavka | %2$s</item>
-     </plurals>
+    </plurals>
+	<plurals name="download_error">
+        <item quantity="other">Pogreška preuzimanja %1$d datoteka</item>
+        <item quantity="one">Pogreška preuzimanja %1$d datoteke</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Odabrano %d stavki</item>
+        <item quantity="one">Odabrana %d stavka</item>
+    </plurals>
 </resources>

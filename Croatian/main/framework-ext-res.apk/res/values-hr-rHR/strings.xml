@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Dodaj česte izraze</string>
   <string name="all_call_livetalk_enable">Korištenje paketa nadoplate za domaće i međunarodne pozive</string>
   <string name="all_call_livetalk_remain_mins">Preostalo minuta: %1$s domaći | %2$s međunarodni</string>
   <string name="alwaysUsePrompt">"Zapamti moj izbor"</string>
@@ -33,6 +34,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne sada</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Idi u Postavke</string>
   <string name="fp_nav_center_action_choose_dlg_title">Brzi dodir za Početni zaslon</string>
+  <string name="frequent_phrases">Česti izrazi</string>
   <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>

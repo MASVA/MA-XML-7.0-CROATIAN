@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Dodaj česte izraze</string>
   <string name="alwaysUsePrompt">"Zapamti ovaj izbor"</string>
   <string name="android_ringtone_default_with_actual">Zadani zvuk zvona (%1$s)</string>
   <string name="android_ringtone_silent">Ništa</string>
@@ -33,15 +34,20 @@
   <string name="cut">Izreži</string>
   <string name="day_following_good_friday"/>
   <string name="default_name">Zadano</string>
+  <string name="delete_frequent_phrases">Izbriši česte izraze</string>
+  <string name="delete_frequent_phrases_confirm">Izbrisati odabrane česte izraze?</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="double_seventh_day"/>
   <string name="easter">Uskrs</string>
+  <string name="edit_frequent_phrases">Uredi česte izraze</string>
   <string name="first_back_long_press_message">"Pritisnite &amp; držite tipku Natrag za isključivanje trenutnog procesa i njegovih pozadinskih usluga. 
 Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="fools_day">1. travanj</string>
+  <string name="frequent_phrases_des">Unesite česte izraze sa samo nekoliko dodira tijekom uređivanja teksta</string>
+  <string name="frequent_phrases_size_exceeded">Možete dodati do 10 učestalih izraza. Izbriišite one nepotrebne da biste dodali još</string>
   <string name="force_exit_message">Uspješno zatvorena aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>
   <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
@@ -99,6 +105,9 @@ idite na: %s."</string>
   <string name="lunar_yi">" "</string>
   <string name="lunar_yue">" "</string>
   <string name="lunar_zheng">" "</string>
+  <string name="menu_add_frequent_phrases">Dodaj</string>
+  <string name="menu_delete">Izbriši</string>
+  <string name="menu_edit">Uredi</string>
   <string name="maml_component_customization_title">Postavke</string>
   <string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB Dostupno: %2$sB"</string>

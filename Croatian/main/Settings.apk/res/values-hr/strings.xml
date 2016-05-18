@@ -7,7 +7,7 @@
  Ako ne želite koristiti prilagođene oglase, količina oglašavanja neće biti smanjena, ali količina oglasa korisna za vas će se značajno smanjiti."</string>
   <string name="about_settings">O uređaju</string>
   <string name="about_settings_summary">Prikaži pravne informacije, status, verziju softvera</string>
-  <string name="ac_enable_summary">Zaporka će biti potrebna za otvaranje aplikacije</string>
+  <string name="ac_enable_summary">Postavite zaporku za pojedine aplikacije</string>
   <string name="ac_enable_title">Zaklj. aplikacija</string>
   <string name="ac_privacy_mode_sum">Zatraži zaporku za onemogućavanje Gost načina</string>
   <string name="ac_privacy_mode_title">Zaporka</string>

@@ -16,6 +16,7 @@
   <string name="account_dspt_provision">"Prijavite se na MiCloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta."</string>
   <string name="account_dspt_provision2">Saznajte više</string>
   <string name="account_empty_user_name">Unesite naziv kor. ime vašeg Mi Računa</string>
+  <string name="account_error_all_space_user_name">"Naziv ne može biti samo prazan bez znakova"</string>
   <string name="account_error_longer_user_name">"Ime ne može biti duže od 20 znakova"</string>
   <string name="account_error_shorter_user_name">Ime mora biti duže od 2 znaka</string>
   <string name="account_error_user_birthday">Rođendan koji ste unijeli nije važeći</string>
@@ -173,13 +174,14 @@
   <string name="continue_action">Nastavi</string>
   <string name="cta_declaration_agree_and_continue">Slažem se</string>
   <string name="cta_declaration_exit">Izlaz</string>
-  <string name="cta_declaration_ignore">gnoriraj</string>
-  <string name="cta_declaration_message">"Da se prijavite na svoj Mi Račun morate se povezati s internetom, locirati svoj uređaj i uključiti Mi Cloud. Za izradu Sig. kopije vaših osobnih podataka, ova aplikacija treba pristup vašim kontaktima, SMS i MMS porukama, povijesti poziva i zapisima. Nećemo koristiti te podatke u komercijalne svrhe ili ih dijeliti s trećim stranama. Nakon prijave u Mi Račun, Mi VIP i Usluga broja će se povezati na internet."</string>
-  <string name="cta_declaration_title">Uvjeti korištenja</string>
+  <string name="cta_declaration_ignore">"Ne prikazuj ponovno"</string>
+  <string name="cta_declaration_message">"Da se prijavite na svoj Mi Račun morate se povezati s internetom. Usluge lokacije i sinkronizacija s Mi Cloud biti će uključena. Za izradu Sig. kopije vaših osobnih podataka, ova aplikacija treba pristup vašim kontaktima, SMS i MMS porukama, povijesti poziva i zapisima. Nećemo koristiti te podatke u komercijalne svrhe ili ih dijeliti s trećim stranama. Nakon prijave u Mi Račun, Mi VIP i Usluga broja će se povezati na internet."</string>
+  <string name="cta_declaration_title">Uvjeti i Odredbe</string>
   <string name="current_location_title">Trenutna lokacija</string>
   <string name="data_keep_in_device">Zadrži podatke na ovom uređaju</string>
   <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="delete_action">Izbriši</string>
+  <string name="delete_bank_card_failed">Ne mogu ukloniti bankovnu karticu, pokušajte ponovno</string>
   <string name="delete_device_btn">Ukloni</string>
   <string name="delete_device_failed">"Ne mogu ukloniti uređaj"</string>
   <string name="delete_device_notice">"Nakon što je uređaj uklonjen, isti će biti odjavljen iz Mi Računa automatski. Nećete biti u mogućnosti koristiti ovaj uređaj za pristup fotografijama, porukama, ili drugom sadržaju pohranjenim na vašem računu."</string>
