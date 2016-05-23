@@ -237,7 +237,7 @@
   <string name="insert_event_dialog_btn_positive">Da</string>
   <string name="insert_event_dialog_message">Dodati ovaj događaj u kalendar?</string>
   <string name="insert_event_dialog_title">Pažnja</string>
-  <string name="insert_event_toast_add_failed">Dodavanje nije uspjelo</string>
+  <string name="insert_event_toast_add_failed">"Ne mogu dodati"</string>
   <string name="insert_event_toast_add_success">Događaj kreiran</string>
   <string name="joke_card_icon_text">%1$s 人笑过</string>		    
   <string name="internet_connection_notification">Obavijest povezivanja s internetom</string>
@@ -316,14 +316,14 @@
   <string name="preferences_default_reminder_title">Predefinirano vrijeme podsjetnika</string>
   <string name="preferences_general_title">Postavke izgleda kalendara</string>
   <string name="preferences_hide_declined_title">Sakrij odbačene događaje</string>
-  <string name="preferences_history_events">Prikaži povijest događaja</string>
+  <string name="preferences_history_events">Prikaži povijesne događaje</string>
   <string name="preferences_holidays">Prikaži praznike</string>
   <string name="preferences_home_tz_default">Europe/Zagreb</string>
   <string name="preferences_home_tz_title">Domaća vremenska zona</string>
   <string name="preferences_import_credit_repayment">Plaćanja kreditnom karticom</string>
   <string name="preferences_reminder_title">Obavijesti &amp; podsjetnici</string>
   <string name="preferences_show_week_num_title">Pokaži broj tjedna</string>
-  <string name="preferences_solar_terms">Prikaži solarne dane</string>
+  <string name="preferences_solar_terms">Prikaži solarne uvjete</string>
   <string name="preferences_title">Kalendar</string>
   <string name="preferences_use_home_tz_descrip">Prikaži kalendare i vremena događaja u vašoj početnoj vremenskoj zoni prilikom putovanja</string>
   <string name="preferences_use_home_tz_title">Upotrijebi dom. vrem. zonu</string>

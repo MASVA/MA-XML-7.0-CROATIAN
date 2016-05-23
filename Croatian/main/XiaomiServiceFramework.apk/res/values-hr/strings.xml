@@ -104,7 +104,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %s…</string>
   <string name="app_name">Xiaomi Aktivacija</string>
   <string name="error_device_id_message">"Neispravan ID Uređaja: %s
-ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki računi i cloud značajke neće biti raspoložive."</string>
+ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki Mi Računi i Mi Cloud značajke neće biti dostupne."</string>
   <string name="error_device_id_title">"Ne mogu dobiti valjani ID Uređaja"</string>
   <string name="explain_send_sms_permission_button">Potvrdi</string>
   <string name="explain_send_sms_permission_msg">Da uključite %s, Xiaomi Service Framework će poslati SMS da provjeri vaš broj telefona. Moguće redovne naknade od strane vašeg davatelja usluga.</string>

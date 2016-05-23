@@ -697,7 +697,7 @@ oslobodili prostor.</string>
   <string name="upload_local_video">Podijelite video isječak</string>
   <string name="upload_notification_failed">"Ne mogu poslati"</string>
   <string name="upload_notification_failed_content">Pokušajte ponovo</string>
-  <string name="upload_notification_progress">Učitavanje (%1$s)%%</string>
+  <string name="upload_notification_progress">Učitavanje %1$s%%</string>
   <string name="upload_notification_success">Uspješno poslano</string>
   <string name="upload_notification_success_content">"Vaš videozapis treba biti biti pregledan prije nego se podijeli drugim osobama"</string>
   <string name="upload_notification_title">Učitavanje videozapisa</string>

@@ -57,6 +57,7 @@
   <string name="album_already_exists">Album sa istim nazivom već postoji</string>
   <string name="album_already_forced_top">Već na vrhu</string>
   <string name="album_camera_name">Kamera</string>
+  <string name="album_detail_clear_local_page_empty">Nema pohranjenih fotografija ili videozapisa za brisanje</string>
   <string name="album_detail_page_empty">Nema stavki</string>
   <string name="album_faces_name">Osobe</string>
   <string name="album_member">Član albuma %s</string>
@@ -158,8 +159,11 @@
   <string name="baby_suffix">Dijete</string>
   <string name="backup_automatically_summary">Izradi Sig. kopiju fotografija i videozapisa sa svih uređaja na Mi Cloud. Možete sigurno pregledavati, sortirati, uređivati i dijeliti fotografije i videozapise na svim vašim uređajima.</string>
   <string name="backup_automatically_title">Izradi i sinkr. automatski</string>
+  <string name="backup_detail_page_title">Mi Cloud Sig. kopije</string>
   <string name="backup_only_in_wifi">Koristi samo WLAN za izradu Sig. kopije fotografija i videozapisa</string>
   <string name="backup_only_in_wifi_summary">Nikad ne koristi mobilne podatke za izradu Sig. kopije fotografija i videozapisa</string>
+  <string name="backup_waiting_button_text">Izradi sada Sig. kopiju</string>
+  <string name="backuping">Izrada Sig. kopije %1$d/%2$d</string>
   <string name="begin_share">Napravljen Dječji album \"%s\", sada ga možete podijeliti</string>
   <string name="begin_share_toast">Izraditi zaseban album za ovo dijete prije dijeljenja?</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
@@ -205,6 +209,7 @@
   <string name="choose_owner_relation">Odnos</string>
   <string name="choose_people">"Odaberite album osobe"</string>
   <string name="choose_some_people">Odaberite album sa %s</string>
+  <string name="clear_local_photo_direction">Ako izbrišete fotografije ili videozapise s uređaja, oni će i dalje biti dostupni u Mi Cloudu</string>
   <string name="click_download_gif">Dodirnite za preuzimanje GIF-a</string>
   <string name="cleaning_cache">Brisanje predmemorije…</string>
   <string name="clear_thumbnail_cache">Izbriši memoriju sličica</string>
@@ -237,6 +242,7 @@
   sa prijateljima"</string>
   <string name="cloud_screenshots_display_name">Snimke zaslona</string>
   <string name="cloud_settings">Mi Cloud</string>
+  <string name="cloud_space_full_button_text">Dobijte više prostora za pohranu na Mi Cloudu</string>
   <string name="cloud_tab_albums">Albumi</string>
   <string name="cloud_tab_all">Sve</string>
   <string name="cloudfolder_already_exists">Album s istim nazivom već postoji</string>
@@ -343,11 +349,11 @@
   <string name="doodle_tooltip">Dodirnite da crtate</string>
   <string name="download_fail">"Ne mogu preuzeti"</string>
   <string name="download_fail_confirm_continue">"Ne mogu preuzeti %s"</string>
-  <string name="download_retry_message">Pogreška preuzimanja, povežite se na mrežu i pokušajte ponovo.</string>
+  <string name="download_retry_message">"Ne mogu preuzeti datoteke, provjerite mrežnu vezu i pokušajte ponovo"</string>
   <string name="download_retry_text">Pokušajte ponovo</string>
-  <string name="download_retry_title">Pogreška preuzimanja</string>
+  <string name="download_retry_title">"Ne mogu preuzeti datoteke"</string>
   <string name="download">Preuzimanje</string>
-  <string name="download_title">Priprema datoteka</string>
+  <string name="download_title">Priprema datoteka…</string>
   <string name="download_tip">Preuzmi</string>
   <string name="download_refocus_data">Preuzmi refokusiranjem podataka</string>
   <string name="download_without_wifi_msg">"Korištenje mobilne podatkovne veze za preuzimanje fotografija će povećati uporabu podataka. Ako premašite vaše mjesečno ograničenje podataka, vaš operater može vam naplatiti dodatne naknade."</string>
@@ -555,6 +561,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="loading_thumbnail">Učitavanje sličica…</string>
   <string name="loading_video">Preuzimanje videozapisa…</string>
   <string name="loading_video_thumbnail">Preuzimanje naslovnice videozapisa…</string>
+  <string name="local_space_full_button_text">Očisti prostor</string>
   <string name="login_and_enable_service">Prijavite se sa svojim Mi Računom</string>
   <string name="local_albums">Izvanmrežno</string>
   <string name="local_time">(Lokalno)</string>
@@ -611,11 +618,12 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="name_wrong">"Ovo nije %s"</string>
   <string name="need_to_log_in_xiaomi_account">Prijavite se da automatski izradite Sig. kopiju fotografija i videozapisa na Mi Cloud</string>
   <string name="need_to_turn_on_network">"Nemate internetsku vezu."</string>
-  <string name="need_to_turn_on_sync">Uključite prvo izradu Sig. kopije na Mi Cloud</string>
+  <string name="need_to_turn_on_sync">Uključite prvo sinkr. sa Mi Cloudom</string>
   <string name="need_to_turn_on_wlan">Povežite se prvo na WLAN</string>
   <string name="negative">Negativan</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
+  <string name="network_unsatisfied_button_text">Povežite se na mrežu</string>
   <string name="next">Dalje</string>
   <string name="new_device_tips">"Dodirnite za prikaz 
 uređaja"</string>
@@ -653,11 +661,12 @@ uređaja"</string>
   <string name="operation_add_secret_button">Sakrij</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_detail">Pojedinosti</string>
-  <string name="operation_disable_auto_upload">Isključi sinkronizaciju s Mi Cloud</string>
+  <string name="operation_disable_auto_upload">Isključi sinkronizaciju s Mi Cloudom</string>
+  <string name="operation_do_delete_local_thumnail">Izbriši iz ovog uređaja</string>
   <string name="operation_download">Preuzmi fotografiju (%s)</string>
   <string name="operation_edit">Uredi</string>
-  <string name="operation_enable_auto_upload">Uključi sinkronizaciju s Mi Cloud</string>
-  
+  <string name="operation_enable_auto_upload">Uključi sinkronizaciju s Mi Cloudom</string>
+  <string name="operation_enter_delte_thumbnail">Izbriši Sig. kopije fotografija i videozapisa s uređaja</string>
   <string name="operation_delete_confirm_message_folder">"Cjelokupan sadržaj mapa bit će izbrisan.
 "</string>
   <string name="operation_failed">Radnja nije uspjela</string>
@@ -778,6 +787,7 @@ uređaja"</string>
   <string name="relation_text_maternal_grandmother">Baka s majčine strane</string>
   <string name="relation_text_mother">Mama</string>
   <string name="relation_with_you">Odaberite odnos</string>
+  <string name="release_space_finish_format">Oslobođeno %s unutarnje pohrane</string>
   <string name="remind_shows_in_photo_tab_summary">Prikazati ovaj album na poč. strani?</string>
   <string name="remind_shows_in_photo_tab_title">Postavke Albuma</string>
   <string name="remove_from_secret_fail">"Ne mogu ukloniti iz skrivenog albuma."</string>
@@ -933,6 +943,7 @@ uređaja"</string>
   <string name="sync_battery_low">Slaba baterija</string>
   <string name="sync_cloud_space_full">Nema dovoljno prostora na Mi Cloudu</string>
   <string name="sync_diabled_toast">Sinkronizacija je isključena</string>
+  <string name="sync_off_button_text">Uključi sinkr.</string>
   <string name="sync_history_power_on">Sinkroniziraj povijest slika samo tijekom punjenja</string>
   <string name="sync_in_progress_message">Preuzimanje albuma…</string>
   <string name="sync_ok">Sinkr.</string>

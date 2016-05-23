@@ -453,7 +453,7 @@
   <string name="download_confirm_title">Preuzimanje privitka</string>
   <string name="download_failed">"Ne mogu preuzeti. Dodirnite za ponovni pokušaj."</string>
   <string name="download_message_failed_for_too_large">Poruka je prevelika za preuzimanje.</string>
-  <string name="download_whole_email">Preuzmi ostatak sadržaja</string>
+  <string name="download_whole_email">Pogledaj ostatak poruke</string>
   <string name="download_show_image">Preuzmi i prikaži sliku</string>
   <string name="downloading_message_body">Preuzimanje…</string>
   <string name="draft_count_format"> (%1$s)</string>
@@ -482,6 +482,9 @@
   <string name="expand_recipient_details">Proširi podatke o primatelju</string>
   <string name="fail_get_email_message">Primanje poruke nije uspjelo</string>
   <string name="failed">Nije moguće učitati sliku</string>
+  <string name="failed_read_phone_state_permission">"Nemate dopuštenja za pristup stanju telefona"</string>
+  <string name="failed_read_write_calendar_permission">"Nemate dopuštenja za pristup Kalendaru"</string>
+  <string name="failed_read_write_contacts_permission">"Nemate dopuštenja za pristup Kontaktima"</string>
   <string name="feedback">Pošaljite povratne informacije</string>
   <string name="feedback_body">Poruka</string>
   <string name="feedback_sent">"Zahvaljujemo na povratnoj informaciji."</string>
@@ -961,6 +964,7 @@ Kopija: %4$s
   <string name="report_phishing">Prijavite krađu identiteta</string>
   <string name="report_spam">Prijavite neželjenu poštu</string>
   <string name="request_entity_large">Datoteka je prevelika</string>
+  <string name="request_permission_activity">Traženje dopuštenja</string>
   <string name="require_manual_sync_message">Sinkronizacija za ovaj račun je isključena u roamingu.</string>
   <string name="respond_inline">Odgovori u tekstu</string>
   <string name="resume_draft">Uredi</string>
@@ -999,6 +1003,8 @@ Kopija: %4$s
   <string name="send">Pošalji</string>
   <string name="send_att_title">Upozorenje</string>
   <string name="send_failed">Poruka nije poslana.</string>
+  <string name="send_feed_back">Pošalji povratne informacije</string>
+  <string name="send_feed_back_keywords">E-pošta, povratne informacije, email klijent, kontakt E-mail;Pošalji povratne informacije</string>
   <string name="sender_whitelist_cleared">Slike se neće prikazivati automatski.</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
@@ -1127,6 +1133,8 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="widget_all_mail">Sva E-pošta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
+  <string name="wipe_account_fail_description">Dodirnite za dopuštenje</string>
+  <string name="wipe_account_fail_title">"Ne mogu izbrisati osobne podatke"</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
   <string name="yes">Da</string>
   <string name="yidianzixun">Yi Dian Zixun</string>

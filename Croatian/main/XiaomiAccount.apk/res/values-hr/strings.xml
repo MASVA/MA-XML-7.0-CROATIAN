@@ -318,7 +318,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_dspt_provision2">Saznajte više</string>
   <string name="passport_email">Adresa E-pošte</string>
   <string name="passport_email_or_id_hint_text">Adresa E-pošte ili ID Mi Računa</string>
-  <string name="passport_email_reg_success_summary">%1$s je vezan s vašim računom. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
+  <string name="passport_email_reg_success_summary">%1$s je dodan vašem računu. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
   <string name="passport_error_device_id">"Ne mogu dobiti ID uređaja"</string>
   <string name="passport_error_dup_email">Adresa e-pošte koju ste unijeli već je povezana s drugim računom.</string>
   <string name="passport_error_dup_phone">Ovaj broj telefona već je povezan s drugim računom</string>
@@ -399,7 +399,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_reg_prompt">"Nemate Mi Račun? Kreirajte ga besplatno."</string>
   <string name="passport_reg_sms_send_prompt">Pošalji kôd za provjeru na %s</string>
   <string name="passport_reg_success">Račun izrađen</string>
-  <string name="passport_reg_success_summary">%1$s je dodan na vaš Mi Račun. Možete ga koristiti da se prijavite ili resetirate svoju zaporku.</string>
+  <string name="passport_reg_success_summary">%1$s je dodan vašem Mi Računu. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
   <string name="passport_reg_type_email">Koristi adresu e-pošte</string>
   <string name="passport_reg_type_other_ways">Koristite svoju adresu e-pošte ili alternativan broj</string>
   <string name="passport_reg_type_other_ways_title">Izradite Mi Račun </string>

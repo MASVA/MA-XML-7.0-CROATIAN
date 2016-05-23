@@ -238,7 +238,7 @@ Korištenje više od planiranog ograničenja podataka vašeg mobilnog operatera 
   <string name="datausage_purchase_order_history">Povijest</string>
   <string name="datausage_purchase_ordering">Plaćanje…</string>
   <string name="datausage_purchase_pay_captcha_hint">Unesite ovdje primljeni kod</string>
-  <string name="datausage_purchase_pay_captcha_tips">Nakon što dobijete svoj ​​kôd za provjeru, unesite ga u okvir iznad i dodirnite Kupi kako bi dovršili kupovinu. Imajte na umu da kod vrijedi samo za 10 minuta.</string>
+  <string name="datausage_purchase_pay_captcha_tips">Nakon što dobijete svoj ​​kôd za provjeru, unesite ga u okvir iznad i dodirnite "Kupi" kako bi dovršili kupnju. Imajte na umu da kod vrijedi samo 10 minuta.</string>
   <string name="datausage_purchase_pay_confirm">Kupi</string>
   <string name="datausage_purchase_pay_hint">Za poništenje, birajte %s</string>
   <string name="datausage_purchase_pkglist_networkerror">"Ne mogu se povezati na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
@@ -1297,7 +1297,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_saving_notify_no_apps_saving">Smanji uporabu podataka</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Dodirnite za uključivanje uštede.</string>
   <string name="traffic_saving_notify_start_content">Ušteđeno ovaj mjesec %s</string>
-  <string name="traffic_saving_notify_start_title">Uporaba podataka je smanjena</string>
+  <string name="traffic_saving_notify_start_title">Ušteda mob. podataka</string>
   <string name="traffic_saving_one_key_optimize">Optimiziraj za uštedu podataka</string>
   <string name="traffic_saving_optimized">Već optimizirano</string>
   <string name="traffic_saving_pic_compress_orig">Original</string>

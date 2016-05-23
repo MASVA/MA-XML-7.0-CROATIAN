@@ -35,7 +35,7 @@
   <string name="control_set_alarm">Postavi alarm</string>
   <string name="control_set_alarm_with_existing">Alarm postavljen: %s</string>
   <string name="day">1 dan</string>
-  <string name="day_concat">". "</string>
+  <string name="day_concat">", "</string>
   <string name="days">%s dana</string>
   <string name="default_alarm_alert">Postavi zadani zvuk alarma</string>
   <string name="default_alarm_title">Zadani zvuk alarma</string>
@@ -69,7 +69,7 @@
   <string name="legal_workday_message">" (Alarm isključen tokom praznika)"</string>
   <string name="loading_ringtone">Učitavam melodiju alarma…</string>
   <string name="menu_add_worldclock">Dodaj sat</string>
-  <string name="menu_desk_clock">Stolni sat</string>
+  <string name="menu_desk_clock">Sat</string>
   <string name="menu_edit_timer_item">Uredi zadatak Kronometra</string>
   <string name="menu_item_dock_settings">Postavke Docka</string>
   <string name="menu_item_sort_by_gmt_offset">Poredaj po vremenu</string>

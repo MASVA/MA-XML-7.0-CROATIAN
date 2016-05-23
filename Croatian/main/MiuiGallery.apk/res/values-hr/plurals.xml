@@ -27,10 +27,10 @@
         <item quantity="one">Izbrisati ovaj videozapis s Mi Clouda ?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">Izbrisati %s stavaka iz ovog albuma?</item>
+        <item quantity="other">Izbrisati %s stavki iz ovog albuma?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image_video">
-        <item quantity="other">Izbrisati %s stavaka ?</item>
+        <item quantity="other">Izbrisati %s stavki ?</item>
     </plurals>
 	<plurals name="confirm_delete_has_cloud_image">
        <item quantity="other">"Izbrisati fotografije (%s) iz ovog albuma ?"</item>
@@ -83,7 +83,7 @@
         <item quantity="one">"Nemate dopuštenje za brisanje ove (%d) datoteke."</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">Možete odabrati ovoliko( %d) stavaka</item>
+        <item quantity="other">Možete odabrati ovoliko( %d) stavki</item>
         <item quantity="one">Možete odabrati %d stavku</item>
     </plurals>
     <plurals name="number_of_images">
@@ -92,8 +92,8 @@
         <item quantity="one">%1$d fotografija</item>
     </plurals>
     <plurals name="number_of_items">
-        <item quantity="other">Br. stavaka: %1$d</item>
-        <item quantity="zero">Br. stavaka: %1$d</item>
+        <item quantity="other">Br. stavki: %1$d</item>
+        <item quantity="zero">Br. stavki: %1$d</item>
         <item quantity="one">%1$d stavka</item>
     </plurals>
 	<plurals name="more_face">
@@ -172,12 +172,36 @@
         <item quantity="other">Fotografija (%1$d) čeka na izradu Sig. kopije</item>
         <item quantity="one">1 fotografija čeka na izradu Sig. kopije</item>
     </plurals>
+	<plurals name="backuped">
+        <item quantity="other">Ovoliko stavki (%1$d) je pohranjeno</item>
+        <item quantity="one">Ovoliko stavki (%1$d) je pohranjeno</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+        <item quantity="one">Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Pogreška mreže. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+        <item quantity="one">Pogreška mreže. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Sinkronizacija je isključena. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+        <item quantity="one">Sinkronizacija je isključena. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Mi Cloud je pun. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+        <item quantity="one">Mi Cloud je pun. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Nema dovoljno prostora za pohranu. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+        <item quantity="one">Nema dovoljno prostora za pohranu. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+    </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">Videozapisa (%1$d) čeka na izradu Sig. kopije</item>
         <item quantity="one">1 videozapis čeka na izradu Sig. kopije</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">Ovoliko stavaka (%1$d) čeka na izradu Sig. kopije</item>
+        <item quantity="other">Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
         <item quantity="one">1 stavka čeka na izradu Sig. kopije</item>
     </plurals>
     <plurals name="number_of_uploading_images">
@@ -193,12 +217,12 @@
         <item quantity="one">Izrada Sig. kopije 1 stavke…</item>
     </plurals>
 	<plurals name="album_count_and_size">
-         <item quantity="other">%1$d stavaka | %2$s</item>
+         <item quantity="other">%1$d stavki | %2$s</item>
          <item quantity="one">%1$d stavka | %2$s</item>
     </plurals>
 	<plurals name="download_error">
-        <item quantity="other">Pogreška preuzimanja %1$d datoteka</item>
-        <item quantity="one">Pogreška preuzimanja %1$d datoteke</item>
+        <item quantity="other">Ne mogu preuzeti %1$d datoteka</item>
+        <item quantity="one">Ne mogu preuzeti %1$d datoteku</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">Odabrano %d stavki</item>

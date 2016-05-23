@@ -4,7 +4,7 @@
   <string name="calendar_info">Informacije o kalendaru</string>
   <string name="calendar_info_error">Pogreška</string>
   <string name="calendar_info_events">Broj događaja: %d</string>
-  <string name="calendar_info_events_dirty">Broj događaja: %1$d, Nespremljeno: %2$d</string>
+  <string name="calendar_info_events_dirty">Broj događaja: %1$d | Nije spremljeno: %2$d</string>
   <string name="calendar_info_no_calendars">Nema kalendara</string>
   <string name="calendar_storage">Pohrana kalendara</string>
   <string name="debug_tool_delete_button">"Izbriši sada"</string>
@@ -20,5 +20,5 @@
   <string name="holiday_update_summary">Dodirnite za ažuriranje informacija kalendara.</string>
   <string name="holiday_update_title">Dostupno ažuriranje</string>
   <string name="provider_label">"Kalendar"</string>
-  <string name="upgrade_msg">Ažuriranje baze podataka Kalendara.</string>
+  <string name="upgrade_msg">Ažuriranje baze podataka Kalendara…</string>
 </resources>

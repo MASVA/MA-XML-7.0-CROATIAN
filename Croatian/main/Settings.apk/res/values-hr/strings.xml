@@ -288,7 +288,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="assisted_gps">Koristite potpomognuti GPS</string>
   <string name="assisted_gps_disabled">Koristi poslužitelj za pomoć GPS-u (isključite za bolji rad GPS-a)</string>
   <string name="assisted_gps_enabled">Koristi poslužitelj za pomoć GPS-u (isključite za smanjenje mrežnog opterećenja)</string>
-  <string name="attempt_other_network">Pokušaj drugu mrežu</string>
+  <string name="attempt_other_network">Promjeni mrežu</string>
   <string name="audio_list_loading">Učitavanje…</string>
   <string name="audio_profile_settings_title">Audio profili</string>
   <string name="audio_record_proc_title">Uklanjanje buke</string>
@@ -651,7 +651,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_visibility_timeout">Vidljivost je istekla</string>
   <string name="bootloader">Fastboot način</string>
   <string name="bootloader_apply_step_1">Uključiti Fastboot način?</string>
-  <string name="bootloader_apply_step_2">Kada je vaš uređaj u Fastboot načinu rada i spojen na računalo</string>
+  <string name="bootloader_apply_step_2">Kada je vaš uređaj u Fastboot načinu rada i spojen na računalo,</string>
   <string name="bootloader_apply_step_3">podacima (npr., zaporke, poruke) na uređaju se može pristupiti bez vašeg dopuštenja.</string>
   <string name="bootloader_apply_step_4">To može dovesti do razotkrivanja ili gubitka podataka, ili čak do nepopravljive štete hardvera.</string>
   <string name="bootloader_apply_step_5">Budite sigurni da znate kako se koristi Fastboot način rada prije nego što ga uključite.</string>
@@ -2256,7 +2256,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="no_default_apps">Nema zadanih aplikacija.</string>
   <string name="no_device_admins">Nema dostupnih administratora računa</string>
   <string name="no_internet_access_remember">Više ne pitaj za tu mrežu</string>
-  <string name="no_internet_access_text">Ta WLAN mreža %1$s nema pristup internetu. Želite li ostati povezani?</string>
+  <string name="no_internet_access_text">WLAN mreža %1$s nema pristup internetu. Želite li ostati povezani?</string>
   <string name="no_media_button_receiver">"Ne"</string>
   <string name="no_memory_use_summary">U posljednja 3 sata nije bilo upotrebe memorije</string>
   <string name="no_nearby_wifi">"Nije otkrivena mreža."</string>
@@ -3047,7 +3047,7 @@ Za prikvačivanje zaslona:
   <string name="security_encryption_diaglog_continue">Dalje</string>
   <string name="security_encryption_is_used">Uključeno</string>
   <string name="security_encryption_title">Šifriraj uređaj koristeći zaporku zaklj. zaslona</string>
-  <string name="touch_assistant">Asistent dodira</string>
+  <string name="touch_assistant">Izbornik Prečaca</string>
   <string name="security_keyguard_category_name">Zaključan zaslon</string>
   <string name="security_password_category_name">Zaklj. zaslona</string>
   <string name="security_passwords_title">Zaporke</string>
@@ -3845,7 +3845,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="use_nuplayer">Koristi NuPlayer (eksp.)</string>
   <string name="use_nuplayer_summary">Koristi NuPlayer umjesto AwesomePlayera</string>
   <string name="use_personalized_ad_service">Prilagođeni oglasi</string>
-  <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezik sustava</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Koristi jezik sustava</string>
+  <string name="use_this_wlan">Ostani povezan</string>
   <string name="user_account_title">Račun za sadržaj</string>
   <string name="user_add_max_count">Ne možete dodati više od %1$d korisnika</string>
   <string name="user_add_on_lockscreen_menu">Dodaj korisnike na zaključani uređaj</string>
@@ -4473,7 +4474,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="work_profile_usage_access_warning">Isključivanje pristupa upotrebi za tu aplikaciju ne sprječava administratora da prati upotrebu podataka za aplikacije na vašem poslovnom profilu.</string>
   <string name="work_sim_title">Radni SIM</string>
   <string name="wps_category">WPS</string>
-  <string name="wps_connect_summary">Provjerite da usmjerivač podržava te ima omogućen WPS</string>
+  <string name="wps_connect_summary">Provjerite da usmjerivač podržava i ima omogućen WPS</string>
   <string name="wps_connect_title">Poveži WPS</string>
   <string name="write_settings">Izmjena postavki sustava</string>
   <string name="write_settings_description">To dopuštenje omogućuje aplikaciji izmjenu postavki sustava.</string>
