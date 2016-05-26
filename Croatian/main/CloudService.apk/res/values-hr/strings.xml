@@ -117,7 +117,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Da biste vidjeli ove podatke sada, idite na %s."</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_hint">Učitavanje</string>
-  <string name="master_alert_notif_content">"Ne mogu sinkronizirati %d podataka."</string>
+  <string name="master_alert_notif_content">"Ne mogu sinkronizirati"</string>
   <string name="master_alert_notif_dspt_add">Za sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="master_alert_notif_title">Uključi sinkr.sa Mi Cloudom</string>

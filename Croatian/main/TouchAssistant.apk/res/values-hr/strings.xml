@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Asistent dodira</string>
+    <string name="app_name">Izbornik Prečaca</string>
     <string name="app_not_installed">Nije instalirano</string>
     <string name="applications">Aplikacije</string>
     <string name="category_others">Ostalo</string>
     <string name="category_setting">Postavke</string>
-    <string name="customize_entries">Prilagodi funkciju</string>
-    <string name="enable_touch_assistant">Omogući Asistenta dodira</string>
-    <string name="function_settings">Funkcija postavki</string>
-    <string name="hide_touch_assistant">Autom. sakrij Asistenta dodira</string>
-    <string name="hide_touch_assistant_intro">Sakrij Asistenta dodira u nekim aplikacijama.</string>
-    <string name="name_alipay_payment_code">Alipay quick pay</string>
-    <string name="name_alipay_scan">Skeniraj Alipay kod</string>
+    <string name="customize_entries">Odaberi prečace</string>
+    <string name="enable_touch_assistant">Uključi Izbornik Prečaca</string>
+    <string name="function_settings">Postavke prečaca</string>
+    <string name="hide_touch_assistant">Sakrij automatski</string>
+    <string name="hide_touch_assistant_intro">Sakrij Izbornik Prečaca u odabranim aplikacijama.</string>
+    <string name="name_alipay_payment_code">Alipay Plaćanja</string>
+    <string name="name_alipay_scan">Alipay skener</string>
+	<string name="name_long_press_power_key">Dugi pritisak na tipku paljenja</string>
+    <string name="name_memory_clean">Izbriši predmemoriju</string>
     <string name="name_kill_processes">Čišćenje memorije</string>
     <string name="name_music_next_song">Sljedeća pjesma</string>
     <string name="name_music_prev_song">Prethodna pjesma</string>
@@ -24,14 +26,14 @@
     <string name="name_quick_search">Pretraži</string>
     <string name="name_scan_to_pay">Skeniraj da platite</string>
     <string name="name_screenshot">Snimka zaslona</string>
-    <string name="name_wechat_payment_code">Wechat quick pay</string>
-    <string name="name_wechat_scan">Skeniraj Wechat kod</string>
+    <string name="name_wechat_payment_code">Wechat plaćanja</string>
+    <string name="name_wechat_scan">Wechat skener</string>
     <string name="pay_entry_dialog_title_select">Odaberite aplikaciju za otvaranje</string>
-    <string name="pay_entry_dialog_title_setting">Postavi aplikaciju da provjerava da omogućite</string>
+    <string name="pay_entry_dialog_title_setting">Odaberite aplikaciju</string>
     <string name="pref_category_others">Ostalo</string>
     <string name="pref_category_quick_pay">Quick Pay</string>
     <string name="pref_category_quick_settings">Brze postavke</string>
     <string name="pref_category_system">Postavke sustava</string>
     <string name="restore_default">Vrati na zadano</string>
-    <string name="restore_intro">Vrati na zadane postavke, što uključuje funkcije i naredbe. To neće izbrisati podatke na vašem telefonu.</string>
+    <string name="restore_intro">"Vrati postavke na zadane vrijednosti, uključujući prečace i njihov redoslijed. Podaci aplikacija na vašem uređaju neće biti pogođeni."</string>
 </resources>

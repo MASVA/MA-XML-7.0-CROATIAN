@@ -45,26 +45,26 @@
         <item>Kada je zaslon isključen</item>
     </string-array>
     <string-array name="app_groups">
-        <item>Odabrano</item>
+        <item>U ovom načinu</item>
         <item>Neodabrano</item>
         <item>Ostalo</item>
     </string-array>
 	<string-array name="hmode_app_groups">
         <item>Prilagođeno</item>
-        <item>Predloženo</item>
+        <item>Ušteda baterije</item>
     </string-array>
 	<string-array name="power_checker_group_prefix">
-        <item>koristeći</item>
-        <item></item>
-        <item></item>
+        <item>Sada</item>
+        <item>Pozadina</item>
+        <item>Nedavno</item>
      </string-array>
      <string-array name="power_checker_running_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>WLAN skeniranje</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Buđenje</item>
+        <item>Blokiranje dubokog mirovanja</item>
+        <item>Blokiranje mirovanja</item>
+        <item>Traženje WLAN-a</item>
+        <item>Koristeći GPS</item>
+        <item>Zauzimajući CPU</item>
+        <item>Česta buđenja uređaja</item>
      </string-array>
      <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
